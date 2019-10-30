@@ -56,14 +56,13 @@
                     <li class="nav-item">
                         <a class="nav-link"href="/fr/festival/kortemark_conge/">Kortemark Congé</a>
                     </li>
-                    <!--
-<li class="nav-item">
-<a class="nav-link" href="/fr/news/">Nouvelles</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="/fr/comin_up/">Bientôt</a>
-</li>
--->
+                    <li class="nav-item dropdown">
+                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ECO<span class="dropdown-toggle"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a class="nav-link drop-2" href="/fr/info/trim-the-footprint/">Trim The <br/> Footprint</a></li>
+                            <li><a class="nav-link drop-2" href="/fr/info/eco-team/">Team eco</a></li>
+                        </ul>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link"href="#footer-anchor"><i class="fas fa-info-circle"></i><span class="d-lg-none"> Info</span></a>
                     </li>
