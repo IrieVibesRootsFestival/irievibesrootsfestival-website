@@ -1,0 +1,147 @@
+<html>
+    <head>
+        <!-- Setting things up so they work correctly. -->
+        <meta charset="utf-8">         <meta http-equiv="X-UA-Compatible" content="IE=edge">         <meta name="viewport" content="width=device-width, initial-scale=1">         <meta name="Description" content="Irie Vibes Roots Festival is a festival dedicated to bringing ska, reggae, world music and dub into the rural of Kortemark, a small town in Belgium. Come join us this year!">         <meta name="Keywords" content="dub, reggae, ska, world music, food, festival">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" type="image/png" href="/src/img/favicon.png" />
+        <!-- Custom style sheet -->
+        <!-- Bootstrap style sheet -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
+        <!-- Load overwrite style sheet as last to enable overwriting Bootstrap features -->
+        <link rel="stylesheet" href="/src/css/main.css">
+        <title>Irie News - May Plastic Free</title>     
+    </head> 
+    <body>
+        <header>
+            <!-- The header contains everything that displays as or above the nav-bar -->
+            <!--HEADER IMAGE-->
+            <div id="banner">
+                <img class="img-responsive" src="/src/img/banner_logo.png">
+            </div>
+            <!--NAVIGATION-->
+            <nav id="navbar" class="navbar navbar-expand-lg">
+                <div class="container">
+                    <!-- This allows the Navbar to become smaller on a smaller mobile device. -->
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <a href="/en/"><img  src="/src/img/nav-img.png"></a>
+                    <div class="collapse navbar-collapse" id="navbarText">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="/en/">Home <span class="sr-only">(current)</span></a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival<span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="nav-link drop-2" href="/en/location/">Location</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/festival/rules/">Festival Rules</a></li>
+                                    <li><a class="nav-link drop-2" alt="Camping, parking and other places to stay" href="/en//festival/accomodation/">Accomodation</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/festival/merchandise/">Merchandise</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/info/volunteers/">Volunteers</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/festival/food_shops/">(non)Food Shops</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/festival/transport/">Transport</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/festival/safety/">Safety First</a></li>   
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/en/tickets/">Tickets</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Program<span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="nav-link drop-2" href="/en/artists">Artists</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/lineup/">Line-Up</a></li>
+                                    <li><a class="nav-link drop-2" alt="Clashfinder" href="#">Overview</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/en/kids/">Irie Vibes For Kids</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Info<span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="nav-link drop-2" href="/en/contact/">Contact</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/info/about/">About Us</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/crew">Crew</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/info/we_support/">We Support</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item active">
+                                <a class="nav-link" href="/en/news/">News</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/en/comin_up/">Comin' Up</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/en/contact/">Contact</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/en/info/partners/">Partners</a>
+                            </li>
+                        </ul>
+                        <span class="navbar-text">
+                            <!-- This is the language selector. -->
+                            <ul class="navbar-nav mr-auto">
+                                <li class="nav-item">
+                                    <a class="nav-link language text-muted" href="/nl/">NL
+                                    </a>
+                                </li>
+                                <li class="nav-item active">
+                                    <a class="nav-link language text-white" href="#">EN<span class="sr-only">(current)</span></a>
+                                </li>
+                            </ul>
+                        </span>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <!-- This is the main container that encapsulates everything content related. -->
+        <div id="article" class="container content">
+            <br/>
+            <h1 class="display-7 text-center">News</h1>
+            <div class="row">
+                <!-- News Item -->
+                <div class="col-sm-0 col-md-2"></div>
+                <div class="col-sm-12 col-md-8">
+                    <h3>May Plastic-Free</h3><h5>May 1st 2018</h5>
+                    <p>The hard working volunteers at Irie Vibes have decided it was time to take it one step further! Come along with us on this journey to make the month of May plastic-free. ban plastic straws, cups, disposable bags,..</p><hr/>
+                    <p>The month of May has been dedicated to reducing the amount of plastic we use in our lives. Volunteers at Irie Vibes are aspiring young people to try and do the same! It's easy - just ban plastic bags, straws, and minimize your PET bottle usage! It not only feels good to do your own part in taking care of this precious earth, but it also makes you a great example for others (young and old) to look up to you as a role model! Don't sit still, help us out! Show your appreciation by sharing this post, or the website that "Mei Plastic Vrij" has provided us!
+                    </p>
+                    <a href="https://www.meiplasticvrij.be/deelnemer/ade8906e0fcc5d584dc6f502971366ddb07498f5">Link to our participation page (NL)</a>
+                    <div class="text-center">
+                        <img class="img-responsive " src="https://static1.squarespace.com/static/5ac9027ba9e0282bae3e98d6/t/5adeda7d2b6a28995d533c21/1526035335157/?format=1500w" width="50%">
+                    </div>
+                    <br/>
+                    <a href="/en/news/" class="btn btn-volunteer" role="button">Return to News</a>
+                    <hr/>
+                </div>
+                <div class="col-sm-0 col-md-2"></div>
+
+            </div>
+        </div>
+        <!-- Use a container to wrap the slider, the purpose is to enable slider to always fit width of the wrapper while window resize -->
+        <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2 text-center">
+                        <a href="/en/info/volunteers" class="btn btn-volunteer">Become Volunteer</a>
+                    </div>
+                    <div class="col-md-7 text-center"></div>
+                    <div class="col-md-3">
+                        <div id="btn-social" class="text-center">
+                            <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook-square fa-3x social"></i></a>
+                            <a href="https://www.instagram.com/irievibesroots/"><i class="fab fa-instagram fa-3x social"></i></a>
+                            <a href="/src/static/snapchat/"><i class="fab fa-snapchat-square fa-3x social"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </body>
+    <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script> 
+</html>

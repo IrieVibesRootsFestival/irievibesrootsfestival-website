@@ -1,0 +1,123 @@
+/*-------Importing Icons-------*/
+@import url('https://use.fontawesome.com/releases/v5.8.1/css/all.css');
+@import url('/src/css/flags.css');
+/*-------Importing Fonts-------*/
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+@import url('https://fonts.googleapis.com/css?family=Boogaloo&display=swap');
+@import url('/src/css/fonts/tipi.css');
+
+h1, h2, h3, h4, h5, h6{font-family: 'Dosis';}
+.h1, .h2, .h3, .h4, .h5, .h6{font-family: 'Dosis';}
+
+p, ul, li, small{font-family: 'Roboto Mono', monospace; letter-spacing: -0.042rem;}
+p{font-size:0.97rem;}
+/*--Link styling--*/
+a{color: #8e142f; font-style:italic; font-family: 'Roboto Mono', monospace;}
+a:hover{color: #bc0939;}
+
+.quote{
+    font-family: 'Tipi Regular';
+    font-size: 3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 3.5px
+        /*text-shadow: 2px 2px rgba(0,0,0,0.35);  */
+}
+@media screen and (min-width: 768px) {.quote{font-size:3.5rem;}} 
+.btn a{color:white; font-style:normal}
+.btn a:hover{text-decoration:none;}
+
+/* Colours */
+
+/*Override standard colours with irie colours*/
+
+.text-sand{color: #d1bf87;}
+.bg-sand{background-color: #d1bf87!important;}
+.border-sand{border-color: #d1bf87!important;}
+.btn-sand{color: #fff;background-color:#d1bf87;border-color:#d1bf87;}
+.btn-sand:hover{color:white;background-color:#dacc9f; border-color:#dacc9f;}
+
+.text-success{color: #669933!important;}
+.bg-success{background-color: #669933!important;}
+.border-success{border-color: #669933!important;}
+.btn-success{color: #fff;background-color:#669933;border-color: #669933;}
+.btn-success:hover{color:white;background-color:#85ad5c; border-color:#85ad5c;} 
+
+.text-irie{color: #4F0112;}
+.bg-irie{background-color:#4F0112;}
+.border-irie{border-color:#4F0112!important;}
+.btn-irie{color:white;background-color:#4F0112; border-color:#4F0112;}
+.btn-irie:hover{color:white;background-color:#611a2a; border-color:#611a2a;}
+
+.text-danger{color:#cc3300!important;}
+.bg-danger{background-color:#cc3300!important;}
+.border-danger{border-color:#cc3300!important;}
+.btn-danger{color: #fff;background-color: #cc3300;border-color: #cc3300;}
+.btn-danger:hover{color: #fff;background-color: #d65c33;border-color: #d65c33;}
+
+.text-warning{color:#ffcc33!imporant;}
+.bg-warning{background-color:#ffcc33!important;}
+.border-warning{border-color:#ffcc33!important;}
+.btn-warning{color:white;background-color:#ffcc33; border-color:#ffcc33;}
+.btn-warning:hover{color: #fff;background-color: #ffdb70;border-color:#ffdb70;}
+
+/*Popover*/.popover-body{ color:#4F0112;}
+
+/*Extra Button type-setting*/
+
+.btn-filter{background-image:url('/src/img/lined-paper-texture.jpg');background-size: contain;}
+.btn-filter:hover{background-image:url('/src/img/lined-paper-texture-hover.jpg');background-size: contain;}
+
+.btn-pill {
+    border-radius: 50px;
+    font-size:1.3em;
+    padding: .65rem .9rem;
+}
+
+/* Display Classes*/
+.display-5 {
+    font-size: 2.5rem;
+    font-weight: 300;
+    line-height: 1.1;
+}
+.display-6 {
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.1
+}
+.display-7{
+    font-family: 'Tipi Regular';
+    color: #4F0112;
+    font-size: 3.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 3.5px;
+    /*text-shadow: 2px 2px rgba(109,33,10,0.45);*/
+    margin-bottom: 35px;
+    background-image: url("/src/img/page-banner.png");
+    background-position: center, center;
+    background-size:contain;
+    background-repeat: no-repeat;
+    display: block;
+    padding:26px;
+}
+
+.display-8{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2.5rem;
+    font-weight: 300;
+    line-height: 1.1;
+    margin-bottom: 10px;
+    margin-top:10px;
+    color: #4F0112;
+}
+
+/*Font-awesome alignment*/
+.fa-shopping-cart,
+.fa-home{
+    padding-top:0.2rem;
+}

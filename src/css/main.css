@@ -1,0 +1,695 @@
+/*External Style Sheets*/
+@import url('/src/css/timetable.css'); /*Location of Timetable CSS (for ease of editing)*/
+@import url('/src/css/typesetting.css'); /*Where fonts, sizing and styling for text is defined*/
+
+/*-------Basic Stuff-------*/
+html {overflow-y: scroll !important;}
+body{
+    background-image: url("/src/img/background.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+/*-------Edit Social Icons-----*/
+.social:hover {
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    -o-transform: scale(0.9);
+}
+.social {
+    -webkit-transform: scale(0.75);
+    /* Browser Variations: */
+    -moz-transform: scale(0.75);
+    -o-transform: scale(0.75);
+    -webkit-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
+    -o-transition-duration: 0.3s;
+    /*color:#cf7553;*/
+    color: #f2f2f2;
+}
+
+.text-faded{
+    opacity: 0.5;
+}
+
+/*#overlay {
+position: fixed;
+width: 100%;
+height: 32px;
+padding-top:5px;
+padding-bottom: 5px;
+bottom: 0;
+background-color: rgba(0,0,0,0.6);
+z-index: 2;
+}
+
+#overlay p{
+text-align:center;
+color:white;
+}*/
+
+#banner{
+    text-align: center;
+    background-image: url(/src/img/banner_bg_top.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#banner .img-responsive{
+    -webkit-filter: drop-shadow(2px 2px 5px rgba(1,1,1,0.3));
+    margin:0;
+}
+
+#safety .quote{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 40;
+    font-weight: 500;
+    font-variant:small-caps;
+    margin-bottom: 0;
+    margin-top: -10;
+    color: #ff0000;
+}
+
+.shaded{
+    background: repeating-linear-gradient(
+        45deg,
+        rgba(0, 0, 0, 0.2),
+        rgba(0, 0, 0, 0.2) 10px,
+        rgba(0, 0, 0, 0.3) 10px,
+        rgba(0, 0, 0, 0.3) 20px
+    )
+}
+
+/*Location Map*/
+.map-responsive{
+    border-radius: 10px;
+    overflow:hidden;
+    padding-bottom:50%;
+    position:relative;
+    height:0;
+    margin-bottom:25px;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.row{
+    margin-bottom: 25px;
+}
+
+.rounded {
+    border-radius: .35rem!important;
+}
+
+.text-box{
+    background-image:url('/src/img/paper-texture.jpg');
+    padding: 5px;
+    padding-left:8px;
+}
+
+
+
+header a{
+    padding-left: 8px;
+    padding-right: 8px;
+    content:"";
+}
+
+/*A fix for Bootstrap's broken img-responsive*/
+.img-responsive {
+    max-width:100%;
+}
+
+/*Leave some space between the content and the navbar*/
+.content{
+    /*padding-top: 35px;*/
+    padding-top: 15px;
+    padding-bottom: 35px;
+    top:45px;
+}
+
+
+.display-artist{
+    font-family: 'Fredericka the Great', cursive; 
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.1;
+    color: #4F0112;
+    text-shadow: 2px 2px rgba(109,33,10,0.45); 
+    margin-top: 5px;
+}
+
+#prices .price{
+    font-size:1.15rem;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#prices h3{
+    font-family: 'Dosis';
+}
+
+
+#image{
+    margin-bottom: 25px;
+}
+
+.btn p{
+    margin-bottom:0.1rem;
+    margin-top 0.1rem;
+}
+
+#news h5,
+#article h5{
+    color: #4F0112;
+    font-size: 15px;
+}
+
+#news hr{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#welcome-message .header{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 1.3rem;
+}
+
+#banner_2 .img-responsive{
+    padding-bottom:0;
+}
+/*-------Navbar Config-------*/
+/*Align the shopping cart*/
+.nav-fake{
+    height:66px;
+    background-image: linear-gradient(rgba(0, 133, 66, 0.25),rgba(255, 224, 0, 0.25),rgba(231, 0, 1, 0.25)),url(/src/img/hardwood-horizontal.jpg);
+    box-shadow: 0 0px 12px 1px #1b1e21;
+}
+
+.nav-fake img{
+    margin-top: 16px;
+}
+/*Navbar color rules*/
+#navbar{    
+    padding: .25rem;
+    min-height:48px;
+}
+#navbar .navbar-brand{
+    color: #EDCE4F;
+    font-weight:bold;
+}
+#navbar .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, .65);
+    font-style: normal;
+    font-weight:400;
+    font-size:0.95rem;
+    color:aliceblue;
+    height: 100%;
+    line-height:32px;
+}
+#navbar .navbar-nav .nav-link:focus,
+#navbar .navbar-nav .nav-link:hover {
+    color: rgba(255, 255, 255, .75)
+}
+#navbar .navbar-nav .nav-link.disabled {
+    color: rgba(255, 255, 255, .25)
+}
+#navbar .navbar-nav .active>.nav-link,
+#navbar .navbar-nav .nav-link.active,
+#navbar .navbar-nav .nav-link.show,
+#navbar .navbar-nav .show>.nav-link {
+    color: #fff;
+}
+#navbar .navbar-nav .active>.nav-link::before {
+    letter-spacing: 1px;
+    content: "[";
+}
+#navbar .navbar-nav .active>.nav-link::after {
+    letter-spacing: 1px;
+    content: "]";
+}
+#navbar .navbar-toggler {
+    color: rgba(255, 255, 255, .5);
+    border-color: rgba(255, 255, 255, .1)
+}
+#navbar .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #4F0112;
+}
+.nav-pills > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+    zoom:1; /* hasLayout ie7 trigger */
+}
+
+.nav-pills {
+    text-align:center;
+}
+
+/*Makes the navbar just a little thinner than default (overwrite)*/
+.navbar-nav > li > a {
+    padding-top:4px !important;
+    padding-bottom:4px !important;
+}
+
+/*Cast the shadow on the dropdown*/
+.navbar-nav .dropdown-menu{box-shadow: 0 0px 12px 1px #1b1e21;}
+/*Change the color of the dropdown menu's*/
+.navbar-nav > li > .dropdown-menu {
+    background-image:none;
+    background: transparent;
+    padding-left: 12px;
+    padding-right:12px;
+    border: none;
+    min-width: 3rem;
+    white-space: nowrap;
+    box-shadow: none;
+}
+/*Re-enable normal styling for tablet and up*/
+@media (min-width: 992px) {
+    .navbar-nav > li > .dropdown-menu{
+        background-image: url(/src/img/hardwood-horizontal.jpg);  
+        box-shadow: 0 0px 12px 1px #1b1e21;
+    }     
+}
+
+
+.nav-link{padding: .1rem;}
+/*---Footer Config---*/
+footer{
+    color: white;
+    background-image:url(/src/img/hardwood-horizontal.jpg);
+    box-shadow: 0 0px 12px 1px #1b1e21;
+    padding-top:8px;
+    padding-bottom:8px;
+}
+
+footer .row, footer p{margin:0;}
+
+.btn-volunteer{
+    background-color:#f2f2f2;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 11px;
+    color: #1c1f22;
+}
+
+footer #btn-social {
+    padding:8px;
+}
+
+footer {
+    color: rgba(255,255,255,1.00);
+    padding-bottom: 20px;
+}
+
+footer a {font-style:normal}
+
+footer .footer-nav ul.pages { list-style:none; padding:0px; }
+footer .footer-nav ul.pages li { padding:5px 0px;}
+footer .footer-nav ul.pages a { color:rgba(255,255,255,1.00); letter-spacing: 1px; text-transform:uppercase; }
+footer .footer-nav ul.pages a:hover { color:rgba(255,255,255,0.80); text-decoration:none; }
+
+footer .footer-nav ul.list { list-style:none; padding:0px; }
+footer .footer-nav ul.list li { padding:5px 0px;}
+footer .footer-nav ul.list a { color:rgba(255,255,255,0.80); }
+footer .footer-nav ul.list a:hover { color:rgba(255,255,255,0.60); text-decoration:none; }
+
+/**/
+
+#volunteers_alcohol_notice .highlight-black{
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.color-dub-castle{
+    color:#FF6C41;
+}
+
+.color-mainstage{
+    color: #34CB7A;
+}
+
+#tickets .widget{
+    border-width: 0px;
+    min-height: 803px;
+    width: calc(85%);
+}
+
+.highlight-black{
+    background-color: #1b1e21;
+    box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.55);
+    color: white;
+    padding: 5px;
+    border-radius: .35rem;
+    text-align:center;
+}
+
+#tickets .widget-wrapper{
+    overflow: hidden;
+    border-radius: 5px;
+}
+#volunteers_form .list-group .list-group-item{
+    background-color: transparent;
+    border:0;
+    box-shadow: none;
+    padding:0;
+    padding-left:2px;
+    padding-bottom: 6px;
+}
+
+#kids .text-card{
+    padding:15px;
+}
+
+#kids .text-card p{
+    font-size:18px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#kids .text-card-r p{
+    font-size:15px;
+    text-align:;
+}
+
+#lang_select p{
+    color:white;
+    font-family: 'Roboto Mono', monospace;
+    font-size:26px;
+}
+
+/*Contact Page Markup*/
+
+#contact .card-title{
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.5rem;;
+    font-weight: 500;
+}
+
+#contact .card-text{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+    line-height: 130%;
+}
+
+#contact .card-footer p{
+    margin:0;
+}
+
+#contact .card-footer a{
+    color: #4F0112;
+    text-decoration: none;
+    font-family: initial
+}
+#contact .card-footer a:hover{
+    color: #c32727;
+    transition: all 0.1s ease-in;
+    text-decoration:none;
+}
+#contact small{
+    font-size: 13px!important;
+    line-height: 120%;
+}
+
+.border-extra{
+    border: 3px solid white;
+    margin-bottom: 25px;
+}
+
+/*Text over images*/
+.img-container{
+    position: relative;
+    text-align: center;
+}
+.img-container .title{
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    text-shadow: 2px 2px 0 #212529, 2px -2px 0 #212529, -2px 2px 0 #212529, -2px -2px 0 #212529, 2px 0px 0 #212529, 0px 2px 0 #212529, -2px 0px 0 #212529, 0px -2px 0 #212529;
+}
+
+/* Bottom left text */
+.img-container .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+/* Top left text */
+.img-container .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+/* Top right text */
+.img-container .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+/* Bottom right text */
+.img-container .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
+/* Centered text */
+.img-container .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+/* Centered text */
+.img-container .top-centered {
+    position: absolute;
+    top: 8px;
+    left: 50%;
+    transform: translate(-8px;, -50%);
+}
+
+/*Apply spacing between decks on large displays*/
+@media only screen and (min-width: 992px){
+    .card-deck{
+        margin-top: 12px;
+        margin-bottom: 12px;
+        margin-left: 0;
+    }
+}
+
+.span-black {
+    background: #1b1e21;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 0px 12px 1px #1b1e21;
+    z-index: 2;
+}
+.span-black p{
+    font-family: 'Fredericka the Great', cursive;
+    color:white;
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+/*Change Card Deck breakpoint*/
+/* Set width to make card deck cards 100% width */
+@media (max-width: 990px) {
+
+    .card-deck-wrapper{margin-right:0;margin-left:0;}
+    .card-deck {
+        margin-bottom: .75rem;
+        table-layout: fixed;
+        border-spacing: 1.25rem 0;
+        margin-left:0px;
+        margin-top: 15px;
+    }
+    .card-deck .card {
+        margin-bottom: .75rem;
+        vertical-align: top;
+    }
+
+    .card-deck .card:not(:first-child){margin-left: 0px;}
+}
+
+/*MEDIA QUERRIES*/
+/*ONLY RUN ON SMALL SCREEN*/
+@media only screen and (max-width : 768px) {
+    .content {
+        padding-top: 12px;
+        padding-bottom: 20px;
+    }
+    .display-7{
+        font-size: 2.5rem;
+        line-height: 1.1;
+        margin-bottom: 10px;
+        margin-top:10px;
+        color: #4F0112;
+    }
+    .display-8{
+        font-family: 'Fredericka the Great', cursive;
+        font-size: 1.8rem;
+        font-weight: 300;
+        line-height: 1.1;
+        margin-bottom: 10px;
+        margin-top:10px;
+        color: #4F0112;
+    }
+
+    .display-9{
+        font-family: 'Fredericka the Great', cursive;
+        font-size: 1.8rem;
+        font-weight: 300;
+        line-height: 1.1;
+        margin-bottom: 10px;
+        margin-top:10px;
+        color: #1d262f;
+    }
+
+    /*Size the Eventbrite Window*/
+    #tickets .widget{
+        min-height: 1142px;
+        width:calc(100%);
+    }
+    /*Fix broken card alignment*/
+    #location p{
+        font-size: 20px;
+    }
+    #kids .text-card p{
+        font-size:15px;
+        text-align:left !important;
+    }
+    .span-black p{
+        font-size: 25px;
+    }
+
+
+}
+@media (min-width: 576px){
+    .card-deck .card{margin-left:0;}
+}
+/*ONLY RUN ON BIG SCREENS*/
+@media (max-width: 576px){
+    #prices .price {
+        font-size: 1.3rem;
+    }
+}
+
+/*Fix shitty bootstrap cards*/
+
+@media only screen and (min-width: 576px)
+    .card-deck {
+        margin-right: 0!important;
+        margin-left: 0;
+}
+
+#tickets .card-body{
+    padding:0;
+}
+
+.border-lg{
+    border-width: 4px!important;
+    margin:1px;
+}
+
+#kc .bg-img,
+#lineup .bg-img,
+#artists .bg-img{background-image: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)),url(/src/img/hardwood-horizontal.jpg);}
+#kc .bg-text,
+#lineup .bg-text,
+#artists .bg-text{background-image: url('/src/img/paper-texture.jpg');}
+#kc a, 
+#lineup a{color:white; padding-top:0; padding-bottom:0.5rem;}
+#kc p,
+#lineup p{margin-bottom:0.5rem;} 
+.trans-50 {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.popover{
+    background-image: url('/src/img/paper-texture.jpg');
+    background-size:contain;
+}
+/*Disable sticky navbar on desktop
+@media (min-width: 768px) {
+#navbar.sticky-top{
+position:static;
+top: auto;
+z-index: 1020;
+}      
+}
+*/
+#TrimTheFootprint-tab .bg-img{
+    background-image: url(https://www.sketchuptextureclub.com/public/texture_m/0027-old-wood-board-texture-seamless.jpg);
+}
+
+#slider-wrapper {
+    background-image:url(/src/img/hardwood-horizontal.jpg);
+    box-shadow: 3px 3px 16px 0px rgba(42, 42, 42, 0.8);
+    background-position: center;
+}
+
+.anchor-link {
+    display: block;
+    position: relative;
+    top: -75px;
+    visibility:hidden;
+}
+
+.text-box-2 {
+    background-image:url('/src/img/hardwood-horizontal.jpg');
+}
+
+.dropdown, .dropup {
+    z-index:950
+}
+
+#accomodation h3:not(.display-7){text-transform:uppercase}
+
+header {
+    background-image: linear-gradient(hsla(150, 100%, 20%, 0.25),hsla(53, 100%, 40%, 0.25),hsla(0, 93%, 43%, 0.20)),url(/src/img/hardwood-horizontal.jpg);
+    background-position: center center;
+    box-shadow: 0 0px 12px 1px #1b1e21;
+    z-index:1010;
+    position:relative;
+}
+
+.dropdown-toggle {
+    padding-left:2px;
+}
+
+
+hsla(0, 93%, 43%, 0.15)
+
+@media (min-width: 992px)
+    .navbar-expand-lg .navbar-collapse {
+        height:46px;
+}
+
+.blockquote-custom {
+    position: relative;
+    font-size: 1.1rem;
+}
+
+.blockquote-custom-icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: -25px;
+    left: 50px;
+}

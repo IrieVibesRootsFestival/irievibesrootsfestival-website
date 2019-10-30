@@ -1,0 +1,21 @@
+RewriteEngine On
+RewriteCond %{HTTPS} !on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+RedirectMatch 301 ^/$ /en/ 
+RewriteCond %{HTTP_HOST} ^tickets.irievibes.be$
+RewriteRule ^(.*)$ https://www.irievibes.be/en/tickets/ [R=301,L]
+RewriteCond %{HTTP_HOST} ^en.irievibes.be$
+RewriteRule ^(.*)$ https://www.irievibes.be/en/ [R=301,L]
+RewriteCond %{HTTP_HOST} ^nl.irievibes.be$
+RewriteRule ^(.*)$ https://www.irievibes.be/nl/ [R=301,L]
+RewriteCond %{HTTP_HOST} ^fr.irievibes.be$
+RewriteRule ^(.*)$ https://www.irievibes.be/fr/ [R=301,L]
+RewriteCond %{HTTP_HOST} ^shop.irievibes.be$
+RewriteRule ^(.*)$ https://www.irievibes.be/en/ [R=301,L]
+
+
+Redirect 301 /src/static/grondplan_camping.pdf /src/static/groundplan_backtotheroots.pdf 
+Redirect 301 /src/static/spotify/ https://open.spotify.com/playlist/2Wgmu4URI3nwnRRCGTi5dq
+Redirect 301 /en/info/trim_the_footprint/ /en/info/trim-the-footprint/
+Redirect 301 /nl/info/trim_the_footprint/ /nl/info/trim-the-footprint/
+Redirect 301 /fr/info/trim_the_footprint/ /fr/info/trim-the-footprint/

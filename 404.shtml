@@ -1,0 +1,43 @@
+<html><head>
+    <!-- Setting things up so they work correctly. -->
+    <meta charset="utf-8">         <meta http-equiv="X-UA-Compatible" content="IE=edge">         <meta name="viewport" content="width=device-width, initial-scale=1">         <meta name="Description" content="Irie Vibes Roots Festival is a festival dedicated to bringing ska, reggae, world music and dub into the rural of Kortemark, a small town in Belgium. Come join us this year!">         <meta name="Keywords" content="dub, reggae, ska, world music, food, festival">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="/src/img/favicon.png">
+    <!-- Custom style sheet -->
+    <!-- Bootstrap style sheet -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <!-- Load overwrite style sheet as last to enable overwriting Bootstrap features -->
+    <link rel="stylesheet" href="/src/css/main.css">
+
+    <title>Page Not Found - Irie Vibes</title>
+    </head>
+    <body>
+        <header>
+            <!-- The header contains everything that displays as or above the nav-bar -->
+            <!--HEADER IMAGE-->
+            <div id="banner">
+                <img class="img-responsive" src="/src/img/banner_logo.png">
+            </div>
+            <!--NAVIGATION-->
+            <div class="nav-fake text-center">
+                <img src="/src/img/nav-img.png"/>
+            </div>
+        </header>
+        <div class="d-flex flex-row align-items-center">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-12 text-center pt-5">
+                        <span class="display-1 d-block"><p>404</p></span>
+                        <div class="mb-4 lead"><p>The page you are looking for was not found.</p></div>
+                        <a href="/" class="btn">Back to Home</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-- Include Footer -->
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_en.php');?>        
+    </body>
+    <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
+</html>
