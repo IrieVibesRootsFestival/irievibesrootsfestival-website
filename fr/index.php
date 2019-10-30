@@ -2,50 +2,63 @@
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
-        <title>Line Up - Irie Vibes</title>
-        <meta property="og:title" content="Line Up"/>
-    </head>
+        <title>Home - Irie Vibes</title>
+        <meta property="og:title" content="Irie Vibes Roots Festival 2020 - Découvrez le monde du festival Irie Vibes Roots"/>
+        <meta property="og:description" content="De retour à l'endroit où tout a commencé: Irie Vibes vous invite à l'édition Back to The Roots du festival Irie Vibes Roots en plein été 2020 à Kortemark." />
+    </head> 
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
-        <!-- This is the main container that encapsulates everything content related. -->
-        <br/>
-        <div id="line-up" class="container">
-            <div class="text-center">
-                <div class="btn-group mb-1" role="group" aria-label="Nav-button">
-                    <button class="btn btn-filter" data-toggle="collapse" data-target="#day1"><p>Jeudi</p></button>
-                    <button class="btn btn-filter" data-toggle="collapse" data-target="#day2"><p>Vendredi</p></button>
-                    <button class="btn btn-filter" data-toggle="collapse" data-target="#day3"><p>Samedi</p></button>
+        <div class="container content">
+            <div class="row justify-content-center">
+                <!-- Aftermovie -->
+                <div class="col-12 mb-md-3">
+                    <div id="slider-wrapper" class="rounded p-2 mb-1">
+                        <div style="width:100%;height:0px;position:relative;padding-bottom:42.649%;"><iframe src="https://streamable.com/s/x3uj1/hysftr" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+                    </div>
                 </div>
-                <span class="d-block m-1"></span>
-                <div class="btn-group mb-3" role="group" aria-label="Nav-button">
-                    <button type="button" class="btn btn-success text-white"><a href="#stage_tent">Lion's Den</a></button>
-                    <button type="button" class="btn btn-danger text-white"><a href="#stage_air">Open Air</a></button>
-                    <button type="button" class="btn btn-sand text-white"><a href="#stage_tent_outside">Inner Circle</a></button> 
-                    <button type="button" class="btn btn-warning text-white"><a href="#stage_kids">Little Lion</a></button>
+                <div class="col-12 my-md-3">
+                    <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Irie Vibes Roots Festival</h1><br/>
+                    <div class="text-left text-success">
+                        <h1 class="mt-md-3 mb-0 px-3 quote">back to the roots</h1>
+                        <p class="text-justify">
+                            Irie Vibes retourne là où tout a commencé. Irie Vibes 2020 sera à nouveau une rétrospective de nos racines, souvenirs et événements. Nous vous invitons à faire partie du <b>retour d'Irie Vibes au festival Roots 2020</b>, où la tête, le cœur et le corps se rencontrent dans un fantastique spectacle de couleurs et de sons.
+                            Placez un signet de notre <a class="text-success" href="/en/lineup/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>page de line-up</a> sur votre écran d'accueil.Irie!
+                        </p>
+                    </div>
+                    <div class="text-md-right text-warning">
+                        <h1 class="mt-3 mb-0 px-3 quote">one love</h1>
+                        <p class="text-justify text-md-right">Ici chez Irie Vibes, la famille est importante. Comme une grande famille qui construit pour un avenir encore plus grand. Sans l'aide de personnes comme vous, il serait impossible de réaliser ce rêve. Mash Down! Allez sur la <a class="text-warning" href="/en/info/volunteers/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>page des bénévoles</a> pour voir si c'est pour vous. Family thing!</p>
+                    </div>
+                    <div class="text-left text-danger">
+                        <h1 class="mt-3 mb-0 px-3 quote ">être là</h1>
+                        <p class="text-justify">
+                            Vous cherchez des billets? Achetez-les maintenant!Un ticket de camping vous garantit une place au camping. Les billets et les prix peuvent être trouvés <a class="text-danger" href="/en/tickets/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>ici</a>.
+                        </p>
+                    </div>
                 </div>
-            </div>
-            <div class="accordion-group">
-                <div class="collapse show" id="day1" data-parent="#line-up">
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/kortemark_conge/core_lineup.php');?>
+                <!-- Slider -->
+                <div class="col-12 m-md-3">
+                    <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Regarde</h1>
+                    <div id="slider-wrapper" class="p-2 mb-2 rounded">
+                        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/content/slider.php');?>
+                    </div>
                 </div>
-                <div class="collapse" id="day2" data-parent="#line-up">
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/friday.php');?>
+                <div class="col-12"><h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">music unites</h1><br/></div>
+                <div class="col-12 col-md-6">
+                    <h3 class="text-irie"><b>Nouvelles</b></h3>
+                    <!--Inserted elements here -->
+                    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/content/news-links.php');?>  
                 </div>
-                <div class="collapse" id="day3" data-parent="#line-up">
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/saturday.php');?>
+                <div class="col-12 col-md-6">
+                    <h3 class="text-irie"><b>Mises à jour</b></h3>
+                    <a class="twitter-timeline" data-height="380" data-theme="light" data-link-color="#8e142f" href="https://twitter.com/irievibesupdate?ref_src=twsrc%5Etfw" data-chrome="nofooter noborders noscrollbar"></a>
                 </div>
-            </div>
+            </div> 
         </div>
         <!-- Include Footer -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
-    <script src="/src/js/modernizr.js"></script>
-    <script src="/src/js/timetable.js"></script>
-    <!-- Initialize Tooltips--><script>
-    $(function () {
-        $('[data-toggle="popover"]').popover()
-    })
-    </script>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </html>
