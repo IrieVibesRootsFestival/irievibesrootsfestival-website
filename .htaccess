@@ -20,3 +20,5 @@ Redirect 301 /src/static/spotify/ https://open.spotify.com/playlist/2Wgmu4URI3nw
 Redirect 301 /en/info/trim_the_footprint/ /en/info/trim-the-footprint/
 Redirect 301 /nl/info/trim_the_footprint/ /nl/info/trim-the-footprint/
 Redirect 301 /fr/info/trim_the_footprint/ /fr/info/trim-the-footprint/
+
+RedirectMatch 301 /en/info/trim-the-footprint/(.*) /en/info/eco/trim-the-footprint//$1
