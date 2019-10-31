@@ -19,6 +19,8 @@
                         <li>each drop of water is cleaned and reused up to five times during the festival?</li>
                     </ul>
                 </div>
+            </div>
+            <div class="row">
                 <div class="col-auto"><img class="img-fluid rounded" src="/src/img/eco/clean-water-advertisement.png"/></div>
                 <div class="col-auto"><img class="img-fluid rounded" src="/src/img/eco/clean-water-desotec-filter.jpg"/></div>
                 <div class="col-auto"><img class="img-fluid rounded" src="/src/img/eco/clean-water-system.jpg"/></div>
