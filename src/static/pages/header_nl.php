@@ -30,9 +30,6 @@
                             <li><a class="nav-link drop-2" href="/nl/location/">Locatie</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/rules/">Festivalregels</a></li>
                             <li><a class="nav-link drop-2" href="/nl//festival/camping/">Camping en Parking</a></li>
-                            <!--
-<li><a class="nav-link drop-2" href="/nl/festival/merchandise/">Merchandise</a></li>
--->
                             <li><a class="nav-link drop-2" href="/nl/info/volunteers/">Vrijwilligers</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/food_shops/">(non)Food Shops</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/transport/">Transport</a></li>
@@ -59,8 +56,11 @@
                     <li class="nav-item dropdown">
                         <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ECO<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a class="nav-link drop-2" href="/nl/info/trim-the-footprint/">Trim The <br/> Footprint</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/info/eco-team/">Eco team</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/trim-the-footprint/">Trim The Footprint</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/eco-team/">Eco team</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/reusable-cups/">Herbruikbare bekers</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/groene-vent-award/"><i>Groene Vent</i></a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/clean-water/">Waterrecyclage</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
