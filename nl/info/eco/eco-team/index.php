@@ -18,8 +18,8 @@
                     <ul>
                         <li>wij ook gedurende het jaar in de weer zijn voor een betere en propere wereld?</li>
                         <li>wij deelnemen aan de World Cleanup Day?</li>
-                        <li>ons ecoteam gedurende het festival voortdurend aan de slag is om de terreinen proper te houden ?</li>
-                        <li>wij gratis zakasbakjes ter beschikking stellen van onze bezoekers ?</li>
+                        <li>ons ecoteam gedurende het festival voortdurend aan de slag is om de terreinen proper te houden?</li>
+                        <li>wij gratis zakasbakjes ter beschikking stellen van onze bezoekers?</li>
                         <li>wij voor de catering opbouw/afbraak én backstage vooral oog hebben voor food waste en hiervoor samen met lokale handelaren een samenwerking op touw hebben gezet?</li>
                         <li>je als bezoeker ook een bezoekje kan brengen aan de compostmobiel?</li>
                     </ul>
@@ -33,8 +33,13 @@
                 <div class="col-6 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-0.jpg"/></div>
                 <div class="col-6 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-2.jpg"/></div>
                 <div class="col-12 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-head.jpg"></div>
-                <div class="col-6 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-1.jpg"/></div>
-                <div class="col-6 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-3.jpg"/></div>
+                <div class="col-6 col-md-3 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-1.jpg"/></div>
+                <div class="col-6 col-md-3 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-3.jpg"/></div>
+                <div class="col-6 col-md-3 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/eco-team-0.jpg"/></div>
+                <div class="col-6 col-md-3 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/eco-team-1.jpg"/></div>
+                <div class="col-6 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/eco-team-2.jpg"/></div>
+                <div class="col-6 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/eco-team-3.jpg"/></div>
+                <div class="col-12 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/compostmobiel.jpg"></div> 
             </div>
         </div>
         <!-- Include Footer -->
