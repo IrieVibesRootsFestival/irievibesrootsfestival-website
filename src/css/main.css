@@ -108,21 +108,13 @@ color:white;
 
 .text-box{
     background-image:url('/src/img/paper-texture.jpg');
-    padding: 5px;
     padding-left:8px;
 }
-
-
 
 header a{
     padding-left: 8px;
     padding-right: 8px;
     content:"";
-}
-
-/*A fix for Bootstrap's broken img-responsive*/
-.img-responsive {
-    max-width:100%;
 }
 
 /*Leave some space between the content and the navbar*/
