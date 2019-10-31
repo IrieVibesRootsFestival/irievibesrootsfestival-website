@@ -59,8 +59,11 @@
                     <li class="nav-item dropdown">
                         <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ECO<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a class="nav-link drop-2" href="/fr/info/trim-the-footprint/">Trim The <br/> Footprint</a></li>
-                            <li><a class="nav-link drop-2" href="/fr/info/eco-team/">Team eco</a></li>
+                            <li><a class="nav-link drop-2" href="/fr/info/eco/trim-the-footprint/">Trim The Footprint</a></li>
+                            <li><a class="nav-link drop-2" href="/fr/info/eco/eco-team/">Équipe éco</a></li>
+                            <li><a class="nav-link drop-2" href="/fr/info/eco/reusable-cups/">Gobelets réutilisables</a></li>
+                            <li><a class="nav-link drop-2" href="/fr/info/eco/groene-vent-award/"><i>Groene Vent</i></a></li>
+                            <li><a class="nav-link drop-2" href="/fr/info/eco/clean-water/">Eau propre</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
