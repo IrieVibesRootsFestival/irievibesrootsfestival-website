@@ -56,11 +56,6 @@ color:white;
     background-size: cover;
 }
 
-#banner .img-responsive{
-    -webkit-filter: drop-shadow(2px 2px 5px rgba(1,1,1,0.3));
-    margin:0;
-}
-
 #safety .quote{
     font-family: 'Shadows Into Light', cursive;
     font-size: 40;
@@ -110,7 +105,6 @@ color:white;
     background-image:url('/src/img/paper-texture.jpg');
     padding-left:8px;
 }
-
 header a{
     padding-left: 8px;
     padding-right: 8px;
@@ -171,9 +165,6 @@ header a{
     font-size: 1.3rem;
 }
 
-#banner_2 .img-responsive{
-    padding-bottom:0;
-}
 /*-------Navbar Config-------*/
 /*Align the shopping cart*/
 .nav-fake{

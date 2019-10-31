@@ -1,5 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTPS} !on
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
-RedirectMatch 301 ^/$ /en/ 
-RedirectMatch 301 /en/artists/djoels.php /en/artists/
