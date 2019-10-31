@@ -56,11 +56,6 @@ color:white;
     background-size: cover;
 }
 
-#banner .img-responsive{
-    -webkit-filter: drop-shadow(2px 2px 5px rgba(1,1,1,0.3));
-    margin:0;
-}
-
 #safety .quote{
     font-family: 'Shadows Into Light', cursive;
     font-size: 40;
@@ -112,17 +107,14 @@ color:white;
     padding-left:8px;
 }
 
-
+.img-fluid, .img-responsive{
+    margin:5px;
+}
 
 header a{
     padding-left: 8px;
     padding-right: 8px;
     content:"";
-}
-
-/*A fix for Bootstrap's broken img-responsive*/
-.img-responsive {
-    max-width:100%;
 }
 
 /*Leave some space between the content and the navbar*/
@@ -179,9 +171,6 @@ header a{
     font-size: 1.3rem;
 }
 
-#banner_2 .img-responsive{
-    padding-bottom:0;
-}
 /*-------Navbar Config-------*/
 /*Align the shopping cart*/
 .nav-fake{
