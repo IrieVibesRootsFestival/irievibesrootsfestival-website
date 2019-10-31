@@ -21,7 +21,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/eco/clean-water-advertisement.png"/></div>
+                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/eco/clean-water-info.png"/></div>
                 <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/eco/clean-water-desotec-filter.jpg"/></div>
                 <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/eco/clean-water-system.jpg"/></div>
             </div>
