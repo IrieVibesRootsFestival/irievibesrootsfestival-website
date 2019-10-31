@@ -5,14 +5,13 @@
         <title>Trim The Footprint - Irie Vibes</title>
         <meta property="og:title" content="Trim The Footprint"/>
         <meta property="og:description" content="Waar gaat Trim The Footprint over?" />
-        <meta property="og:image" content="https://www.irievibes.be/src/img/trimthefootprint/tanzania/tanzania-7.jpg" />
-        
+        <meta property="og:image" content="https://www.irievibes.be/src/img/trimthefootprint/tanzania/tanzania-7.jpg" />    
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <!-- This is the container that allows the slider to be wider --> 
         <div class="container content">
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/info/trim-the-footprint/core.php');?>
+            <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/info/eco/trim-the-footprint/core.php');?>
             <div class="row">
                 <!-- map & logos -->
                 <div class="col-12 col-md-6 order-md-2">
