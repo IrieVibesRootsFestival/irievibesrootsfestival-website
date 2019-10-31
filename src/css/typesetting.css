@@ -98,12 +98,12 @@ a:hover{color: #bc0939;}
     letter-spacing: 3.5px;
     /*text-shadow: 2px 2px rgba(109,33,10,0.45);*/
     margin-bottom: 35px;
-    background-image: url("/src/img/page-banner.png");
+   /* background-image: url("/src/img/page-banner.png");
     background-position: center, center;
     background-size:contain;
     background-repeat: no-repeat;
     display: block;
-    padding:26px;
+    padding:26px;*/
 }
 
 .display-8{
