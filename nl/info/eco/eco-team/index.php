@@ -27,15 +27,16 @@
             </div>
             <!-- Mooimakers Pictures -->
             <div class="row">
-                <div class="col-12 col-md-4"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/ttf-mooimaker.jpg"/></div>
-                
-                <div class="col-6 col-md-4"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-0.jpg"/></div>
-                <div class="col-6 col-md-4"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-2.jpg"/></div>
-                <div class="col-12 col-md-4"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-head.jpg"></div>
-                <div class="col-6 col-md-6"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-1.jpg"/></div>
-                <div class="col-6 col-md-6"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-3.jpg"/></div>
+                <div class="col-12 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/ttf-mooimaker.jpg"/></div>
+                <div class="col-12 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-head.jpg"></div>
+
+                <div class="col-6 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-0.jpg"/></div>
+                <div class="col-6 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-2.jpg"/></div>
+                <div class="col-12 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-4.jpg"/></div>
+                <div class="col-6 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-1.jpg"/></div>
+                <div class="col-6 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-3.jpg"/></div>
             </div>
-            </div>
+        </div>
         <!-- Include Footer -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_nl.php');?>        
     </body>

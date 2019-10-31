@@ -103,14 +103,8 @@ color:white;
 
 .text-box{
     background-image:url('/src/img/paper-texture.jpg');
-    padding: 5px;
     padding-left:8px;
 }
-
-.img-fluid, .img-responsive{
-    margin:5px;
-}
-
 header a{
     padding-left: 8px;
     padding-right: 8px;
