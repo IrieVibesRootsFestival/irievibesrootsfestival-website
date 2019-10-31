@@ -10,7 +10,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <!-- This is the container that allows the slider to be wider --> 
         <div class="container content">
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/en/info/trim-the-footprint/core.php');?>
+            <?php include($_SERVER['DOCUMENT_ROOT'].'/en/info/eco/trim-the-footprint/core.php');?>
             <div class="row">
                 <!-- map & logos -->
                 <div class="col-12 col-md-6 order-md-2">
