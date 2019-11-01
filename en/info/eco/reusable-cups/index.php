@@ -28,8 +28,8 @@
             </div>
             <!-- Pictures -->
             <div class="row">
-                <div class="col-12 col-md-6 pb-1"><img class="img-fluid rounded" src="/src/img/eco/cups-0.jpg"/></div>
-                <div class="col-12 col-md-6 pb-1"><img class="img-fluid rounded" src="/src/img/eco/cups-1.jpg"/></div>
+                <div class="col-12 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/cups-0.jpg"/></div>
+                <div class="col-12 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/cups-1.jpg"/></div>
             </div>
         </div>
         <!-- Include Footer -->
