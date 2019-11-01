@@ -19,7 +19,7 @@
                         <li>elke druppel water bij ons tot 5 maal toe gezuiverd en hergebruikt wordt?</li>
                     </ul>
                 </div>
-                                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/partners/desotec.jpg"/></div>
+                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/partners/desotec.jpg"/></div>
             </div>
             <div class="row">
                 <div class="col-12 col-md-4 pb-1"><img class="img-fluid rounded" src="/src/img/eco/clean-water-info.png"/></div>
