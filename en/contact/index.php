@@ -9,6 +9,7 @@
         <!-- Bootstrap style sheet -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
         <!-- Load overwrite style sheet as last to enable overwriting Bootstrap features -->
+        <br/>
         <link rel="stylesheet" href="/src/css/main.css">
         <title>Contact - Irie Vibes</title>
     </head>
