@@ -106,7 +106,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Security</h5>
                             <p class="card-text">For issues and/or questions regarding security</p>
-                            <small class="card-text text-muted">Pieter de Brabandere</small>
+                            <small class="card-text text-muted"></small>
                         </div>
                         <div class="card-footer">
                             <p class="text-muted"><i class="fas fa-envelope text-muted"></i><a href="mailto:security@irievibes.be"> security@irievibes.be</a></p>
