@@ -92,8 +92,17 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-12 col-lg-4 col-xl-3">
+                    <div class="text-box-2 rounded mb-2 p-1">
+                        <div class="text-box rounded m-1 p-1">
+                            <h4 class="text-center">Website</h4>
+                            <hr/>
+                            <p>Found a bug in the website? Contact the webmaster:</p>
+                            <i class="fas fa-envelope text-muted"></i><a href="mailto:web@irievibes.be">web@irievibes.be</a>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <p class="text-center">Found a bug in the website? Contact the webmaster: <a href="mailto:web@irievibes.be">web@irievibes.be</a>.</p> 
         </div>
         <!-- Include Footer -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_en.php');?>        
