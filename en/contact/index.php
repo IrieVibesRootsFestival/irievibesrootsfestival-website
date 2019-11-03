@@ -13,7 +13,7 @@
             <br/>
             <div class="row text-irie">
                 <div class="col-12 col-lg-4 col-xl-3">
-                    <div class="text-box-2 rounded mb-1 p-1">
+                    <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
                             <h4>Security</h4>
                             <hr/>
@@ -23,7 +23,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 col-xl-3">
-                    <div class="text-box-2 rounded mb-1 p-1">
+                    <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
                             <h4>Guests & Volunteers</h4>
                             <hr/>
@@ -33,7 +33,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 col-xl-3">
-                    <div class="text-box-2 rounded mb-1 p-1">
+                    <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
                             <h4>Artists</h4>
                             <hr/>
@@ -43,7 +43,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 col-xl-3">
-                    <div class="text-box-2 rounded mb-1 p-1">
+                    <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
                             <h4>Shops & Foodstands</h4>
                             <hr/>
@@ -53,7 +53,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 col-xl-3">
-                    <div class="text-box-2 rounded mb-1 p-1">
+                    <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
                             <h4>Finance</h4>
                             <hr/>
@@ -63,7 +63,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 col-xl-3">
-                    <div class="text-box-2 rounded mb-1 p-1">
+                    <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
                             <h4>Promotions</h4>
                             <hr/>
@@ -73,7 +73,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 col-xl-3">
-                    <div class="text-box-2 rounded mb-1 p-1">
+                    <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
                             <h4>Tech</h4>
                             <hr/>
@@ -83,7 +83,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 col-xl-3">
-                    <div class="text-box-2 rounded mb-1 p-1">
+                    <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
                             <h4>General information</h4>
                             <hr/>
