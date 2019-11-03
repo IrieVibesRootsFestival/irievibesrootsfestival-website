@@ -15,7 +15,7 @@
                 <div class="col-12 col-lg-4 col-xl-3">
                     <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
-                            <h4>Security</h4>
+                            <h4 class="text-center">Security</h4>
                             <hr/>
                             <p>For issues and/or questions regarding security</p>
                             <i class="fas fa-envelope text-muted"></i><a href="mailto:security@irievibes.be"> security@irievibes.be</a>
@@ -25,7 +25,7 @@
                 <div class="col-12 col-lg-4 col-xl-3">
                     <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
-                            <h4>Guests & Volunteers</h4>
+                            <h4 class="text-center">Guests & Volunteers</h4>
                             <hr/>
                             <p>Questions about volunteership? Ask them here!</p>
                             <i class="fas fa-envelope text-muted"></i><a href="mailto:volunteers@irievibes.be"> volunteers@irievibes.be</a>
@@ -35,7 +35,7 @@
                 <div class="col-12 col-lg-4 col-xl-3">
                     <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
-                            <h4>Artists</h4>
+                            <h4 class="text-center">Artists</h4>
                             <hr/>
                             <p>Interested in coming to Irie Vibes events as an artist?</p>
                             <i class="fas fa-envelope text-muted"></i><a href="mailto:artist@irievibes.be"> artist@irievibes.be</a>
@@ -45,7 +45,7 @@
                 <div class="col-12 col-lg-4 col-xl-3">
                     <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
-                            <h4>Shops & Foodstands</h4>
+                            <h4 class="text-center">Shops & Foodstands</h4>
                             <hr/>
                             <p>For questions about obtaining a parcel for your stand.</p>
                             <i class="fas fa-envelope text-muted"></i><a href="mailto:shops@irievibes.be"> shops@irievibes.be</a>
@@ -55,7 +55,7 @@
                 <div class="col-12 col-lg-4 col-xl-3">
                     <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
-                            <h4>Finance</h4>
+                            <h4 class="text-center">Finance</h4>
                             <hr/>
                             <p>In case you question our tax pays.</p>
                             <i class="fas fa-envelope text-muted"></i><a href="mailto:finance@irievibes.be"> finance@irievibes.be</a>
@@ -65,7 +65,7 @@
                 <div class="col-12 col-lg-4 col-xl-3">
                     <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
-                            <h4>Promotions</h4>
+                            <h4 class="text-center">Promotions</h4>
                             <hr/>
                             <p>Want to promote your business or provide sponsorship?</p>
                             <i class="fas fa-envelope text-muted"></i><a href="mailto:promo@irievibes.be"> promo@irievibes.be</a>
@@ -75,7 +75,7 @@
                 <div class="col-12 col-lg-4 col-xl-3">
                     <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
-                            <h4>Tech</h4>
+                            <h4 class="text-center">Tech</h4>
                             <hr/>
                             <p>For all your inquiries about our tech-magic.</p>
                             <i class="fas fa-envelope text-muted"></i><a href="mailto:info@irievibes.be"> info@irievibes.be</a>
@@ -85,7 +85,7 @@
                 <div class="col-12 col-lg-4 col-xl-3">
                     <div class="text-box-2 rounded mb-2 p-1">
                         <div class="text-box rounded m-1 p-1">
-                            <h4>General information</h4>
+                            <h4 class="text-center">General information</h4>
                             <hr/>
                             <p>For general questions that do not have a specific address</p>
                             <i class="fas fa-envelope text-muted"></i><a href="mailto:info@irievibes.be"> info@irievibes.be</a>
