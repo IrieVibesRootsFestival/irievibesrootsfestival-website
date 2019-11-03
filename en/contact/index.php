@@ -13,8 +13,8 @@
             <br/>
             <div class="row text-irie">
                 <div class="col-12 col-md-4 col-lg-3">
-                    <div class="text-box-2 rounded p-3">
-                        <div class="text-box rounded p-2">
+                    <div class="text-box-2 rounded mb-1">
+                        <div class="text-box rounded m-1 p-1">
                             <h4>Security</h4>
                             <hr/>
                             <p>For issues and/or questions regarding security</p>
@@ -23,8 +23,8 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-4 col-lg-3">
-                    <div class="text-box-2 rounded p-3">
-                        <div class="text-box rounded p-2">
+                    <div class="text-box-2 rounded mb-1">
+                        <div class="text-box rounded m-1 p-1">
                             <h4>Guests & Volunteers</h4>
                             <hr/>
                             <p>Questions about volunteership? Ask them here!</p>
@@ -33,8 +33,8 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-4 col-lg-3">
-                    <div class="text-box-2 rounded p-3">
-                        <div class="text-box rounded p-2">
+                    <div class="text-box-2 rounded mb-1">
+                        <div class="text-box rounded m-1 p-1">
                             <h4>Artists</h4>
                             <hr/>
                             <p>Interested in coming to Irie Vibes events as an artist?</p>
@@ -43,8 +43,8 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-4 col-lg-3">
-                    <div class="text-box-2 rounded p-3">
-                        <div class="text-box rounded p-2">
+                    <div class="text-box-2 rounded mb-1">
+                        <div class="text-box rounded m-1 p-1">
                             <h4>Shops & Foodstands</h4>
                             <hr/>
                             <p>For questions about obtaining a parcel for your stand.</p>
@@ -53,8 +53,8 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-4 col-lg-3">
-                    <div class="text-box-2 rounded p-3">
-                        <div class="text-box rounded p-2">
+                    <div class="text-box-2 rounded mb-1">
+                        <div class="text-box rounded m-1 p-1">
                             <h4>Finance</h4>
                             <hr/>
                             <p>In case you question our tax pays.</p>
@@ -63,8 +63,8 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-4 col-lg-3">
-                    <div class="text-box-2 rounded p-3">
-                        <div class="text-box rounded p-2">
+                    <div class="text-box-2 rounded mb-1">
+                        <div class="text-box rounded m-1 p-1">
                             <h4>Promotions</h4>
                             <hr/>
                             <p>Want to promote your business or provide sponsorship?</p>
@@ -73,8 +73,8 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-4 col-lg-3">
-                    <div class="text-box-2 rounded p-3">
-                        <div class="text-box rounded p-2">
+                    <div class="text-box-2 rounded mb-1">
+                        <div class="text-box rounded m-1 p-1">
                             <h4>Tech</h4>
                             <hr/>
                             <p>For all your inquiries about our tech-magic.</p>
@@ -83,8 +83,8 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-4 col-lg-3">
-                    <div class="text-box-2 rounded p-3">
-                        <div class="text-box rounded p-2">
+                    <div class="text-box-2 rounded mb-1">
+                        <div class="text-box rounded m-1 p-1">
                             <h4>General information</h4>
                             <hr/>
                             <p>For general questions that do not have a specific address</p>
