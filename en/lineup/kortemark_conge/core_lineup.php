@@ -1,4 +1,4 @@
-<div id="kc" class="row text-center">
+<div id="kc" class="row text-center display-none">
     <div id="stage_tent" class="col-md-6">
         <!-- Big Tent -->
         <div class="row py-2 mb-3 border border-lg border-success rounded bg-img">
