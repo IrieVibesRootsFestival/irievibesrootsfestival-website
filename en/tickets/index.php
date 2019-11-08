@@ -16,7 +16,9 @@
                     <p class="text-center text-irie"><b>July 18-19-20 2019</b></p>
                 </div>
                 <div class="col-12">
-                    <div id="prices" class="row justify-content-sm-center">
+                    <p class="mx-md-5">Are you a resident from Kortemark? Get your tickets at €10 off, upon showing your ID. <br/>For more info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
+                    <div id="eventsquare-store"></div>
+                    <div id="prices" class="row justify-content-sm-center d-none">
                         <div class="col-sm-12 order-md-3 text-center mt-md-4">
                             <p class="mx-md-5">Are you a resident from Kortemark? Get your tickets at €10 off, upon showing your ID. <br/>For more info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
                             <button class="btn btn-pill btn-irie"><a class="text-white" href="https://www.eventbrite.be/e/tickets-irie-vibes-roots-festival-2019-56999174064"><i class="fas fa-shopping-cart"></i> Buy Tickets</a></button>
@@ -57,4 +59,5 @@
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
+    <script src="/src/js/eventsquare-embed.js" rel="external" type="text/javascript"></script>
 </html>
