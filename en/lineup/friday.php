@@ -1,4 +1,4 @@
-<div id="lineup" class="row text-center display-none">
+<div id="lineup" class="row text-center d-none">
     <div id="stage_tent" class="col-12 col-md-9">
         <!-- Lion's Den -->
         <div class="row py-2 mb-3 border border-lg border-success rounded bg-img">

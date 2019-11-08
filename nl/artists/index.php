@@ -9,11 +9,8 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div id="artists" class="container content">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <img src="/src/img/title-bars/artists.png" class="img-fluid w-50 mb-3 d-none d-md-inline">
-                    <img src="/src/img/title-bars/artists.png" class="img-fluid mb-3 d-inline d-md-none">
-                </div>
+            <h3 class="display-7 text-center">Artiesten</h3>
+            <div class="row d-none">
                 <div class="col-12 px-3 text-center">
                     <div class="btn-group mb-3" role="group" aria-label="Nav-button">
                         <button type="button" class="btn btn-success text-white"><a href="#lions-den">Lion's Den</a></button>
