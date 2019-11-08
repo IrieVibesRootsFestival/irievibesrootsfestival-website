@@ -8,6 +8,8 @@
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <!-- EventSquare requires loading before the DOM -->
+        <script src="/src/js/eventsquare-embed.js" rel="external" type="text/javascript"></script>
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container content">
             <div class="row">
@@ -59,5 +61,4 @@
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
-    <script src="/src/js/eventsquare-embed.js" rel="external" type="text/javascript"></script>
 </html>
