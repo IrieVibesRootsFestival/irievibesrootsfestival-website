@@ -50,7 +50,7 @@
                         <a data-toggle="tooltip" data-placement="bottom" title="Food"><img class="img-fluid border-none rounded" src="/src/img/qn_feature/food.png" alt="Food"></a>
                     </div>
                     <div class="col-12">
-                        <a href="http://www.qualitynights.be/"><img class="img-responsive" src="/src/img/quality_nights_text.png"></a>
+                        <a href="http://www.qualitynights.be/"><img class="img-fluid" src="/src/img/quality_nights_text.png"></a>
                         <p>Quality Nights est une charte que les événements, les clubs, VAD, le partenaire de prévention local et le gouvernement local signent pour veiller à ce que les événements respectent les directives vous offrant la meilleure expérience possible.</p>
                         <a href="https://www.qualitynights.be/fr/le-label-quality-nights/les-objectifs-du-label-2/"><i class="fa fa-info"></i> Qu'est-ce que c'est que Quality Nights?</a>
                     </div>

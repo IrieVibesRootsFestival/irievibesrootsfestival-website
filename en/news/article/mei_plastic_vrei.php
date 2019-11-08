@@ -17,7 +17,7 @@
             <!-- The header contains everything that displays as or above the nav-bar -->
             <!--HEADER IMAGE-->
             <div id="banner">
-                <img class="img-responsive" src="/src/img/banner_logo.png">
+                <img class="img-fluid" src="/src/img/banner_logo.png">
             </div>
             <!--NAVIGATION-->
             <nav id="navbar" class="navbar navbar-expand-lg">
@@ -114,7 +114,7 @@
                     </p>
                     <a href="https://www.meiplasticvrij.be/deelnemer/ade8906e0fcc5d584dc6f502971366ddb07498f5">Link to our participation page (<img src="/src/img/flags/blank.gif" class="flag flag-be" alt="Czech Republic" />)</a>
                     <div class="text-center">
-                        <img class="img-responsive " src="https://static1.squarespace.com/static/5ac9027ba9e0282bae3e98d6/t/5adeda7d2b6a28995d533c21/1526035335157/?format=1500w" width="50%">
+                        <img class="img-fluid " src="https://static1.squarespace.com/static/5ac9027ba9e0282bae3e98d6/t/5adeda7d2b6a28995d533c21/1526035335157/?format=1500w" width="50%">
                     </div>
                     <br/>
                     <a href="/en/news/" class="btn btn-volunteer" role="button">Return to News</a>

@@ -15,10 +15,10 @@
             More info at: <a href="mailto:shops@irievibes.be?Subject=Foodtruck%20Request" target="_top">shops@irievibes.be</a>.
             <hr/>
             <div class="row">
-                <div class="col-md-6"><img class="img-responsive rounded" src="/src/img/static/foodstand/food%202.jpg"></div>
-                <div class="col-md-6"><img class="img-responsive rounded" src="/src/img/static/foodstand/food%20stall.jpg"></div>
-                <div class="col-md-6"><img class="img-responsive rounded" src="/src/img/static/foodstand/food.jpg"></div>
-                <div class="col-md-6"><img class="img-responsive rounded" src="/src/img/static/foodstand/shop.jpg"></div>
+                <div class="col-md-6"><img class="img-fluid rounded" src="/src/img/static/foodstand/food%202.jpg"></div>
+                <div class="col-md-6"><img class="img-fluid rounded" src="/src/img/static/foodstand/food%20stall.jpg"></div>
+                <div class="col-md-6"><img class="img-fluid rounded" src="/src/img/static/foodstand/food.jpg"></div>
+                <div class="col-md-6"><img class="img-fluid rounded" src="/src/img/static/foodstand/shop.jpg"></div>
             </div>
         </div>
         <!-- Include Footer -->

@@ -2,7 +2,7 @@
             <!-- The header contains everything that displays as or above the nav-bar -->
             <!--HEADER IMAGE-->
             <div class="bg-irie-grey text-center">
-                <img class="img-responsive" src="https://i.imgur.com/h59oKM0.png">
+                <img class="img-fluid" src="https://i.imgur.com/h59oKM0.png">
             </div>
             <!--NAVIGATION-->
             <nav class="navbar navbar-expand-lg navbar-dark bg-irie-red">

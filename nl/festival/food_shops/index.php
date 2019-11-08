@@ -18,7 +18,7 @@
             <!-- The header contains everything that displays as or above the nav-bar -->
             <!--HEADER IMAGE-->
             <div id="banner">
-                <img class="img-responsive" src="/src/img/banner_logo.png">
+                <img class="img-fluid" src="/src/img/banner_logo.png">
             </div>
             <!--NAVIGATION-->
             <nav id="navbar" class="navbar navbar-expand-lg">
@@ -104,12 +104,12 @@
                 More info at: <a href="mailto:shops@irievibes.be?Subject=Foodtruck%20Request" target="_top">shops@irievibes.be</a>.
                 <hr/>
                 <div class="row">
-                    <div class="col-md-6"><img class="img-responsive rounded" src="/src/img/static/foodstand/food%202.jpg"></div>
-                    <div class="col-md-6"><img class="img-responsive rounded" src="/src/img/static/foodstand/food%20stall.jpg"></div>
+                    <div class="col-md-6"><img class="img-fluid rounded" src="/src/img/static/foodstand/food%202.jpg"></div>
+                    <div class="col-md-6"><img class="img-fluid rounded" src="/src/img/static/foodstand/food%20stall.jpg"></div>
                 </div>
                 <div class="row">
-                    <div class="col-md-6"><img class="img-responsive rounded" src="/src/img/static/foodstand/food.jpg"></div>
-                    <div class="col-md-6"><img class="img-responsive rounded" src="/src/img/static/foodstand/shop.jpg"></div>
+                    <div class="col-md-6"><img class="img-fluid rounded" src="/src/img/static/foodstand/food.jpg"></div>
+                    <div class="col-md-6"><img class="img-fluid rounded" src="/src/img/static/foodstand/shop.jpg"></div>
                 </div>
             </div>
         </div>

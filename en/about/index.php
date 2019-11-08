@@ -10,7 +10,7 @@
             <!-- The header contains everything that displays as or above the nav-bar -->
             <!--HEADER IMAGE-->
             <div id="banner">
-                <img class="img-responsive" src="/src/img/banner_logo.png">
+                <img class="img-fluid" src="/src/img/banner_logo.png">
             </div>
             <!--NAVIGATION-->
             <nav id="navbar" class="navbar navbar-expand-lg">

@@ -17,7 +17,7 @@
             <!-- The header contains everything that displays as or above the nav-bar -->
             <!--HEADER IMAGE-->
             <div id="banner">
-                <img class="img-responsive" src="/src/img/banner_logo.png">
+                <img class="img-fluid" src="/src/img/banner_logo.png">
             </div>
             <!--NAVIGATION-->
             <nav id="navbar" class="navbar navbar-expand-lg">
@@ -112,7 +112,7 @@
                     <p>After a night long of hard work, grooving dub and amazing effects, a winner has been picked from the contestors.
                         The winner of Hot Like A Sauna's dub contest will open the Dub Castle on Irie Vibes Roots Festival 2018! ...
                     </p>
-                    <div class="text-center"><img class="img-responsive " src="/src/img/news/hot_like_a_sauna.jpg" width="82%"></div>
+                    <div class="text-center"><img class="img-fluid " src="/src/img/news/hot_like_a_sauna.jpg" width="82%"></div>
                     <br/>
                     <a href="/en/news/" class="btn btn-volunteer" role="button">Return to News</a>
                     <hr/>
