@@ -19,27 +19,8 @@
                 </div>
                 <div class="col-12">
                     <p class="mx-md-5">Are you a resident from Kortemark? Get your tickets at €10 off, upon showing your ID. <br/>For more info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
-                    <div id="eventsquare-store"></div>
-                    <div id="prices" class="row justify-content-sm-center d-none">
-                        <div class="col-sm-12 order-md-3 text-center mt-md-4">
-                            <p class="mx-md-5">Are you a resident from Kortemark? Get your tickets at €10 off, upon showing your ID. <br/>For more info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
-                            <button class="btn btn-pill btn-irie"><a class="text-white" href="https://www.eventbrite.be/e/tickets-irie-vibes-roots-festival-2019-56999174064"><i class="fas fa-shopping-cart"></i> Buy Tickets</a></button>
-                        </div>
-                        <div class="col-sm-4 text-center">
-                            <h4 class="my-3"><span class="text-box rounded" data-toggle="tooltip" data-placement="bottom" title="March 1 - July 17">Presale</span></h4>
-                            <div class="price">Thursday: FREE!</div>
-                            <div class="price">Friday: €15</div>
-                            <div class="price">Saturday: €20</div>
-                            <div class="price">Weekend: €30</div>
-                        </div>
-                        <div class="col-sm-4 text-center">
-                            <h4 class="my-3"><span class="text-box rounded" data-toggle="tooltip" data-placement="bottom" title="July 18-19-20">Entry sale</span></h4>
-                            <div class="price">Thursday: FREE!</div>
-                            <div class="price">Friday: €20</div>
-                            <div class="price">Saturday: €25</div>
-                            <div class="price">Weekend: €35</div>
-                        </div> 
-                    </div>
+                    <div id="eventsquare-store" alt="Eventsquare Store"></div>
+                    
                 </div>
                 <br/>
                 <div id="tickets" class="col-12 text-center">
