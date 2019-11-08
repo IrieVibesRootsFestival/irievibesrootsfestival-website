@@ -13,7 +13,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <h3 class="display-7 text-center">Tickets</h3>
-                    <p class="text-center text-irie"><b>July 18-19-20 2019</b></p>
+                    <p class="text-center text-irie"><b>July 16-17-18 2020</b></p>
                 </div>
                 <div class="col-12">
                     <p class="mx-md-5">Are you a resident from Kortemark? Get your tickets at €10 off, upon showing your ID. <br/>For more info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
