@@ -17,11 +17,7 @@
                     <h3 class="display-7 text-center">Tickets</h3>
                     <p class="text-center text-irie"><b>July 16-17-18 2020</b></p>
                 </div>
-                <div class="col-12">
-                    <p class="mx-md-5">Are you a resident from Kortemark? Get your tickets at €10 off, upon showing your ID. <br/>For more info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
-                    <div id="eventsquare-store" alt="Eventsquare Store"></div>
-                </div>
-                <br/>
+                <div id="eventsquare-store rounded" alt="Eventsquare Store"></div>
                 <div id="tickets" class="col-12 text-center">
                     <h1>Presale Shops</h1>
                     <div class="row">
@@ -33,6 +29,11 @@
                         <div class="col-6 col-md-2 p-1"><div class="rounded bg-white p-1"><a href="https://www.facebook.com/Halte-5-707298666029005/"><img class="rounded img-fluid" alt="Café Halte 5" src="/src/img/presale/halte5.jpg"></a><p class="my-1">Bruges</p></div></div>
                     </div>
                     <br/>
+                    <div class="col-12">
+                    <p class="mx-md-5">Are you a resident from Kortemark? Get your tickets at €10 off, upon showing your ID. <br/>For more info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
+                    
+                       <br/> 
+                </div>
                 </div>
             </div>
         </div>
