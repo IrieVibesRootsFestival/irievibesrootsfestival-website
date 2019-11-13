@@ -14,7 +14,7 @@
         <div class="container content">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h3 class="display-7 text-center">Tickets</h3>
+                    <h3 class="display-7 text-center m-1">Tickets</h3>
                     <p class="text-center text-irie"><b>July 16-17-18 2020</b></p>
                 </div>
                 <div class="col-12 rounded p-2 text-box-2"><div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div></div>
