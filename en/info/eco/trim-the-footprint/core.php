@@ -274,7 +274,7 @@
                 <img class="img-fluid rounded-circle w-50" src="/src/img/trimthefootprint/weedo.jpg" alt="Weedo Logo">
             </div>
             <div class="col-6 mt-2 text-center">
-                <img class="img-fluid rounded-circle w-50" src="/src/img/greenforward-large.png" alt="GreenForward Logo">
+                <img class="img-fluid rounded-circle w-50" src="/src/img/greenforward-large.webp" alt="GreenForward Logo">
             </div>
         </div>
     </div>
