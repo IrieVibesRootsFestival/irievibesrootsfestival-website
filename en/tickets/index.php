@@ -17,7 +17,7 @@
                     <h3 class="display-7 text-center m-1">Tickets</h3>
                     <p class="text-center text-irie"><b>July 16-17-18 2020</b></p>
                 </div>
-                <div class="col-12 rounded p-2 text-box-2"><div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div></div>
+                <div class="col-12 rounded"><div class="p-2 text-box-2 rounded"><div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div></div></div>
                 <div id="tickets" class="col-12 text-center">
                     <h1>Presale Shops</h1>
                     <div class="row">
