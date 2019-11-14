@@ -11,28 +11,28 @@
     </ol>
     <div class="carousel-inner rounded">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="/src/img/slideshow/1.jpg" alt="First slide">
+            <img class="d-block w-100" src="/src/img/slideshow/1.webp" alt="First slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/slideshow/2.jpg" alt="Second slide">
+            <img class="d-block w-100" src="/src/img/slideshow/2.webp" alt="Second slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/slideshow/3.jpg" alt="Third slide">
+            <img class="d-block w-100" src="/src/img/slideshow/3.webp" alt="Third slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/slideshow/4.jpg" alt="Fourth slide">
+            <img class="d-block w-100" src="/src/img/slideshow/4.webp" alt="Fourth slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/slideshow/5.jpg" alt="Fifth slide">
+            <img class="d-block w-100" src="/src/img/slideshow/5.webp" alt="Fifth slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/slideshow/6.jpg" alt="Sixth slide">
+            <img class="d-block w-100" src="/src/img/slideshow/6.webp" alt="Sixth slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/slideshow/7.jpg" alt="Seventh slide">
+            <img class="d-block w-100" src="/src/img/slideshow/7.webp" alt="Seventh slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/slideshow/8.jpg" alt="Eighth slide">
+            <img class="d-block w-100" src="/src/img/slideshow/8.webp" alt="Eighth slide">
         </div>
     </div>
     <a class="carousel-control-prev" href="#Carousel" role="button" data-slide="prev">
