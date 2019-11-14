@@ -13,7 +13,7 @@
                 <!-- Aftermovie -->
                 <div class="col-12 mb-md-3">
                     <div id="slider-wrapper" class="rounded p-2 mb-1">
-                        <div style="width:100%;height:0px;position:relative;padding-bottom:42.649%;"><iframe src="https://streamable.com/s/x3uj1/hysftr" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+                        <style>.embed-container { position: relative; padding-bottom: 43%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/371957649?autoplay=1&portrait=false&muted=true' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
                     </div>
                 </div>
                 <div class="col-12 my-md-3">
