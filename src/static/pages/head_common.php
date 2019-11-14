@@ -18,10 +18,6 @@
 <meta property="og:image:width" content="605" />
 <meta property="og:image:height" content="605" />
 <meta property="og:image:alt" content="Irie Vibes Roots Festival Buy Tickets" />  <!--Square OG Image (botched)-->
-<meta property="og:image" content="https://www.irievibes.be/src/img/logo_thumbnail_20192.png" /> 
-<meta property="og:image:width" content="500" />
-<meta property="og:image:height" content="500" />
-<meta property="og:image:alt" content="Irie Vibes Roots Festival Social Logo" />  
 <!--Landscape OG Image
 <meta property="og:image" content="https://www.irievibes.be/src/img/logo_landscape.png" /> 
 <meta property="og:image:width" content="1200" />
