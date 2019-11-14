@@ -3,8 +3,8 @@
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Tickets - Irie Vibes</title>
-        <meta property="og:title" content="Buy your tickets"/>
-        <meta property="og:description" content="Buy your Irie Vibes tickets in presale before it's too late! This is the place where it all begins. Irie Vibes invites you to their Back to The Roots edition during the heart of summer 2019 in Kortemark." /> 
+        <meta property="og:title" content="Early Birds! Buy your tickets!"/>
+        <meta property="og:description" content="The Early Bird ticket sale has started, and lasts until January 5th. Be quick! Supply is limited and the prices are hot!" /> 
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
@@ -18,6 +18,10 @@
                     <p class="text-center text-irie"><b>July 16-17-18 2020</b></p>
                 </div>
                 <div class="col-12 rounded"><div class="p-2 text-box-2 rounded"><div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div></div></div>
+                <div class="col-12">
+                        <p class="mx-md-5">Are you a resident from Kortemark? Get your tickets at €10 off, upon showing your ID. <br/>For more info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
+                        <br/> 
+                    </div>
                 <div id="tickets" class="col-12 text-center">
                     <h1>Presale Shops</h1>
                     <div class="row">
@@ -29,11 +33,6 @@
                         <div class="col-6 col-md-2 p-1"><div class="rounded bg-white p-1"><a href="https://www.facebook.com/Halte-5-707298666029005/"><img class="rounded img-fluid" alt="Café Halte 5" src="/src/img/presale/halte5.jpg"></a><p class="my-1">Bruges</p></div></div>
                     </div>
                     <br/>
-                    <div class="col-12">
-                    <p class="mx-md-5">Are you a resident from Kortemark? Get your tickets at €10 off, upon showing your ID. <br/>For more info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
-                    
-                       <br/> 
-                </div>
                 </div>
             </div>
         </div>
