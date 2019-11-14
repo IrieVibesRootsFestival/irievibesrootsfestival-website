@@ -25,7 +25,6 @@ RedirectMatch 301 /en/info/trim-the-footprint/(.*) /en/info/eco/trim-the-footpri
 RedirectMatch 301 /nl/info/trim-the-footprint/(.*) /nl/info/eco/trim-the-footprint/
 RedirectMatch 301 /fr/info/trim-the-footprint/(.*) /fr/info/eco/trim-the-footprint/
 
-//Caching schema
 <FilesMatch "\.(png|webp|jpg)$">
 Header set Cache-Control "public, max-age=7200"
 </FilesMatch>
