@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 Allow: /sitemap.xml
 Sitemap: https://www.irievibes.be/sitemap.xml
-Disallow: /src/
