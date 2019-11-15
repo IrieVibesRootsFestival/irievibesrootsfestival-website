@@ -19,16 +19,16 @@
                                 <div class="text-box rounded p-2">
                                     <!-- Anchor Navigation -->
                                     <nav class="nav">
-                                        <a class="nav-link text-irie" href="#camping_location">Locatie & prijs</a>
-                                        <a class="nav-link text-irie" href="#camping_hours">Openingsuren</a>
-                                        <a class="nav-link text-irie" href="#agreements">Afspraken</a>
-                                        <a class="nav-link text-irie" href="#facilities">Faciliteiten</a>
-                                        <a class="nav-link text-irie" href="#food_drinks">Voedsel</a>
-                                        <a class="nav-link text-irie" href="#entrance_exit">In- en uitgang</a>
-                                        <a class="nav-link text-irie" href="#camping_crimes">Camping-misdaden</a>
-                                        <a class="nav-link text-irie" href="#personal_belongings">Personal Belongings</a>
-                                        <a class="nav-link text-irie" href="#home"><i>The 7 Commandments</i></a>
-                                        <a class="nav-link text-danger" href="/src/static/grondplan_camping.pdf">Ground Plan</a>
+                                        <a class="nav-link text-irie d-block" href="#camping_location">Locatie & prijs</a>
+                                        <a class="nav-link text-irie d-block" href="#camping_hours">Openingsuren</a>
+                                        <a class="nav-link text-irie d-block" href="#agreements">Afspraken</a>
+                                        <a class="nav-link text-irie d-block" href="#facilities">Faciliteiten</a>
+                                        <a class="nav-link text-irie d-block" href="#food_drinks">Voedsel</a>
+                                        <a class="nav-link text-irie d-block" href="#entrance_exit">In- en uitgang</a>
+                                        <a class="nav-link text-irie d-block" href="#camping_crimes">Camping-misdaden</a>
+                                        <a class="nav-link text-irie d-block" href="#personal_belongings">Personal Belongings</a>
+                                        <a class="nav-link text-irie d-block" href="#home"><i>The 7 Commandments</i></a>
+                                        <a class="nav-link text-danger d-block" href="/src/static/grondplan_camping.pdf">Ground Plan</a>
                                     </nav>
                                 </div>
                             </div>
