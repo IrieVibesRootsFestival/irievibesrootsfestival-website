@@ -15,7 +15,7 @@
                 <div class="container">
                     <div class="row">
                         <div id="accomodation-nav" class="col-12 col-lg-3 order-lg-2 ">
-                            <div class="text-box-2 rounded p-3">
+                            <div class="text-box-2 rounded p-2">
                                 <div class="text-box rounded p-2">
                                     <!-- Anchor Navigation -->
                                     <nav class="nav">
