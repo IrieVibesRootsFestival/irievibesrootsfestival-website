@@ -1,6 +1,6 @@
 <div class="row">
     <!-- Image -->
-    <div class="col-10 col-md-5 ml-4 ml-md-0"><img src="/src/img/news/reggae-be-irie-vibes-2019-de-tweede-jeugd-van-een-festival.jpg" class="img-fluid rounded"/></div>
+    <div class="col-10 col-md-5 ml-4 ml-md-0"><img src="/src/img/news/reggae-be-irie-vibes-2019-de-tweede-jeugd-van-een-festival.webp" class="img-fluid rounded"/></div>
     <!-- Title & Text -->
     <div class="col-12 col-md-7 mt-2">
         <a href="http://www.reggae.be/nl/news?id=15437&fbclid=IwAR1jj7TppgJhZoKyvBT_IRwkXnpvabAGrOu3pyu-sq9r8-PKZl9dtpzfDEM"><h4>Irie Vibes 2019: De tweede jeugd van een festival</h4></a>
@@ -9,7 +9,7 @@
 </div>
 <div class="row">
     <!-- Image -->
-    <div class="col-10 col-md-5 ml-4 ml-md-0"><img src="/src/img/news/nieuwsblad-be-muziek-en-ecologie-drie-dagen-centraal.jpg" class="img-fluid rounded"/></div>
+    <div class="col-10 col-md-5 ml-4 ml-md-0"><img src="/src/img/news/nieuwsblad-be-muziek-en-ecologie-drie-dagen-centraal.webp" class="img-fluid rounded"/></div>
     <!-- Title & Text -->
     <div class="col-12 col-md-7 mt-2">
         <a href="https://www.nieuwsblad.be/cnt/dmf20190716_04513998"><h4>Muziek en ecologie drie dagen centraal
