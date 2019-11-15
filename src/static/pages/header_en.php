@@ -20,7 +20,7 @@
             <!-- This is the Navbar's "Content" -->
             <a href="/en/"><img alt="Navigation Brand" src="/src/img/nav-img.png"></a>
             <div class="collapse navbar-collapse" id="navbarText">
-                <ul class="navbar-nav mr-auto d-md-flex align-items-center">
+                <ul class="navbar-nav mr-auto d-md-flex px-2 px-md-0">
                     <li class="nav-item">
                         <a class="nav-link" href="/en/"><i class="fas fa-home"><span class="d-lg-none"> Home</span></i><span class="sr-only">(current)</span></a>
                     </li>
