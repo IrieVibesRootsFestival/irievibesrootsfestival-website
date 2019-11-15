@@ -140,6 +140,7 @@ header a{
     letter-spacing: 0.5px;
     content: "]";
 }
+#navbar>.fa-bars{color:#f9d831}
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     background-color: #4F0112;
 }
