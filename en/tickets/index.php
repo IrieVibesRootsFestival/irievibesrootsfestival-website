@@ -17,11 +17,14 @@
                     <h3 class="display-7 text-center m-1">Tickets</h3>
                     <p class="text-center text-irie"><b>July 16-17-18 2020</b></p>
                 </div>
-                <div class="col-12 rounded"><div class="p-2 text-box-2 rounded"><div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div></div></div>
-                <div class="col-12">
-                        <p class="mx-md-5">Are you a resident from Kortemark? Get your tickets at €10 off, upon showing your ID. <br/>For more info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
-                        <br/> 
+                <div class="col-12 rounded">
+                    <div class="p-2 text-box-2 rounded">
+                        <div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div>
                     </div>
+                </div>
+                <div class="col-12 py-2">
+                    <p class="mx-md-5">Are you a resident from Kortemark? Get your tickets at €10 a day, upon showing your ID. <br/>For more info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
+                </div>
                 <div id="tickets" class="col-12 text-center">
                     <h1>Presale Shops</h1>
                     <div class="row">

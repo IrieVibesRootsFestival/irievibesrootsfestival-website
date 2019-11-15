@@ -17,11 +17,14 @@
                     <h3 class="display-7 text-center m-1">Billets</h3>
                     <p class="text-center text-irie"><b>Juillet 16-17-18 2020</b></p>
                 </div>
-                <div class="col-12 rounded"><div class="p-2 text-box-2 rounded"><div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div></div></div>
-                <div class="col-12">
+                <div class="col-12 rounded">
+                    <div class="p-2 text-box-2 rounded">
+                        <div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div>
+                    </div>
+                </div>
+                <div class="col-12 py-2">
                     <p class="mx-md-5">Êtes-vous un résident de Kortemark? 
-                        Obtenez vos billets à 10 € de réduction sur présentation de votre identifiant.<br/> Pour plus d'informations: <a href="mailto:info@irievibes.be">info@irievibes.be</a></p>
-                    <br/> 
+                        Obtenez vos billets à 10 € par jour sur présentation de votre identifiant.<br/> Pour plus d'informations: <a href="mailto:info@irievibes.be">info@irievibes.be</a></p>
                 </div>
                 <div id="tickets" class="col-12 text-center">
                     <div id="tickets" class="container text-center">
