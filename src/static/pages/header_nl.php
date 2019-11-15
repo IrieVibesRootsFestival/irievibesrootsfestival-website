@@ -64,7 +64,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link"href="#footer-anchor"><i class="fas fa-info-circle"></i><span class="d-lg-none"> Info</span></a>
+                        <a class="nav-link"href="#footer-anchor"><i class="fas fa-info-circle"></i> Info</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#ShoppingCart"><i class="fas fa-shopping-cart"></i><span class="d-lg-none"> Merch Store</span></a>
