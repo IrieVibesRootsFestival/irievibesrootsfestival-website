@@ -15,7 +15,7 @@
         <div class="container">
             <!-- This allows the Navbar to become smaller on a smaller mobile device. -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-                <i class="fas fa-bars"></i>
+                <i class="fas fa-bars text-warning"></i>
             </button>
             <!-- This is the Navbar's "Content" -->
             <a href="/nl/"><img  src="/src/img/nav-img.png"></a>

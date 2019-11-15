@@ -123,15 +123,11 @@ header a{
     line-height:32px;
 }
 #navbar .navbar-nav .nav-link:focus,
-#navbar .navbar-nav .nav-link:hover {
-    color: rgba(255, 255, 255, .75)
-}
+#navbar .navbar-nav .nav-link:hover {color: rgba(255, 255, 255, .75)}
 #navbar .navbar-nav .active>.nav-link,
 #navbar .navbar-nav .nav-link.active,
 #navbar .navbar-nav .nav-link.show,
-#navbar .navbar-nav .show>.nav-link {
-    color: #fff;
-}
+#navbar .navbar-nav .show>.nav-link {color: #fff;}
 #navbar .navbar-nav .active>.nav-link::before {
     letter-spacing: 0.5px;
     content: "[";
@@ -140,10 +136,7 @@ header a{
     letter-spacing: 0.5px;
     content: "]";
 }
-#navbar>.fa-bars{color:#f9d831}
-.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
-    background-color: #4F0112;
-}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {background-color: #4F0112;}
 .nav-pills > li {
     float:none;
     display:inline-block;
@@ -151,9 +144,7 @@ header a{
     zoom:1; /* hasLayout ie7 trigger */
 }
 
-.nav-pills {
-    text-align:center;
-}
+.nav-pills{text-align:center;}
 
 /*Cast the shadow on the dropdown*/
 .navbar-nav .dropdown-menu{box-shadow: 0 0px 12px 1px #1b1e21;}
@@ -197,22 +188,16 @@ footer .row, footer p{margin:0;}
     color: #1c1f22;
 }
 
-footer #btn-social {
-    padding:8px;
-}
-
+footer #btn-social{padding:8px;}
 footer a {font-style:normal}
-
 footer .footer-nav ul.pages { list-style:none; padding:0px; }
 footer .footer-nav ul.pages li { padding:5px 0px;}
-footer .footer-nav ul.pages a { color:rgba(255,255,255,1.00); letter-spacing: 1px; text-transform:uppercase; }
-footer .footer-nav ul.pages a:hover { color:rgba(255,255,255,0.80); text-decoration:none; }
-
+footer .footer-nav ul.pages a { color:rgba(255,255,255,1.00); letter-spacing: 1px; text-transform:uppercase;}
+footer .footer-nav ul.pages a:hover { color:rgba(255,255,255,0.80); text-decoration:none;}
 footer .footer-nav ul.list { list-style:none; padding:0px; }
 footer .footer-nav ul.list li { padding:5px 0px;}
 footer .footer-nav ul.list a { color:rgba(255,255,255,0.80); }
 footer .footer-nav ul.list a:hover { color:rgba(255,255,255,0.60); text-decoration:none; }
-
 .highlight-black{
     background-color: #1b1e21;
     box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.55);
