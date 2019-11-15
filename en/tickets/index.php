@@ -22,7 +22,7 @@
                         <div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div>
                     </div>
                 </div>
-                <div class="col-12 py-2">
+                <div class="col-12 py-3">
                     <p class="mx-md-5">Are you a resident from Kortemark? Get your tickets at €10 a day, upon showing your ID. <br/>For more info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
                 </div>
                 <div id="tickets" class="col-12 text-center">

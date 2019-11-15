@@ -22,7 +22,7 @@
                         <div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div>
                     </div>
                 </div>
-                <div class="col-12 py-2">
+                <div class="col-12 py-3">
                     <p class="mx-md-5">Êtes-vous un résident de Kortemark? 
                         Obtenez vos billets à 10 € par jour sur présentation de votre identifiant.<br/> Pour plus d'informations: <a href="mailto:info@irievibes.be">info@irievibes.be</a></p>
                 </div>
