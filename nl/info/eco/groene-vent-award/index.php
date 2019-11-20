@@ -25,10 +25,10 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/eco/ge-0.webp"/></div>
-                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/eco/ge-1.webp"/></div>
-                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/eco/ge-2.webp"/></div>
-                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/eco/ge-3.webp"/></div>
+                <div class="col-12 col-md-6"><img class="img-fluid rounded" src="/src/img/eco/ge-0.webp"/></div>
+                <div class="col-12 col-md-6"><img class="img-fluid rounded" src="/src/img/eco/ge-1.webp"/></div>
+                <div class="col-12 col-md-6"><img class="img-fluid rounded" src="/src/img/eco/ge-2.webp"/></div>
+                <div class="col-12 col-md-6"><img class="img-fluid rounded" src="/src/img/eco/ge-3.webp"/></div>
             </div>
         </div>
         <!-- Include Footer -->
