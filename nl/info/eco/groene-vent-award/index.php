@@ -20,7 +20,7 @@
                     </ul>
                 </div>
                 <div class="col-12 col-md-3 rounded">
-                    <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729/" data-width="100%" data-show-text="false">
+                    <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729/" data-width="auto" data-show-text="false">
                     </div>
                 </div>
             </div>
@@ -36,4 +36,6 @@
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
+    <div id="fb-root"></div>
+    <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
 </html>
