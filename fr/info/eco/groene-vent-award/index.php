@@ -10,7 +10,27 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <div class="container content">         
             <h1 style="margin-bottom:5px" class="display-7 text-center">Groene Vent Award</h1>
+            <br/>
+            <div class="row">
+                <div class="col-12 col-md-9">
+                    <p>Vous savez que …</p>
+                    <ul>
+                        <li>on a gagné le Ovam Green Event Award en 2018?</li>
+                        <li>in 2018, we received the Ovam Green Event Award for our ecological actions?</li>
+                    </ul>
+                </div>
+                <div class="col-12 col-md-3 rounded">
+                    <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729/" data-width="100%" data-show-text="false">
+                    </div>
+                </div>
             </div>
+            <div class="row">
+                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/eco/ge-0.webp"/></div>
+                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/eco/ge-1.webp"/></div>
+                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/eco/ge-2.webp"/></div>
+                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/eco/ge-3.webp"/></div>
+            </div>
+        </div>
         <!-- Include Footer -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>        
     </body>
