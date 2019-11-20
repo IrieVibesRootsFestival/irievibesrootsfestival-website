@@ -12,23 +12,23 @@
             <h1 style="margin-bottom:5px" class="display-7 text-center">Groene Vent Award</h1>
             <br/>
             <div class="row">
-                <div class="col-12 col-md-9">
+                <div class="col-12 col-md-8">
                     <p>Wist je dat …</p>
                     <ul>
                         <li>we in 2017 behoorden tot de finalisten van het GroenEvent Award?</li>
                         <li>onze ecologische initiatieven ervoor zorgen dat we in 2018 de GroenEvent Award mochten ontvangen binnen de categorie kleine evenementen?</li>
                     </ul>
                 </div>
-                <div class="col-12 col-md-3 rounded">
+                <div class="col-12 col-md-4 rounded">
                     <div class="fb-video" data-href="https://www.facebook.com/groenevent/videos/2178656492159810/" data-width="auto" data-show-text="false">
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 col-md-6"><img class="img-fluid rounded" src="/src/img/eco/ge-0.webp"/></div>
-                <div class="col-12 col-md-6"><img class="img-fluid rounded" src="/src/img/eco/ge-1.webp"/></div>
-                <div class="col-12 col-md-6"><img class="img-fluid rounded" src="/src/img/eco/ge-2.webp"/></div>
-                <div class="col-12 col-md-6"><img class="img-fluid rounded" src="/src/img/eco/ge-3.webp"/></div>
+                <div class="col-12 col-md-6 mb-2"><img class="img-fluid rounded" src="/src/img/eco/ge-0.webp"/></div>
+                <div class="col-12 col-md-6 mb-2"><img class="img-fluid rounded" src="/src/img/eco/ge-1.webp"/></div>
+                <div class="col-12 col-md-6 mb-2"><img class="img-fluid rounded" src="/src/img/eco/ge-2.webp"/></div>
+                <div class="col-12 col-md-6 mb-2"><img class="img-fluid rounded" src="/src/img/eco/ge-3.webp"/></div>
             </div>
         </div>
         <!-- Include Footer -->
