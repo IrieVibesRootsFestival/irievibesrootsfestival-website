@@ -12,7 +12,6 @@
             <h1 style="margin-bottom:5px" class="display-7 text-center">Le Team Eco</h1>
             <br/>
             <div class="row">
-                <div class="col-12 col-md-3 order-md-2"><img class="img-fluid rounded" src="/src/img/partners/mooimakers.jpg"/></div>
                 <div class="col-12 col-md-9">
                     <p>Vous savez que…</p>
                     <ul>
@@ -24,6 +23,7 @@
                         <li>vous pouvez visiter le compost mobile pendant le festival?</li>
                     </ul>
                 </div>
+                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/partners/mooimakers.jpg"/></div>
             </div>
             <!-- Mooimakers Pictures -->
             <div class="row">

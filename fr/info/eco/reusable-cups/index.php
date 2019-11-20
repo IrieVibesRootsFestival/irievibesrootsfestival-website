@@ -9,8 +9,29 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <div class="container content">         
-            <h1 style="margin-bottom:5px" class="display-7 text-center">Gobelets réutilisables</h1>
+            <h1 style="margin-bottom:5px" class="display-7 text-center">Gobelets reutilisables</h1>
+            <br/>
+            <div class="row">
+                <div class="col-12 col-md-9">
+                    <p>Vous savez que...</p>
+                    <ul>
+                        <li>nous utilisons uniquement des gobelets réutilisables depuis le début de Irie Vibes Roots Festival?</li>
+                        <li>nos pailles sont dégradables?</li>
+                        <li>nos jetons sont fabriquées à partir d’amidon extrait de pelures de pomme de terre et l’encre est entièrement biodégradable dans un an?</li>
+                        <li>vous empruntez nos gobelets pendant le festival ? Vous payez un certain montant pour votre premier gobelet et au retour, nous vous rembourserons.</li>
+                        <li>vous pouvez échanger les gobelets dans la salle des coupons, mais aussi le dimanche au bar du camping?</li>
+                    </ul>
+                </div>
+                <div class="col-12 col-md-3 text-center"><img class="img-fluid rounded" src="/src/img/eco/cups-main.webp"/>
+                    <small>nos propres gobelets avec logo</small>
+                </div>
             </div>
+            <!-- Pictures -->
+            <div class="row">
+                <div class="col-12 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/cups-0.webp"/></div>
+                <div class="col-12 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/cups-1.webp"/></div>
+            </div>
+        </div>
         <!-- Include Footer -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>        
     </body>

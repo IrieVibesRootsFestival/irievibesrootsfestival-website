@@ -12,7 +12,6 @@
             <h1 style="margin-bottom:5px" class="display-7 text-center">Waterrecyclage</h1>
             <br/>
             <div class="row">
-                <div class="col-12 col-md-3 order-md-2"><img class="img-fluid rounded" src="/src/img/partners/desotec.jpg"/></div>
                 <div class="col-12 col-md-9">
                     <p>Wist je dat…</p>
                     <ul>
@@ -20,11 +19,12 @@
                         <li>elke druppel water bij ons tot 5 maal toe gezuiverd en hergebruikt wordt?</li>
                     </ul>
                 </div>
+                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/partners/desotec.jpg"/></div>
             </div>
             <div class="row">
-                <div class="col-12 col-md-4"><img class="img-fluid rounded" src="/src/img/eco/clean-water-info.png"/></div>
-                <div class="col-12 col-md-4"><img class="img-fluid rounded" src="/src/img/eco/clean-water-desotec-filter.jpg"/></div>
-                <div class="col-12 col-md-4"><img class="img-fluid rounded" src="/src/img/eco/clean-water-system.jpg"/></div>
+                <div class="col-12 col-md-4"><img class="img-fluid rounded" src="/src/img/eco/clean-water-info.webp"/></div>
+                <div class="col-12 col-md-4"><img class="img-fluid rounded" src="/src/img/eco/clean-water-desotec-filter.webp"/></div>
+                <div class="col-12 col-md-4"><img class="img-fluid rounded" src="/src/img/eco/clean-water-system.webp"/></div>
             </div>
         </div>
         <!-- Include Footer -->

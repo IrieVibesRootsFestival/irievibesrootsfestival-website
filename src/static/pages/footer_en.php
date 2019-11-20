@@ -12,7 +12,7 @@
                         <ul class="pages">
                             <li><a href="/en/info/faq/">FAQ</a></li>
                             <li><a href="/en/crew/">Crew</a></li>
-                            <li><a href="/en/info/trim-the-footprint/">Trim The<br/>Footprint</a></li>
+                            <li><a href="/en/info/eco/trim-the-footprint/">Trim The<br/>Footprint</a></li>
                         </ul>
                     </div>
                     <div class="col-12 col-md-6">
