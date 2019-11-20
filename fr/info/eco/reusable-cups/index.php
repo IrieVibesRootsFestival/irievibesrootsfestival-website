@@ -22,16 +22,16 @@
                         <li>vous pouvez échanger les gobelets dans la salle des coupons, mais aussi le dimanche au bar du camping?</li>
                     </ul>
                 </div>
-                <div class="col-12 col-md-3 text-center"><img class="img-fluid rounded" src="/src/img/eco/cups-main.jpg"/>
+                <div class="col-12 col-md-3 text-center"><img class="img-fluid rounded" src="/src/img/eco/cups-main.webp"/>
                     <small>nos propres gobelets avec logo</small>
                 </div>
             </div>
             <!-- Pictures -->
             <div class="row">
-                <div class="col-12 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/cups-0.jpg"/></div>
-                <div class="col-12 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/cups-1.jpg"/></div>
+                <div class="col-12 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/cups-0.webp"/></div>
+                <div class="col-12 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/cups-1.webp"/></div>
             </div>
-            </div>
+        </div>
         <!-- Include Footer -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>        
     </body>
