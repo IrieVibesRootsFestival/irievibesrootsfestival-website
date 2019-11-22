@@ -73,9 +73,10 @@
                     </div>
                 </div>
             </div>
-            <!-- Include Footer -->
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>        
-            </body>
-        <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
-        </html>
+        </div>
+        <!-- Include Footer -->
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>        
+    </body>
+    <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
+</html>

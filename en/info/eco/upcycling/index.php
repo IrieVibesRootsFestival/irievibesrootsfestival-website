@@ -74,6 +74,7 @@
                         </picture>  
                     </div>
                 </div>
+            </div>
         </div>
         <!-- Include Footer -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_en.php');?>        
