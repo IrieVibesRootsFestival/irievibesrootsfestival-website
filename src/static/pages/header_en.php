@@ -64,6 +64,7 @@
                             <li><a class="nav-link drop-2" href="/en/info/eco/reusable-cups/">Reusable cups</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/groene-vent-award/"><i>Groene Vent</i></a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/clean-water/">Clean water</a></li>
+                            <li><a class="nav-link drop-2" href="/en/info/eco/upcycling/">Upcycling</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">

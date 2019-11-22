@@ -61,6 +61,7 @@
                             <li><a class="nav-link drop-2" href="/nl/info/eco/reusable-cups/">Herbruikbare bekers</a></li>
                             <li><a class="nav-link drop-2" href="/nl/info/eco/groene-vent-award/"><i>Groene Vent</i></a></li>
                             <li><a class="nav-link drop-2" href="/nl/info/eco/clean-water/">Waterrecyclage</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/upcycling/">Upcycling</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
