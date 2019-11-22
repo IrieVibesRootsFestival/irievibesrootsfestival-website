@@ -11,28 +11,60 @@
     </ol>
     <div class="carousel-inner rounded">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="/src/img/slideshow/1.webp" alt="First slide">
+            <picture>
+                <source srcset="/src/img/slideshow/1.webp" type="image/webp">
+                <source srcset="/src/img/slideshow/1.jpg" type="image/jpeg">
+                <img class="d-block w-100" src="/src/img/slideshow/1.jpg" alt="Eighth slide">
+            </picture>  
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/slideshow/2.webp" alt="Second slide">
+            <picture>
+                <source srcset="/src/img/slideshow/2.webp" type="image/webp">
+                <source srcset="/src/img/slideshow/2.jpg" type="image/jpeg">
+                <img class="d-block w-100" src="/src/img/slideshow/2.jpg" alt="Eighth slide">
+            </picture>  
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/slideshow/3.webp" alt="Third slide">
+            <picture>
+                <source srcset="/src/img/slideshow/3.webp" type="image/webp">
+                <source srcset="/src/img/slideshow/3.jpg" type="image/jpeg">
+                <img class="d-block w-100" src="/src/img/slideshow/3.jpg" alt="Eighth slide">
+            </picture>  
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/slideshow/4.webp" alt="Fourth slide">
+            <picture>
+                <source srcset="/src/img/slideshow/4.webp" type="image/webp">
+                <source srcset="/src/img/slideshow/4.jpg" type="image/jpeg">
+                <img class="d-block w-100" src="/src/img/slideshow/4.jpg" alt="Eighth slide">
+            </picture>  
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/slideshow/5.webp" alt="Fifth slide">
+            <picture>
+                <source srcset="/src/img/slideshow/5.webp" type="image/webp">
+                <source srcset="/src/img/slideshow/5.jpg" type="image/jpeg">
+                <img class="d-block w-100" src="/src/img/slideshow/5.jpg" alt="Eighth slide">
+            </picture>  
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/slideshow/6.webp" alt="Sixth slide">
+            <picture>
+                <source srcset="/src/img/slideshow/6.webp" type="image/webp">
+                <source srcset="/src/img/slideshow/6.jpg" type="image/jpeg">
+                <img class="d-block w-100" src="/src/img/slideshow/6.jpg" alt="Eighth slide">
+            </picture>  
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/slideshow/7.webp" alt="Seventh slide">
+            <picture>
+                <source srcset="/src/img/slideshow/7.webp" type="image/webp">
+                <source srcset="/src/img/slideshow/7.jpg" type="image/jpeg">
+                <img class="d-block w-100" src="/src/img/slideshow/7.jpg" alt="Eighth slide">
+            </picture>  
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/slideshow/8.webp" alt="Eighth slide">
+            <picture>
+                <source srcset="/src/img/slideshow/8.webp" type="image/webp">
+                <source srcset="/src/img/slideshow/8.jpg" type="image/jpeg">
+                <img class="d-block w-100" src="/src/img/slideshow/8.jpg" alt="Eighth slide">
+            </picture>  
         </div>
     </div>
     <a class="carousel-control-prev" href="#Carousel" role="button" data-slide="prev">
