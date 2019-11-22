@@ -27,18 +27,90 @@
             </div>
             <!-- Mooimakers Pictures -->
             <div class="row">
-                <div class="col-12 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/ttf-mooimaker.jpg"/></div>
-                <div class="col-12 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-4.jpg"/></div>
-                <div class="col-6 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-0.jpg"/></div>
-                <div class="col-6 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-2.jpg"/></div>
-                <div class="col-12 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-head.jpg"></div>
-                <div class="col-6 col-md-3 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-1.jpg"/></div>
-                <div class="col-6 col-md-3 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-3.jpg"/></div>
-                <div class="col-6 col-md-3 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/eco-team-0.jpg"/></div>
-                <div class="col-6 col-md-3 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/eco-team-1.jpg"/></div>
-                <div class="col-6 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/eco-team-2.jpg"/></div>
-                <div class="col-6 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/eco-team-3.jpg"/></div>
-                <div class="col-12 col-md-4 p-1"><img class="img-fluid rounded" src="/src/img/eco/mooimakers/compostmobiel.jpg"></div>
+                <div class="col-12 col-md-6 p-1">
+                    <picture>
+                        <source srcset="/src/img/eco/mooimakers/ttf-mooimaker.webp" type="image/webp">
+                        <source srcset="/src/img/eco/mooimakers/ttf-mooimaker.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/mooimakers/ttf-mooimaker.jpg"/>
+                    </picture>
+                </div>
+                <div class="col-12 col-md-6 p-1">
+                    <picture>
+                        <source srcset="/src/img/eco/mooimakers/cleanup-day-4.webp" type="image/webp">
+                        <source srcset="/src/img/eco/mooimakers/cleanup-day-4.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-4.jpg"/>
+                    </picture>
+                </div>
+                <div class="col-6 col-md-4 p-1">
+                    <picture>
+                        <source srcset="/src/img/eco/mooimakers/cleanup-day-0.webp" type="image/webp">
+                        <source srcset="/src/img/eco/mooimakers/cleanup-day-0.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-0.jpg"/>
+                    </picture>
+                </div>
+                <div class="col-6 col-md-4 p-1">
+                    <picture>
+                        <source srcset="/src/img/eco/mooimakers/cleanup-day-2.webp" type="image/webp">
+                        <source srcset="/src/img/eco/mooimakers/cleanup-day-2.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-2.jpg"/>
+                    </picture>
+                </div>
+                <div class="col-12 col-md-4 p-1">
+                    <picture>
+                        <source srcset="/src/img/eco/mooimakers/cleanup-day-head.webp" type="image/webp">
+                        <source srcset="/src/img/eco/mooimakers/cleanup-day-head.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-head.jpg"/>
+                    </picture>
+                </div>
+                <div class="col-6 col-md-3 p-1">
+                    <picture>
+                        <source srcset="/src/img/eco/mooimakers/cleanup-day-1.webp" type="image/webp">
+                        <source srcset="/src/img/eco/mooimakers/cleanup-day-1.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-1.jpg"/>
+                    </picture>
+                </div>
+                <div class="col-6 col-md-3 p-1">
+                    <picture>
+                        <source srcset="/src/img/eco/mooimakers/cleanup-day-3.webp" type="image/webp">
+                        <source srcset="/src/img/eco/mooimakers/cleanup-day-3.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-3.jpg"/>
+                    </picture>
+                </div>
+                <div class="col-6 col-md-3 p-1">
+                    <picture>
+                        <source srcset="/src/img/eco/mooimakers/eco-team-0.webp" type="image/webp">
+                        <source srcset="/src/img/eco/mooimakers/eco-team-0.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/mooimakers/eco-team-0.jpg">
+                    </picture>
+                </div>
+                <div class="col-6 col-md-3 p-1">
+                    <picture>
+                        <source srcset="/src/img/eco/mooimakers/eco-team-1.webp" type="image/webp">
+                        <source srcset="/src/img/eco/mooimakers/eco-team-1.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/mooimakers/eco-team-1.jpg">
+                    </picture>
+                </div>
+                <div class="col-6 col-md-4 p-1">
+                    <picture>
+                        <source srcset="/src/img/eco/mooimakers/eco-team-2.webp" type="image/webp">
+                        <source srcset="/src/img/eco/mooimakers/eco-team-2.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/mooimakers/eco-team-2.jpg">
+                    </picture>
+                </div>
+                <div class="col-6 col-md-4 p-1">
+                    <picture>
+                        <source srcset="/src/img/eco/mooimakers/eco-team-3.webp" type="image/webp">
+                        <source srcset="/src/img/eco/mooimakers/eco-team-3.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/mooimakers/eco-team-3.jpg">
+                    </picture>
+                </div>
+                <div class="col-12 col-md-4 p-1">
+                    <picture>
+                        <source srcset="/src/img/eco/mooimakers/compostmobiel.webp" type="image/webp">
+                        <source srcset="/src/img/eco/mooimakers/compostmobiel.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/mooimakers/compostmobiel.jpg">
+                    </picture>
+                </div>
             </div>
         </div>   
         <!-- Include Footer -->

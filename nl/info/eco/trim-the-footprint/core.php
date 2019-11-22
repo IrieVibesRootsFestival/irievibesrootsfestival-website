@@ -2,7 +2,11 @@
     <div class="col-12 col-md-12">                    
         <h1 class="display-7 text-center">Trim The Footprint</h1>
         <h3 class="text-irie text-uppercase "><b>Voorwoord</b></h3>
-        <img class="img-fluid rounded float-right w-25" src="/src/img/trimthefootprint/trimthefootprint.png" alt="TTF Logo">
+        <picture>
+            <source srcset="/src/img/eco/trim-the-footprint/trimthefootprint.webp" type="image/webp">
+            <source srcset="/src/img/eco/trim-the-footprint/trimthefootprint.png" type="image/png">
+            <img class="img-fluid rounded float-right w-25" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" alt="TTF Logo">
+        </picture>
         <p>
             Klimaatverandering vereist oplossingen op (inter)nationaal, lokaal en persoonlijk niveau … Maar om echt een impact te hebben, is het wereldwijd belangrijk om het economische en sociale model te veranderen. Om dit te bereiken, moeten we samenwerken buiten onze eigen cirkel, beyond borders.
         </p>
@@ -236,15 +240,51 @@
                     In 2019 sponsorde vzw Greenforward een banda waar de vrouwen van WEEDO samen kunnen komen. 
                 </p>
                 <div class="row">
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-1.jpg"></div>
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-2.jpg"></div>
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-3.jpg"></div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-1.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-1.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-1.jpg"/>
+                        </picture>
+                    </div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-2.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-2.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-2.jpg"/>
+                        </picture>
+                    </div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-3.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-3.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-3.jpg"/>
+                        </picture>
+                    </div>
                 </div>
                 <p>In de zomer van 2019, sloegen vzw Greenforward en Weedo de handen in elkaar om 150 bomen te planten in de regio van Kigamboni.</p>
                 <div class="row">
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-4.jpg"></div>
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-5.jpg"></div>
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-6.jpg"></div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-4.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-4.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-4.jpg"/>
+                        </picture>
+                    </div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-5.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-5.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-5.jpg"/>
+                        </picture>
+                    </div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-6.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-6.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-6.jpg"/>
+                        </picture>
+                    </div>
                 </div>
                 <p>
                     Maar, we willen meer.<br/>
@@ -253,8 +293,20 @@
                     Beide organisaties hebben op regelmatige basis contact met elkaar. Via social media, emailverkeer en skype calls houden we elkaar op de hoogte van onze activiteiten. Daarnaast bezoeken leden van vzw Greenforward jaarlijks Weedo. Samen gaan de organisaties in overleg met lokale overheden, ngo’s en de plaatselijke WEWE groepen.
                 </p>
                 <div class="row">
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-7.jpg"></div>
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-8.jpg"></div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-7.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-7.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-7.jpg"/>
+                        </picture>
+                    </div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-6.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-8.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-8.jpg"/>
+                        </picture>
+                    </div>
                 </div>
                 <div class="text-center my-4">
                     <h1 class="quote">"If you educate a woman, you educate a whole nation"</h1>
@@ -262,10 +314,18 @@
                 </div>
             </div>
             <div class="col-6 mt-2 text-center">
-                <img class="img-fluid rounded-circle w-50" src="/src/img/trimthefootprint/weedo.jpg" alt="Weedo Logo">
+                <picture>
+                    <source srcset="/src/img/eco/trim-the-footprint/weedo-logo.webp" type="image/webp">
+                    <source srcset="/src/img/eco/trim-the-footprint/weedo-logo.jpg" type="image/jpeg">
+                    <img class="img-fluid rounded-circle w-50" src="/src/img/eco/trim-the-footprint/weedo-logo.jpg" alt="Weedo Logo">
+                </picture>
             </div>
             <div class="col-6 mt-2 text-center">
-                <img class="img-fluid rounded-circle w-50" src="/src/img/greenforward-large.webp" alt="GreenForward Logo">
+                <picture>
+                    <source srcset="/src/img/greenforward-large.webp" type="image/webp">
+                    <source srcset="/src/img/greenforward-large.png" type="image/png">
+                    <img class="img-fluid rounded-circle w-50" src="/src/img/greenforward-large.png" alt="GreenForward Logo">
+                </picture>
             </div>
         </div>
     </div>

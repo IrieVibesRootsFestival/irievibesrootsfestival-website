@@ -34,7 +34,14 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-6 order-md-1">
-                    <div class="mb-md-2"><a href="/src/img/trimthefootprint/map.png"><img class="img-fluid rounded" src="/src/img/trimthefootprint/map.png" alt="Esperanzah! festival"></a>
+                    <div class="mb-md-2">
+                        <a href="/src/img/eco/trim-the-footprint/map.png">
+                            <picture>
+                                <source srcset="/src/img/eco/trim-the-footprint/map.webp" type="image/webp">
+                                <source srcset="/src/img/eco/trim-the-footprint/map.png" type="image/png">
+                                <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/map.png" alt="Esperanzah! festival">
+                            </picture>
+                        </a>
                     </div>
                 </div>
             </div>

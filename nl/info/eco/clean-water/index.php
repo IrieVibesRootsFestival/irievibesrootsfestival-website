@@ -22,9 +22,27 @@
                 <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/partners/desotec.jpg"/></div>
             </div>
             <div class="row">
-                <div class="col-12 col-md-4"><img class="img-fluid rounded" src="/src/img/eco/clean-water-info.webp"/></div>
-                <div class="col-12 col-md-4"><img class="img-fluid rounded" src="/src/img/eco/clean-water-desotec-filter.webp"/></div>
-                <div class="col-12 col-md-4"><img class="img-fluid rounded" src="/src/img/eco/clean-water-system.webp"/></div>
+                <div class="col-12 col-md-4">
+                    <picture>
+                        <source srcset="/src/img/eco/clean-water/clean-water-info.webp" type="image/webp">
+                        <source srcset="/src/img/eco/clean-water/clean-water-info.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/clean-water/clean-water-infor.jpg"/>
+                    </picture>
+                </div>
+                <div class="col-12 col-md-4">
+                    <picture>
+                        <source srcset="/src/img/eco/clean-water/clean-water-desotec-filter.webp" type="image/webp">
+                        <source srcset="/src/img/eco/clean-water/clean-water-desotec-filter.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/clean-water/clean-water-desotec-filter.jpg"/>
+                    </picture>
+                </div>
+                <div class="col-12 col-md-4">
+                    <picture>
+                        <source srcset="/src/img/eco/clean-water/clean-water-system.webp" type="image/webp">
+                        <source srcset="/src/img/eco/clean-water/clean-water-system.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/clean-water/clean-water-system.jpg"/>
+                    </picture>
+                </div>
             </div>
         </div>
         <!-- Include Footer -->

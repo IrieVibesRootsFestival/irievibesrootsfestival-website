@@ -2,7 +2,11 @@
     <div class="col-12 col-md-12">                    
         <h1 class="display-7 text-center">Trim The Footprint</h1>
         <h3 class="text-irie text-uppercase "><b>Préface</b></h3>
-        <img class="img-fluid rounded float-right w-25" src="/src/img/trimthefootprint/trimthefootprint.png" alt="Esperanzah! festival">
+        <picture>
+            <source srcset="/src/img/eco/trim-the-footprint/trimthefootprint.webp" type="image/webp">
+            <source srcset="/src/img/eco/trim-the-footprint/trimthefootprint.png" type="image/png">
+            <img class="img-fluid rounded float-right w-25" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" alt="TTF Logo">
+        </picture>
         <p>
             Le changement climatique nécessite certainement des solutions à un niveau international, national et individuel... Mais pour avoir un véritable impact, mondialement, il faut surtout changer de modèle économique et social. Pour y arriver, il faut collaborer au delà de nos frontières nationales. 
         </p>
