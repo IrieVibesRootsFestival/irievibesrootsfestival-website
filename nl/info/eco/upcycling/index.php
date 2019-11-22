@@ -21,20 +21,61 @@
                         <li>je ook lid kan worden van het decoteam en je creativiteit kan aanwenden door een berichtje te sturen naar <a href="mailto:volunteers@irievibes.be?subject=Deco%20Team%20Interesse&body=Ik%20ben%20geinteresseerd%20in%20het%20Deco%20Team.%0A%0AMijn%20naam%20is%3A">volunteers@irievibes.be?</a></li>
                     </ul>
                 </div>
-                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/eco/upcycling-3.webp"/></div>
+                <div class="col-12 col-md-3">
+                    <picture>
+                        <source srcset="/src/img/eco/upcycling/upcycling-3.webp" type="image/webp">
+                        <source srcset="/src/img/eco/upcycling/upcycling-3.jpg" type="image/jpeg">
+                        <img class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-3.jpg"/>
+                    </picture>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-md-4 mb-2">
+                        <picture>
+                            <source srcset="/src/img/eco/upcycling/upcycling-0.webp" type="image/webp">
+                            <source srcset="/src/img/eco/upcycling/upcycling-0.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-0.jpg"/>
+                        </picture>
+                    </div>
+                    <div class="col-12 col-md-4 mb-2">
+                        <picture>
+                            <source srcset="/src/img/eco/upcycling/upcycling-1.webp" type="image/webp">
+                            <source srcset="/src/img/eco/upcycling/upcycling-1.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-1.jpg"/>
+                        </picture>
+                    </div>
+                    <div class="col-12 col-md-4 mb-2">
+                        <picture>
+                            <source srcset="/src/img/eco/upcycling/upcycling-2.webp" type="image/webp">
+                            <source srcset="/src/img/eco/upcycling/upcycling-2.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-2.jpg"/>
+                        </picture>
+                    </div>
+                    <div class="col-12 col-md-4 mb-2">
+                        <picture>
+                            <source srcset="/src/img/eco/upcycling/upcycling-4.webp" type="image/webp">
+                            <source srcset="/src/img/eco/upcycling/upcycling-4.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-4.jpg"/>
+                        </picture>
+                    </div>
+                    <div class="col-12 col-md-4 mb-2">
+                        <picture>
+                            <source srcset="/src/img/eco/upcycling/upcycling-5.webp" type="image/webp">
+                            <source srcset="/src/img/eco/upcycling/upcycling-5.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-5.jpg"/>
+                        </picture>
+                    </div>
+                    <div class="col-12 col-md-4 mb-2">
+                        <picture>
+                            <source srcset="/src/img/eco/upcycling/upcycling-6.webp" type="image/webp">
+                            <source srcset="/src/img/eco/upcycling/upcycling-6.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-6.jpg"/>
+                        </picture>  
+                    </div>
+                </div>
             </div>
-            <div class="row">
-                <div class="col-12 col-md-4 mb-2"><img class="img-fluid rounded" src="/src/img/eco/upcycling-0.webp"/></div>
-                <div class="col-12 col-md-4 mb-2"><img class="img-fluid rounded" src="/src/img/eco/upcycling-1.webp"/></div>
-                <div class="col-12 col-md-4 mb-2"><img class="img-fluid rounded" src="/src/img/eco/upcycling-2.webp"/></div>
-                <div class="col-12 col-md-4 mb-2"><img class="img-fluid rounded" src="/src/img/eco/upcycling-4.webp"/></div>
-                <div class="col-12 col-md-4 mb-2"><img class="img-fluid rounded" src="/src/img/eco/upcycling-5.webp"/></div>
-                <div class="col-12 col-md-4 mb-2"><img class="img-fluid rounded" src="/src/img/eco/upcycling-6.webp"/></div>
-            </div>
-        </div>
-        <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_nl.php');?>        
-    </body>
-    <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
-    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
-</html>
+            <!-- Include Footer -->
+            <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_nl.php');?>        
+            </body>
+        <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
+        </html>
