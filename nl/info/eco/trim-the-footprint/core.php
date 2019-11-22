@@ -2,7 +2,10 @@
     <div class="col-12 col-md-12">                    
         <h1 class="display-7 text-center">Trim The Footprint</h1>
         <h3 class="text-irie text-uppercase "><b>Voorwoord</b></h3>
-        <img class="img-fluid rounded float-right w-25" src="/src/img/trimthefootprint/trimthefootprint.png" alt="TTF Logo">
+        <picture>
+            <source srcset="/src/img/eco/trim-the-footprint/trimthefootprint.png" type="image/png">
+            <img class="img-fluid rounded float-right w-25" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" alt="TTF Logo">
+        </picture>
         <p>
             Klimaatverandering vereist oplossingen op (inter)nationaal, lokaal en persoonlijk niveau … Maar om echt een impact te hebben, is het wereldwijd belangrijk om het economische en sociale model te veranderen. Om dit te bereiken, moeten we samenwerken buiten onze eigen cirkel, beyond borders.
         </p>

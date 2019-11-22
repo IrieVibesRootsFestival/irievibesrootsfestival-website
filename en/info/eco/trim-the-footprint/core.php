@@ -2,7 +2,10 @@
     <div class="col-12 col-md-12">                    
         <h1 class="display-7 text-center">Trim The Footprint</h1>
         <h3 class="text-irie text-uppercase "><b>Preface</b></h3>
-        <img class="img-fluid rounded float-right w-25" src="/src/img/trimthefootprint/trimthefootprint.png" alt="Esperanzah! festival">
+        <picture>
+            <source srcset="/src/img/eco/trim-the-footprint/trimthefootprint.png" type="image/png">
+            <img class="img-fluid rounded float-right w-25" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" alt="TTF Logo">
+        </picture>
         <p>
             Climate change is a major issue, and requires solutions on an (inter)national scale, as well as locally and personally. Putting a considerable dent in our contribution to climate change will require important decisions to be made about our economic and social model. To achieve this, we'll have to work together and cross the hard boundaries. Beyond boundaries!
         </p>
