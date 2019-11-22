@@ -248,15 +248,51 @@
                     In 2019, vzw Greenforward funded a banda where the women of Weedo can come together. 
                 </p>
                 <div class="row">
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-1.jpg"></div>
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-2.jpg"></div>
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-3.jpg"></div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-1.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-1.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-1.jpg"/>
+                        </picture>
+                    </div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-2.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-2.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-2.jpg"/>
+                        </picture>
+                    </div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-3.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-3.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-3.jpg"/>
+                        </picture>
+                    </div>
                 </div>
                 <p>Also in the summer of 2019, vzw Greenfoward and Weedo joined forces and planted 150 trees in the region of Kigamboni.</p>
                 <div class="row">
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-4.jpg"></div>
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-5.jpg"></div>
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-6.jpg"></div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-4.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-4.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-4.jpg"/>
+                        </picture>
+                    </div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-5.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-5.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-5.jpg"/>
+                        </picture>
+                    </div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-6.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-6.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-6.jpg"/>
+                        </picture>
+                    </div>
                 </div>
                 <p>
                     Yet, we want to do more.<br/> In cooperation with local communities, we want to plant a whole forest in the region. We would focus on native trees, but also on fruit trees, so the community can prosper directly from the project. The members of WEEDO can start an entrepreneurship keeping gard of the forest, watering the trees, selling the fruits from the trees,...
@@ -265,8 +301,20 @@
                     On a regular basis, both organisations have contact with each other. There a several skype calls and we keep each other informed about our actions. In addition, crew members of vzw Greenforward visit WEEDO yearly. Together, they talk to local governments, ngo’s and WEWE groups.
                 </p>
                 <div class="row">
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-7.jpg"></div>
-                    <div class="col"><img class="img-fluid rounded" src="/src/img/trimthefootprint/tanzania/tanzania-8.jpg"></div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-7.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-7.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-7.jpg"/>
+                        </picture>
+                    </div>
+                    <div class="col">
+                        <picture>
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-6.webp" type="image/webp">
+                            <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-8.jpg" type="image/jpeg">
+                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-8.jpg"/>
+                        </picture>
+                    </div>
                 </div>
                 <div class="text-center my-4">
                     <h1 class="quote">"If you educate a woman, you educate a whole nation"</h1>
@@ -274,10 +322,18 @@
                 </div>
             </div>
             <div class="col-6 mt-2 text-center">
-                <img class="img-fluid rounded-circle w-50" src="/src/img/trimthefootprint/weedo.jpg" alt="Weedo Logo">
+                <picture>
+                    <source srcset="/src/img/eco/trim-the-footprint/weedo-logo.webp" type="image/webp">
+                    <source srcset="/src/img/eco/trim-the-footprint/weedo-logo.jpg" type="image/jpeg">
+                    <img class="img-fluid rounded-circle w-50" src="/src/img/eco/trim-the-footprint/weedo-logo.jpg" alt="Weedo Logo">
+                </picture>
             </div>
             <div class="col-6 mt-2 text-center">
-                <img class="img-fluid rounded-circle w-50" src="/src/img/greenforward-large.webp" alt="GreenForward Logo">
+                <picture>
+                    <source srcset="/src/img/greenforward-large.webp" type="image/webp">
+                    <source srcset="/src/img/greenforward-large.png" type="image/png">
+                    <img class="img-fluid rounded-circle w-50" src="/src/img/greenforward-large.png" alt="GreenForward Logo">
+                </picture>
             </div>
         </div>
     </div>
