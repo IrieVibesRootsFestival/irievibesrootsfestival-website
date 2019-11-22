@@ -22,14 +22,29 @@
                         <li>you can hand in the cups at the voucher salespoint, but also at the campingbar on Sunday morning?</li>
                     </ul>
                 </div>
-                <div class="col-12 col-md-3 text-center"><img class="img-fluid rounded" src="/src/img/eco/cups-main.webp"/>
-                    <small>our own cups with logo</small>
-                </div>
+                <picture>
+                    <source srcset="/src/img/eco/reusable-cups/cups-main.webp" type="image/webp">
+                    <source srcset="/src/img/eco/reusable-cups/cups-main.jpg" type="image/jpeg">
+                    <img class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-main.jpg"/>
+                </picture>
+                <small>our own cups with logo</small>
             </div>
-            <!-- Pictures -->
-            <div class="row">
-                <div class="col-12 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/cups-0.webp"/></div>
-                <div class="col-12 col-md-6 p-1"><img class="img-fluid rounded" src="/src/img/eco/cups-1.webp"/></div>
+        </div>
+        <!-- Pictures -->
+        <div class="row">
+            <div class="col-12 col-md-6 p-1">
+                <picture>
+                    <source srcset="/src/img/eco/reusable-cups/cups-0.webp" type="image/webp">
+                    <source srcset="/src/img/eco/reusable-cups/cups-0.jpg" type="image/jpeg">
+                    <img class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-0.jpg"/>
+                </picture>
+            </div>
+            <div class="col-12 col-md-6 p-1">
+                <picture>
+                    <source srcset="/src/img/eco/reusable-cups/cups-1.webp" type="image/webp">
+                    <source srcset="/src/img/eco/reusable-cups/cups-1.jpg" type="image/jpeg">
+                    <img class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-1.jpg"/>
+                </picture>
             </div>
         </div>
         <!-- Include Footer -->
