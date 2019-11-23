@@ -21,6 +21,7 @@
                                     <nav class="nav">
                                         <a class="nav-link text-irie d-block" href="#camping_location">Locatie & Prijs</a>
                                         <a class="nav-link text-irie d-block" href="#camping_hours">Openingsuren</a>
+                                        <a class="nav-link text-irie d-block" href="#parking">Parking & Vervoer</a>
                                         <a class="nav-link text-irie d-block" href="#agreements">Afspraken</a>
                                         <a class="nav-link text-irie d-block" href="#facilities">Faciliteiten</a>
                                         <a class="nav-link text-irie d-block" href="#food_drinks">Voedsel & Drank</a>
@@ -51,6 +52,10 @@
                                         <li>Mogelijkheid tot het gebruiken van de openbare barbecue aan de campingbar</li>
                                         <li>Een glimlach van onze campingmedewerkers</li>
                                     </ul>
+                                    
+                                </div>
+                                <div id="parking" class="col-12 anchor">
+                                    <h3 class="text-irie"><b>Parking & Vervoer</b></h3>
                                     <p>
                                         De parking kost <b>€5</b> en is op wandelafstand van de festivalingang. Bij het oprijden op de parking krijg je na betaling een betalingsbewijs dat aan je voorruit plaatst. Noteer er je gsm nummer op.<br/>
                                         Wij adviseren om te carpooling of gebruik te maken van het openbaar vervoer. Er is een treinstation in Kortemark en de organisatie voorziet een shuttlebus naar het festivalterrein.<br/>
