@@ -53,15 +53,6 @@
                                         <li>A dose of good vibes from our camping crew</li>
                                     </ul>
                                 </div>
-                                <div id="parking" class="col-12 anchor">
-                                    <h3 class="text-irie"><b>Parking & Transit</b></h3>
-                                    <p>
-                                        The car parking costs <b>€5 per car</b> and is located on walking distance from the festival entrance. Upon your entry to the car parking, you will receive a ticket suited for writing down your phone number. We require you to do this before placing the ticket behind your windscreen.<br/>
-                                        We encourage and advise you to use public transport. The municipalty of Kortemark has a train station and a bus station on a small hike's distance from the festival terrain. You won't be alone when you come with public transport. Follow the crowd!<br/>
-                                        There will also be shuttle busses provided by the organisation to take you to and from the festival terrain.<br/>
-                                        If you still prefer to come by car, give the free <a href="https://www.carpool.be/nl/common/app">Carpool.be App</a> a try!
-                                    </p>
-                                </div>
                                 <div id="camping_hours" class="col-12 col-md-6 anchor">
                                     <h3 class="text-irie mt-2 mt-md-0"><b>Hours</b></h3>
                                     <p>De camping gaat open op donderdag om 14u en sluit op zondag om 11u. We verwachten dan ook dat alle bezoekers op zondag om 11u hun campingplaats net achterlaten en de camping verlaten.</p> 
@@ -72,6 +63,15 @@
                                         <li>Zaterdag 20 juli, vanaf 12u ('s middags)</li>  
                                     </ul>
                                     <p><i>De camping is open 24h/24h gedurende het hele weekend</i></p>               
+                                </div>
+                                <div id="parking" class="col-12 anchor">
+                                    <h3 class="text-irie"><b>Parking & Transit</b></h3>
+                                    <p>
+                                        The car parking costs <b>€5 per car</b> and is located on walking distance from the festival entrance. Upon your entry to the car parking, you will receive a ticket suited for writing down your phone number. We require you to do this before placing the ticket behind your windscreen.<br/>
+                                        We encourage and advise you to use public transport. The municipalty of Kortemark has a train station and a bus station on a small hike's distance from the festival terrain. You won't be alone when you come with public transport. Follow the crowd!<br/>
+                                        There will also be shuttle busses provided by the organisation to take you to and from the festival terrain.<br/>
+                                        If you still prefer to come by car, give the free <a href="https://www.carpool.be/nl/common/app">Carpool.be App</a> a try!
+                                    </p>
                                 </div>
                                 <div id="agreements" class="col-12 anchor">
                                     <h3 class="text-irie"><b>Agreements</b></h3>

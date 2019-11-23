@@ -54,14 +54,6 @@
                                     </ul>
                                     
                                 </div>
-                                <div id="parking" class="col-12 anchor">
-                                    <h3 class="text-irie"><b>Parking & Vervoer</b></h3>
-                                    <p>
-                                        De parking kost <b>€5</b> en is op wandelafstand van de festivalingang. Bij het oprijden op de parking krijg je na betaling een betalingsbewijs dat aan je voorruit plaatst. Noteer er je gsm nummer op.<br/>
-                                        Wij adviseren om te carpooling of gebruik te maken van het openbaar vervoer. Er is een treinstation in Kortemark en de organisatie voorziet een shuttlebus naar het festivalterrein.<br/>
-                                        Als je toch liever met de auto komt, bekijk dan misschien de gratis <a href="https://www.carpool.be/nl/common/app">Carpool.be App</a>!
-                                    </p>
-                                </div>
                                 <div id="camping_hours" class="col-12 col-md-6 anchor">
                                     <h3 class="text-irie mt-2 mt-md-0"><b>Openingsuren</b></h3>
                                     <p>De camping gaat open op donderdag om 14u en sluit op zondag om 11u. We verwachten dan ook dat alle bezoekers op zondag om 11u hun campingplaats net achterlaten en de camping verlaten.</p> 
@@ -72,6 +64,14 @@
                                         <li>Zaterdag 20 juli, vanaf 12u ('s middags)</li>  
                                     </ul>
                                     <p><i>De camping is open 24h/24h gedurende het hele weekend</i></p>               
+                                </div>
+                                <div id="parking" class="col-12 anchor">
+                                    <h3 class="text-irie"><b>Parking & Vervoer</b></h3>
+                                    <p>
+                                        De parking kost <b>€5</b> en is op wandelafstand van de festivalingang. Bij het oprijden op de parking krijg je na betaling een betalingsbewijs dat aan je voorruit plaatst. Noteer er je gsm nummer op.<br/>
+                                        Wij adviseren om te carpooling of gebruik te maken van het openbaar vervoer. Er is een treinstation in Kortemark en de organisatie voorziet een shuttlebus naar het festivalterrein.<br/>
+                                        Als je toch liever met de auto komt, bekijk dan misschien de gratis <a href="https://www.carpool.be/nl/common/app">Carpool.be App</a>!
+                                    </p>
                                 </div>
                                 <div id="agreements" class="col-12 anchor">
                                     <h3 class="text-irie"><b>Agreements</b></h3>
