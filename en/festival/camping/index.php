@@ -15,12 +15,13 @@
                 <div class="container">
                     <div class="row">
                         <div id="accomodation-nav" class="col-12 col-lg-3 order-lg-2 ">
-                            <div class="text-box-2 rounded p-2">
+                            <div class="text-box-2 rounded p-2 sticky-top mt-1">
                                 <div class="text-box rounded p-2">
                                     <!-- Anchor Navigation -->
                                     <nav class="nav">
                                         <a class="nav-link text-irie d-block" href="#camping_location">Location & Pricing</a>
                                         <a class="nav-link text-irie d-block" href="#camping_hours">Opening hours</a>
+                                        <a class="nav-link text-irie d-block" href="#parkings">Parking & Transit</a>
                                         <a class="nav-link text-irie d-block" href="#agreements">Agreements</a>
                                         <a class="nav-link text-irie d-block" href="#facilities">Facilities</a>
                                         <a class="nav-link text-irie d-block" href="#food_drinks">Food/Drinks</a>
@@ -51,6 +52,9 @@
                                         <li>The opportunity to use a public barbeque at the camping bar</li>
                                         <li>A dose of good vibes from our camping crew</li>
                                     </ul>
+                                </div>
+                                <div id="parking" class="col-12 anchor">
+                                    <h3 class="text-irie"><b>Parking & Transit</b></h3>
                                     <p>
                                         The car parking costs <b>€5 per car</b> and is located on walking distance from the festival entrance. Upon your entry to the car parking, you will receive a ticket suited for writing down your phone number. We require you to do this before placing the ticket behind your windscreen.<br/>
                                         We encourage and advise you to use public transport. The municipalty of Kortemark has a train station and a bus station on a small hike's distance from the festival terrain. You won't be alone when you come with public transport. Follow the crowd!<br/>
