@@ -114,6 +114,11 @@ header a{
     color: #EDCE4F;
     font-weight:bold;
 }
+#navbar .fa-language{
+    font-size: 25px;
+    vertical-align: middle;
+    margin-right:3px;
+}
 #navbar .navbar-nav .nav-link {
     color: rgba(255, 255, 255, .65);
     font-style: normal;
