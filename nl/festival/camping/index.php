@@ -19,7 +19,7 @@
                                 <div class="text-box rounded p-2">
                                     <!-- Anchor Navigation -->
                                     <nav class="nav">
-                                        <a class="nav-link text-irie d-block" href="#camping_location">Locatie & prijs</a>
+                                        <a class="nav-link text-irie d-block" href="#camping_location">Locatie & Prijs</a>
                                         <a class="nav-link text-irie d-block" href="#camping_hours">Openingsuren</a>
                                         <a class="nav-link text-irie d-block" href="#agreements">Afspraken</a>
                                         <a class="nav-link text-irie d-block" href="#facilities">Faciliteiten</a>
@@ -36,11 +36,14 @@
                         <div class="col-12 col-lg-9 order-lg-1">
                             <div class="row">
                                 <!-- Content -->
-                                <div id="camping_location" class="col-12 anchor">
+                                <div id="camping_location" class="col-12 col-md-6 anchor">
                                     <h3 class="text-irie mt-2 mt-md-0"><b>Locatie</b></h3>
                                     <p>De Party Camping bevindt zich op het <b>festivalterrein</b>.</p>
-                                    <p>De stille camping / camper camping bevindt zich aan <b>de overkant</b> van de Koekelarestraat.</p>
-                                    <p>De camping gaat open op donderdag om 14u en sluit op zondag om 11u. We verwachten dan ook dat alle bezoekers op zondag om 11u hun campingplaats net achterlaten en de camping verlaten.</p>                     
+                                    <p>De stille camping / camper camping bevindt zich aan <b>de overkant</b> van de Koekelarestraat.</p>  
+                                </div>
+                                <div id="camping_hours" class="col-12 col-md-6 anchor">
+                                    <h3 class="text-irie mt-2 mt-md-0"><b>Openingsuren</b></h3>
+                                    <p>De camping gaat open op donderdag om 14u en sluit op zondag om 11u. We verwachten dan ook dat alle bezoekers op zondag om 11u hun campingplaats net achterlaten en de camping verlaten.</p> 
                                     <p class="mb-0"><b>Het Irie Vibes Roots Festival is open voor het publiek op:</b></p>
                                     <ul>
                                         <li>Donderdag 18 juli, vanaf 18u</li>
@@ -49,7 +52,7 @@
                                     </ul>
                                     <p><i>De camping is open 24h/24h gedurende het hele weekend</i></p>               
                                 </div>
-                                <div id="camping_hours" class="col-12 anchor">
+                                <div id="camping_price" class="col-12 anchor">
                                     <h3 class="text-irie"><b>Prijs</b></h3>
                                     <p>Irie Vibes heet de wereld welkom, en dus ook op de camping! Een plekje op de camping kost <b>€10</b>, verkrijgbaar door de aankoop van een polsbandje aan de ingang van de camping. De camping en parking zijn in samenwerking met<a href="/en/info/partners/index.php#l_tschoederkloptje">'t Schoederkloptje</a>, <a href="/en/info/partners/index.php#l_chiro">Chiro Handzame</a> en de 24u van Snaaskerke.<br/></p>
                                     <p class="mb-0"><b>De prijs omvat:</b></p>
