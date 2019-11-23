@@ -29,7 +29,7 @@
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/nl/location/">Locatie</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/rules/">Festivalregels</a></li>
-                            <li><a class="nav-link drop-2" href="/nl//festival/camping/">Camping en Parking</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/festival/camping/">Camping en Parking</a></li>
                             <li><a class="nav-link drop-2" href="/nl/info/volunteers/">Vrijwilligers</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/food_shops/">(non)Food Shops</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/transport/">Transport</a></li>
@@ -74,7 +74,7 @@
                 <!-- This is the language selector. -->                   
                 <ul class="navbar-nav ml-auto d-md-flex align-items-center">
                     <li class="nav-item dropdown">
-                        <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-globe-americas"></i><span class="d-lg-none"> Taal</span><span class="dropdown-toggle"></span></a>
+                        <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-globe-americas"></i> Taal<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu dropdown-menu-right">
                             <!-- NL (current) -->
                             <li class="nav-item">

@@ -77,7 +77,7 @@
                 <!-- This is the language selector. -->                   
                 <ul class="navbar-nav ml-auto d-md-flex align-items-center">
                     <li class="nav-item dropdown">
-                        <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-globe-americas"></i><span class="d-lg-none"> Language</span><span class="dropdown-toggle"></span></a>
+                        <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-globe-americas"></i> Language<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu dropdown-menu-right text-center">
                             <!-- NL -->
                             <li class="nav-item">
