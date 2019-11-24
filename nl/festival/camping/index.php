@@ -15,18 +15,19 @@
                 <div class="container">
                     <div class="row">
                         <div id="accomodation-nav" class="col-12 col-lg-3 order-lg-2 ">
-                            <div class="text-box-2 rounded p-2">
+                            <div class="text-box-2 rounded p-2 sticky-top mt-1">
                                 <div class="text-box rounded p-2">
                                     <!-- Anchor Navigation -->
                                     <nav class="nav">
-                                        <a class="nav-link text-irie d-block" href="#camping_location">Locatie & prijs</a>
+                                        <a class="nav-link text-irie d-block" href="#camping_location">Locatie & Prijs</a>
                                         <a class="nav-link text-irie d-block" href="#camping_hours">Openingsuren</a>
+                                        <a class="nav-link text-irie d-block" href="#parking">Parking & Vervoer</a>
                                         <a class="nav-link text-irie d-block" href="#agreements">Afspraken</a>
                                         <a class="nav-link text-irie d-block" href="#facilities">Faciliteiten</a>
-                                        <a class="nav-link text-irie d-block" href="#food_drinks">Voedsel</a>
+                                        <a class="nav-link text-irie d-block" href="#food_drinks">Voedsel & Drank</a>
                                         <a class="nav-link text-irie d-block" href="#entrance_exit">In- en uitgang</a>
                                         <a class="nav-link text-irie d-block" href="#camping_crimes">Camping-misdaden</a>
-                                        <a class="nav-link text-irie d-block" href="#personal_belongings">Personal Belongings</a>
+                                        <a class="nav-link text-irie d-block" href="#personal_belongings">Persoonlijke spullen</a>
                                         <a class="nav-link text-irie d-block" href="#home"><i>The 7 Commandments</i></a>
                                         <a class="nav-link text-danger d-block" href="/src/static/grondplan_camping.pdf">Ground Plan</a>
                                     </nav>
@@ -39,8 +40,23 @@
                                 <div id="camping_location" class="col-12 anchor">
                                     <h3 class="text-irie mt-2 mt-md-0"><b>Locatie</b></h3>
                                     <p>De Party Camping bevindt zich op het <b>festivalterrein</b>.</p>
-                                    <p>De stille camping / camper camping bevindt zich aan <b>de overkant</b> van de Koekelarestraat.</p>
-                                    <p>De camping gaat open op donderdag om 14u en sluit op zondag om 11u. We verwachten dan ook dat alle bezoekers op zondag om 11u hun campingplaats net achterlaten en de camping verlaten.</p>                     
+                                    <p>De stille camping / camper camping bevindt zich aan <b>de overkant</b> van de Koekelarestraat.</p>  
+                                </div>
+                                <div id="camping_price" class="col-12 col-md-6 anchor">
+                                    <h3 class="text-irie"><b>Prijs</b></h3>
+                                    <p>Irie Vibes heet de wereld welkom, en dus ook op de camping! Een plekje op de camping kost <b>€10</b>, verkrijgbaar door de aankoop van een polsbandje aan de ingang van de camping. De camping en parking zijn in samenwerking met<a href="/en/info/partners/index.php#l_tschoederkloptje">'t Schoederkloptje</a>, <a href="/en/info/partners/index.php#l_chiro">Chiro Handzame</a> en <a href="/en/info/partners/index.php#l_24-uur-van-snaaskerke">24 uur van Snaaskerke</a>.<br/></p>
+                                    <p class="mb-0"><b>De prijs omvat:</b></p>
+                                    <ul>                                
+                                        <li>Toilet- en douchegebruik</li>
+                                        <li>Vuilniszakken en een asbakje</li>
+                                        <li>Mogelijkheid tot het gebruiken van de openbare barbecue aan de campingbar</li>
+                                        <li>Een glimlach van onze campingmedewerkers</li>
+                                    </ul>
+                                    
+                                </div>
+                                <div id="camping_hours" class="col-12 col-md-6 anchor">
+                                    <h3 class="text-irie mt-2 mt-md-0"><b>Openingsuren</b></h3>
+                                    <p>De camping gaat open op donderdag om 14u en sluit op zondag om 11u. We verwachten dan ook dat alle bezoekers op zondag om 11u hun campingplaats net achterlaten en de camping verlaten.</p> 
                                     <p class="mb-0"><b>Het Irie Vibes Roots Festival is open voor het publiek op:</b></p>
                                     <ul>
                                         <li>Donderdag 18 juli, vanaf 18u</li>
@@ -49,43 +65,35 @@
                                     </ul>
                                     <p><i>De camping is open 24h/24h gedurende het hele weekend</i></p>               
                                 </div>
-                                <div id="camping_hours" class="col-12 anchor">
-                                    <h3 class="text-irie"><b>Prijs</b></h3>
-                                    <p>Irie Vibes heet de wereld welkom, en dus ook op de camping! Een plekje op de camping kost <b>€10</b>, verkrijgbaar door de aankoop van een polsbandje aan de ingang van de camping. De camping en parking zijn in samenwerking met<a href="/en/info/partners/index.php#l_tschoederkloptje">'t Schoederkloptje</a>, <a href="/en/info/partners/index.php#l_chiro">Chiro Handzame</a> en de 24u van Snaaskerke.<br/></p>
-                                    <p class="mb-0"><b>De prijs omvat:</b></p>
-                                    <ul>                                
-                                        <li>Toilet- en douchegebruik</li>
-                                        <li>Vuilniszakken en een asbakje</li>
-                                        <li>Mogelijkheid tot het gebruiken van de openbare barbecue aan de campingbar</li>
-                                        <li>Een goeie omgeving</li>
-                                        <li>Een glimlach van onze campingmedewerkers</li>
-                                    </ul>
+                                <div id="parking" class="col-12 anchor">
+                                    <h3 class="text-irie"><b>Parking & Vervoer</b></h3>
                                     <p>
-                                        De parking kost <b>€5</b> en is aan de overkant van het festivalterrein. Bij het oprijden op de parking krijg je na betaling een betalingsbewijs dat je achter je ruit plaatst. Verlies dit blaadje niet! Je kan de parking niet meer op zonder dit blaadje.<br/> Als je met de auto komt, bekijk dan misschien de <a href="https://www.carpool.be/nl/common/app">Carpool.be App</a>!
+                                        De parking kost <b>€5</b> en is op wandelafstand van de festivalingang. Bij het oprijden op de parking krijg je na betaling een betalingsbewijs dat aan je voorruit plaatst. Noteer er je gsm nummer op.<br/>
+                                        Wij adviseren om te carpooling of gebruik te maken van het openbaar vervoer. Er is een treinstation in Kortemark en de organisatie voorziet een shuttlebus naar het festivalterrein.<br/>
+                                        Als je toch liever met de auto komt, bekijk dan misschien de gratis <a href="https://www.carpool.be/nl/common/app">Carpool.be App</a>!
                                     </p>
                                 </div>
                                 <div id="agreements" class="col-12 anchor">
                                     <h3 class="text-irie"><b>Agreements</b></h3>
-                                    <p>Het festival en de camping begeven zich in een (gewoontelijk) stille buurt.</p>
                                     <p class="mb-0"><b>We vragen van jou om:</b></p>
                                     <ul> 
                                         <li>geen schade toe te brengen aan de natuur of omgeving</li>
-                                        <li>respect te tonen aan de lokale inwoners, inclusief de dieren rondom</li>  
-                                        <li>de grond waar kinderen rondlopen veilig te houden; breng je afval naar de vuilnisbak </li>
+                                        <li>respect te tonen voor de buurtbewoners en voor de fauna en flora in de omgeving</li>  
+                                        <li>je afval naar de vuilnisvak te brengen. Wees aandachtig voor scherpe voorwerpen en glas en gooi geen peuken op de grond</li>
                                     </ul>
-                                    <p class="text-danger"><i>Eenderwelk soort vuur is verboden op de camping</i></p>
+                                    <p class="text-danger"><i>Open vuur en een eigen barbecuetoestel is verboden op de camping. Aan de camping bar vind je een openbaar barbecuetoestel, een microgolfoven en andere toestellen die vrij te gebruiken zijn.</i></p>
                                     <p>We vragen je om met goede bedoelingen naar de camping te komen:<br/> 
-                                        <b>Wapens en andere gevaarlijke voorwerpen horen niet thuis op de camping of het festivalterrein. Laat deze thuis achter.</b>
+                                        <b>Wapens en andere gevaarlijke voorwerpen horen niet thuis op de camping of het festivalterrein.</b>
                                     </p> 
-                                    <p>Alle vormen van geweld, racisme of vandalisme zijn onrespectvol en worden niet getolereerd.</p>
-                                    <p>Denk aan andere festivalgangers: maak het niet te luid.</p>
+                                    <p>Geweld, racisme of vandalisme zijn onrespectvol en worden niet getolereerd.</p>
+                                    <p>Denk aan andere festivalgangers en buurtbewoners: maak het niet te luid.</p>
                                     <p>We mogen dan wel van dieren houden, maar we laten geen dieren toe op het festival terrein. Dieren die gevonden worden zullen naar een opvangplek gebracht worden.
-                                        <b>Hier geld een uitzondering op voor blinde-geleide en ondersteuningshonden.</b> 
+                                        <b>Hier geldt een uitzondering op voor blinde-geleide en andere hulphonden.</b> 
                                     </p>
                                 </div>
                                 <div id="facilities" class="col-12 col-md-6">
                                     <h3 class="text-irie"><b>Faciliteiten</b></h3>
-                                    <p>De toiletten en douches kunnen gebruikt worden op het campeerterrein. Het water in de kraan kan worden gebruikt, maar het is <u>niet drinkbaar</u>.
+                                    <p>De toiletten en douches kunnen gebruikt worden op de camping. Het water in de kraan kan worden gebruikt, maar het is <u>niet drinkbaar</u>.
                                     </p>
                                     De douches zijn open op:
                                     <ul>
@@ -96,32 +104,35 @@
                                     <p><i>Als je vragen of problemen hebt, aarzel niet om een campingmedewerker aan te spreken.</i></p>
                                 </div>
                                 <div id="food_drinks" class="col-12 col-md-6">
-                                    <h3 class="text-irie"><b>Food & Drinks</b></h3>
-                                    <p>You can bring your own food or drinks to the camping, but not to the festival.</p>
-                                    <p>Each camping member that brings a fully loaded trash bag to the entrance, is offered a free coffee. <b>Please do not abuse this reward.</b></p>
-                                    <p><i>Breakfast and toasts can be purchased at the catering tent on the camping ground.</i></p>
+                                    <h3 class="text-irie"><b>Voedsel & Drank</b></h3>
+                                    <ul>
+                                        <li>Eigen eten en drinken is toegestaan op de camping, echter niet op het festivalterrein.</li>
+                                        <li>Elke kampeerder die zijn vuilniszak op zondagmorgen afgeeft aan de ingang, krijgt een gratis koffie.</li>
+                                        <li>Ontbijt wordt voorzien aan de feestcamping door de Chiro.</li>
+                                        <li>Aan de campingbar is er een ruim aanbod dranken en ijsjes. Daarnaast is er ook een kleine shop. Er is een barbecue ruimte voorzien en je kan er de microgolfoven gebruiken. Op het terras is een gezellige sfeer en wordt er door de organisatie muziek voorzien.</li>
+                                    </ul>
                                 </div>
                                 <div id="entrance_exit" class="col-12">
-                                    <h3 class="text-irie"><b>Entrance & Exit</b></h3>
-                                    <p>The festival terrain and camping are accessible through the entrance on the <u>Koekelarestraat</u>. The parking is accessible through the entrance in the <u>Vinckaertstraat</u>. Signs will show you which way to turn. Camper vans stay on a seperate part of the parking.</p>
-                                    <p>If you’re staying on the camping, you will have to <i>park on the parking before unloading your gear</i>. There is <b>no</b> drop-off zone. Camping volunteers will show you where to place your tents.<br/>One-way traffic is applicable again this year.</p>
-                                    <p>Camping permits are purchasable at the entrance of the festival, where you buy or redeem your festival ticket.</p>
-                                    <p class="text-danger"><i>The emergency exits need to be accessible at any time. Wrongly placed tents or cars will be removed.</i></p>
+                                    <h3 class="text-irie"><b>In- en Uitgang</b></h3>
+                                    <p>Zowel het festival als de campings zijn bereikbaar via de voorziene ingangen aan de Koekelarestraat.</p>
+                                    <p>Ben je met de wagen ? Volg dan de wegwijzers naar de parking in de nabije buurt. Auto’s worden niet toegestaan op de campings.</p>
+                                    <p>Je koopt je campingticket aan de ingang van het festival.</p>
+                                    <p class="text-danger"><i>De nooduitgangen moeten ten allen tijde toegankelijk blijven. Verkeerd geplaatste tenten of campers zullen verwijderd worden.</i></p>
                                 </div>
                                 <div id="camping_crimes" class="col-12 col-md-7">
-                                    <h3 class="text-irie"><b>Camping Crimes</b></h3>
-                                    <p>To provide a nice and safe festival for all, we need to set some basic rules and agreements:</p> 
-                                    <p><i>People who do not respect them or cause damage can be removed from the territory and/or asked to pay a compensation.</i></p> 
-                                    <p><b>Serious violations of the rules will require the local police department to be informed</b>. Tickets will not be refunded in either cases.</p>
+                                    <h3 class="text-irie"><b>Camping-misdaden</b></h3>
+                                    <p>We willen een veilig en aangenaam festival aanbieden voor iedereen, daarom vragen we onderstaande basisregels te respecteren:</p> 
+                                    <p>Bezoekers die geen respect tonen voor deze afspraken, de organisatie of andere bezoekers, kunnen van het festivalterrein verwijderd worden. Tickets worden niet terugbetaald.</p> 
+                                    <p><b class="text-danger">Bij ernstige overtredingen kan de politie verwittigd worden.</b>. Tickets worden ook hier niet terugbetaald.</p>
                                 </div>
                                 <div id="personal_belongings" class="col-12 col-md-5">
-                                    <h3 class="text-irie"><b>Personal Belongings</b></h3>
-                                    <p>Never bring expensive personal belongings to the festival ground and never leave precious things unguarded in your tent (<i>not even your boyfriend/girlfriend</i>.)</p>
+                                    <h3 class="text-irie"><b>Persoonlijke Spullen</b></h3>
+                                    <p>Wij zijn niet verantwoordelijk als jouw persoonlijke spullen verloren gaan. Denk er dan ook aan om goede gewoontes aan te nemen voor de veiligheid van jouw spullen.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-12 order-md-9">
-                            <p class="highlight-black">IRIE VIBES ROOTS FESTIVAL cannot be held responsible for any accidents, crimes or theft.</p>
+                            <p class="highlight-black">IRIE VIBES ROOTS FESTIVAL kan niet verantwoordelijk worden gehouden voor diefstal, gebeurtelijke ongevallen of eigen verantwoordelijkheiden.</p>
                         </div>
                         <div class="col-12 order-md-10">
                             <div class="text-box-2 rounded p-3">

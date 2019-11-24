@@ -15,12 +15,13 @@
                 <div class="container">
                     <div class="row">
                         <div id="accomodation-nav" class="col-12 col-lg-3 order-lg-2 ">
-                            <div class="text-box-2 rounded p-2">
+                            <div class="text-box-2 rounded p-2 sticky-top mt-1">
                                 <div class="text-box rounded p-2">
                                     <!-- Anchor Navigation -->
                                     <nav class="nav">
                                         <a class="nav-link text-irie d-block" href="#camping_location">Location & Pricing</a>
                                         <a class="nav-link text-irie d-block" href="#camping_hours">Opening hours</a>
+                                        <a class="nav-link text-irie d-block" href="#parkings">Parking & Transit</a>
                                         <a class="nav-link text-irie d-block" href="#agreements">Agreements</a>
                                         <a class="nav-link text-irie d-block" href="#facilities">Facilities</a>
                                         <a class="nav-link text-irie d-block" href="#food_drinks">Food/Drinks</a>
@@ -38,31 +39,39 @@
                                 <!-- Content -->
                                 <div id="camping_location" class="col-12 anchor">
                                     <h3 class="text-irie mt-2 mt-md-0"><b>Location</b></h3>
-                                    <p>The IRIE camping is situated on the <b>festival terrain</b>.</p>
-                                    <p>Irie Vibes welcomes the world and indeed also at the camping! A spot on the camping ground costs <b>€10</b>, available to obtain through purchasing a wristband at the entrance of the camping. The parking and camping are in collaboration with <a href="/en/info/partners/index.php#l_tschoederkloptje">'t Schoederkloptje</a> and <a href="/en/info/partners/index.php#l_chiro">Chiro Handzame</a>.<br/></p>
+                                    <p>The party camping is situated <b>on the festival terrain.</b></p>
+                                    <p>The silent camping and camper camping are situated right <b>across the street.</b></p>  
+                                </div>
+                                <div id="camping_price" class="col-12 col-md-6 anchor">
+                                    <h3 class="text-irie"><b>Prijs</b></h3>
+                                    <p>We welcome the world to both the festival and camping! A camping ticket costs <b>€10</b>, and is available for purchase at the festival entrance. These services are in cooperation with<a href="/en/info/partners/index.php#l_tschoederkloptje">'t Schoederkloptje</a>, <a href="/en/info/partners/index.php#l_chiro">Chiro Handzame</a> and <a href="/en/info/partners/index.php#l_24-uur-van-snaaskerke">24 uur van Snaaskerke</a>.<br/></p>
                                     <p class="mb-0"><b>This price includes:</b></p>
                                     <ul>                                
-                                        <li>Use of toilets and showers</li>
-                                        <li>Garbage bags and an ashtray</li>
-                                        <li>A great atmosphere</li>
-                                        <li>A friendly smile from our camping volunteers</li>
+                                        <li>Usage of the toilets and showers</li>
+                                        <li>Personal garbage bags and an ashtray</li>
+                                        <li>The opportunity to use a public barbeque at the camping bar</li>
+                                        <li>A dose of good vibes from our camping crew</li>
                                     </ul>
-									<h3 class="text-irie"><b>Car parking</b></h3>
-            <p>The car parking (<b>€5</b>) is located right in front of the festival entrance.
-                If you are coming to the festival by car, try carpooling with <a href="https://www.carpool.be/nl/common/app">Carpool.be</a>.
-            </p> 
                                 </div>
-									
-                                <div id="camping_hours" class="col-12 anchor">
-                                    <h3 class="text-irie"><b>Pricing</b></h3>
-                                    <p>The camping opens on Thursday at 2PM and closes on Sunday at 11AM. We expect each visitor to leave the camping site and leave a clean spot by that time.</p>                     
-                                    <p class="mb-0"><b>The Irie Vibes Roots Festival is open to the public on:</b></p>
+                                <div id="camping_hours" class="col-12 col-md-6 anchor">
+                                    <h3 class="text-irie mt-2 mt-md-0"><b>Hours</b></h3>
+                                    <p>De camping gaat open op donderdag om 14u en sluit op zondag om 11u. We verwachten dan ook dat alle bezoekers op zondag om 11u hun campingplaats net achterlaten en de camping verlaten.</p> 
+                                    <p class="mb-0"><b>Het Irie Vibes Roots Festival is open voor het publiek op:</b></p>
                                     <ul>
-                                        <li>Thursday July 19th, from 6PM</li>
-                                        <li>Friday July 20th, from 5PM</li>
-                                        <li>Saturday July 21st, from 12PM</li>  
+                                        <li>Donderdag 18 juli, vanaf 18u</li>
+                                        <li>Vrijdag 19 juli, vanaf 17u</li>
+                                        <li>Zaterdag 20 juli, vanaf 12u ('s middags)</li>  
                                     </ul>
-                                    <p><i>The camping is open 24h/24h during this whole weekend.</i></p>
+                                    <p><i>De camping is open 24h/24h gedurende het hele weekend</i></p>               
+                                </div>
+                                <div id="parking" class="col-12 anchor">
+                                    <h3 class="text-irie"><b>Parking & Transit</b></h3>
+                                    <p>
+                                        The car parking costs <b>€5 per car</b> and is located on walking distance from the festival entrance. Upon your entry to the car parking, you will receive a ticket suited for writing down your phone number. We require you to do this before placing the ticket behind your windscreen.<br/>
+                                        We encourage and advise you to use public transport. The municipalty of Kortemark has a train station and a bus station on a small hike's distance from the festival terrain. You won't be alone when you come with public transport. Follow the crowd!<br/>
+                                        There will also be shuttle busses provided by the organisation to take you to and from the festival terrain.<br/>
+                                        If you still prefer to come by car, give the free <a href="https://www.carpool.be/nl/common/app">Carpool.be App</a> a try!
+                                    </p>
                                 </div>
                                 <div id="agreements" class="col-12 anchor">
                                     <h3 class="text-irie"><b>Agreements</b></h3>
@@ -70,7 +79,7 @@
                                     <b>We ask you to:</b>
                                     <ul> 
                                         <li>Not cause any environmental damage to fields or properties</li>
-                                        <li>Show respect to all living creatures, including the animals in the fields nearby the camping</li>  
+                                        <li>Show respect to all living creatures, including animals in the fields near the camping</li>  
                                         <li>Keep the ground where children are walking on safe. Bring your cans, glass or other garbage to the trash bins.</li>
                                     </ul>
                                     <p class="text-danger"><i>All kinds of fire are forbidden as a safety measure.</i></p>
@@ -94,7 +103,7 @@
                                         <li>Saturday from 9AM till 12 o'clock and from 5PM ‘till 7PM</li>
                                         <li>Sunday from 9AM till 12 o'clock (final closing hour)</li>
                                     </ul>
-                                    <p><i>For all kind of questions or problems, the Camping Team will be there for you.</i></p>
+                                    <p><i>For all kinds of questions or problems, the Camping Team will be there for you.</i></p>
                                 </div>
                                 <div id="food_drinks" class="col-12 col-md-6">
                                     <h3 class="text-irie"><b>Food & Drinks</b></h3>
@@ -111,9 +120,9 @@
                                 </div>
                                 <div id="camping_crimes" class="col-12 col-md-7">
                                     <h3 class="text-irie"><b>Camping Crimes</b></h3>
-                                    <p>To provide a nice and safe festival for all, we need to set some basic rules and agreements:</p> 
-                                    <p><i>People who do not respect them or cause damage can be removed from the territory and/or asked to pay a compensation.</i></p> 
-                                    <p><b>Serious violations of the rules will require the local police department to be informed</b>. Tickets will not be refunded in either cases.</p>
+                                    <p>We want a safe and nice festival for everyone, so we ask you to respect these basic rules:</p> 
+                                    <p><i>Visitors who show no respect for these rules, the organisation or other visitors, can be removed from the festival and camping. Tickets will not be refunded.</i></p> 
+                                    <p><b>In case of serious crimes, police can be alarmed.</b>.</p>
                                 </div>
                                 <div id="personal_belongings" class="col-12 col-md-5">
                                     <h3 class="text-irie"><b>Personal Belongings</b></h3>
