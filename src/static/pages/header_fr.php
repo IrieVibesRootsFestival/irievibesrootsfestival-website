@@ -44,7 +44,7 @@
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/en/artists">Artistes</a></li>
                             <li><a class="nav-link drop-2" href="/fr/lineup/">Line-Up</a></li>
-                            <li><a class="nav-link drop-2" alt="poster" href="/src/static/poster2019.php">Poster</a></li>
+                            <li><a class="nav-link drop-2" href="/en/lineup/posters/">Posters</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
