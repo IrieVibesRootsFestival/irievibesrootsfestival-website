@@ -29,7 +29,7 @@
                     </div>
                     <div class="text-md-right text-warning">
                         <h1 class="mt-3 mb-0 px-3 quote">one love</h1>
-                        <p class="text-justify text-md-right">Here at Irie Vibes, family is important. We're a big family building towards an even bigger future. Without help from people like you, we wouldn't be able to fullfill this dream. Mash down! Visit the <a class="text-warning" href="/en/info/volunteers/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>volunteers page</a> to see if you're up for a sweet family thing.</p>
+                        <p class="text-justify text-md-right">Here at Irie Vibes, family is important. We're a big family building towards an even bigger future. Without help from people like you, we wouldn't be able to fulfill this dream. Mash down! Visit the <a class="text-warning" href="/en/info/volunteers/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>volunteers page</a> to see if you're up for a sweet family thing.</p>
                     </div>
                     <div class="text-left text-danger">
                         <h1 class="mt-3 mb-0 px-3 quote ">be with us</h1>
