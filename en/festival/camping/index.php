@@ -19,16 +19,16 @@
                                 <div class="text-box rounded p-2">
                                     <!-- Anchor Navigation -->
                                     <nav class="nav">
-                                        <a class="nav-link text-irie d-block" href="#camping_location">Location & Pricing</a>
-                                        <a class="nav-link text-irie d-block" href="#camping_hours">Opening hours</a>
-                                        <a class="nav-link text-irie d-block" href="#parkings">Parking & Transit</a>
-                                        <a class="nav-link text-irie d-block" href="#agreements">Agreements</a>
-                                        <a class="nav-link text-irie d-block" href="#facilities">Facilities</a>
-                                        <a class="nav-link text-irie d-block" href="#food_drinks">Food/Drinks</a>
-                                        <a class="nav-link text-irie d-block" href="#entrance_exit">Entrance/Exit</a>
-                                        <a class="nav-link text-irie d-block" href="#camping_crimes">Camping Crimes</a>
-                                        <a class="nav-link text-irie d-block" href="#personal_belongings">Personal Belongings</a>
-                                        <a class="nav-link text-irie d-block" href="#home"><i>The 7 Commandments</i></a>
+                                        <a class="nav-link text-irie w-100" href="#camping_location">Location & Pricing</a>
+                                        <a class="nav-link text-irie w-100" href="#camping_hours">Opening hours</a>
+                                        <a class="nav-link text-irie w-100" href="#parkings">Parking & Transit</a>
+                                        <a class="nav-link text-irie w-100" href="#agreements">Agreements</a>
+                                        <a class="nav-link text-irie w-100" href="#facilities">Facilities</a>
+                                        <a class="nav-link text-irie w-100" href="#food_drinks">Food/Drinks</a>
+                                        <a class="nav-link text-irie w-100" href="#entrance_exit">Entrance/Exit</a>
+                                        <a class="nav-link text-irie w-100" href="#camping_crimes">Camping Crimes</a>
+                                        <a class="nav-link text-irie w-100" href="#personal_belongings">Personal Belongings</a>
+                                        <a class="nav-link text-irie w-100" href="#home"><i>The 7 Commandments</i></a>
                                         <a class="nav-link text-danger d-block" href="/src/static/grondplan_camping.pdf">Ground Plan</a>
                                     </nav>
                                 </div>

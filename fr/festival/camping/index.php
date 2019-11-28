@@ -12,23 +12,24 @@
             <br/>
             <div id="accomodation" class="container">
 			<div class="text-center"><small>This page has not been translated. Feeling generous? Help us translate. <a href="mailto:web@irievibes.be">Mail us at web@irievibes.be</a></small></div>
+                <small>This page is outdated. Please check the other versions for up-to-date information.</small>
                 <h3  class="display-7 text-center">Camping & Parking</h3> 
                 <div class="container">
                     <div class="row">
                         <div id="accomodation-nav" class="col-12 col-lg-3 order-lg-2 ">
-                            <div class="text-box-2 rounded p-2">
+                            <div class="text-box-2 rounded p-2 sticky-top mt-1">
                                 <div class="text-box rounded p-2">
                                     <!-- Anchor Navigation -->
                                     <nav class="nav">
-                                        <a class="nav-link text-irie d-block" href="#camping_location">Location & Pricing</a>
-                                        <a class="nav-link text-irie d-block" href="#camping_hours">Opening hours</a>
-                                        <a class="nav-link text-irie d-block" href="#agreements">Agreements</a>
-                                        <a class="nav-link text-irie d-block" href="#facilities">Facilities</a>
-                                        <a class="nav-link text-irie d-block" href="#food_drinks">Food/Drinks</a>
-                                        <a class="nav-link text-irie d-block" href="#entrance_exit">Entrance/Exit</a>
-                                        <a class="nav-link text-irie d-block" href="#camping_crimes">Camping Crimes</a>
-                                        <a class="nav-link text-irie d-block" href="#personal_belongings">Personal Belongings</a>
-                                        <a class="nav-link text-irie d-block" href="#home"><i>The 7 Commandments</i></a>
+                                        <a class="nav-link text-irie w-100" href="#camping_location">Location & Pricing</a>
+                                        <a class="nav-link text-irie w-100" href="#camping_hours">Opening hours</a>
+                                        <a class="nav-link text-irie w-100" href="#agreements">Agreements</a>
+                                        <a class="nav-link text-irie w-100" href="#facilities">Facilities</a>
+                                        <a class="nav-link text-irie w-100" href="#food_drinks">Food/Drinks</a>
+                                        <a class="nav-link text-irie w-100" href="#entrance_exit">Entrance/Exit</a>
+                                        <a class="nav-link text-irie w-100" href="#camping_crimes">Camping Crimes</a>
+                                        <a class="nav-link text-irie w-100" href="#personal_belongings">Personal Belongings</a>
+                                        <a class="nav-link text-irie w-100" href="#home"><i>The 7 Commandments</i></a>
                                         <a class="nav-link text-danger d-block" href="/src/static/grondplan_camping.pdf">Ground Plan</a>
                                     </nav>
                                 </div>
