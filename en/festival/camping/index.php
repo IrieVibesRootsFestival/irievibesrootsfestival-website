@@ -2,9 +2,9 @@
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
-        <title>Shops | Food & Gear - Irie Vibes</title>
-        <meta property="og:title" content="Food & Gear"/>
-        <meta property="og:description" content="Interested in a snack; looking for a sourenir? Find out what the shops have to offer." /> 
+        <title>Camping & Parking - Irie Vibes</title>
+        <meta property="og:title" content="Camping and Parking info"/>
+        <meta property="og:description" content="Find everything you need to know when you're coming with your tent & tat." /> 
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
@@ -55,14 +55,14 @@
                                 </div>
                                 <div id="camping_hours" class="col-12 col-md-6 anchor">
                                     <h3 class="text-irie mt-2 mt-md-0"><b>Hours</b></h3>
-                                    <p>De camping gaat open op donderdag om 14u en sluit op zondag om 11u. We verwachten dan ook dat alle bezoekers op zondag om 11u hun campingplaats net achterlaten en de camping verlaten.</p> 
-                                    <p class="mb-0"><b>Het Irie Vibes Roots Festival is open voor het publiek op:</b></p>
+                                    <p>The camping opens its doors on Thursday at 2 p.m. and closes its doors on Sunday at 11 a.m. We expect each visitor to leave the camping site and leave a clean spot by that time.</p> 
+                                    <p class="mb-0"><b>The Irie Vibes Roots Festival is open to the public on:</b></p>
                                     <ul>
-                                        <li>Donderdag 18 juli, vanaf 18u</li>
-                                        <li>Vrijdag 19 juli, vanaf 17u</li>
-                                        <li>Zaterdag 20 juli, vanaf 12u ('s middags)</li>  
+                                        <li>Thursday, July 16th from 6 p.m.</li>
+                                        <li>Friday, July 17th from 5 p.m.</li>
+                                        <li>Saturday, July 18th from 12 p.m.</li>  
                                     </ul>
-                                    <p><i>De camping is open 24h/24h gedurende het hele weekend</i></p>               
+                                    <p><i>The camping is open during the entire weekend.</i></p>               
                                 </div>
                                 <div id="parking" class="col-12 anchor">
                                     <h3 class="text-irie"><b>Parking & Transit</b></h3>
@@ -99,9 +99,9 @@
                                         Tap water can be used, although the water is <u>not safe for drinking.</u></p>
                                     Showers are open on:
                                     <ul>
-                                        <li>Friday from 9AM till 12 o'clock and from 5PM ‘till 7PM</li>
-                                        <li>Saturday from 9AM till 12 o'clock and from 5PM ‘till 7PM</li>
-                                        <li>Sunday from 9AM till 12 o'clock (final closing hour)</li>
+                                        <li>Friday, from 9 a.m. until 12 o'clock and from 5 p.m. until 7 p.m.</li>
+                                        <li>Saturday, from 9 a.m. until 12 o'clock and from 5 p.m. until 7 p.m.</li>
+                                        <li>Sunday, from 9 a.m. until 12 o'clock (final closing hour)</li>
                                     </ul>
                                     <p><i>For all kinds of questions or problems, the Camping Team will be there for you.</i></p>
                                 </div>
@@ -126,7 +126,7 @@
                                 </div>
                                 <div id="personal_belongings" class="col-12 col-md-5">
                                     <h3 class="text-irie"><b>Personal Belongings</b></h3>
-                                    <p>Never bring expensive personal belongings to the festival ground and never leave precious things unguarded in your tent (<i>not even your boyfriend/girlfriend</i>.)</p>
+                                    <p>We recommend you leave unnecessarily expensive items at home. If you do wish to bring your items to the festival then remember to practice usual personal security to prevent theft or loss.</p>
                                 </div>
                             </div>
                         </div>
@@ -147,7 +147,6 @@
                                         <li>For this paradise, thou shalt pay only one fee, so you’re at ease for a shower or a pee</li>
                                         <li>Thou shalt not covet your neighbor's house, his ox or donkey, or anything that belongs to thy neighbor</li>
                                     </ol>
-                                    <hr/><br/>
                                 </div>
                             </div>
                         </div>
