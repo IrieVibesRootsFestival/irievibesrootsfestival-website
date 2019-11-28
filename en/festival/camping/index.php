@@ -77,8 +77,7 @@
                                 </div>
                                 <div id="agreements" class="col-12 anchor">
                                     <h3 class="text-irie"><b>Agreements</b></h3>
-                                    <p>The festival and camping are situated in a quiet environment.</p>
-                                    <b>We ask you to:</b>
+                                    <p>The festival and camping are situated in a quiet environment. <br/><b>We ask you to:</b></p>
                                     <ul> 
                                         <li>Not cause any environmental damage to fields or properties</li>
                                         <li>Show respect to all living creatures, including animals in the fields near the camping</li>  
