@@ -67,7 +67,9 @@
                                 <div id="parking" class="col-12 anchor">
                                     <h3 class="text-irie"><b>Parking & Transit</b></h3>
                                     <p>
-                                        The car parking costs <b>€5 per car</b> and is located on walking distance from the festival entrance. Upon your entry to the car parking, you will receive a ticket suited for writing down your phone number. We require you to do this before placing the ticket behind your windscreen.<br/>
+                                        The car parking costs <b>€5 per car</b> and is located on walking distance from the festival entrance. Upon your entry to the car parking, you will receive a ticket suited for writing down your phone number. We require you to do this before placing the ticket behind your windscreen.
+                                    </p>
+                                    <p>
                                         We encourage and advise you to use public transport. The municipalty of Kortemark has a train station and a bus station on a small hike's distance from the festival terrain. You won't be alone when you come with public transport. Follow the crowd!<br/>
                                         There will also be shuttle busses provided by the organisation to take you to and from the festival terrain.<br/>
                                         If you still prefer to come by car, give the free <a href="https://www.carpool.be/nl/common/app">Carpool.be App</a> a try!
