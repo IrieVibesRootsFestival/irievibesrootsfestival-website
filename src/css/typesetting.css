@@ -1,20 +1,19 @@
 /*-------Importing Icons-------*/
-@import url('https://use.fontawesome.com/releases/v5.8.1/css/all.css');
+@import url('https://use.fontawesome.com/releases/v5.11.2/css/all.css');
 @import url('/src/css/flags.css');
 /*-------Importing Fonts-------*/
 @import url('https://fonts.googleapis.com/css?family=Dosis');
-@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
-@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
-@import url('https://fonts.googleapis.com/css?family=Special+Elite');
-@import url('https://fonts.googleapis.com/css?family=Boogaloo&display=swap');
 @import url('/src/css/fonts/tipi.css');
 
 h1, h2, h3, h4, h5, h6{font-family: 'Dosis';}
 .h1, .h2, .h3, .h4, .h5, .h6{font-family: 'Dosis';}
 
-p, ul, li, small{font-family: 'Roboto Mono', monospace; letter-spacing: -0.042rem;}
-p{font-size:0.97rem;}
+p, ul, li, small, b, i, u, .content{
+    font-family: 'Roboto Mono', monospace; 
+    letter-spacing: -0.042rem;
+    font-size:0.97rem;
+}
 /*--Link styling--*/
 a{color: #8e142f; font-style:italic; font-family: 'Roboto Mono', monospace;}
 a:hover{color: #bc0939;}
