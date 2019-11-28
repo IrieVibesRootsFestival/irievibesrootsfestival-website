@@ -43,7 +43,7 @@
                                     <p>The silent camping and camper camping are situated right <b>across the street.</b></p>  
                                 </div>
                                 <div id="camping_price" class="col-12 col-md-6 anchor">
-                                    <h3 class="text-irie"><b>Prijs</b></h3>
+                                    <h3 class="text-irie"><b>Price</b></h3>
                                     <p>We welcome the world to both the festival and camping! A camping ticket costs <b>€10</b>, and is available for purchase at the festival entrance. These services are in cooperation with<a href="/en/info/partners/index.php#l_tschoederkloptje">'t Schoederkloptje</a>, <a href="/en/info/partners/index.php#l_chiro">Chiro Handzame</a> and <a href="/en/info/partners/index.php#l_24-uur-van-snaaskerke">24 uur van Snaaskerke</a>.<br/></p>
                                     <p class="mb-0"><b>This price includes:</b></p>
                                     <ul>                                
