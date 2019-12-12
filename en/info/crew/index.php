@@ -10,7 +10,12 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <div class="content container">
             <h3  class="display-7 text-center">Crew</h3> 
-            <p class="text-white">Our crew is incredibly valuable to us. With this thanks & praises page, we would like to thank everyone in the crew that makes Irie Vibes possible, working throughout the whole year to put up a big show -- time after time again.</p>
+            <p>Our crew is incredibly valuable to us. With this thanks & praises page, we would like to thank everyone in the crew that makes Irie Vibes possible, working throughout the whole year to put up a big show -- time after time again.</p>
+            <picture>
+                <source srcset="/src/img/crew-2019.webp" type="image/webp">
+                <source srcset="/src/img/crew-2019.jpg" type="image/jpeg">
+                <img class="img-fluid rounded" src="/src/img/crew-2019.jpg"/>
+            </picture>
         </div>
         <!-- Include Footer -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_en.php');?>        
