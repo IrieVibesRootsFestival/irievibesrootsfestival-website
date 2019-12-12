@@ -5,7 +5,7 @@
 /*-------Basic Stuff-------*/
 html {overflow-y: scroll !important;}
 body{
-    background-image: url("/src/img/background.webp");
+    background-image: url("/src/img/background.jpg");
     background-repeat: repeat;
     background-attachment: fixed;
 }
@@ -98,7 +98,7 @@ header a{
 /*Align the shopping cart*/
 .nav-fake{
     height:66px;
-    background-image: linear-gradient(rgba(0, 133, 66, 0.25),rgba(255, 224, 0, 0.25),rgba(231, 0, 1, 0.25)),url(/src/img/hardwood-horizontal.webp);
+    background-image: linear-gradient(rgba(0, 133, 66, 0.25),rgba(255, 224, 0, 0.25),rgba(231, 0, 1, 0.25)),url(/src/img/hardwood-horizontal.jpg);
     box-shadow: 0 0px 12px 1px #1b1e21;
 }
 
@@ -173,7 +173,7 @@ header a{
 /*Re-enable normal styling for tablet and up*/
 @media (min-width: 992px) {
     .navbar-nav > li > .dropdown-menu{
-        background-image: url(/src/img/hardwood-horizontal.webp);  
+        background-image: url(/src/img/hardwood-horizontal.jpg);  
         box-shadow: 0 0px 12px 1px #1b1e21;
     }     
 }
@@ -181,7 +181,7 @@ header a{
 .nav-link{padding: .1rem;}
 /*---Footer Config---*/
 footer{
-    background-image:url(/src/img/hardwood-horizontal.webp);
+    background-image:url(/src/img/hardwood-horizontal.jpg);
     color: rgba(255,255,255,1.00);
     box-shadow: 0 0px 12px 1px #1b1e21;
     padding-top:8px;  
@@ -312,7 +312,7 @@ footer .footer-nav ul.list a:hover { color:rgba(255,255,255,0.60); text-decorati
 
 #kc .bg-img,
 #lineup .bg-img,
-#artists .bg-img{background-image: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)),url(/src/img/hardwood-horizontal.webp);}
+#artists .bg-img{background-image: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)),url(/src/img/hardwood-horizontal.jpg);}
 #kc .bg-text,
 #lineup .bg-text,
 #artists .bg-text{background-image: url('/src/img/paper-texture.jpg');}
@@ -332,7 +332,7 @@ footer .footer-nav ul.list a:hover { color:rgba(255,255,255,0.60); text-decorati
 #TrimTheFootprint-tab .bg-img{background-image:url(https://www.sketchuptextureclub.com/public/texture_m/0027-old-wood-board-texture-seamless.jpg);}
 
 #slider-wrapper {
-    background-image:url(/src/img/hardwood-horizontal.webp);
+    background-image:url(/src/img/hardwood-horizontal.jpg);
     box-shadow: 3px 3px 16px 0px rgba(42, 42, 42, 0.8);
     background-position: center;
 }
@@ -344,13 +344,13 @@ footer .footer-nav ul.list a:hover { color:rgba(255,255,255,0.60); text-decorati
     visibility:hidden;
 }
 
-.text-box-2{background-image:url('/src/img/hardwood-horizontal.webp');}
+.text-box-2{background-image:url('/src/img/hardwood-horizontal.jpg');}
 .dropdown, .dropup{z-index:950}
 
 #accomodation h3:not(.display-7){text-transform:uppercase}
 
 header {
-    background-image: linear-gradient(hsla(150, 100%, 20%, 0.25),hsla(53, 100%, 40%, 0.25),hsla(0, 93%, 43%, 0.20)),url(/src/img/hardwood-horizontal.webp);
+    background-image: linear-gradient(hsla(150, 100%, 20%, 0.25),hsla(53, 100%, 40%, 0.25),hsla(0, 93%, 43%, 0.20)),url(/src/img/hardwood-horizontal.jpg);
     background-position: center center;
     box-shadow: 0 0px 12px 1px #1b1e21;
     z-index:1010;
