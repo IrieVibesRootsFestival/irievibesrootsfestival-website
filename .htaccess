@@ -9,7 +9,7 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 RewriteCond %{HTTP_HOST} !^(www|shop|tickets|en|fr|nl)\.irievibes\.be$ [NC]
 
 # Redirect to www.irievibes.be/nl/ from irievibes.be, preserving the URI
-RewriteRule ^(.*)$ http://www.irievibes.be/nl/ [L,R=301]
+RewriteRule ^(.*)$ nl/ [L,R=301]
 
 # Redirect the language and tickets subdomains
 RewriteCond %{HTTP_HOST} ^tickets.irievibes.be$
