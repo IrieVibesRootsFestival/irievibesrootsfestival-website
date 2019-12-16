@@ -1,14 +1,18 @@
 RewriteEngine On
 RewriteCond %{HTTPS} !on
 
-
+# Redirect all www to non-www
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
 # Redirect all HTTP to HTTPS
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
-RewriteCond %{HTTP_HOST} !^(.*)\.(.*)\. [NC]
-RewriteCond %{HTTPS}s ^on(s)|
-RewriteRule ^ http%1://www.%{HTTP_HOST}%/nl/ [L,R=301]
+# Redirect anything except subdomains
+RewriteCond %{HTTP_HOST} !^(shop|tickets|en|fr|nl)\.irievibes\.be$ [NC]
+
+# Redirect to irievibes.be/nl/ from irievibes.be, preserving the URI
+RewriteRule ^/$ https://irievibes.be/nl/ [L,R=301]
 
 # Redirect the language and tickets subdomains
 RewriteCond %{HTTP_HOST} ^tickets.irievibes.be$
