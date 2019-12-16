@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceBlock name="logo">
+            <arguments>
+                <argument name="logo_img_width" xsi:type="number">226</argument>
+                <argument name="logo_img_height" xsi:type="number">40</argument>
+            </arguments>
+        </referenceBlock>
+        <referenceBlock name="header.panel">
+            <block class="Magento\Theme\Block\Html\Header" name="welcome" as="header" template="Magento_Theme::html/welcome.phtml">
+                <arguments>
+                    <argument name="show_part" xsi:type="string">welcome</argument>
+                </arguments>
+            </block>
+            <block class="Magento\Directory\Block\Currency" name="currency" after="store_language" template="currency.phtml"/>
+        </referenceBlock>
+        <referenceContainer name="header-wrapper">
+            <container name="top.links.menu_wrapper" htmlTag="div" htmlClass="account-links-menu_wrapper" after="-">
+                <container name="account.links.menu.btn" htmlTag="div" htmlClass="account-links-menu_btn" before="-">
+                    <block class="Magento\Framework\View\Element\Template" name="account.links.menu_btn" template="Magento_Theme::html/account-links-menu_btn.phtml"/>
+                </container>
+                <container name="account.links.menu.wrapper" htmlTag="div" htmlClass="account-links-menu">
+                    <container name="account.links.menu" label="Account Links Menu" htmlTag="ul">
+                        <!--Account Link-->
+                        <block class="Magento\Customer\Block\Account\Link" name="my-account-link">
+                            <arguments>
+                                <argument name="label" xsi:type="string" translate="true">My Account</argument>
+                            </arguments>
+                        </block>
+                        <!--end of Account Link-->
+
+                        <!--Wishlist Link-->
+                        <block class="Magento\Wishlist\Block\Link" name="wish-list-link-2"/>
+                        <!--end of Wishlist Link-->
+
+                        <block class="Magento\Framework\View\Element\Template" name="catalog.compare.link" before="-"
+                               template="Magento_Catalog::product/compare/link.phtml">
+                            <arguments>
+                                <argument name="jsLayout" xsi:type="array">
+                                    <item name="components" xsi:type="array">
+                                        <item name="compareProducts" xsi:type="array">
+                                            <item name="component" xsi:type="string">Magento_Catalog/js/view/compare-products</item>
+                                        </item>
+                                    </item>
+                                </argument>
+                            </arguments>
+                        </block>
+
+                        <!--Log In Link-->
+                        <block class="Magento\Customer\Block\Account\RegisterLink" name="register-link-2">
+                            <arguments>
+                                <argument name="label" xsi:type="string" translate="true">Create an Account</argument>
+                            </arguments>
+                        </block>
+                        <block class="Magento\Customer\Block\Account\RegisterLink" name="register-link-2">
+                            <arguments>
+                                <argument name="label" xsi:type="string" translate="true">Create an Account</argument>
+                            </arguments>
+                        </block>
+                        <block class="Magento\Customer\Block\Account\AuthorizationLink" name="authorization-link-2"
+                               template="account/link/authorization.phtml"/>
+                        <!--end of Log In Link-->
+                    </container>
+                </container>
+            </container>
+        </referenceContainer>
+
+        <referenceContainer name="footer">
+            <container name="footer.col.wrapper" htmlTag="div" htmlClass="footer-col-wrapper" before="-">
+                <container name="footer.links.wrapper" htmlTag="div" htmlClass="footer-col" before="-">
+                    <block class="Magento\Framework\View\Element\Template" name="footer.links.title" template="Magento_Theme::html/footer-list-title.phtml"/>
+                    <container name="footer.links.col.content" htmlTag="div" htmlClass="footer-col-content">
+
+                    </container>
+                </container>
+
+                <block type="cms/block" class="Magento\Cms\Block\Block" name="footer_list" after="footer_links">
+                    <arguments>
+                        <argument name="block_id" xsi:type="string">footer_list</argument>
+                    </arguments>
+                </block>
+            </container>
+        </referenceContainer>
+
+        <referenceContainer name="page.top">
+            <referenceBlock name="store.links" remove="true" />
+        </referenceContainer>
+
+
+
+        <referenceBlock name="footer_links">
+            <arguments>
+                <argument name="css_class" xsi:type="string"></argument>
+            </arguments>
+            <block type="cms/block" class="Magento\Cms\Block\Block" name="store_footer_links" before="-">
+                <arguments>
+                    <argument name="block_id" xsi:type="string">store_footer_links</argument>
+                </arguments>
+            </block>
+        </referenceBlock>
+        <move element="footer_links" destination="footer.links.col.content" after="-"/>
+
+        <referenceBlock name="report.bugs" remove="true"/>
+    </body>
+</page>
