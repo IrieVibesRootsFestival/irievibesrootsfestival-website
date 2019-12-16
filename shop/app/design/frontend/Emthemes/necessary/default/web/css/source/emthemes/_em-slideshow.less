@@ -1,0 +1,120 @@
+//////Slideshow
+.em-slideshow{
+	.owl-carousel .owl-nav [class*='owl-']{
+		top:38%;
+		//@include next-pre(0, 0, 19px 7px, 58px);
+		//@include next-pre-icon(\f054,\f053,1.9rem);
+		color:#fff;
+		background:rgba(0, 0, 0, 0.5);
+		border-color:transparent;
+		.lib-border-radius(0);
+		padding:0;
+		width:58px;
+		height:58px;
+		
+		text-align:center;
+		&:hover{
+			background:#fff;
+			color:#a1a1a1;
+			border-color:transparent;
+		}
+		&.owl-prev{
+			left:10px;
+			right:auto;
+			&:before{
+				content:'\f053';
+				.lib-font-size(19);
+				line-height:58px;
+			}
+		}
+		&.owl-next{
+			right:10px;
+			left:auto;
+			&:before{
+				content:'\f054';
+				.lib-font-size(19);
+				line-height:58px;
+			}
+		}
+	}
+	.owl-theme .owl-controls .owl-pagination{
+		//@include position_style(absolute, left, 48%, bottom, 30px);
+		margin:0;
+		.owl-page{			
+			span{
+				border-width: 2px;
+				background:transparent;
+				border-color:#a3a19e;
+				width: 15px !important;
+				height: 15px !important;
+			}
+			&.active span,span:hover{
+				border-color:#fff;
+			}
+		}
+	}
+}
+.em-slideshow{
+	.slide-center{
+	
+	}
+	.ms-slide .ms-slide-layers, .ms-fixed-layers{
+		z-index:9999;
+	}
+	.lib-css(color, @em-label__text-color);
+	h1, h2, h3, h4{
+		.lib-css(color, @em-label__text-color);
+	}
+	.line{
+		padding: 2.5rem 0;
+		position:relative;
+		margin:0;
+		&:after,
+		&:before{
+			height: 2px;
+			width: 100%;
+			background-color: #fff;
+			content: "";
+			position: absolute;
+			left: 0;
+		}
+		&:before{top: 0px;}
+		&:after{bottom: 0px;}
+	}
+	.line-50{
+		position:relative;
+		&:before{
+		    height: 2px;
+			width: 50px;
+			background-color: #fff;
+			content: "";
+			position: absolute;
+			left: 47%;
+			bottom: 0px;
+			
+		}
+	}
+	
+	.ms-layer.ms-caption{
+		/*top:23% !important;
+		left:42% !important;
+		width:55%;*/
+	}
+}
+
+.media-width(@extremum, @break) when (@extremum = 'max') and (@break = @screen__m) {
+	.em-slideshow{
+		h1,h2,h3,h4{
+			font-size:15px!important;
+			margin-bottom:10px !important;
+			padding:0 !important;
+		}
+		h2, h3{ 
+			&:after, &:before{display:none !important}
+		}
+		h5,h6{
+			font-size:13px!important;
+		}
+		.button-link{ display:none !important}
+	}
+}

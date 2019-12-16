@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceContainer name="head.additional">
+            	<block class="Magento\Framework\View\Element\Template" name="em_head" template="Magento_Theme::html/em_head.phtml" />           
+        </referenceContainer>    
+        <!-- header area -->
+        <referenceContainer name="header.container">
+            <container name="header.bottom" htmlClass="header bottom wrapper" htmlTag="div" after="-"/>
+        </referenceContainer>
+        <move element="header-wrapper" destination="header.bottom" />
+        <referenceContainer name="header.panel">
+            <block class="Magento\Framework\View\Element\Template" name="skip_to_content" template="Magento_Theme::html/skip.phtml">
+                <arguments>
+                    <argument name="target" xsi:type="string">contentarea</argument>
+                    <argument name="label" translate="true" xsi:type="string">Skip to Content</argument>
+                </arguments>
+            </block>
+            <block class="Magento\Store\Block\Switcher" name="store_language" as="store_language" template="switch/languages.phtml"/>
+
+            <block class="Magento\Framework\View\Element\Html\Links" name="top.links">
+                <arguments>
+                    <argument name="css_class" xsi:type="string">header links</argument>
+                </arguments>
+            </block>
+        </referenceContainer>
+        <referenceContainer name="header-wrapper">
+            <container name="header-wrapper-container" htmlTag="div" htmlClass="header-wrapper-container" before="-" />
+            <container name="topNavigation" label="Top Navigation" htmlTag="div" htmlClass="top-navigation" after="logo" />
+        </referenceContainer>
+        <referenceBlock name="logo">
+            <arguments>
+                <argument name="logo_img_width" xsi:type="number">236</argument>
+                <argument name="logo_img_height" xsi:type="number">56</argument>
+            </arguments>
+        </referenceBlock>
+        
+        <move element="catalog.topnav" destination="store.menu" />
+        <move element="store_switcher" destination="header.panel" />
+        <move element="topNavigation" destination="store.menu" />
+        <move element="logo" destination="header-wrapper-container" />
+        <referenceContainer name="header-wrapper-container">
+            <block class="Magento\Framework\View\Element\Template" name="navigation.sections" after="logo" template="Magento_Theme::html/sections.phtml">
+                <arguments>
+                    <argument name="group_name" xsi:type="string">navigation-sections</argument>
+                    <argument name="group_css" xsi:type="string">nav-sections</argument>
+                </arguments>
+                <block class="Magento\Framework\View\Element\Template" name="store.menu" group="navigation-sections" template="Magento_Theme::html/container.phtml">
+                    <arguments>
+                        <argument name="title" translate="true" xsi:type="string">Menu</argument>
+                    </arguments>
+                </block>
+                <block class="Magento\Framework\View\Element\Text" name="store.links" group="navigation-sections">
+                    <arguments>
+                        <argument name="title" translate="true" xsi:type="string">Account</argument>
+                        <argument name="use_force" xsi:type="boolean">true</argument>
+                        <argument name="text" xsi:type="string"><![CDATA[<!-- Account links -->]]></argument>
+                    </arguments>
+                </block>
+                <block class="Magento\Framework\View\Element\Template" name="store.settings" group="navigation-sections" template="Magento_Theme::html/container.phtml">
+                    <arguments>
+                        <argument name="title" translate="true" xsi:type="string">Settings</argument>
+                    </arguments>
+                    <block class="Magento\Store\Block\Switcher" name="store.settings.language" template="switch/languages.phtml">
+                        <arguments>
+                            <argument name="id_modifier" xsi:type="string">nav</argument>
+                        </arguments>
+                    </block>
+                    <block class="Magento\Directory\Block\Currency" name="store.settings.currency" before="store_language" template="currency.phtml">
+                        <arguments>
+                            <argument name="id_modifier" xsi:type="string">nav</argument>
+                        </arguments>
+                    </block>
+                </block>
+            </block>
+        </referenceContainer>        	
+        <referenceContainer name="page.top">
+            <block class="Magento\Framework\View\Element\Template" name="end.header" template="Magento_Theme::html/bottom_header.phtml" after="-">
+                    <arguments>
+                        <argument name="title" translate="true" xsi:type="string">Header Position</argument>
+                    </arguments>
+            </block>
+        
+        </referenceContainer>
+        
+        <!-- main content area -->
+        <referenceContainer name="main.content">
+              <container name="main_wrapper" htmlTag="div" htmlClass="main-wrapper" after="-" />
+       	  <container name="main.content.full" htmlTag="div" htmlClass="main-content-full" label="Main Content Full" after="-"/>
+		  <container name="main.top.content.full" htmlTag="div" htmlClass="main-content-top-full" label="Main Content Top Full" before="-"/>
+        </referenceContainer>
+        <move element="columns.top" destination="main_wrapper" before="-" />
+        <move element="columns" destination="main_wrapper" after="columns.top" />
+        
+        <!-- footer area -->
+        <referenceContainer name="footer-container">
+            <container name="footer_top" label="Footer Top" htmlTag="div" htmlClass="footer-top" before="-">
+                <container name="footer_top_content" htmlTag="div" htmlClass="footer content">
+                    <container name="footer.area.1" label="Footer Area 1" before="-" />
+                </container>
+            </container>
+            <container name="footer_bottom" htmlTag="div" htmlClass="footer-bottom" after="footer_top" />
+        </referenceContainer>
+
+        <referenceContainer name="footer">              
+            <container name="footer.area.2" label="Footer Area 2" before="copyright"/>
+            <container name="footer.area.3" label="Footer Area 3" after="copyright"/>
+            <referenceBlock name="form.subscribe" remove="true" />
+            <referenceBlock name="footer_links" display="false" />
+
+        </referenceContainer>
+      <referenceContainer name="before.body.end">
+            <block class="Magento\Framework\View\Element\Template" name="back_to_top" template="Magento_Theme::html/back_to_top.phtml" />
+            <block class="Magento\Framework\View\Element\Template" name="popup_newsletter" template="Magento_Theme::html/popup_content.phtml">
+                <container name="popup.newsletter.container" htmlTag="div" before="-">
+                    <block class="Magento\Newsletter\Block\Subscribe" name="popup.form.subscribe" as="popup.subscribe" template="popup_subscribe.phtml" />
+                </container>
+                <container name="popup.login.container" htmlTag="div" before="-">
+                    <block class="Magento\Customer\Block\Form\Login" name="popup_login" template="form/popup_login.phtml" />
+                </container>
+                <container name="popup.static.block" label="Popup Content" htmlTag="div" htmlClass="popup content" before="-" />
+            </block>
+        </referenceContainer>
+        <referenceBlock name="report.bugs" remove="true"/>
+       
+        <move element="footer" destination="footer_bottom"/>
+    </body>
+</page>

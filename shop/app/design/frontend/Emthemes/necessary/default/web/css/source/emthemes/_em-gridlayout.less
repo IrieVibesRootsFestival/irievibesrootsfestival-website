@@ -1,0 +1,107 @@
+// /**
+//  * Copyright © 2015 Magento. All rights reserved.
+//  * See COPYING.txt for license details.
+//  */
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+
+.row:before, .row:after {
+    content: " ";
+    display: table;
+}
+
+.row:after {
+  clear: both;
+}
+.row{ margin-left:-@indent__s; margin-right:-@indent__s; }
+.col(@_i){
+	width: ((@_i * 100%)/ @_col);
+	float:left;
+	/*padding-left: @indent__s;
+	padding-right: @indent__s;
+	float:left;
+	position:relative;*/
+}
+.em-col(@_name, @_col, @_i: 1) when (@_i <= @_col){
+	.col-@{_name}-@{_i}{
+		width: ((@_i * 100%)/ @_col);
+		float:left;
+	}
+	.em-col(@_name, @_col, (@_i + 1));
+}
+
+.em-col-offset(@_name, @_col, @_i: 1) when (@_i <= @_col){
+	.col-@{_name}-@{_i}{
+		margin-left: ((@_i * 100%)/ @_col);
+	}
+	.em-col-offset(@_name, @_col, (@_i + 1));
+}
+
+.em-col-push(@_name, @_col, @_i: 1) when (@_i <= @_col){
+	.col-@{_name}-@{_i}{
+		left: ((@_i * 100%)/ @_col);
+	}
+	.em-col-push(@_name, @_col, (@_i + 1));
+}
+
+.em-col-push-right(@_name, @_col, @_i: 1) when (@_i <= @_col){
+	.col-@{_name}-@{_i}{
+		left: auto;
+		right: ((@_i * 100%)/ @_col);
+	}
+	.em-col-push-right(@_name, @_col, (@_i + 1));
+}
+
+///// width: xl = 1440px
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__xl) {
+	.em-col(xl, 24);
+}
+///// width: lg = 1024px
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__l) {
+	.em-col(lg, 24);
+}
+///// width:md = 768px
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__m) {
+	.em-col(md, 24);
+}
+///// width:sm = 640px
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__m) {
+	.em-col(sm, 24);
+	.em-col-offset(sm-offset, 24);
+	.em-col-push(sm-push, 24);
+}
+///// width:xs = 480px
+.media-width(@extremum, @break) when (@extremum = 'max') and (@break = @screen__m) {
+	.em-col(xs, 24);
+}
+
+[class*='col-md-'],
+[class*='col-sm-']{
+	padding-left: @indent__s;
+	padding-right: @indent__s;
+	position:relative;
+}
+
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__m) {
+	.em-rtl{
+		[class*='col-md-'],
+		[class*='col-sm-']{
+			float:right;
+		}
+		.em-col-push-right(sm-push, 24);
+	}
+}
+
+

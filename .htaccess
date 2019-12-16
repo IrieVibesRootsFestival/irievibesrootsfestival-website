@@ -1,17 +1,20 @@
 RewriteEngine On
 RewriteCond %{HTTPS} !on
+
+# Redirect all HTTP to HTTPS
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
-RedirectMatch 301 ^/$ /en/ 
+
+# Redirect anything except subdomains
+
+RewriteCond %{HTTP_HOST} !^(www|shop|tickets|en|fr|nl)\.irievibes\.be$ [NC]
+
+# Redirect to www.irievibes.be/nl/ from irievibes.be, preserving the URI
+RewriteRule ^(.*)$ http://www.irievibes.be/nl/$1 [L,R=302]
+
+# Redirect the language and tickets subdomains
 RewriteCond %{HTTP_HOST} ^tickets.irievibes.be$
-RewriteRule ^(.*)$ https://www.irievibes.be/en/tickets/ [R=301,L]
-RewriteCond %{HTTP_HOST} ^en.irievibes.be$
-RewriteRule ^(.*)$ https://www.irievibes.be/en/ [R=301,L]
-RewriteCond %{HTTP_HOST} ^nl.irievibes.be$
-RewriteRule ^(.*)$ https://www.irievibes.be/nl/ [R=301,L]
-RewriteCond %{HTTP_HOST} ^fr.irievibes.be$
-RewriteRule ^(.*)$ https://www.irievibes.be/fr/ [R=301,L]
-RewriteCond %{HTTP_HOST} ^shop.irievibes.be$
-RewriteRule ^(.*)$ https://www.irievibes.be/en/ [R=301,L]
+RewriteRule ^(.*)$ https://www.irievibes.be/nl/tickets/ [R=301,L]
+
 
 
 Redirect 301 /src/static/grondplan_camping.pdf /src/static/groundplan_backtotheroots.pdf 

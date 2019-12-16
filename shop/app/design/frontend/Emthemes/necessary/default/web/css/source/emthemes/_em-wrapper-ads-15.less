@@ -1,0 +1,45 @@
+@line: @em-body__border-color;
+@line-2: @em-body-title__border-color;
+@color-title: @em-body-product-name__text-color;
+
+& when (@media-common = true){
+	.em-wrapper-ads-15{
+		//margin-bottom:$space_block;
+		.em-ads-item{
+			padding:35px 20px 40px;
+			margin-top:30px;
+			position:relative;
+			.lib-border-radius(5px);
+			.lib-allstyle(@em-body-title__text-color, @em-body-title__background-color);
+			.em-ads-img{
+				position:absolute;
+				right:40px;
+				top:-30px;
+				width:70px;
+				height:70px;
+				.lib-border-radius(100%);
+				.lib-css(border, 2px solid @em-body-title__background-color);
+				img{
+					.lib-border-radius(100%);
+				}
+			}
+			.em-ads-des .fa{
+				font-size:300%;
+			}
+			.em-ads-author span{
+				font-weight:italic;
+				&:first-child{
+					font-weight:bold;
+				}
+			}
+		}
+		//.em-slider .owl-nav{ display:none;}
+		.owl-dots{
+			position:absolute;
+			left:23px;
+			bottom:5px;
+			margin:0;
+		}
+	}
+
+}

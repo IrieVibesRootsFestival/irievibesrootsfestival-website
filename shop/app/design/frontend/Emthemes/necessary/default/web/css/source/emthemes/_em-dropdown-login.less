@@ -1,0 +1,35 @@
+// /**
+//  * Copyright © 2015 Magento. All rights reserved.
+//  * See COPYING.txt for license details.
+//  */
+
+& when (@media-common = true){
+	.header.links{
+		.block-customer-login{
+			display:none;
+			position: absolute;
+			width: 300px;
+			top: 50px;
+			padding: 20px;
+			.lib-box-shadow(0px 1px 3px #e1e1e1);
+			z-index: 4;
+			.lib-css(color, @em-header-dropdown__text-color);
+			.lib-css(background, @em-header-dropdown__background-color);
+		}
+	}
+}
+
+//
+//  Mobile
+//  _____________________________________________
+.media-width(@extremum, @break) when (@extremum = 'max') and (@break = @screen__m) {
+	.header.links{
+		.block-customer-login{
+			position:static;
+			display:block;
+			width:100%;
+			.lib-box-shadow(none);
+			.lib-css(border, 1px solid @em-header__border-color);
+		}
+	}
+}

@@ -1,0 +1,30 @@
+<?php
+$quickshopHelper = $this->helper('Emthemes\QuickShop\Helper\Data');
+$itemClass = $quickshopHelper->getConfig('quickshop/general/item_class');
+$target = $quickshopHelper->getConfig('quickshop/general/target');
+$autoAddButtons = $quickshopHelper->getConfig('quickshop/general/auto_add_buttons');
+?>
+<div id="quickshop" class="quickshop-modal">
+	<div class="content-wrap">
+    	<div class="qs-loading-wrap" style="display:none;">
+        	<div class="qs-loader"><img src="<?php echo $block->getViewFileUrl('images/loader-1.gif'); ?>" alt="<?php echo __('Loading...') ?>"></div>
+		</div>
+        <div class="qs-content" style="display:none;"></div>
+    </div>
+</div>
+<script type="text/javascript">
+	var qsUrl = '';
+</script>
+<script type="text/x-magento-init">
+{
+	"*":{
+		"Emthemes_QuickShop/js/quickshop":{
+			"baseUrl": "<?php echo $quickshopHelper->getBaseUrl() ?>",
+			"qsLabel": "<?php echo $quickshopHelper->getQuickShopLabel() ?>",
+			"itemClass": "<?php echo (!empty($itemClass))?$itemClass:"" ?>",
+			"target": "<?php echo (!empty($target))?$target:".product-item-info"; ?>",
+			"autoAddButtons":<?php echo ($autoAddButtons==1)?"true":"false" ?>
+			}
+	}
+}
+</script>

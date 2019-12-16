@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="admin-2columns-left" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>               
+        <css src="Emthemes_ThemeSettings::css/colorjoe.css"/>   
+        <css src="Emthemes_ThemeSettings::css/themes.css"/>
+    </head>
+    <body>
+        <referenceContainer name="js">
+            <block class="Magento\Backend\Block\Template" template="Magento_Config::system/config/js.phtml"/>
+            <block class="Magento\Backend\Block\Template" template="Magento_Backend::system/shipping/applicable_country.phtml"/>
+        </referenceContainer>
+        
+        <referenceContainer name="left">
+            <block class="Emthemes\ThemeSettings\Block\Adminhtml\Config\Tabs" name="adminhtml.system.config.tabs" before="-"/>
+        </referenceContainer>
+        <referenceContainer name="content">
+            <block name="system.config.edit" class="Emthemes\ThemeSettings\Block\Adminhtml\Config\Edit"/>
+        </referenceContainer>
+    </body>
+</page>

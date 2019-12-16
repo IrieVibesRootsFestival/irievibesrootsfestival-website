@@ -1,0 +1,89 @@
+<?php $settingHelper = $this->helper('Emthemes\ThemeSettings\Helper\Data'); ?>
+<?php // box wide ?>
+<?php 
+$box_class = "";
+$rtl_class = "";
+if($settingHelper->getConfig('general_section/layout/box_wide')==1 && $settingHelper->checkMobile()=='false')
+{
+      $box_class = "em-box";
+}
+if($settingHelper->getConfig('general_section/layout/enable_rtl')==1)
+{
+      $rtl_class = "em-rtl";
+}
+?>
+<script type="text/javascript">
+      var isMobile = "<?php echo $settingHelper->checkMobile() ?>";
+      if (typeof EM == 'undefined') EM = {};
+	EM.SETTING = {		
+        //USE_TAB : "<?php echo $settingHelper->getConfig('general_section/layout/sticky_menu') ?>",
+        DISABLE_RESPONSIVE : "<?php echo $settingHelper->getConfig('general_section/layout/disable_responsive') ?>",
+        //DISABLE_COLLAPSE :  "<?php echo $settingHelper->getConfig('general_section/layout/disable_collapse') ?>", 
+        STICKY_MENU : "<?php echo $settingHelper->getConfig('general_section/layout/sticky_menu') ?>",
+        RTL : "<?php echo $settingHelper->getConfig('general_section/layout/enable_rtl') ?>",
+	};
+      require(['jquery'],function($){
+            $('body').addClass('<?php echo $box_class ?>');
+            $('body').addClass('<?php echo $rtl_class ?>');
+      });
+</script>
+
+<?php // add google fonts ?>
+<?php if ($googleFonts = $settingHelper->getConfig('fonts/fonts_group/google_fonts')): ?>
+<?php 
+	if(!is_array($googleFonts)){
+		$fontArray = explode(',',$googleFonts);
+	}else{
+		$fontArray = $googleFonts;
+	}
+	if ($fontWeights = str_replace(' ','', $settingHelper->getConfig('fonts/fonts_group/google_fonts_weights')))
+		$fontWeights = ':'.$fontWeights;
+	else 
+		$fontWeights = ':200,200italic,300,300italic,400,400italic,500,500italic,600italic,600italic,700,700italic,800,800italic,900,900italic';
+    if($block->getRequest()->isSecure())
+        $href = "https://fonts.googleapis.com/css";
+    else
+        $href = "http://fonts.googleapis.com/css";
+   
+?>
+<?php endif ?>
+<?php if($fontArray): ?>
+      <?php
+       	foreach($fontArray as $font){
+      		echo  "<link href='".$href."?family=".str_replace(' ','+',$font)."$fontWeights&amp;subset=latin,cyrillic-ext,cyrillic,greek-ext,greek,vietnamese,latin-ext' rel='stylesheet' type='text/css'/>";
+	      }
+      ?>
+<?php endif; ?>
+<?php // Disable Responsive ?>
+<?php    
+      if($settingHelper->getConfig('general_section/layout/disable_responsive')== 0):
+            $nonresponsive = $block->getViewFileUrl('css/noneresponsive.css');            
+            if($settingHelper->getConfig('general_section/layout/enable_rtl')== 1)
+                  $nonresponsive = $block->getViewFileUrl('css/noneresponsive-rtl.css');            
+
+            echo '<link rel="stylesheet" type="text/css" href="<?php echo $nonresponsive ?>">';
+      endif; 
+?>
+<?php    
+      if($additionalCssFilesString = explode(',', $settingHelper->getConfig('css/custom_css_group/additional_css_file'))):
+            $i=0;
+            foreach($additionalCssFilesString as $add):
+                  if (preg_match("/.css/",$add)):
+                        $add =   "css/customcss/".$add;
+                        $linkadd[$i] = trim($block->getViewFileUrl($add));
+                        echo '<link rel="stylesheet" type="text/css" href="<?php echo $linkadd[$i] ?>">';
+                  endif; 
+            $i++;
+            endforeach; 
+      endif;    
+?>
+
+
+<?php // Add Custom Css ?>
+<?php if($settingHelper->getConfig('css/custom_css_group/custom_css')):?>
+<style type="text/css">
+    <?php echo $settingHelper->getConfig('css/custom_css_group/custom_css'); ?>
+</style>
+<?php endif;?>
+
+

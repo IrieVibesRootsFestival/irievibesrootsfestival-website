@@ -1,0 +1,92 @@
+& when (@media-common = true){
+	.em-wrapper-product-12{
+		.products-grid .product-items .product-item{ padding:0 10px}
+		.products-grid .product-items:not(.owl-carousel){
+			.big-product{
+				padding:0;
+				.product-item{
+					width:100%;
+					.em-more-views{
+						clear:both;
+						border-top:1px solid #e1e1e1;
+						padding-top: 20px;
+						margin:0;
+						padding:20px 10px;
+						width:100%; display:inline-block; position:relative;
+						.more-view-img{
+							width: -moz-calc(100% / 4);
+							/* WebKit */
+							width: -webkit-calc(100% / 4);
+							/* Opera */
+							width: -o-calc(100% / 4);
+							/* Standard */
+							width: calc(100% / 4);
+							padding:0 10px;
+							float:left;
+						}
+						&:before,
+						&:after{  position: absolute;
+						  left: 49%;
+						  top: -19px;
+						  content: "";
+						  width: 15px;
+						  height: 12px;
+						  z-index: 1;
+						  border: 9px solid transparent;
+						  border-bottom-color: #eeeeee;}
+						  
+						&:after{border-bottom-color: #ffffff;
+						top: -17px;}  
+						img{ .lib-border-radius(0);}
+					}
+					.product-shop{
+						display:block;
+						overflow:hidden;
+						padding:0 20px; text-align:center;
+					}
+				}
+			}
+			.group-product{
+				padding:0;
+			}
+		}
+	}
+}
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__s) {
+	.em-wrapper-product-12{
+		.products-grid .product-items:not(.owl-carousel){
+			.group-product{
+				.product-item{
+					/* Firefox */
+					width: -moz-calc(100% / 3);
+					/* WebKit */
+					width: -webkit-calc(100% / 3);
+					/* Opera */
+					width: -o-calc(100% / 3);
+					/* Standard */
+					width: calc(100% / 3);
+				}
+			}
+		}
+		
+	}
+}
+.media-width(@extremum, @break) when (@extremum = 'max') and (@break = @screen__s) {
+	.em-wrapper-product-12{
+		.products-grid .product-items:not(.owl-carousel){
+			.group-product{
+				.product-item{
+					/* Firefox */
+					width: -moz-calc(100% / 2);
+					/* WebKit */
+					width: -webkit-calc(100% / 2);
+					/* Opera */
+					width: -o-calc(100% / 2);
+					/* Standard */
+					width: calc(100% / 2);
+				}
+			}
+		}
+		
+	}
+}

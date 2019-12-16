@@ -1,0 +1,316 @@
+<?php
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+use Magento\Framework\App\Action\Action;
+// @codingStandardsIgnoreFile
+
+?>
+<?php
+/**
+ * Template for displaying products list widget
+ *
+ * @var $block \Emthemes\FilterProduct\Block\Product\ProductsList
+ */
+?>
+<?php
+$_productCollection = $block->getProductCollection();
+$_helper = $this->helper('Magento\Catalog\Helper\Output');
+$_imageHelper = $this->helper('Magento\Catalog\Helper\Image');
+$_productSize = $_productCollection->count();
+
+?>
+<?php if (!$_productSize): ?>
+    <div class="message info empty"><div><?php /* @escapeNotVerified */ echo __('We can\'t find products matching the selection.') ?></div></div>
+<?php else: ?>
+    <?php echo $block->getToolbarHtml() ?>
+    <?php echo $block->getAdditionalHtml() ?>
+    <?php
+     $_quickShopHelper =  $this->helper('Emthemes\QuickShop\Helper\Data');
+	$type = 'widget-product-grid';
+
+    $mode = 'grid';
+
+    $viewMode = 'grid';
+    $image = 'category_page_grid';    
+    $title = $block->getTitle() ? __($block->getTitle()) : '';
+
+    $classid = md5(json_encode($block->getData()));
+    /**
+     * Position for actions regarding image size changing in vde if needed
+     */
+    $pos = $block->getPositioned();
+    
+    $templateType = \Magento\Catalog\Block\Product\ReviewRendererInterface::SHORT_VIEW;
+
+      $alt_img = true;
+    $objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+?>
+<div class="block widget em-grid-05 <?php /* @escapeNotVerified */ echo $viewMode; ?>">
+        <?php if ($title):?>
+        <div class="block-title">
+            <strong><?php /* @escapeNotVerified */ echo $title; ?></strong>
+        </div>
+        <?php endif ?>
+        <div class="block-content em-filterproducts-grid  <?php echo $classid ?>" >
+            <?php /* @escapeNotVerified */ echo '<!-- ' . $image . '-->' ?>
+            <div class="product wrapper products-<?php /* @escapeNotVerified */ echo $viewMode; ?> products-<?php /* @escapeNotVerified */ echo $viewMode; ?>">
+                <div class="product-items products list item <?php /* @escapeNotVerified */ echo $type; ?>" >
+                    <?php $iterator = 1; ?>
+                    <?php foreach ($_productCollection as $_product): ?>
+                        <?php /* @escapeNotVerified */ echo($iterator++ == 1) ? '<div class="product-item">' : '</div><div class="product-item">' ?>                
+                        <div class="big-img" data-container="product-grid">
+						<div class="product-shop-top">
+							
+                            <?php if($block->isShow('thumb')): ?>
+ 					<ul class="productlabels_icons">
+					    <?php 
+						$emLabel = array(
+						  'em_new_label' => __('new'),
+						  'em_hot_label' => __('hot'),
+						  'em_sale_label' => __('sale')
+						  );
+						foreach ($emLabel as $code => $value) {
+						  if($_product->getData($code))
+						    echo "<li class='label ".$code."'><p>".$value."</p></li>";
+						}
+					    ?>      
+					    </ul>
+                                <?php
+                                    $productImage = $block->getImage($_product, $image);
+                                    if ($pos != null) {
+                                        $position = ' style="left:' . $productImage->getWidth() . 'px;'
+                                            . 'top:' . $productImage->getHeight() . 'px;"';
+                                    }
+                                    ?>
+                                    <?php 
+                                    	if($productImage->getWidth() && $productImage->getHeight())
+								$_ratio =  $productImage->getHeight() / $productImage->getWidth(); 
+	                                    else
+      		                              $_ratio =  1; 
+						?>
+                                    <?php // Product Image ?>
+                                    
+                                    <a href="<?php /* @escapeNotVerified */ echo $_product->getProductUrl() ?>" class="product photo product-item-photo" tabindex="-1">
+                                          <?php if ($alt_img): ?> 
+                                        
+                                          <?php 
+                                                $_imagehelper = $this->helper('Magento\Catalog\Helper\Image');
+                                                $productAltImage = $_imagehelper->init($_product, 'category_page_grid_thumbnail')->resize($productImage->getWidth(),$productImage->getHeight()); 
+                                          ?>                           
+                                           <span class="product-image-container em-alt-hover"
+                                    style="width:<?php /* @escapeNotVerified */ echo $productImage->getWidth() ?>px;">
+                                  <span class="product-image-wrapper"
+                                   style="padding-bottom: <?php /* @escapeNotVerified */ echo ($_ratio * 100); ?>%;">                 
+                                          <img class="em-alt-hover img-responsive " src="<?php echo $productAltImage->getUrl()?>"                                          
+                                          width="<?php echo $productImage->getWidth(); ?>" height="<?php echo $productImage->getHeight() ;?>" 
+                                          alt="<?php echo $block->stripTags($productAltImage->getLabel(), null, true) ?>" />
+                                           </span></span>
+          					    <?php endif ?>
+                                        <?php //echo $productImage->toHtml();
+                                          $product_img = $_imagehelper->init($_product, $image)->resize($productImage->getWidth(),$productImage->getHeight()); 
+                                         ?>
+                                        <span class="product-image-container <?php echo ($alt_img) ? 'em-alt-org' : '' ?>"
+                                          style="width:<?php /* @escapeNotVerified */ echo $productImage->getWidth(); ?>px;">
+                                        <span class="product-image-wrapper"
+                                               style="padding-bottom: <?php /* @escapeNotVerified */ echo ($_ratio * 100); ?>%;">
+                                            <img class="product-image-photo"
+                                                 src="<?php /* @escapeNotVerified */ echo $product_img->getUrl(); ?>"
+                                                 width="<?php echo $productImage->getWidth(); ?>" height="<?php echo $productImage->getHeight() ;?>" 
+                                                 alt="<?php /* @escapeNotVerified */ echo $block->stripTags($product_img->getLabel(), null, true); ?>" /></span>
+                                    </span>
+                                    </a>
+                                    <?php endif ?>
+                                   <div class="em-element-display-hover bottom">
+									<div class="em-btn-addto">
+										<div class="product actions product-item-actions"<?php echo strpos($pos, $viewMode . '-actions') ? $position : ''; ?>>										
+											<?php if($block->isShow('addtocart')): ?>
+                                                <div class="actions-primary"<?php echo strpos($pos, $viewMode . '-primary') ? $position : ''; ?>>
+                                                    <?php if ($_product->isSaleable()): ?>
+                                                        <?php $postParams = $block->getAddToCartPostParams($_product); ?>
+                                                        <form data-role="tocart-form" action="<?php /* @escapeNotVerified */ echo $postParams['action']; ?>" method="post">
+                                                            <input type="hidden" name="product" value="<?php /* @escapeNotVerified */ echo $postParams['data']['product']; ?>">
+                                                            <input type="hidden" name="<?php /* @escapeNotVerified */ echo Action::PARAM_NAME_URL_ENCODED; ?>" value="<?php /* @escapeNotVerified */ echo $postParams['data'][Action::PARAM_NAME_URL_ENCODED]; ?>">
+                                                            <?php echo $block->getBlockHtml('formkey')?>
+                                                            <button type="submit"
+                                                                    title="<?php echo $block->escapeHtml(__('Add to Cart')); ?>"
+                                                                    class="action tocart primary">
+                                                                <span><?php /* @escapeNotVerified */ echo __('Add to Cart') ?></span>
+                                                            </button>
+                                                        </form>
+                                                    <?php else: ?>
+                                                        <?php if ($_product->getIsSalable()): ?>
+                                                            <div class="stock available"><span><?php /* @escapeNotVerified */ echo __('In stock') ?></span></div>
+                                                        <?php else: ?>
+                                                            <div class="stock unavailable"><span><?php /* @escapeNotVerified */ echo __('Out of stock') ?></span></div>
+                                                        <?php endif; ?>
+                                                    <?php endif; ?>
+                                                </div>
+                                            <?php endif ?>
+								<?php if($block->isShow('addto')): ?>
+                                                <div data-role="add-to-links" class="actions-secondary"<?php echo strpos($pos, $viewMode . '-secondary') ? $position : ''; ?>>
+                                                    <?php if ($this->helper('Magento\Wishlist\Helper\Data')->isAllow()): ?>
+                                                        <a href="#"
+                                                           class="action towishlist"
+                                                           title="<?php echo $block->escapeHtml(__('Add to Wish List')); ?>"
+                                                           aria-label="<?php echo $block->escapeHtml(__('Add to Wish List')); ?>"
+                                                           data-post='<?php /* @escapeNotVerified */ echo $block->getAddToWishlistParams($_product); ?>'
+                                                           data-action="add-to-wishlist"
+                                                           role="button">
+                                                            <span><?php /* @escapeNotVerified */ echo __('Add to Wish List') ?></span>
+                                                        </a>
+                                                    <?php endif; ?>
+                                                    <?php
+                                                    $compareHelper = $this->helper('Magento\Catalog\Helper\Product\Compare');
+                                                    ?>
+                                                    <a href="#"
+                                                       class="action tocompare"
+                                                       title="<?php echo $block->escapeHtml(__('Add to Compare')); ?>"
+                                                       aria-label="<?php echo $block->escapeHtml(__('Add to Compare')); ?>"
+                                                       data-post='<?php /* @escapeNotVerified */ echo $compareHelper->getPostDataParams($_product); ?>'
+                                                       role="button">
+                                                        <span><?php /* @escapeNotVerified */ echo __('Add to Compare') ?></span>
+                                                    </a>
+                                                </div>
+                                            <?php endif ?>
+                                            <?php if($_quickShopHelper->getConfig('quickshop/general/active')): ?>
+									<?php echo $_quickShopHelper->getQuickShopButton($_product); ?>
+								<?php endif; ?> 
+										</div>
+									</div>
+								</div>   
+								</div>   
+								 <div class="product-shop">
+                                <div class="f-fix">
+                                <?php // show name ?>
+                                <?php if($block->isShow('name')): ?>
+                                    <strong class="product name product-item-name">
+                                        <a class="product-item-link"
+                                           href="<?php /* @escapeNotVerified */ echo $_product->getProductUrl() ?>">
+                                            <?php /* @escapeNotVerified */ echo $_helper->productAttribute($_product, $_product->getName(), 'name'); ?>
+                                        </a>
+                                    </strong>
+                                <?php endif ?>
+                                <?php // show sku ?>
+                               <?php if($block->isShow('sku')): ?>
+                                    <p class="sku"><?php echo $_product->getSku(); ?></p>
+                                <?php endif; ?>
+                                
+                                <?php // show short description ?>
+                                <?php if($block->isShow('description')): ?>
+                                   <?php $desc = $_helper->productAttribute($_product, $_product->getShortDescription(), 'short_description'); ?>
+                                   <?php if($desc): ?>
+                                            <div class="product-item-description">
+                                        <?php
+                                    if(strlen($desc)>80) {
+                                            $strCutTitle = substr($desc, 0, 80);
+                                            $desc = substr($strCutTitle, 0, strrpos($strCutTitle, ' '));
+                                    }
+                                    ?>
+                                    <?php /* @escapeNotVerified */ echo  $desc; ?>
+                                    <a title="<?php echo $block->escapeHtml($_product->getName()) ?>"
+                                       href="<?php /* @escapeNotVerified */ echo $block->getProductUrl($_product) ?>"
+                                       class="action more"><?php /* @escapeNotVerified */ echo __('...') ?></a>
+                                      </div>
+                                    <?php endif; ?>
+                                <?php endif; ?>
+                                
+                                <?php if($block->isShow('review')): ?>
+                                <?php echo $block->getReviewsSummaryHtml($_product, $templateType); ?>
+                                <?php endif ?>
+
+                                <?php // show price ?>
+                                <?php if($block->isShow('price')): ?>
+                                <?php /* @escapeNotVerified */ echo $block->getProductPrice($_product) ?>
+                                <?php endif ?>
+                                <?php echo $block->getProductDetailsHtml($_product); ?>
+                                
+                                
+                           
+                            </div>
+                        </div>	
+									
+									<?php                                        
+                                        $productId = $_product->getId();
+                                        $objectProduct = $objectManager->get('Magento\Catalog\Model\Product')->load($productId);
+                                        $_images = $objectProduct->getMediaGalleryImages();  
+                                        $_wThumbs = 65;//$productImage->getWidth()/3 - 10;
+                                        $_hThumbs = 65;//$productImage->getHeight()/3 - 10;  
+                                    ?>                              
+                            <?php if (count($_images) > 0): ?>
+                        
+                             <div class="em-more-views">                                                                      
+                                <?php $j=0; foreach ($_images as $_image): ?>                                   
+                                    <?php
+                                      $imageUrl = $_imageHelper->init($_product, 'em_grid_5_small')
+                                          ->setImageFile($_image->getFile())
+                                          ->resize($_wThumbs,$_hThumbs)
+                                          ->getUrl();
+                                    ?>                                    
+                                    <div class="more-view-img col-sm-8">
+                                        <a class="em-thumb" href="<?php /* @escapeNotVerified */ echo $_product->getProductUrl() ?>">
+                                              <img src="<?php /* @escapeNotVerified */ echo $imageUrl; ?>" 
+                                              width="<?php /* @escapeNotVerified */ echo $_wThumbs ?>" alt="<?php echo $block->escapeHtml($_image->getLabel()) ?>" title="<?php echo $block->escapeHtml($_image->getLabel()) ?>" class="img-responsive"/>
+                                        </a>
+                                    </div>
+                                <?php if($j>=2) break;?>
+                                <?php $j++;?>                                
+                                <?php endforeach; ?>
+                            </div>
+                            <?php endif; ?>
+                            <?php $objectProduct->reset(); ?>
+                            </div>                                                                                              
+                           
+                        <?php echo($iterator == $_productSize+1) ? '</div>' : '' ?>
+                    <?php endforeach ?>
+                </div>
+            </div>
+            <?php echo $block->getToolbarHtml() ?>
+            <?php if (!$block->isRedirectToCartEnabled()) : ?>
+                <script type="text/x-magento-init">
+                {
+                    "[data-role=tocart-form], .form.map.checkout": {
+                        "catalogAddToCart": {}
+                    }
+                }
+                </script>
+            <?php endif; ?>
+        </div>
+    </div>   
+
+<?php if($block->getData('show_slider')): ?>
+<script type="text/javascript">
+    require(['jquery','Emthemes_FilterProduct/owlcarousel/owl.carousel','domReady!'],function($){
+            var owl = $('.<?php echo $classid ?> .product-items');
+            if(owl.length){   
+                owl.addClass("owl-carousel"); 
+                owl.owlCarousel({
+                  responsive:{                  
+                    0:{
+                        items:1,
+                        nav:true
+                    },
+                    768:{
+                        items:1,
+                              
+                    }
+                  },
+                    dots: false,
+                    nav: true,
+                    lazyLoad: true
+
+                });         
+            }
+            
+        });
+</script>
+<?php endif ?>
+<script type="text/javascript">
+    require(['jquery','equalElement','domReady!'],function($){
+            $('.<?php echo $classid ?> .product-items').equalElement({
+                  target: '.f-fix'                
+            });           
+        });
+</script>
+<?php endif;?>

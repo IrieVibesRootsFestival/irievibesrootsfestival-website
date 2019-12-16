@@ -1,0 +1,42 @@
+<?php
+	/**
+		* Copyright © 2015 Magento. All rights reserved.
+		* See COPYING.txt for license details.
+	*/
+	
+	// @codingStandardsIgnoreFile
+	
+?>
+<?php
+	/**
+		* Top menu for store
+		*
+		* @see \Magento\Theme\Block\Html\Topmenu
+	*/
+?>
+<?php $columnsLimit = $block->getColumnsLimit() ?: 0; ?>
+<?php $_menu = $block->getHtml('level-top', 'submenu', $columnsLimit) ?>
+
+<?php $setId	=	'em_leftmenu_default_'.rand(1,9999); ?>
+<div class="menu-wrapper hidden-xs">
+	<div id="menuleftText" class="all_categories">
+		<div class="menuleftText-title">
+			<div class="menuleftText"><span class="em-text-upercase"><?php echo __('Categories') ?></span></div>
+		</div>
+	</div>
+	<div class="menuleft">
+		<div id="menu-default" class="mega-menu em-menu-icon">
+			<div class="megamenu-wrapper <?php echo $setId ?>">
+				<div class="em_nav" id="<?php echo $setId ?>">
+					<ul class="vnav">
+						<li class=" menu-item-text menu-item-depth-0">
+							<ul class="em-catalog-navigation vertical" data-mage-init='{"emmenu":{"responsive":true, "expanded":true, "position":{"my":"left right","at":"left left"}}}'>
+								<?php echo $_menu ?>
+							</ul>
+						</li>
+					</ul> 
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

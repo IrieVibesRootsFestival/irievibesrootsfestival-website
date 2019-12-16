@@ -1,0 +1,51 @@
+<?php
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+?>
+<?php $settingHelper = $this->helper('Emthemes\ThemeSettings\Helper\Data'); ?>
+<?php if($settingHelper->getConfig('general_section/general_blocks/popup_block')!=0 && $settingHelper->checkMobile()=='false') : ?>
+<div class="fade popup-newsletter" style="display:none">
+    <div class="popup popup">
+        <div class="popup-inner">           
+            <div class="popup-content" data-role="content">
+                 <?php switch($settingHelper->getConfig('general_section/general_blocks/popup_block')){
+                        case 1 :
+                              echo $block->getChildHtml('popup_login');
+                              break;
+                        case 2:
+                              echo $block->getChildHtml('popup.newsletter.container');
+                              break;                              
+                        case 3:
+                              echo $block->getChildHtml('popup.static.block');
+                              break;                                                      
+                  } ?>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script>
+require([
+        'jquery',
+        'mage/cookies',
+        'modal',
+        'domReady!'
+],function($){
+      //var cookie = $.mage.cookies['defaults']['lifetime'];
+   	if(!$.mage.cookies.get("empopup")){
+                $.mage.cookies.set('empopup', 'true');
+        	    $('.popup-newsletter').modal({
+                        autoOpen: true,
+                        wrapperClass: 'modals-wrapper popup-newsletter',
+                         responsive: true,
+                });
+  	}
+});
+</script>
+<?php endif; ?>

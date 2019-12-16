@@ -1,0 +1,18 @@
+.em-box .page-wrapper{
+	margin:0 auto;
+	.lib-box-shadow(0 3px 3px #cacaca);
+}
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__xl) {
+	.em-box{
+		.page-wrapper{
+			max-width:1200px;
+		}
+	}
+}
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__l) {
+	.em-box{
+		.page-wrapper{
+			max-width:@screen__l;
+		}
+	}
+}

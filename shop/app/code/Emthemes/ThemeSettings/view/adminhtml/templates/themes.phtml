@@ -1,0 +1,246 @@
+<?php 
+	$themes = $block->getThemes();
+?>
+<ul class="themes-grid">
+<?php foreach($themes as $theme): ?>
+    <?php if($theme->getCode() == 'Emthemes/necessary_default'): ?>
+	<li class="theme-item">
+        <a class="theme-image" href="<?php echo $block->getCustomThemeUrl($theme->getThemeId()); ?>">
+            <span class="image-wrap move-long" style="background-image: url('<?php echo $block->getThemeReviewImageUrl($theme); ?>');"></span>
+        </a>
+        <div class="actions">
+            <div class="info">
+                <span class="theme-name"><?php echo $theme->getThemeTitle() ?></span>
+            </div>
+            <div class="buttons">            
+            <?php if($theme->getThemeId() != $block->getCurrentThemeId()): ?>
+                <a class="button btn-active" href="<?php echo $block->getActiveThemeUrl($theme->getThemeId()); ?>">
+                    <span>
+                        <span>Activate</span>
+                    </span>
+                </a>
+            <?php endif ?>
+                <a class="button btn-customize first" href="<?php echo $block->getCustomThemeUrl($theme->getThemeId()); ?>">
+                    <span>
+                        <span>Customize</span>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </li>
+    <?php endif; ?>
+<?php endforeach ?>
+    <li class="theme-item">
+        <a class="theme-image" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332">
+            <span class="image-wrap move-long" style="background-image: url('http://192.168.1.69/everything/pub/media/theme/preview/preview_image_568c8f54a9223.jpeg');"></span>
+        </a>
+        <div class="actions">
+            <div class="info">
+                <span class="theme-name">EMThemes Everything Glass</span>
+            </div>
+            <div class="buttons">
+                            <a class="button btn-active" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332">
+                    <span>
+                        <span>Buy Now</span>
+                    </span>
+                </a>                     
+            </div>
+        </div>
+    </li>
+    <li class="theme-item">
+        <a class="theme-image" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332">
+            <span class="image-wrap move-long" style="background-image: url('http://192.168.1.69/everything/pub/media/theme/preview/preview_image_568c926e23aa6.jpeg');"></span>
+        </a>
+        <div class="actions">
+            <div class="info">
+                <span class="theme-name">EMThemes Everything Shoes</span>
+            </div>
+            <div class="buttons">
+                            <a class="button btn-active" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332">
+                    <span>
+                        <span>Buy Now</span>
+                    </span>
+                </a>                           
+            </div>
+        </div>
+    </li>
+    <li class="theme-item">
+        <a class="theme-image" href="http://192.168.1.69/everything/admin/themesettings/config/edit/settheme/8/code/everything/key/5aa15bf8d316db88d3821d00dc9123f8a4580da6176008f97f8167faf71162ff/">
+            <span class="image-wrap move-long" style="background-image: url('http://192.168.1.69/everything/pub/media/theme/preview/preview_image_568ce04c3d04d.jpeg');"></span>
+        </a>
+        <div class="actions">
+            <div class="info">
+                <span class="theme-name">EMThemes Everything Jewelry</span>
+            </div>
+            <div class="buttons">
+                            <a class="button btn-active" href="">
+                    <span>
+                        <span>Buy Now</span>
+                    </span>
+                </a>                          
+            </div>
+        </div>
+    </li>
+    <li class="theme-item">
+        <a class="theme-image" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332">
+            <span class="image-wrap move-long" style="background-image: url('http://192.168.1.69/everything/pub/media/theme/preview/preview_image_56a6dadb8ca79.jpeg');"></span>
+        </a>
+        <div class="actions">
+            <div class="info">
+                <span class="theme-name">EMThemes Everything Furniture</span>
+            </div>
+            <div class="buttons">
+                            <a class="button btn-active" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332">
+                    <span>
+                        <span>Buy Now</span>
+                    </span>
+                </a>
+                          
+            </div>
+        </div>
+    </li>
+    <li class="theme-item">
+        <a class="theme-image" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332">
+            <span class="image-wrap move-long" style="background-image: url('http://192.168.1.69/everything/pub/media/theme/preview/preview_image_56a6f98e25a64.jpeg');"></span>
+        </a>
+        <div class="actions">
+            <div class="info">
+                <span class="theme-name">EMThemes Everything FashionNova</span>
+            </div>
+            <div class="buttons">
+                            <a class="button btn-active" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332/">
+                    <span>
+                        <span>Buy Now</span>
+                    </span>
+                </a>
+                         
+            </div>
+        </div>
+    </li>
+    <li class="theme-item">
+        <a class="theme-image" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332/">
+            <span class="image-wrap move-long" style="background-image: url('http://192.168.1.69/everything/pub/media/theme/preview/preview_image_56a83d98bf77a.jpeg');"></span>
+        </a>
+        <div class="actions">
+            <div class="info">
+                <span class="theme-name">EMThemes Everything Bicycle</span>
+            </div>
+            <div class="buttons">
+                            <a class="button btn-active" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332">
+                    <span>
+                        <span>Buy Now</span>
+                    </span>
+                </a>
+                          
+            </div>
+        </div>
+    </li>
+    <li class="theme-item">
+        <a class="theme-image" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332/">
+            <span class="image-wrap move-long" style="background-image: url('http://192.168.1.69/everything/pub/media/theme/preview/preview_image_56a8851d97b0c.jpeg');"></span>
+        </a>
+        <div class="actions">
+            <div class="info">
+                <span class="theme-name">EMThemes Everything Clothing</span>
+            </div>
+            <div class="buttons">
+                            <a class="button btn-active" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332/">
+                    <span>
+                        <span>Buy Now</span>
+                    </span>
+                </a>
+                          
+            </div>
+        </div>
+    </li>
+    <li class="theme-item">
+        <a class="theme-image" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332/">
+            <span class="image-wrap move-long" style="background-image: url('http://192.168.1.69/everything/pub/media/theme/preview/preview_image_56a9849b96a14.jpeg');"></span>
+        </a>
+        <div class="actions">
+            <div class="info">
+                <span class="theme-name">EMThemes Everything Swatch</span>
+            </div>
+            <div class="buttons">
+                            <a class="button btn-active" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332/">
+                    <span>
+                        <span>Buy Now</span>
+                    </span>
+                </a>
+                         
+            </div>
+        </div>
+    </li>
+    <li class="theme-item">
+        <a class="theme-image" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332/">
+            <span class="image-wrap move-long" style="background-image: url('http://192.168.1.69/everything/pub/media/theme/preview/preview_image_56b023445cf06.jpeg');"></span>
+        </a>
+        <div class="actions">
+            <div class="info">
+                <span class="theme-name">EMThemes Everything Baby</span>
+            </div>
+            <div class="buttons">
+                            <a class="button btn-active" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332">
+                    <span>
+                        <span>Buy Now</span>
+                    </span>
+                </a>
+                        
+            </div>
+        </div>
+    </li>
+    <li class="theme-item">
+        <a class="theme-image" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332/">
+            <span class="image-wrap move-long" style="background-image: url('http://192.168.1.69/everything/pub/media/theme/preview/preview_image_56b1b9f8aae45.jpeg');"></span>
+        </a>
+        <div class="actions">
+            <div class="info">
+                <span class="theme-name">EMThemes Everything Lingerie</span>
+            </div>
+            <div class="buttons">
+                            <a class="button btn-active" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332/">
+                    <span>
+                        <span>Buy Now</span>
+                    </span>
+                </a>
+                           
+            </div>
+        </div>
+    </li>
+    <li class="theme-item">
+        <a class="theme-image" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332/">
+            <span class="image-wrap move-long" style="background-image: url('http://192.168.1.69/everything/pub/media/theme/preview/preview_image_56c2eedd1e29e.jpeg');"></span>
+        </a>
+        <div class="actions">
+            <div class="info">
+                <span class="theme-name">EMThemes Everything Beauty</span>
+            </div>
+            <div class="buttons">
+                            <a class="button btn-active" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332/">
+                    <span>
+                        <span>Buy Now</span>
+                    </span>
+                </a>
+                          
+            </div>
+        </div>
+    </li>
+    <li class="theme-item">
+        <a class="theme-image" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332/">
+            <span class="image-wrap move-long" style="background-image: url('http://192.168.1.69/everything/pub/media/theme/preview/preview_image_56e24044cfb18.jpeg');"></span>
+        </a>
+        <div class="actions">
+            <div class="info">
+                <span class="theme-name">EMThemes Everything Health</span>
+            </div>
+            <div class="buttons">
+                            <a class="button btn-active" href="http://themeforest.net/item/everything-store-magento-2-magento-19-multipurpose-responsive/12243332/">
+                    <span>
+                        <span>Buy Now</span>
+                    </span>
+                </a>
+                          
+            </div>
+        </div>
+    </li>
+</ul>

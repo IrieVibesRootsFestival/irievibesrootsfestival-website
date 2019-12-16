@@ -1,0 +1,154 @@
+// /**
+//  * Copyright © 2015 Magento. All rights reserved.
+//  * See COPYING.txt for license details.
+//  */
+
+//
+//    Common
+//--------------------------------------
+
+& when (@media-common = true) {
+
+//
+//    Newsletter subscription
+//--------------------------------------
+
+.block.newsletter {
+    margin-bottom: 20px;
+    .form.subscribe {
+        display: table;
+        width: 100%;
+    }
+    .fieldset {
+        display: table-cell;
+        margin: 0;
+        padding: 0;
+        vertical-align: top;
+    }
+    .field {
+        margin: 0;
+        .control {
+            .lib-icon-font(
+                @icon-envelope,
+                @_icon-font-size: 18px,
+                @_icon-font-line-height: 40px,
+                @_icon-font-color: @em-footer__text-color,
+                @_icon-font-margin: 0 0 0 8px
+            );
+            &:before {
+                position: absolute;
+				
+            }
+            display: block;
+        }
+    }
+    input {
+        padding-left: 40px;
+		.lib-css(border, 1px solid @em-footer-newsletter__background-color);
+    }
+	input[type="email"] {
+		.lib-css(background, @em-footer-newsletter__background-color);
+		.lib-css(color, @em-footer__text-color);
+		
+	}
+	.control{
+		.abs-input-placeholder(@em-footer__text-color);
+	}
+    .title {
+        display: none;
+    }
+    .label {
+        &:extend(.abs-visually-hidden all);
+    }
+    .actions {
+        display: table-cell;
+        vertical-align: top;
+        width: 1%;
+    }
+    .action.subscribe {
+        //border-top-left-radius: 0;
+        //border-bottom-left-radius: 0;
+        margin-left: -3px;
+		padding:11px 15px;
+		.lib-css(font-size, 100%);
+    }
+}
+
+	/*newletter clear button*/
+	.newsletter-clearbutton{
+		.block.newsletter{
+			.actions{
+				float:none;	
+				display:block;
+				width:auto;
+				margin-top:@indent__s;	
+				.action.subscribe{
+					float:none;
+					margin:0;
+					display:inline-block;
+					span{
+						float:none;
+						display:inline-block;
+						
+					}
+				}
+			}
+			.input-box{
+				width:100%;
+				float:none;
+				input.input-text{
+					margin-right:0;
+				}
+			}
+		}
+	}
+
+	/*newletter style 02*/
+	.em-newsletter-style02{
+		.block.newsletter .content{ 
+			padding:9px 10px;
+			.lib-css(background, @em-footer-newsletter__background-color);
+			.lib-border-radius(@em-border-radius);
+			.action.subscribe{ 
+				padding:13px 20px;
+				border-style: solid;
+				border-width: 2px;
+				margin:0;
+				.lib-css(background, transparent);
+				&:hover{
+					.lib-allstyle(@em-btn-default__text-color, @em-btn-default__background-color);
+				}
+			}
+			.control:before{ line-height: 50px;}
+			input[type="email"]{ height:50px;}
+		}
+	}
+}
+
+//
+//    Desktop
+//--------------------------------------
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__m) {
+    .block.newsletter {
+        //width: 34%;
+    }
+}
+
+/*============= RTL ================*/
+& when (@media-common = true) {
+	.em-rtl{
+		.block.newsletter {
+			input {
+				padding-left: 10px;
+				padding-right: 40px;
+			}
+			.action.subscribe{margin-left:0;}
+			 .field {
+				.control:before{
+					margin-right: 8px;
+					margin-left: 0px;
+				}
+			}
+		}
+	}
+}

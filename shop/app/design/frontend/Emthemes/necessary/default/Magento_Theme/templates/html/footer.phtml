@@ -1,0 +1,41 @@
+<?php
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+?>
+<div class="footer-container">
+    <div class="footer">
+        <?php echo $block->getChildHtml() ?>
+        <p class="bugs"><?php /* @escapeNotVerified */ echo __('Help Us Keep Magento Healthy') ?> - <a
+            href="http://www.magentocommerce.com/bug-tracking"
+            target="_blank"><strong><?php /* @escapeNotVerified */ echo __('Report All Bugs') ?></strong></a>
+        </p>
+        <address><?php /* @escapeNotVerified */ echo $block->getCopyright() ?></address>
+    </div>
+</div>
+<div class="em-footer-style09">
+    <div class="em-footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-24"><?php echo $block->getChildHtml('em_area_footer01') ?></div>
+            </div>
+        </div>
+    </div>    
+    <div class="em-footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-24">
+                    <div class="em-area-footer02"><?php echo $block->getChildHtml('em_area_footer02')?></div>
+                    <div class="em-footer-address">
+                        <address class="f-left"><?php echo $block->getCopyright() ?><span>Magento Templates by <a href="http://www.emthemes.com/responsive-magento-themes.html" title="Responsive Magento Themes &amp; Responsive Magento Templates">EMThemes.com</a></span></address>						
+            		</div>                                        
+                    <div class="em-area-footer03"><?php echo $block->getChildHtml('em_area_footer03')?></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

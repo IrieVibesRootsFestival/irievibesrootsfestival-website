@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+		<add id="Emthemes_Settings::emthemes_settings" title="EMThemes" module="Emthemes_ThemeSettings" sortOrder="20" resource="Emthemes_Settings::emthemes_settings"/>     
+		<add id="Emthemes_Settings::themes_settings" title="Themes Settings" module="Emthemes_ThemeSettings" sortOrder="10" parent="Emthemes_Settings::emthemes_settings" resource="Emthemes_Settings::themes_settings"/>   
+		<add id="Emthemes_Settings::extensions_settings" title="Extensions Settings" module="Emthemes_ThemeSettings" sortOrder="20" parent="Emthemes_Settings::emthemes_settings" resource="Emthemes_Settings::extensions_settings"/>   
+		<add id="Emthemes_Settings::quickshop_elements" title="Quickshop" module="Emthemes_ThemeSettings" parent="Emthemes_Settings::extensions_settings" sortOrder="20"  resource="Emthemes_Settings::quickshop_elements"/>
+            <add id="Emthemes_Settings::quickshopsettings" title="Settings" module="Emthemes_ThemeSettings" parent="Emthemes_Settings::quickshop_elements" sortOrder="10" action="adminhtml/system_config/edit/section/quickshop/" resource="Emthemes_Settings::quickshop_settings"/>
+            
+        <add id="Emthemes_Settings::emthemes_demo" title="Themes Design" module="Emthemes_ThemeSettings" sortOrder="20" action="themesettings/theme/demo" resource="Emthemes_Settings::emthemes_settings"/>     
+    </menu>
+</config>

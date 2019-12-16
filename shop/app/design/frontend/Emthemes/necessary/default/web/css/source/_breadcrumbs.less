@@ -1,0 +1,42 @@
+// /**
+//  * Copyright © 2015 Magento. All rights reserved.
+//  * See COPYING.txt for license details.
+//  */
+
+//
+//  Breadcrumbs
+//  _____________________________________________
+@breadcrumbs__container-margin: 0;
+& when (@media-common = true) {
+	.wrapper-breadcrums{
+		.lib-stylebg(@em-title-block__background-color, "../images/bkg-breadcrums.png", 0 0, repeat);
+		.breadcrumbs {
+			overflow: hidden;
+			.lib-css(padding, @indent__base);
+		}
+		.lib-breadcrumbs();
+		margin-bottom:0;
+		li{
+			text-transform:uppercase;
+		}
+		a{.a-link();}
+		.items{
+			//.abs-reset-list();
+			.lib-css(font, @em-h6__font);
+			font-weight:700;
+			.item{
+				//float:left;
+				strong{.lib-css(color, @em-body-product-name__text-color); font-weight:700}
+			}
+			.item:not(:last-child):after{
+				.lib-fontawesome("\f178", 11px);
+				line-height:16px;
+				//padding:0 10px;
+				.em-rtl &{
+					content:'\f177';
+				}
+			}
+		}
+	}
+}
+

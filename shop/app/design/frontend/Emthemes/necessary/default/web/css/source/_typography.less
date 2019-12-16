@@ -1,0 +1,246 @@
+& when (@media-common = true) {
+    body {
+		.lib-colorfont(@em-body__text-color, @em-general__font);
+		
+		.lib-form-element-all() {
+			input[type="text"],
+			input[type="password"],
+			input[type="url"],
+			input[type="tel"],
+			input[type="search"],
+			input[type="number"],
+			input[type="datetime"],
+			input[type="email"] {
+				.lib-form-element-input(@_type: input-text);
+			}
+		}
+    }
+	body.em-box{
+		.lib-stylebg(@em-page__background-color, @em-page__background-file, @em-page__background-position, @em-page__background-repeat);
+		.lib-css(background-attachment, @em-page__background-attachment);
+	}
+	
+	h1, .h1{ .lib-css(font, @em-h1__font); .lib-css(margin-bottom, @indent__s); .lib-css(margin-top, 0); .lib-css(color, @em-body-title-page__text-color);}
+	h2, .h2{ .lib-css(font, @em-h2__font); .lib-css(margin-bottom, @indent__s); .lib-css(margin-top, 0)}
+	h3, .h3{ .lib-css(font, @em-h3__font); .lib-css(margin-bottom, @indent__s); .lib-css(margin-top, 0)}
+	h4, .h4{ .lib-css(font, @em-h4__font); .lib-css(margin-bottom, @indent__s); .lib-css(margin-top, 0)}
+	h5, .h5{ .lib-css(font, @em-h5__font); .lib-css(margin-bottom, @indent__s); .lib-css(margin-top, 0)}
+	h6, .h6{ .lib-css(font, @em-h6__font); .lib-css(margin-bottom, @indent__s); .lib-css(margin-top, 0)}
+	
+	a{
+		.a-link();
+	}
+	//Header
+	.page-header{
+		.lib-stylebg(@em-header__background-color, @em-header__background-file, @em-header__background-position, @em-header__background-repeat);
+		a{.a-link(@em-header__text-color, @em-header__hover__text-color);}
+		.ui-dialog-content{
+			.lib-css(color, @em-header-dropdown__text-color);
+			.lib-css(background, @em-header-dropdown__background-color);
+			a{.a-link(@em-header-dropdown__text-color, @em-header__hover__text-color);}
+		}
+	}
+	//Main
+	.page-bottom,
+	.page-main{
+		//.lib-css(background, @em-body__background-color);
+		
+		.lib-stylebg(@em-body__background-color, @em-body__background-file, @em-body__background-position, @em-body__background-repeat);
+	}
+	
+	//Footer
+	.page-footer{
+		.lib-stylebg(@em-footer__background-color, @em-footer__background-file, @em-footer__background-position, @em-footer__background-repeat);
+		a{
+			.a-link(@em-footer-link__text-color, @em-footer-link__hover__text-color);
+		}
+	}
+	
+	//custom class
+	.f-right{ float:right}
+	.f-left{ float:left}
+	.text-center{ text-align:center}
+	.em-text-upercase{ text-transform:uppercase}
+	p{margin-bottom: 1.55rem;}
+	.img-banner{position:relative;}
+	.img-responsive {
+		display: block;
+		max-width: 100%;
+		height: auto;
+	}
+	.em-wrapper-banners{
+		/*overflow:hidden;*/
+	}
+	
+	.em-box-bkg{
+		.lib-css(background-color, @em-body-title__background-color);
+		.lib-css(color, @em-body-title__text-color);
+		.lib-transition();
+		padding: 3rem 2rem 1rem;
+		&:hover{
+			.lib-css(background-color, @em-body__hover__text-color);
+		}
+	}
+	
+	.space-block{ margin-bottom:@indent__m * 2};
+	.space-small-block{ margin-bottom:@indent__base};
+	.em-clear-padding{ padding:0 !important}
+	.em-maxwidth-content{
+		max-width:1200px;
+		padding-left: 10px;
+		padding-right: 10px;
+		margin:0 auto;
+	}
+	
+	input[type="text"],
+    input[type="password"],
+    input[type="url"],
+    input[type="tel"],
+    input[type="search"],
+    input[type="number"],
+    input[type="datetime"],
+    input[type="email"],
+	input.input-text, select, textarea{
+		.lib-allstyle(@em-body__text-color, @em-body__border-color, @em-body__background-color, @em-general__font);
+		padding: 5px 10px;
+		height: 40px;
+		line-height: 28px;
+		.lib-border-radius(@em-border-radius-small);
+	}
+	textarea{
+		height:auto;
+		.lib-css(font, @em-general__font);
+	}
+	
+	dt{ .lib-css(color, @em-body-product-name__text-color)}
+	
+	.page-main{
+		padding-top:25px;
+	}
+	
+	
+	
+	/* Content Columns */
+	.col2-set .col-1 { float:left; width:49%; }
+	.col2-set .col-2 { float:right; width:49%; }
+	.col2-set .col-narrow { width:33%; }
+	.col2-set .col-wide { width:65%; }
+
+	.col3-set .col-1 { float:left; width:32%; }
+	.col3-set .col-2 { float:left; width:32%; margin-left:2%; }
+	.col3-set .col-3 { float:right; width:32%; }
+
+	.col4-set .col-1 { float:left; width:23.5%; }
+	.col4-set .col-2 { float:left; width:23.5%; margin:0 2%; }
+	.col4-set .col-3 { float:left; width:23.5%; }
+	.col4-set .col-4 { float:right; width:23.5%; }
+
+	.col2-set-nospace .col-1{float:left; width:50%; padding:0;}
+	.col2-set-nospace .col-2{float:right; width:50%;padding:0;} 
+	
+	/*==================collapsed==================*/
+	.non-collapsed {
+	  position: relative;
+	  cursor: pointer;
+	}
+	.non-collapsed:after {
+	  .lib-fontawesome("\f067",100%);
+	  position: absolute;
+	  right: 0;
+	  top: 0;
+	}
+
+	.em-collapsed {
+	  position: relative;
+	  cursor: pointer;
+	}
+	.em-collapsed:after {
+	  position: absolute;
+	  right: 0;
+	  top: 0;
+	  .lib-fontawesome("\f068",100%);
+	}
+
+
+}
+
+.media-width(@extremum, @break) when (@extremum = 'max') and (@break = @screen__m) {
+	.hidden-xs{ display:none;}
+	.em-wrapper-banners,
+	.img-banner{
+		text-align:center;
+		> div{ display:inline-block; vertical-align:top}
+	}
+	
+}
+
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__m) {
+	.visible-xs{display:none;}
+	
+}
+
+//
+//    Common
+//--------------------------------------
+
+& when (@media-common = true) {
+
+.items {
+    .lib-list-reset-styles();
+}
+
+}
+
+
+///////////////////////RTL
+body.em-rtl{ 
+		text-align:right;
+		direction: rtl !important;
+	}
+.em-rtl{
+	th, td, code, cite, caption{
+		text-align:right;
+	}
+
+	p.required{
+		text-align:right;
+		clear:right;
+	}
+
+	.pull-right{
+		text-align:left;
+	}
+
+	.title-buttons h1,
+	.title-buttons h2,
+	.title-buttons h3,
+	.title-buttons h4,
+	.title-buttons h5,
+	.title-buttons h6 { float:right}
+	
+	.pull-left, .f-left, .left {
+		float: right !important;
+	}
+
+	.pull-right, .f-right, .right {
+		float: left !important;
+	}
+	.v-fix{
+		float:right;
+	}
+	
+	/*slider*/
+	.owl-carousel{
+		direction: rtl !important;
+	}
+
+	.owl-carousel .owl-item{
+		float: right !important;
+	}
+	.em-collapsed:after,
+	.non-collapsed:after {
+	  right: auto;
+	  left:0;
+	}
+
+}

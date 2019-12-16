@@ -1,0 +1,170 @@
+@title__font: @em-h2__font;//title font block no background title
+
+//block sidebar
+@block-title__background-color: @em-title-block__background-color;
+@block-title__text-color: @em-title-block__text-color;
+@block__background-color: @em-body-box__background-color;
+@block__border-color: @em-body__border-color;
+@block-title__border-color: @em-body-title__border-color;
+@block-title__font: @em-h4__font;
+
+// widget product
+@widget__background-color: @em-body-title__background-color;
+@widget__text-color: @em-body-title__text-color;
+
+& when (@media-common = true){
+	.em-line-01,
+	.block.crosssell,
+	.block.upsell,
+	.block.related,
+	.page-main .widget{
+		.block-title,
+		.em-block-title,
+		.em-widget-title{
+			margin-bottom:30px;
+			.lib-css(border-bottom, 1px solid @block__border-color);
+			strong, h2, h3{
+				.lib-colorfont(@em-body-title-page__text-color, @title__font);
+				.lib-css(border-bottom, 3px solid @block-title__border-color);
+				text-transform:uppercase;
+				padding-bottom:10px;
+				display:inline-block;
+				vertical-align:top;
+				margin-bottom:-1px;
+			}
+		}
+	}
+	/*Block Sidebar*/
+	.page-main .sidebar .block{
+		&:not(.block-static-block){
+			margin-bottom:2rem;
+			.lib-css(border, 1px solid @block__border-color);
+			.lib-border-radius(5px);
+			.lib-css(background, @block__background-color);
+			.block-collapsible-nav-title,
+			.block-title,
+			.title{
+				.lib-allstyle(@block-title__text-color, @block-title__background-color, @block-title__font);
+				text-transform:uppercase;
+				padding:1.4rem 2rem;
+				margin-bottom:0;
+				.lib-border-radius(5px 5px 0 0);
+				strong{
+					.lib-css(font, @block-title__font);
+					.lib-css(border, 0);
+					padding-bottom:0;
+					margin-bottom:0;
+				}
+			}
+			.content,
+			.block-content{
+				padding:16px 20px;
+				&.filter-content{ padding-top:6px; padding-bottom:6px}
+			}
+			.empty{
+				padding:16px 20px;
+			}
+		}
+	}
+	
+	/*Widget*/
+	.em-block-product{
+		margin-bottom:2rem;
+		.lib-css(border, 1px solid @block__border-color);
+		.lib-border-radius(5px);
+		.block-title{
+			.lib-allstyle(@widget__text-color, @widget__background-color, @block-title__font);
+			text-transform:uppercase;
+			padding:1.4rem 2rem;
+			margin-bottom:0;
+			.lib-border-radius(5px 5px 0 0);
+			strong{
+				.lib-allstyle(@widget__text-color, @widget__background-color, @block-title__font);
+				.lib-css(font, @block-title__font);
+				margin-bottom:0;
+				border:0;
+			}
+		}
+		.block-content{
+			padding:16px 20px;
+		}
+	}
+}
+
+
+/////////////Color Swatch
+.products-grid{
+	div[class^="swatch-opt-"] {
+		display: inline-block;
+		vertical-align: top;
+		text-align: center;
+		> div{
+			display:inline-block;
+		}
+	}
+}
+div[class^="swatch-opt-"] > div{ vertical-align: top;}
+.swatch-option{
+	.lib-css(border, 1px solid @em-body__border-color);
+}
+.swatch-option.image:not(.disabled):hover, 
+.swatch-option.color:not(.disabled):hover{
+	.lib-css(outline, 2px solid @em-body-title__border-color);
+}
+.swatch-attribute.size .swatch-option, 
+.swatch-attribute.manufacturer .swatch-option{
+	.lib-allstyle(@em-body__text-color, @em-title-block__background-color);
+}
+
+.swatch-attribute-label{
+	font-weight:normal;
+	.lib-css(color, @em-body-product-name__text-color);
+}
+.swatch-attribute-selected-option{
+	.lib-css(color, @em-body__hover__text-color);
+}
+
+
+.em-background-parallax{
+	background-image: url(../images/media/bg-parallax.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	overflow: hidden;
+	background-size: cover !important;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	padding: 5rem 0;
+}
+
+.em-background-parallax-full{
+	position:relative;
+	.em-background-parallax-info{
+		position: relative;
+		z-index: 1;
+		display: inline-block;
+		padding: 10rem 0;
+	}
+	.em-background-parallax-bg{
+		position: absolute;
+		left: -500px;
+		right: -500px;
+		top: 0;
+		bottom: 0;
+		z-index: 0;
+		background-image: url(../images/media/bg-parallax-full.jpg);
+		background-position: center top;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		overflow: hidden;
+		background-size: cover !important;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+	}
+} 
+
+@media only screen and (min-device-width: 0px) and (max-device-width: 1024px){
+	.em-background-parallax {background-attachment: scroll !important;}
+	.em-background-parallax-full .em-background-parallax-bg{background-attachment: scroll !important;}
+}

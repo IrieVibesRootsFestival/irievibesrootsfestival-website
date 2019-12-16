@@ -1,0 +1,217 @@
+// /**
+//  * Copyright © 2015 Magento. All rights reserved.
+//  * See COPYING.txt for license details.
+//  */
+
+//
+//  Luma theme variables
+//  _____________________________________________
+
+// Border radius
+@em-border-radius: @indent__xs;
+@em-border-radius-small: @em-border-radius - 2px;
+& when (@em-border-radius-small <= 0){
+	@em-border-radius-small: @em-border-radius-small;
+}
+
+
+@responsive: false; // Theme is responsive [true|false]
+/*& when (@responsive = false){
+	@screen__xxs: 0;
+	@screen__xs: 0;
+	@screen__s: 0;
+	@screen__m: 0;
+	@screen__l: 0;
+	@screen__xl: 0;
+	.navigation,
+    .breadcrumbs,
+    .page-header .header.panel,
+    .header.content,
+    .footer.content,
+    .page-wrapper > .widget,
+    .page-wrapper > .page-bottom,
+    .block.category.event,
+    .top-container,
+    .page-main {
+        width:1200px !important;
+    }
+	.page-wrapper > .page-bottom,
+    .page-main {
+        .ie9 & {
+            width:1200px !important;
+        }
+    }
+}*/
+
+//  Typography
+//  ---------------------------------------------
+
+//  Typography
+@em-general__font: ~'500 14px/1.55 Lato,Helvetica Neue, Helvetica, Arial, sans-serif';
+@em-h1__font: ~'500 30px/1.15 Raleway, Helvetica Neue, Helvetica, Arial, sans-serif';
+@em-h2__font: ~'700 20px/1.35 Raleway, Helvetica Neue, Helvetica, Arial, sans-serif';
+@em-h3__font: ~'700 18px/1.35 Raleway, Helvetica Neue, Helvetica, Arial, sans-serif';
+@em-h4__font: ~'700 16px/1.35 Raleway, Helvetica Neue, Helvetica, Arial, sans-serif';
+@em-h5__font: ~'500 14px/1.35 Raleway, Helvetica Neue, Helvetica, Arial, sans-serif';
+@em-h6__font: ~'600 11px/1.35 Lato,Helvetica, Arial, sans-serif';
+
+//Page
+@em-page__background-color:#ffffff;
+
+//Header
+@em-header__background-color:#ec6a54;
+@em-header-top__background-color:#ffffff;
+@em-header__text-color:#a1a1a1;
+@em-header__hover__text-color:#ec6a54;
+@em-header__border-color:#e1e1e1;
+
+//Header Cart
+@em-header-cart__background-color:#ffffff;
+@em-header-cart__text-color:#434343;
+
+//Header Search
+@em-header-search__background-color:#ffffff;
+@em-header-search__text-color:#808080;
+
+
+//Header Dropdown 
+@em-header-dropdown__background-color:#ffffff;
+@em-header-dropdown__text-color:#282828;
+
+//Menu Hnav
+@em-topmenu__background-color:#ec6a54;
+@em-topmenu-item__background-color:#ffffff;
+@em-topmenu-item__hover__background-color:#ffffff;
+@em-topmenu__text-color:#ffffff;
+@em-topmenu__hover__text-color:#ec6a54;
+@em-topmenu__border-color:#ffa868;
+@em-topmenu__font: ~'700 14px/1.35 Lato,Helvetica Neue, Helvetica, Arial, sans-serif';
+
+//Menu Vnav
+@em-vnav__background-color:#f8f8f8;
+@em-vnav-item__background-color:#f8f8f8;
+@em-vnav-item__hover__background-color:#fedabf;
+@em-vnav__text-color:#434343;
+@em-vnav__hover__text-color:#ec6a54;
+@em-vnav__border-color:#e8e8e8;
+@em-vnav__font: ~'500 14px/1.35 Lato,Helvetica Neue, Helvetica, Arial, sans-serif';
+
+//Menu Dropdown
+@em-dropmenu__background-color: #ffffff;
+@em-dropmenu__text-color: #434343;
+@em-dropmenu__hover__text-color: #ec6a54;
+@em-dropmenu-title__text-color: #282828;
+@em-dropmenu__border-color: #e9e9e9;
+@em-dropmenu__font: ~'500 14px/1.35 Lato,Helvetica Neue, Helvetica, Arial, sans-serif';
+
+
+//Body
+@em-body__background-color: #ffffff;
+@em-body-title__background-color: #ec6a54;
+@em-body-title__text-color: #ffffff;
+
+@em-body__text-color: #a1a1a1;
+@em-body__hover__text-color: #ec6a54;
+@em-body-title-page__text-color: #282828;
+@em-body-product-name__text-color: #434343;
+@em-body-price__text-color: #434343;
+@em-body__border-color:#e1e1e1;
+@em-body-title__border-color:#ec6a54;
+
+
+//Block sidebar, widget, box
+@em-block__background-color: #ffffff;
+@em-title-block__background-color: #f1f1f1;
+@em-title-block__text-color: #434343;
+
+
+//Tab
+@em-tab__background-color: #ffffff;
+@em-tab__hover__background-color: #ffffff;
+@em-tab__text-color: #434343;
+@em-tab__hover__text-color: #ec6a54;
+
+//Product label
+@em-label-new__background-color: #1585c7;
+@em-label-hot__background-color: #ff9301;
+@em-label-special__background-color: #f60000;
+@em-label__text-color: #ffffff;
+
+//Footer
+@em-footer__background-color:#f1f1f1;
+@em-footer-top__background-color:#f1f1f1;
+@em-footer-bottom__background-color:#222222;
+@em-footer-newletter__background-color:#ffffff;
+@em-footer__text-color: #a1a1a1;
+@em-footer-title__text-color: #434343;
+@em-footer-link__text-color: #434343;
+@em-footer-link__hover__text-color: #ec6a54;
+@em-footer__border-color: #dbdbdb;
+
+
+//Button default
+@em-btn-default__background-color: #ec6a54;
+@em-btn-default__text-color: #ffffff;
+@em-btn-default__border-color: #ec6a54;
+@em-btn-default__font: ~'700 14px/1.35 Lato, Helvetica, Arial, sans-serif';
+
+//Button secondary
+@em-btn-secondary__background-color: #f1f1f1;
+@em-btn-secondary__text-color: #a1a1a1;
+@em-btn-secondary__border-color: #f1f1f1;
+@em-btn-secondary__font: ~'700 14px/1.35 Lato, Helvetica, Arial, sans-serif';
+
+//Button cart
+@em-btn-cart__background-color: #f1f1f1;
+@em-btn-cart__text-color: #a1a1a1;
+@em-btn-cart__border-color: #f1f1f1;
+@em-btn-cart__font: ~'700 14px/1.35 Lato, Helvetica, Arial, sans-serif';
+
+//Button checkout
+@em-btn-checkout__background-color: #ffa000;
+@em-btn-checkout__text-color: #ffffff;
+@em-btn-checkout__border-color: #ffa000;
+@em-btn-checkout__font: ~'700 16px/1.35 Lato, Helvetica, Arial, sans-serif';
+
+//Button product item
+@em-btn-product-item__background-color: transparent;
+@em-btn-product-item__text-color: #ffffff;
+@em-btn-product-item__border-color: #ffffff;
+@em-btn-product-item__font: ~'700 14px/1.35 Lato, Helvetica, Arial, sans-serif';
+
+
+
+
+
+
+
+//  Fonts
+@font-family-name__base: 'Lato';
+@font-family__base: @font-family-name__base, @font-family__sans-serif;
+
+//  Colors nesting
+@page__background-color: @em-page__background-color;
+@copyright__background-color: @color-gray56;
+
+//
+//  Icons
+//  ---------------------------------------------
+
+@icon-success: '\e60e';
+@icon-error: '\e61f';
+@icon-edit: '\e601';
+@icon-print: '\e624';
+@icon-star-empty: '\e625';
+@icon-download: '\e626';
+@icon-private: '\e629';
+@icon-present: '\e62a';
+@icon-gift-registry: '\e62b';
+
+
+@icon-calendar__font-size: 23px;
+
+//
+//  Sidebar
+//  ---------------------------------------------
+
+@sidebar__background-color: @color-white-smoke;  // Used in cart sidebar, Checkout sidebar, Tier Prices, My account navigation, Rating block background

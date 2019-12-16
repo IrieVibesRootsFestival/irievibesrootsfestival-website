@@ -1,0 +1,107 @@
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__m) {
+	.em-header-27.page-header{
+		.panel.wrapper{
+			border:0;
+		}
+		.switcher .options .action.toggle{
+			padding-left:0;
+			padding-right:0;
+			margin-right:40px;
+		}
+		.header.panel > .header.links > li > a{
+			padding-left:0;
+			padding-right:0;
+			margin-left:40px;
+		}
+		.header.content{
+			&:not(.navbar-fixed-top){
+				padding:0;
+				.header-area-01{
+					float:left;
+					width:25%;
+					margin: 40px 0 0;
+					font-size: 110%;
+					text-align:left;
+					.lib-css(color, @em-header__text-color);
+					.fa{.lib-css(color, @em-header__hover__text-color);}
+				}
+				.em-minicart{
+					float:right;
+					width:25%;
+					margin-top: 25px;
+					.minicart-wrapper{margin:0;}
+				}
+				.header-wrapper-container-top .logo{
+					width: 50%;
+					float:left;
+					text-align: center;
+					max-width: 100%;
+					margin:20px 0;
+					img{display:inline-block;}
+				}
+				.em-menu-hoz{
+					max-width:100%;
+					padding:0;
+					float:none!important;
+					display:inline-block;
+				}
+				.em-search{display:inline-block; vertical-align: top;}
+				.header-wrapper-container-bottom{
+					text-align:center;
+					width: 100%;
+					display:inline-block;
+					border-top: 1px solid @em-header__border-color;
+				}
+			}
+		}
+		
+		.header.content.navbar-fixed-top{
+			.header-area-01{
+				display:none
+			}
+			.em-search:not(.mobile-search-wrapper){display:none;}
+		}
+		
+		.em-menu-content{
+			li.level0{
+				margin:0;
+				float:none;
+				> a.em-menu-link{
+					border-width:0px;
+					border-top-width:2px;
+					border-color:transparent;
+				}
+				&:hover{
+					> a.em-menu-link{
+						.lib-css(border-color, @em-topmenu__hover__text-color);
+					}
+				}
+			}
+		}		
+	}
+}
+
+
+/*================= RTL Mobile====================*/
+.media-width(@extremum, @break) when (@extremum = 'max') and (@break = @screen__s) {
+	.em-rtl{
+		.em-header-27.page-header{
+			.switcher .options .action.toggle{
+				margin-right:0px;
+				margin-left:40px;
+			}
+			.header.panel > .header.links > li > a{
+				margin-left:0px;
+				margin-right:40px;
+			}
+			.em-search .em-search-style01 .em-container-js-search{
+				right: auto;
+				left: 0;
+			}
+			.header.content:not(.navbar-fixed-top) .minicart-wrapper .block-minicart{
+				right: 0px;
+				left: auto;
+			}
+		}
+	}
+}

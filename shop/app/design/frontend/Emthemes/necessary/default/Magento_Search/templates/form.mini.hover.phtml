@@ -1,0 +1,97 @@
+<?php
+	/**
+		* Copyright © 2015 Magento. All rights reserved.
+		* See COPYING.txt for license details.
+	*/
+	
+	// @codingStandardsIgnoreFile
+?>
+<?php
+	/** @var $block \Magento\Framework\View\Element\Template */
+	/** @var $helper \Magento\Search\Helper\Data */
+	$helper = $this->helper('Magento\Search\Helper\Data');
+?>
+<div class="em-search">
+<div class="em-wrapper-js-search em-search-style01">
+	<div class="em-wrapper-search em-category-search block block-search">
+        <a class="em-search-icon" title="<?php /* @escapeNotVerified */ echo __('Search'); ?>" href="javascript:void(0);"><span><?php /* @escapeNotVerified */ echo __('Search'); ?></span></a>        
+		
+		<div class="em-container-js-search" style="display: none;">
+			<form class="form minisearch" id="search_mini_form" action="<?php /* @escapeNotVerified */ echo $helper->getResultUrl() ?>" method="get">
+				<div class="field search">
+					<label class="label" for="search" data-role="minisearch-label">
+						<span><?php /* @escapeNotVerified */ echo __('Search'); ?></span>
+					</label>
+					<div class="control">
+						<input id="search"
+						data-mage-init='{"quickSearch":{
+						"formSelector":"#search_mini_form",
+						"url":"<?php /* @escapeNotVerified */ echo $block->getUrl('search/ajax/suggest'); ?>",
+						"destinationSelector":"#search_autocomplete"}
+						}'
+						type="text"
+						name="<?php /* @escapeNotVerified */ echo $helper->getQueryParamName() ?>"
+						value="<?php /* @escapeNotVerified */ echo $helper->getEscapedQueryText() ?>"
+						placeholder="<?php /* @escapeNotVerified */ echo __('Search entire store here...'); ?>"
+						class="input-text"
+						maxlength="<?php /* @escapeNotVerified */ echo $helper->getMaxQueryLength();?>"
+						role="combobox"
+						aria-haspopup="false"
+						aria-autocomplete="both"
+						autocomplete="off"/>
+						<div id="search_autocomplete" class="search-autocomplete"></div>
+						<?php echo $block->getChildHtml() ?>
+					</div>
+				</div>
+				<div class="actions">
+					<button type="submit"
+					title="<?php echo $block->escapeHtml(__('Search')) ?>"
+					class="action search primary">
+						<span><?php /* @escapeNotVerified */ echo __('Search'); ?></span>
+					</button>
+				</div>
+			</form>
+		</div>
+		
+	</div>
+</div>
+</div>
+<script type="text/javascript">
+
+require(['jquery'], function($){
+    $(function(){
+       var timeoutSearch = null;    
+        function hideSearch(e) {
+            var $_container = e.children().find('.em-container-js-search');
+            if (timeoutSearch) clearTimeout(timeoutSearch);
+            timeoutSearch = setTimeout(function() {
+                timeoutSearch = null;
+                $_container.hide(300, function() {
+                    $(this).css('overflow', 'inherit');
+                });
+            }, 200);
+        }
+        // Show Cart    
+        function showSearch(e) {
+            var $_container = e.children().find('.em-container-js-search');
+            if (timeoutSearch) clearTimeout(timeoutSearch);
+            timeoutSearch = setTimeout(function() {
+                timeoutSearch = null;
+                $_container.show(300, function() {
+                    $(this).css('overflow', 'inherit');
+                });
+            }, 200);
+        }
+        var $_emSearch = $(".em-wrapper-js-search");
+        $_emSearch.bind('mouseover', function(e){
+            e.preventDefault();
+            var $_this = $(this);
+            showSearch($_this);
+        }).bind('mouseout',function(e){
+            e.preventDefault();
+            var $_this = $(this);
+            hideSearch($_this);
+        });
+    });
+});
+</script>

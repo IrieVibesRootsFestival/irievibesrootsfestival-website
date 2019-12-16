@@ -1,0 +1,29 @@
+& when (@media-common = true) {
+	.em-footer-style12{
+		.em-block-content{
+			margin-bottom:@indent__base;
+		}
+		.footer-bottom{
+			text-align:center;
+			.widget.block{
+				float:none;
+				display:inline;
+				.em-wrapper-social{
+					float:left;
+				}
+				.em-payment{margin-top:8px;}
+			}
+		}
+		.copyright{display:inline-block;margin-top:8px;}
+		.em-wrapper-social{
+			.em-social{
+				.em-social-icon{
+					.lib-allstyle(@em-footer-newsletter__background-color, @em-footer-title__text-color);
+					&:hover{
+						.lib-allstyle(@em-footer-newsletter__background-color, @em-footer-link__hover__text-color);
+					}
+				}
+			}
+		}
+	}
+}

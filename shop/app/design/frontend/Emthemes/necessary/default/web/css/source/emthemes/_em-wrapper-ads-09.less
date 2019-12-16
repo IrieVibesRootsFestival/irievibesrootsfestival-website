@@ -1,0 +1,36 @@
+@line: @em-body__border-color;
+@line-2: @em-body-title__border-color;
+@color-title: @em-body-product-name__text-color;
+
+& when (@media-common = true){
+	.em-wrapper-ads-09{
+		.lib-css(border, 1px solid @line-2);
+		.lib-css(background, @em-body-box__background-color);
+		.lib-border-radius(5px);
+		padding:0 10px;
+		.line-right{
+			margin-right:-1px;
+			.lib-css(border-right, 1px dotted @line);
+		}
+		.line-left{
+			.lib-css(border-left, 1px dotted @line);
+		}
+		.em-wrapper-ads-item{
+			margin-top:30px;
+			margin-bottom:30px;
+			.fa{
+				font-size:340%;
+				.lib-css(color, @line-2);
+				&:hover{
+					cursor:default;
+				}
+			}
+			h4{
+				.lib-css(color, @color-title);
+			}
+			.em-ads-content p{
+				margin-bottom:0;
+			}
+		}
+	}
+}

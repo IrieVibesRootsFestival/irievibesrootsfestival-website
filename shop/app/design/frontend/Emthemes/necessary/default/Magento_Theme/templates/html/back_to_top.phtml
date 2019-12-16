@@ -1,0 +1,33 @@
+
+    <p id="back-top" style="display: none;"><a title="<?php echo __('Top')?>" href="#top"><?php echo __('Top')?></a></p>
+    <script type="text/javascript">
+    //<![CDATA[
+    require([
+    'jquery'
+    ], function($){
+     var sBackTop = $('#back-top');
+                if(sBackTop.length){
+                    //var sClickBackTop = $('#back-top a');
+                    sBackTop.hide();
+                    // fade in #back-top
+
+                        $(window).scroll(function() {
+                            if ($(this).scrollTop() > 100) {
+                                sBackTop.fadeIn();
+                            } else {
+                                sBackTop.fadeOut();
+                            }
+                        });
+                        // scroll body to 0px on click
+                        $('a', sBackTop).click(function() {
+                            $('body,html').animate({
+                                scrollTop: 0
+                            }, 800);
+                            return false;
+                        });
+                    
+                }
+    });
+        
+    //]]>
+    </script>

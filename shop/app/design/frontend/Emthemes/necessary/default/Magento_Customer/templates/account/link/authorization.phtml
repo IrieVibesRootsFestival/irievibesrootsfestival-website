@@ -1,0 +1,29 @@
+<?php
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+/** @var $block \Magento\Customer\Block\Account\AuthorizationLink */
+$dataPostParam = '';
+if ($block->isLoggedIn()) {
+    $dataPostParam = sprintf(" data-post='%s'", $block->getPostParams());
+}
+?>
+<?php if($block->isLoggedIn()): ?>
+      <li class="myaccount-link">
+          <a title="<?php echo $block->escapeHtml(__('My Account')); ?>" class="link-account" href="<?php /* @escapeNotVerified */ echo $block->getBaseUrl().'customer/account'; ?>">
+              <?php echo $block->escapeHtml(__('My Account')); ?>
+          </a>
+      </li>
+<?php endif;?>
+<li class="authorization-link <?php echo ($block->isLoggedIn()) ? 'log-out' : 'log-in' ?>" data-label="<?php echo $block->escapeHtml(__('or')); ?>" >
+    <a class="link-account" title="<?php echo $block->escapeHtml($block->getLabel()); ?>" <?php /* @escapeNotVerified */ echo $block->getLinkAttributes(); ?><?php /* @escapeNotVerified */ echo $dataPostParam; ?>>
+        <?php echo $block->escapeHtml($block->getLabel()); ?>
+    </a>
+    <?php if(!$block->isLoggedIn()): ?>
+        <?php echo $block->getChildHtml() ?>
+    <?php endif ?> 
+</li>

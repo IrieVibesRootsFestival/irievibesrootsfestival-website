@@ -1,0 +1,41 @@
+& when (@media-common = true) {
+	.em-footer-style13{
+		text-align:center;
+		padding-top:@indent__l * 2;
+		.em-logo-footer{
+			display:inline-block;
+			vertical-align:top;
+			margin-bottom:0;
+		}
+		.copyright address{
+			float:none; padding-bottom:@indent__xl;
+		}
+		&.page-footer .footer-bottom{
+			padding:@indent__base 0;
+			.widget.block{
+				float:none;
+			}
+		}
+		.footer-bottom{
+			.lib-css(border-top, 1px solid @em-footer__border-color);
+		}
+		.footer-bottom-link{
+			li{ 
+				display:inline-block;
+				vertical-align:top;
+				a{
+					text-transform:uppercase;
+					margin:0 @indent__s;
+				}
+			}
+		}
+		
+	}
+}
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__m){
+	.em-footer-style13 {
+		.em-newsletter-style02{
+			margin:0 25%;
+		}
+	}
+}

@@ -1,0 +1,97 @@
+& when (@media-common = true){
+	.em-wrapper-product-15{
+		.lib-css(border, 1px solid @em-body__border-color);
+		.lib-css(background, @em-body-box__background-color);
+		margin-bottom:0;
+		.lib-border-radius(5px);
+		.block.widget{
+			.block-title{
+				.lib-allstyle(@em-body-title__text-color, @em-body-title__background-color, @em-h4__font);
+				text-transform:uppercase;
+				padding:1.4rem 2rem;
+				margin-bottom:0 !important;
+				.lib-border-radius(5px 5px 0 0);
+				strong{
+					.lib-css(font, @em-h4__font);
+					.lib-allstyle(@em-body-title__text-color, @em-body-title__background-color, @em-h4__font);
+					padding-bottom:0;
+					border:0;
+				}
+			}
+			
+			.block-content{
+				padding:20px 0;
+			}
+		}
+		.products-list .product-items{		
+			display: -webkit-flex; /* Safari */
+			display: flex;
+			width:100%;
+			margin:0;
+			padding:0px 20px; clear:both;
+			
+			div.product-item{
+				/*
+				width: -moz-calc(100% / 3);
+				width: -webkit-calc(100% / 3);
+				width: -o-calc(100% / 3);
+				width: calc(100% / 3);*/
+				 -webkit-flex: 1;
+				-ms-flex: 1; 
+				flex: 1;
+				padding:20px 10px 0px;
+				float:left;
+				margin:0;
+				border:none;
+				.lib-css(border-top, 1px dotted @em-body__border-color);
+				.lib-css(border-left, 1px dotted @em-body__border-color);
+				&:first-child{
+					border-left-width: 0px;
+					padding-left:0;
+				}
+			}
+			&:first-child{
+				div.product-item{
+					border-top-width:0;
+					padding-top:0;
+					padding-bottom:20px;
+				}
+			}
+			.product-item-photo{ margin-bottom:0}
+			.em-btn-addto,
+			.product-item-description{
+				display:none;
+			}
+		}
+	}
+}
+@media (min-width: 768px) and (max-width: 991px){
+	.em-wrapper-product-15{
+		.products-list .product-item-details{
+			clear:both;
+			padding-top:10px;
+		}
+	}
+}
+.media-width(@extremum, @break) when (@extremum = 'max') and (@break = @screen__m) {
+	.em-wrapper-product-15{
+		.products-list .product-items{		
+			display: inline-block;
+			div.product-item{
+				.lib-css(border-left, 0px);
+				padding-bottom:20px;
+			}
+			&:first-child{
+				div.product-item{
+					border-top-width:1px;
+					padding-top:20px;
+					padding-bottom:20px;
+					&:first-child{
+						padding-top:0;
+						border-top-width:0;
+					}
+				}
+			}
+		}
+	}
+}

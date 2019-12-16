@@ -1,0 +1,37 @@
+/////////////////Header
+
+& when (@media-common = true){
+	.header.links{
+        .lib-list-inline();
+		li{
+			> a{
+				position:relative;
+				&:before{
+					.lib-fontawesome("\f084", 12px);
+					margin-right:10px;
+					.em-rtl &{
+						margin-right:0px;
+						margin-left:10px;
+					}
+				}
+			}
+			&.wishlist > a:before{
+				content:"\f004";
+			}
+			&.log-in > a:before{
+				content:"\f13e";
+			}
+			&.myaccount-link > a:before{
+				content:"\f007";
+			}
+			&.compare{
+				.qty{
+					display:inline-block;
+				}
+				> a:before{
+					content:"\f079";
+				}
+			}
+		}
+	}
+}
