@@ -15,5 +15,5 @@ jobs:
         FTP_SERVER: ftp.irievibes.be
         FTP_USERNAME: d-ftp-irie@irievibes.be
         FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
-        ARGS: --delete --exclude shop/
+        ARGS: --delete --exclude=shop/
         # --delete arg will delete files on the server if you've deleted them in git
