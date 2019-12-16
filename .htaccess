@@ -4,12 +4,16 @@ RewriteCond %{HTTPS} !on
 # Redirect all HTTP to HTTPS
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
-# Redirect anything except subdomains
 
-RewriteCond %{HTTP_HOST} !^(shop|tickets|en|fr|nl)\.irievibes\.be$ [NC]
+
+
 
 # Redirect to www.irievibes.be/nl/ from irievibes.be, preserving the URI
-RewriteRule ^(.*)$ nl/ [L,R=301]
+RewriteCond %{HTTP_HOST} irievibes\.be [NC]
+RewriteCond %{REQUEST_URI} ^/$
+# Redirect anything except subdomains
+RewriteCond %{HTTP_HOST} !^(shop|tickets|en|fr|nl)\.irievibes\.be$ [NC]
+RewriteRule ^(.*)$ /blog/$1 [L]
 
 # Redirect the language and tickets subdomains
 RewriteCond %{HTTP_HOST} ^tickets.irievibes.be$
