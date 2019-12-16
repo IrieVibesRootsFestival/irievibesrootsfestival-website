@@ -1,19 +1,23 @@
 RewriteEngine On
 RewriteCond %{HTTPS} !on
 
+# Redirect all www to non-www
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
 # Redirect all HTTP to HTTPS
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
 # Redirect anything except subdomains
+RewriteCond %{HTTP_HOST} !^(shop|tickets|en|fr|nl)\.irievibes\.be$ [NC]
 
-RewriteCond %{HTTP_HOST} !^(www|shop|tickets|en|fr|nl)\.irievibes\.be$ [NC]
-
-# Redirect to www.irievibes.be/nl/ from irievibes.be, preserving the URI
-RewriteRule ^/$ https://www.irievibes.be/nl/ [L,R=301]
+# Redirect to irievibes.be/nl/ from irievibes.be, preserving the URI
+RewriteRule ^/$ https://irievibes.be/nl/ [L,R=301]
 
 # Redirect the language and tickets subdomains
 RewriteCond %{HTTP_HOST} ^tickets.irievibes.be$
-RewriteRule ^/$ https://www.irievibes.be/nl/tickets/ [R=301,L]
+RewriteRule ^/$ https://irievibes.be/nl/tickets/ [R=301,L]
 
 Redirect 301 /src/static/grondplan_camping.pdf /src/static/groundplan_backtotheroots.pdf 
 Redirect 301 /src/static/spotify/ https://open.spotify.com/playlist/2Wgmu4URI3nwnRRCGTi5dq
