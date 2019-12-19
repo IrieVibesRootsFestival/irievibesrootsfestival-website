@@ -30,5 +30,5 @@ RedirectMatch 301 /fr/info/trim-the-footprint/(.*) /fr/info/eco/trim-the-footpri
 Header set Cache-Control "public, max-age=7200"
 </FilesMatch>
 
-ErrorDocument 404 /public_html/404.php
-ErrorDocument 403 /public_html/403.php
+ErrorDocument 404 404.php
+ErrorDocument 403 403.php
