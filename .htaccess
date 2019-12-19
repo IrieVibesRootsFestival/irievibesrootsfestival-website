@@ -30,5 +30,5 @@ RedirectMatch 301 /fr/info/trim-the-footprint/(.*) /fr/info/eco/trim-the-footpri
 Header set Cache-Control "public, max-age=7200"
 </FilesMatch>
 
-ErrorDocument 404 /domains/irievibes.be/public_html/404.php
-ErrorDocument 403 /domains/irievibes.be/public_html/403.php
+ErrorDocument 404 /home/deb109085/domains/irievibes.be/public_html/404.php
+ErrorDocument 403 /home/deb109085/domains/irievibes.be/public_html/403.php
