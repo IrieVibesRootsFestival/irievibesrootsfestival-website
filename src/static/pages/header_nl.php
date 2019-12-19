@@ -1,10 +1,9 @@
-<!DOCTYPE html>
+
 <!-- The header contains everything that displays as or above the nav-bar -->
 <header>
     <!--HEADER IMAGE-->
     <div id="banner">
-        <img alt="" 
-             src="/src/img/banner-logo.svg" 
+        <img src="/src/img/banner-logo.svg" 
              alt="Logo"
              height="115"
              width="254"

@@ -1,4 +1,4 @@
-<html lang="en">
+<html lang="en"><!DOCTYPE html>
     <head>
         <!-- Setting things up so they work correctly. -->
         <meta charset="utf-8">         <meta http-equiv="X-UA-Compatible" content="IE=edge">         <meta name="viewport" content="width=device-width, initial-scale=1">         <meta name="Description" content="Irie Vibes Roots Festival is a festival dedicated to bringing ska, reggae, world music and dub into the rural of Kortemark, a small town in Belgium. Come join us this year!">         <meta name="Keywords" content="dub, reggae, ska, world music, food, festival">
