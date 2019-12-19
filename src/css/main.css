@@ -2,6 +2,8 @@
 @import url('/src/css/timetable.css'); /*Location of Timetable CSS (for ease of editing)*/
 @import url('/src/css/typesetting.css'); /*Where fonts, sizing and styling for text is defined*/
 
+@import url('/src/css/vimeo-custom.css'); /*Placing Vimeo CSS here, because pasting it mid-code is not valid HTML // For W3 Validation.*/
+
 /*-------Basic Stuff-------*/
 html {overflow-y: scroll !important;}
 body{
