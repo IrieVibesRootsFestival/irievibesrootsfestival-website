@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -16,70 +16,70 @@
                     <picture>
                         <source srcset="/src/img/posters/irie-vibes-2009.webp" type="image/webp">
                         <source srcset="/src/img/posters/irie-vibes-2009.jpg" type="image/jpeg">
-                        <img class="img-fluid rounded" src="/src/img/posters/irie-vibes-2009.jpg"/>
+                        <img alt="" class="img-fluid rounded" src="/src/img/posters/irie-vibes-2009.jpg"/>
                     </picture>
                 </div>
                 <div class="col-12 col-md-3 mb-2">
                     <picture>
                         <source srcset="/src/img/posters/irie-vibes-2010.webp" type="image/webp">
                         <source srcset="/src/img/posters/irie-vibes-2010.jpg" type="image/jpeg">
-                        <img class="img-fluid rounded" src="/src/img/posters/irie-vibes-2010.jpg"/>
+                        <img alt="" class="img-fluid rounded" src="/src/img/posters/irie-vibes-2010.jpg"/>
                     </picture>
                 </div>
                 <div class="col-12 col-md-3 mb-2">
                     <picture>
                         <source srcset="/src/img/posters/irie-vibes-2011.webp" type="image/webp">
                         <source srcset="/src/img/posters/irie-vibes-2011.jpg" type="image/jpeg">
-                        <img class="img-fluid rounded" src="/src/img/posters/irie-vibes-2011.jpg"/>
+                        <img alt="" class="img-fluid rounded" src="/src/img/posters/irie-vibes-2011.jpg"/>
                     </picture>
                 </div>
                 <div class="col-12 col-md-3 mb-2">
                     <picture>
                         <source srcset="/src/img/posters/irie-vibes-2012.webp" type="image/webp">
                         <source srcset="/src/img/posters/irie-vibes-2012.jpg" type="image/jpeg">
-                        <img class="img-fluid rounded" src="/src/img/posters/irie-vibes-2012.jpg"/>
+                        <img alt="" class="img-fluid rounded" src="/src/img/posters/irie-vibes-2012.jpg"/>
                     </picture>
                 </div>
                 <div class="col-12 col-md-3 mb-2">
                     <picture>
                         <source srcset="/src/img/posters/irie-vibes-2014.webp" type="image/webp">
                         <source srcset="/src/img/posters/irie-vibes-2014.jpg" type="image/jpeg">
-                        <img class="img-fluid rounded" src="/src/img/posters/irie-vibes-2014.jpg"/>
+                        <img alt="" class="img-fluid rounded" src="/src/img/posters/irie-vibes-2014.jpg"/>
                     </picture>
                 </div>
                 <div class="col-12 col-md-3 mb-2">
                     <picture>
                         <source srcset="/src/img/posters/irie-vibes-2015.webp" type="image/webp">
                         <source srcset="/src/img/posters/irie-vibes-2015.jpg" type="image/jpeg">
-                        <img class="img-fluid rounded" src="/src/img/posters/irie-vibes-2015.jpg"/>
+                        <img alt="" class="img-fluid rounded" src="/src/img/posters/irie-vibes-2015.jpg"/>
                     </picture>
                 </div>
                 <div class="col-12 col-md-3 mb-2">
                     <picture>
                         <source srcset="/src/img/posters/irie-vibes-2016.webp" type="image/webp">
                         <source srcset="/src/img/posters/irie-vibes-2016.jpg" type="image/jpeg">
-                        <img class="img-fluid rounded" src="/src/img/posters/irie-vibes-2016.jpg"/>
+                        <img alt="" class="img-fluid rounded" src="/src/img/posters/irie-vibes-2016.jpg"/>
                     </picture>
                 </div>
                 <div class="col-12 col-md-3 mb-2">
                     <picture>
                         <source srcset="/src/img/posters/irie-vibes-2017.webp" type="image/webp">
                         <source srcset="/src/img/posters/irie-vibes-2017.jpg" type="image/jpeg">
-                        <img class="img-fluid rounded" src="/src/img/posters/irie-vibes-2017.jpg"/>
+                        <img alt="" class="img-fluid rounded" src="/src/img/posters/irie-vibes-2017.jpg"/>
                     </picture>
                 </div>
                 <div class="col-12 col-md-3 mb-2">
                     <picture>
                         <source srcset="/src/img/posters/irie-vibes-2018.webp" type="image/webp">
                         <source srcset="/src/img/posters/irie-vibes-2018.jpg" type="image/jpeg">
-                        <img class="img-fluid rounded" src="/src/img/posters/irie-vibes-2018.jpg"/>
+                        <img alt="" class="img-fluid rounded" src="/src/img/posters/irie-vibes-2018.jpg"/>
                     </picture>
                 </div>
                 <div class="col-12 col-md-3 mb-2">
                     <picture>
                         <source srcset="/src/img/posters/irie-vibes-2019.webp" type="image/webp">
                         <source srcset="/src/img/posters/irie-vibes-2019.jpg" type="image/jpeg">
-                        <img class="img-fluid rounded" src="/src/img/posters/irie-vibes-2019.jpg"/>
+                        <img alt="" class="img-fluid rounded" src="/src/img/posters/irie-vibes-2019.jpg"/>
                     </picture>
                 </div>
             </div>

@@ -1,4 +1,4 @@
-<html>
+<html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -27,7 +27,7 @@
                         </div>
                         <div class="col-12">
                             <a href="https://www.facebook.com/events/622231101564639/" rel="Kortemark Congé Facebook Page">
-                                <img src="/src/img/kortemark_conge.jpg" class="img-fluid rounded"/>
+                                <img alt="" src="/src/img/kortemark-conge.jpg" class="img-fluid rounded"/>
                             </a>
                         </div>
                     </div>
@@ -42,10 +42,10 @@
                 <!-- Hide line-up on mobile, and display a link to the Line-Up page instead -->
                 <div class="col-12 d-none d-md-block mt-md-2">
                     <!-- Include page that holds images/links -->
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/kortemark_conge/core_lineup.php');?>
+                    <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/kortemark-conge/core_lineup.php');?>
                 </div>
                 <div class="col-12 d-block d-md-none text-center">
-                    <button class="btn btn-pill btn-irie"><a class="text-white" href="/en/lineup/kortemark_conge/">View Line-up</a></button>
+                    <button class="btn btn-pill btn-irie"><a class="text-white" href="/en/lineup/kortemark-conge/">View Line-up</a></button>
                 </div>
             </div>
         </div>        

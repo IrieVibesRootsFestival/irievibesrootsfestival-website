@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
     <head>
         <!-- Setting things up so they work correctly. -->
         <meta charset="utf-8">         <meta http-equiv="X-UA-Compatible" content="IE=edge">         <meta name="viewport" content="width=device-width, initial-scale=1">         <meta name="Description" content="Irie Vibes Roots Festival is a festival dedicated to bringing ska, reggae, world music and dub into the rural of Kortemark, a small town in Belgium. Come join us this year!">         <meta name="Keywords" content="dub, reggae, ska, world music, food, festival">
@@ -18,7 +18,7 @@
             <!-- The header contains everything that displays as or above the nav-bar -->
             <!--HEADER IMAGE-->
             <div id="banner">
-                <img class="img-fluid" src="/src/img/banner_logo.png">
+                <img alt="" class="img-fluid" src="/src/img/banner_logo.png">
             </div>
             <!--NAVIGATION-->
             <nav id="navbar" class="navbar navbar-expand-lg">
@@ -27,7 +27,7 @@
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
-                    <a href="/en/"><img  src="/src/img/nav-img.png"></a>
+                    <a href="/en/"><img alt=""  src="/src/img/nav-img.png"></a>
                     <div class="collapse navbar-collapse" id="navbarText">
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item">
@@ -41,7 +41,7 @@
                                     <li><a class="nav-link drop-2" alt="Camping, parking and other places to stay" href="/en//festival/accomodation/">Accomodation</a></li>
                                     <li><a class="nav-link drop-2" href="/en/festival/merchandise/">Merchandise</a></li>
                                     <li><a class="nav-link drop-2" href="/en/info/volunteers/">Volunteers</a></li>
-                                    <li><a class="nav-link drop-2" href="/en/festival/food_shops/">(non)Food Shops</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/festival/food-shops/">(non)Food Shops</a></li>
                                     <li><a class="nav-link drop-2" href="/en/festival/transport/">Transport</a></li>
                                     <li><a class="nav-link drop-2" href="/en/festival/safety/">Safety First</a></li>  
                                 </ul>
@@ -86,11 +86,11 @@
                             <!-- This is the language selector. -->
                             <ul class="navbar-nav mr-auto">
                                 <li class="nav-item">
-                                    <a class="nav-link language text-muted" href="/nl/"><img src="/src/img/flags/blank.gif" class="flag flag-be" alt="Czech Republic" />
+                                    <a class="nav-link language text-muted" href="/nl/"><img alt="" src="/src/img/flags/blank.gif" class="flag flag-be" alt="Czech Republic" />
                                     </a>
                                 </li>
                                 <li class="nav-item active">
-                                    <a class="nav-link language text-white" href="#"><img src="/src/img/flags/blank.gif" class="flag flag-gb" alt="Czech Republic" /><span class="sr-only">(current)</span></a>
+                                    <a class="nav-link language text-white" href="#"><img alt="" src="/src/img/flags/blank.gif" class="flag flag-gb" alt="Czech Republic" /><span class="sr-only">(current)</span></a>
                                 </li>
                             </ul>
                         </span>

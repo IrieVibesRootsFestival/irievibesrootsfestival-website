@@ -1,4 +1,4 @@
-<html>
+<html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -12,13 +12,13 @@
             <div class="row text-center pt-4">
                 <div class="col-12 col-md-6">
                     <a href="evacuation/">
-                        <img class="img-fluid rounded" src="/src/img/emergency_exit.jpg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/emergency_exit.jpg">
                         <p class="mt-1">Bekijk ons evacuatieplan hier<p>
                     </a>
                 </div> 
                 <div class="col-12 col-md-6">
                     <a href="quality_nights/">
-                        <img class="img-fluid" src="/src/img/quality_nights.png">
+                        <img alt="" class="img-fluid" src="/src/img/quality_nights.png">
                         <h4>Quality nights, because we care about you!</h4>
                     </a>
                 </div>                           

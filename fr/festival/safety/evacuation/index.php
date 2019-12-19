@@ -1,4 +1,4 @@
-<html>
+<html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -10,7 +10,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <div class="container text-center">
             <h3 class="display-7 pt-2">Plan d'evacuation</h3> 
-            <img class="img-fluid rounded" src="/src/img/Evacuatieplan_Irie-Vibes-Festival.jpg">
+            <img alt="" class="img-fluid rounded" src="/src/img/Evacuatieplan_Irie-Vibes-Festival.jpg">
         </div>
         <!-- Include Footer -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>        

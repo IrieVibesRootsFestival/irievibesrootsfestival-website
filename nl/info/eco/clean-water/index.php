@@ -1,4 +1,4 @@
-<html>
+<html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -19,28 +19,28 @@
                         <li>elke druppel water bij ons tot 5 maal toe gezuiverd en hergebruikt wordt?</li>
                     </ul>
                 </div>
-                <div class="col-12 col-md-3"><img class="img-fluid rounded" src="/src/img/partners/desotec.jpg"/></div>
+                <div class="col-12 col-md-3"><img alt="" class="img-fluid rounded" src="/src/img/partners/desotec.jpg"/></div>
             </div>
             <div class="row">
                 <div class="col-12 col-md-4">
                     <picture>
                         <source srcset="/src/img/eco/clean-water/clean-water-info.webp" type="image/webp">
                         <source srcset="/src/img/eco/clean-water/clean-water-info.jpg" type="image/jpeg">
-                        <img class="img-fluid rounded" src="/src/img/eco/clean-water/clean-water-infor.jpg"/>
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/clean-water/clean-water-infor.jpg"/>
                     </picture>
                 </div>
                 <div class="col-12 col-md-4">
                     <picture>
                         <source srcset="/src/img/eco/clean-water/clean-water-desotec-filter.webp" type="image/webp">
                         <source srcset="/src/img/eco/clean-water/clean-water-desotec-filter.jpg" type="image/jpeg">
-                        <img class="img-fluid rounded" src="/src/img/eco/clean-water/clean-water-desotec-filter.jpg"/>
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/clean-water/clean-water-desotec-filter.jpg"/>
                     </picture>
                 </div>
                 <div class="col-12 col-md-4">
                     <picture>
                         <source srcset="/src/img/eco/clean-water/clean-water-system.webp" type="image/webp">
                         <source srcset="/src/img/eco/clean-water/clean-water-system.jpg" type="image/jpeg">
-                        <img class="img-fluid rounded" src="/src/img/eco/clean-water/clean-water-system.jpg"/>
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/clean-water/clean-water-system.jpg"/>
                     </picture>
                 </div>
             </div>

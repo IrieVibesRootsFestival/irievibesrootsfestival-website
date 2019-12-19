@@ -1,4 +1,4 @@
-<html>
+<html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -18,18 +18,18 @@
                     <div class="row">
                         <div class="col-6 mb-3">
                             <a href="https://www.laconditionpublique.com/">
-                                <img class="img-fluid rounded" src="/src/img/partners/lacondition.jpg" alt="La Condition Publique">
+                                <img alt="" class="img-fluid rounded" src="/src/img/partners/lacondition.jpg" alt="La Condition Publique">
                             </a>
                         </div>
                         <div class="col-6 mb-3">
                             <a href="https://www.esperanzah.be/engagement/trim-the-footprint/">
-                                <img class="img-fluid rounded" src="/src/img/partners/esperanzah.jpg" alt="Esperanzah! festival">
+                                <img alt="" class="img-fluid rounded" src="/src/img/partners/esperanzah.jpg" alt="Esperanzah! festival">
                             </a>
                         </div>
-                        <div class="col-6 mb-3"><img class="img-fluid rounded" src="/src/img/irievibesrootsfestival-4-3.jpg" alt="Irie Vibes Roots Festival"></div>
+                        <div class="col-6 mb-3"><img alt="" class="img-fluid rounded" src="/src/img/irievibesrootsfestival-4-3.jpg" alt="Irie Vibes Roots Festival"></div>
                         <div class="col-6 mb-3">
                             <a href="https://www.interreg-fwvl.eu/nl/">
-                                <img class="img-fluid rounded" src="/src/img/partners/interreg.jpg" alt="Interreg - France Flanders Wallonie">
+                                <img alt="" class="img-fluid rounded" src="/src/img/partners/interreg.jpg" alt="Interreg - France Flanders Wallonie">
                             </a>
                         </div>
                     </div>
@@ -40,7 +40,7 @@
                             <picture>
                                 <source srcset="/src/img/eco/trim-the-footprint/map.webp" type="image/webp">
                                 <source srcset="/src/img/eco/trim-the-footprint/map.png" type="image/png">
-                                <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/map.png" alt="Esperanzah! festival">
+                                <img alt="" class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/map.png" alt="Esperanzah! festival">
                             </picture>
                         </a>
                     </div>

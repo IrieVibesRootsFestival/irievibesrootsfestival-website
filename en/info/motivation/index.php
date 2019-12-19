@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
     <head>
         <!-- Setting things up so they work correctly. -->
         <meta charset="utf-8">         <meta http-equiv="X-UA-Compatible" content="IE=edge">         <meta name="viewport" content="width=device-width, initial-scale=1">         <meta name="Description" content="Irie Vibes Roots Festival is a festival dedicated to bringing ska, reggae, world music and dub into the rural of Kortemark, a small town in Belgium. Come join us this year!">         <meta name="Keywords" content="dub, reggae, ska, world music, food, festival">
@@ -18,7 +18,7 @@
             <!-- The header contains everything that displays as or above the nav-bar -->
             <!--HEADER IMAGE-->
             <div id="banner">
-                <img class="img-fluid" src="/src/img/banner_logo.png">
+                <img alt="" class="img-fluid" src="/src/img/banner_logo.png">
             </div>
             <!--NAVIGATION-->
             <nav id="navbar" class="navbar navbar-expand-lg">
@@ -73,11 +73,11 @@
                             <!-- This is the language selector. -->
                             <ul class="navbar-nav mr-auto">
                                 <li class="nav-item">
-                                    <a class="nav-link language text-muted" href="/nl/"><img src="/src/img/flags/blank.gif" class="flag flag-be" alt="Czech Republic" />
+                                    <a class="nav-link language text-muted" href="/nl/"><img alt="" src="/src/img/flags/blank.gif" class="flag flag-be" alt="Czech Republic" />
                                     </a> 
                                 </li>
                                 <li class="nav-item active">
-                                    <a class="nav-link language text-white" href="#"><img src="/src/img/flags/blank.gif" class="flag flag-gb" alt="Czech Republic" /><span class="sr-only">(current)</span></a>
+                                    <a class="nav-link language text-white" href="#"><img alt="" src="/src/img/flags/blank.gif" class="flag flag-gb" alt="Czech Republic" /><span class="sr-only">(current)</span></a>
                                 </li>                                
                             </ul>
                         </span>

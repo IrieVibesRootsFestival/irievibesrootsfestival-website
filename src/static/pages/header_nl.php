@@ -1,13 +1,13 @@
-
+<!DOCTYPE html>
 <!-- The header contains everything that displays as or above the nav-bar -->
-<!--HEADER IMAGE-->
 <header>
+    <!--HEADER IMAGE-->
     <div id="banner">
-        <img 
+        <img alt="" 
              src="/src/img/banner-logo.svg" 
              alt="Logo"
-             height="115px"
-             width="254px"
+             height="115"
+             width="254"
              style="margin-bottom:-10px;"/>
     </div>
     <!--NAVIGATION-->
@@ -18,7 +18,7 @@
                 <i class="fas fa-bars text-warning"></i>
             </button>
             <!-- This is the Navbar's "Content" -->
-            <a href="/nl/"><img  src="/src/img/nav-img.png"></a>
+            <a href="/nl/"><img alt="" src="/src/img/nav-img.png"></a>
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto d-lg-flex align-items-lg-center px-2 px-md-0">
                     <li class="nav-item">
@@ -31,7 +31,7 @@
                             <li><a class="nav-link drop-2" href="/nl/festival/rules/">Festivalregels</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/camping/">Camping en Parking</a></li>
                             <li><a class="nav-link drop-2" href="/nl/info/volunteers/">Vrijwilligers</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/festival/food_shops/">(non)Food Shops</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/festival/food-shops/">(non)Food Shops</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/transport/">Transport</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/safety/">Veiligheid</a></li>
                         </ul>
@@ -51,7 +51,7 @@
                         <a class="nav-link" href="/nl/kids/">Little Lion</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link"href="/nl/festival/kortemark_conge/">Kortemark Congé</a>
+                        <a class="nav-link" href="/nl/festival/kortemark-conge/">Kortemark Congé</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ECO<span class="dropdown-toggle"></span></a>

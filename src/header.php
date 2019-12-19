@@ -2,7 +2,7 @@
             <!-- The header contains everything that displays as or above the nav-bar -->
             <!--HEADER IMAGE-->
             <div class="bg-irie-grey text-center">
-                <img class="img-fluid" src="https://i.imgur.com/h59oKM0.png">
+                <img alt="" class="img-fluid" src="https://i.imgur.com/h59oKM0.png">
             </div>
             <!--NAVIGATION-->
             <nav class="navbar navbar-expand-lg navbar-dark bg-irie-red">
@@ -57,11 +57,11 @@
                             <!-- This is the language selector. -->
                             <ul class="navbar-nav mr-auto">
                                 <li class="nav-item">
-                                    <a class="nav-link language text-muted" href="/nl/"><img src="/src/img/flags/blank.gif" class="flag flag-be" alt="Czech Republic" />
+                                    <a class="nav-link language text-muted" href="/nl/"><img alt="" src="/src/img/flags/blank.gif" class="flag flag-be" alt="Czech Republic" />
                                     </a> 
                                 </li>
                                 <li class="nav-item active">
-                                    <a class="nav-link language text-white" href="#"><img src="/src/img/flags/blank.gif" class="flag flag-gb" alt="Czech Republic" /><span class="sr-only">(current)</span></a>
+                                    <a class="nav-link language text-white" href="#"><img alt="" src="/src/img/flags/blank.gif" class="flag flag-gb" alt="Czech Republic" /><span class="sr-only">(current)</span></a>
                                 </li>                                
                             </ul>
                         </span>

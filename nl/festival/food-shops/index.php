@@ -1,4 +1,4 @@
-<html>
+<html lang="nl">
     <head>
         <!-- Setting things up so they work correctly. -->
         <meta charset="utf-8">         <meta http-equiv="X-UA-Compatible" content="IE=edge">         <meta name="viewport" content="width=device-width, initial-scale=1">         <meta name="Description" content="Irie Vibes Roots Festival is a festival dedicated to bringing ska, reggae, world music and dub into the rural of Kortemark, a small town in Belgium. Come join us this year!">         <meta name="Keywords" content="dub, reggae, ska, world music, food, festival">
@@ -7,17 +7,18 @@
         <link rel="icon" type="image/png" href="/src/img/favicon.png" />         <meta name="theme-color" content="#1c1f22" />
         <!-- Custom style sheet -->
         <!-- Bootstrap style sheet -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
         <!-- Load overwrite style sheet as last to enable overwriting Bootstrap features -->
         <link rel="stylesheet" href="/src/css/main.css">
-        <title>Location - Irie Vibes</title>     
-    </head> 
+        <title>(non)Food Shops - Irie Vibes</title>
+    </head>
     <body>
         <header>
             <!-- The header contains everything that displays as or above the nav-bar -->
             <!--HEADER IMAGE-->
             <div id="banner">
-                <img class="img-fluid" src="/src/img/banner_logo.png">
+                <img alt="" class="img-fluid" src="/src/img/banner_logo.png">
             </div>
             <!--NAVIGATION-->
             <nav id="navbar" class="navbar navbar-expand-lg">
@@ -26,50 +27,50 @@
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
-                    <a href="/en/"><img  src="/src/img/nav-img.png"></a>
+                    <a href="/en/"><img alt=""  src="/src/img/nav-img.png"></a>
                     <div class="collapse navbar-collapse" id="navbarText">
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item">
-                                <a class="nav-link" href="/nl/">Home <span class="sr-only">(current)</span></a>
+                                <a class="nav-link" href="/en/">Home <span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item dropdown active">
                                 <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival<span class="dropdown-toggle"></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="nav-link drop-2" href="/nl/locatie/">Locatie</a></li>
-                                    <li><a class="nav-link drop-2" href="/nl/festival/regels/">Festivalregels</a></li>
-                                    <li><a class="nav-link drop-2" href="/nl/festival/accomodatie/">Accomodatie</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/location/">Location</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/festival/rules/">Festival Rules</a></li>
+                                    <li><a class="nav-link drop-2" alt="Camping, parking and other places to stay" href="/en//festival/accomodation/">Accomodation</a></li>
                                     <li><a class="nav-link drop-2" href="/en/festival/merchandise/">Merchandise</a></li>
-                                    <li><a class="nav-link drop-2" href="/https://irievibes.be/nl/info/volunteers/">Vrijwilligers</a></li>
-                                    <li><a class="nav-link drop-2" href="/en/festival/food_shops/">(non)Food Shops</a></li>
+                                    <li><a class="nav-link drop-2" href="/https://irievibes.be/nl/info/volunteers/">Volunteers</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/festival/food-shops/">(non)Food Shops</a></li>
                                     <li><a class="nav-link drop-2" href="/en/festival/transport/">Transport</a></li>
-                                    <li><a class="nav-link drop-2" href="/en/festival/safety/">Veiligheid</a></li>  
+                                    <li><a class="nav-link drop-2" href="/en/festival/safety/">Safety First</a></li>  
                                 </ul>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="/nl/tickets/">Tickets</a>
                             </li>
                             <li class="nav-item dropdown">
-                                <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Programma<span class="dropdown-toggle"></span></a>
+                                <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Program<span class="dropdown-toggle"></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="nav-link drop-2" href="/en/artists">Artiesten</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/artists">Artists</a></li>
                                     <li><a class="nav-link drop-2" href="/en/lineup/">Line-Up</a></li>
-                                    <li><a class="nav-link drop-2" alt="Clashfinder" href="#ClashfinderLink">Overzicht</a></li>
+                                    <li><a class="nav-link drop-2" alt="Clashfinder" href="#">Overview</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/nl/kids/">Irie Vibes For Kids</a>
+                                <a class="nav-link" href="/en/kids/">Irie Vibes For Kids</a>
                             </li>
                             <li class="nav-item dropdown">
                                 <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Info<span class="dropdown-toggle"></span></a>
                                 <ul class="dropdown-menu">
                                     <li><a class="nav-link drop-2" href="/en/contact/">Contact</a></li>
-                                    <li><a class="nav-link drop-2" href="/en/info/about/">Over Ons</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/info/about/">About Us</a></li>
                                     <li><a class="nav-link drop-2" href="/en/crew">Crew</a></li>
-                                    <li><a class="nav-link drop-2" href="/en/info/we_support/">Wij Steunen</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/info/we_support/">We Support</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/en/news/">Nieuws</a>
+                                <a class="nav-link" href="/en/news/">News</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="/en/comin_up/">Comin' Up</a>
@@ -77,19 +78,16 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="/nl/info/partners/">Partners</a>
                             </li>
-                             <li class="nav-item">
-                                <a class="nav-link" href="#ShoppingCart"><i class="fas fa-shopping-cart"></i></a>
-                            </li>
                         </ul>
                         <span class="navbar-text">
                             <!-- This is the language selector. -->
                             <ul class="navbar-nav mr-auto">
                                 <li class="nav-item">
-                                    <a class="nav-link language text-white" href="#"><img src="/src/img/flags/blank.gif" class="flag flag-be" alt="Czech Republic" />
+                                    <a class="nav-link language text-muted" href="/nl/"><img alt="" src="/src/img/flags/blank.gif" class="flag flag-be" alt="Czech Republic" />
                                     </a>
                                 </li>
                                 <li class="nav-item active">
-                                    <a class="nav-link language text-muted" href="/en/location/"><img src="/src/img/flags/blank.gif" class="flag flag-gb" alt="Czech Republic" /><span class="sr-only">(current)</span></a>
+                                    <a class="nav-link language text-white" href="#"><img alt="" src="/src/img/flags/blank.gif" class="flag flag-gb" alt="Czech Republic" /><span class="sr-only">(current)</span></a>
                                 </li>
                             </ul>
                         </span>
@@ -97,25 +95,32 @@
                 </div>
             </nav>
         </header>
-        <!-- This is the main container that encapsulates everything content related. -->
-        <div id="location" class="container text-center content">
+        <div class="content container">
             <br/>
-            <h1 class="display-7 text-center">Locatie</h1>
-            <p>Koekelarestraat 16, 8610 Kortemark</p>
-            <br/>
-            <div class="map-responsive">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2508.7343491980173!2d3.030461763614443!3d51.039526990723125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47dcb4b9be4eaabf%3A0xf38c55cb0a10d2ff!2sKoekelarestraat+16%2C+8610+Kortemark!5e0!3m2!1snl!2sbe!4v1465242561126" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <div id="food-shops" class="container">
+                <h3  class="display-7 text-center">(non)Food Shops</h3> 
+                <p class="text-warning">Interested in advertising your (non) food truck/stand on our festival?</p>
+                <p><b>Don’t wait too long! Spaces are limited!</b></p>
+                More info at: <a href="mailto:shops@irievibes.be?Subject=Foodtruck%20Request" target="_top">shops@irievibes.be</a>.
+                <hr/>
+                <div class="row">
+                    <div class="col-md-6"><img alt="" class="img-fluid rounded" src="/src/img/static/foodstand/food%202.jpg"></div>
+                    <div class="col-md-6"><img alt="" class="img-fluid rounded" src="/src/img/static/foodstand/food%20stall.jpg"></div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6"><img alt="" class="img-fluid rounded" src="/src/img/static/foodstand/food.jpg"></div>
+                    <div class="col-md-6"><img alt="" class="img-fluid rounded" src="/src/img/static/foodstand/shop.jpg"></div>
+                </div>
             </div>
         </div>
-        <!-- Use a container to wrap the slider, the purpose is to enable slider to always fit width of the wrapper while window resize -->
         <footer class="footer">             <div class="container">                 <div class="row">                     <div class="col-md-3 text-center">                         <a href="/en/info/volunteers" class="btn btn-volunteer">Become Volunteer</a>                     </div>                     <div class="col-md-6 m-auto text-center d-none d-md-block"><p>Copyright &copy; - vzw GreenForward 2002-2019</p></div>                     <div class="col-md-3">                         <div id="btn-social" class="text-center">                             <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook-square fa-3x social"></i></a>                             <a href="https://www.instagram.com/irievibesroots/"><i class="fab fa-instagram fa-3x social"></i></a>                             <a href="/src/static/snapchat/"><i class="fab fa-snapchat-square fa-3x social"></i></a>                         </div>                     </div>                     <!-- Redundant for Mobile Compatibility-->                     <div class="col-md-6 text-center d-block d-md-none"><p>Copyright &copy; - vzw GreenForward 2002-2019</p></div>                 </div>             </div>         </footer>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-3 col-12 text-center">
-                        <a href="/en/info/volunteers" class="btn btn-volunteer">Word Vrijwilliger</a>
+                    <div class="col-md-2 text-center">
+                        <a href="/en/info/volunteers" class="btn btn-volunteer">Become Volunteer</a>
                     </div>
-                    <div class="col-md-6 col-12 text-center copyright-notice"><p>Copyright &copy; - vzw GreenForward 2002-2019</p></div>                 
-                    <div class="col-md-3 col-12">
+                    <div class="col-md-7 text-center"></div>
+                    <div class="col-md-3">
                         <div id="btn-social" class="text-center">
                             <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook-square fa-3x social"></i></a>
                             <a href="https://www.instagram.com/irievibesroots/"><i class="fab fa-instagram fa-3x social"></i></a>
@@ -129,5 +134,12 @@
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script> 
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    <!-- Clickable Divs -->
+    <script>
+        $(".link").click(function() {
+            window.location = $(this).find("a").attr("href");
+            return false;
+        });
+    </script>
 </html>

@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -26,7 +26,7 @@
             </div>
             <div class="accordion-group">
                 <div class="collapse show" id="day1" data-parent="#line-up">
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/kortemark_conge/core_lineup.php');?>
+                    <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/kortemark-conge/core_lineup.php');?>
                 </div>
                 <div class="collapse" id="day2" data-parent="#line-up">
                     <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/friday.php');?>

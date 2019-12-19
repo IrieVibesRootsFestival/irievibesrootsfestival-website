@@ -1,4 +1,4 @@
-<html>
+<html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -16,7 +16,7 @@
                 <button type="button" class="btn btn-sand text-white"><a href="#stage_tent_outside">Inner Circle</a></button> 
                 <button type="button" class="btn btn-warning text-white"><a href="#stage_kids">Little Lion</a></button>
             </div>
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/kortemark_conge/core_lineup.php');?>
+            <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/kortemark-conge/core_lineup.php');?>
         </div>
         <!-- Include Footer -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>        

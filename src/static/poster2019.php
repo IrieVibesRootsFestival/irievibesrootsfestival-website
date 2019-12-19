@@ -10,7 +10,7 @@
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container-fluid text-center img-container">
             <button onclick="window.history.go(-1); return false;" class="btn btn-irie top-left text-white px-1 rounded h2"><b>Go back</b></button>
-            <img class="img-fluid" src="/src/img/poster2019.jpg">
+            <img alt="" class="img-fluid" src="/src/img/poster2019.jpg">
         </div>
         <!-- Include Footer -->     
     </body>

@@ -3,7 +3,7 @@
     <div class="container pt-2">
         <div class="row">
             <div class="col-12 col-md-3 footer-brand animated fadeInLeft text-center">
-                <img src="/src/img/greenforward-large.webp" class="img-fluid p-3 rounded-circle" alt="Greenforward Logo">
+                <img alt="" src="/src/img/greenforward-large.webp" class="img-fluid p-3 rounded-circle" alt="Greenforward Logo">
             </div>
             <div class="col-12 col-md-6 footer-nav animated fadeInUp">
                 <h4>— Menu —</h4>
@@ -20,7 +20,7 @@
                             <li><a href="/en/info/partners/">Partners</a></li>
                             <li><a href="/en/contact/">Contact</a></li>
                             <li><a href="/en/info/about/">About US</a></li>
-                            <li><a href="/en/info/trooper/"><img src="https://trooper.be/Content/Assets/02401_favicon_trooper.png" style="margin-top:-6px;"> Trooper</a></li>
+                            <li><a href="/en/info/trooper/"><img alt="" src="https://trooper.be/Content/Assets/02401_favicon_trooper.png" style="margin-top:-6px;"> Trooper</a></li>
                         </ul>
                     </div>
                 </div>
@@ -35,21 +35,19 @@
                         <form action="https://irievibes.us8.list-manage.com/subscribe/post?u=d99c4a0da87cf14cbb7acb09c&amp;id=ec0420bb34" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                             <div id="mc_embed_signup_scroll">
                                 <div class="form-group w-100">
-                                <label class="sr-only" for="subscribe-email">Email address</label>
-                                <input type="text" value="" name="EMAIL" placeholder="Enter your email..." class="subscribe-email form-control required email" id="mce-EMAIL">
-                            </div>
-                                <div id="mce-responses" class="clear">
-                                    <div class="response" id="mce-error-response" style="display:block"></div>
-                                    <div class="response" id="mce-success-response" style="display:block"></div>
-                                </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_81c9b73355e0e402d5618756c_8b879d422a" tabindex="-1" value=""></div>
+                                    <label class="sr-only" for="subscribe-email">Email address</label>
+                                    <input type="text" value="" name="EMAIL" placeholder="Enter your email..." class="subscribe-email form-control required email" id="mce-EMAIL">
+                                </div>
+                                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                                    <input type="text" name="b_81c9b73355e0e402d5618756c_8b879d422a" tabindex="-1" value="">
+                                </div>
                                 <div class="text-center">
                                     <button type="submit" value="Subscribe"id="mc-embedded-subscribe"class="btn btn-volunteer mt-0"><a>Subscribe</a></button>
                                 </div>
                             </div>
                         </form>
                     </div>
-
                     <!--End mc_embed_signup-->
                 </span>
             </div>

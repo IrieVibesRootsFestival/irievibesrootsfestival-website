@@ -1,4 +1,4 @@
-<html>
+<html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -14,7 +14,7 @@
             <picture>
                 <source srcset="/src/img/crew-2019.webp" type="image/webp">
                 <source srcset="/src/img/crew-2019.jpg" type="image/jpeg">
-                <img class="img-fluid rounded" src="/src/img/crew-2019.jpg"/>
+                <img alt="" class="img-fluid rounded" src="/src/img/crew-2019.jpg"/>
             </picture>
         </div>
         <!-- Include Footer -->

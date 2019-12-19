@@ -18,7 +18,7 @@
             <!-- The header contains everything that displays as or above the nav-bar -->
             <!--HEADER IMAGE-->
             <div id="banner">
-                <img class="img-fluid" src="/src/img/banner_logo.png">
+                <img alt="" class="img-fluid" src="/src/img/banner_logo.png">
             </div>
             <!--NAVIGATION-->
             <nav id="navbar" class="navbar navbar-expand-lg">
@@ -27,7 +27,7 @@
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
-                    <a href="/en/"><img  src="/src/img/nav-img.png"></a>
+                    <a href="/en/"><img alt=""  src="/src/img/nav-img.png"></a>
                     <div class="collapse navbar-collapse" id="navbarText">
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item">
@@ -41,7 +41,7 @@
                                     <li><a class="nav-link drop-2" alt="Camping, parking and other places to stay" href="/en//festival/accomodation/">Accomodation</a></li>
                                     <li><a class="nav-link drop-2" href="/en/festival/merchandise/">Merchandise</a></li>
                                     <li><a class="nav-link drop-2" href="/en/info/volunteers/">Volunteers</a></li>
-                                    <li><a class="nav-link drop-2" href="/en/festival/food_shops/">(non)Food Shops</a></li>
+                                    <li><a class="nav-link drop-2" href="/en/festival/food-shops/">(non)Food Shops</a></li>
                                     <li><a class="nav-link drop-2" href="/en/festival/transport/">Transport</a></li>
                                     <li><a class="nav-link drop-2" href="/en/festival/safety/">Safety First</a></li>  
                                 </ul>
@@ -83,11 +83,11 @@
                             <!-- This is the language selector. -->
                             <ul class="navbar-nav mr-auto">
                                 <li class="nav-item">
-                                    <a class="nav-link language text-muted" href="/nl/"><img src="/src/img/flags/blank.gif" class="flag flag-be" alt="Czech Republic" />
+                                    <a class="nav-link language text-muted" href="/nl/"><img alt="" src="/src/img/flags/blank.gif" class="flag flag-be" alt="Czech Republic" />
                                     </a>
                                 </li>
                                 <li class="nav-item active">
-                                    <a class="nav-link language text-white" href="#"><img src="/src/img/flags/blank.gif" class="flag flag-gb" alt="Czech Republic" /><span class="sr-only">(current)</span></a>
+                                    <a class="nav-link language text-white" href="#"><img alt="" src="/src/img/flags/blank.gif" class="flag flag-gb" alt="Czech Republic" /><span class="sr-only">(current)</span></a>
                                 </li>
                             </ul>
                         </span>
@@ -97,7 +97,7 @@
         </header>
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container text-center">
-            <img src="/src/img/irievibesroots_snapcode.png" class="img-fluid">
+            <img alt="" src="/src/img/irievibesroots_snapcode.png" class="img-fluid">
         </div>
         <footer>   
             <div class="container">

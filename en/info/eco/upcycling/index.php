@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -27,7 +27,7 @@
                     <picture>
                         <source srcset="/src/img/eco/upcycling/upcycling-3.webp" type="image/webp">
                         <source srcset="/src/img/eco/upcycling/upcycling-3.jpg" type="image/jpeg">
-                        <img class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-3.jpg"/>
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-3.jpg"/>
                     </picture>
                 </div>
                 <div class="row">
@@ -35,42 +35,42 @@
                         <picture>
                             <source srcset="/src/img/eco/upcycling/upcycling-0.webp" type="image/webp">
                             <source srcset="/src/img/eco/upcycling/upcycling-0.jpg" type="image/jpeg">
-                            <img class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-0.jpg"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-0.jpg"/>
                         </picture>
                     </div>
                     <div class="col-12 col-md-4 mb-2">
                         <picture>
                             <source srcset="/src/img/eco/upcycling/upcycling-1.webp" type="image/webp">
                             <source srcset="/src/img/eco/upcycling/upcycling-1.jpg" type="image/jpeg">
-                            <img class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-1.jpg"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-1.jpg"/>
                         </picture>
                     </div>
                     <div class="col-12 col-md-4 mb-2">
                         <picture>
                             <source srcset="/src/img/eco/upcycling/upcycling-2.webp" type="image/webp">
                             <source srcset="/src/img/eco/upcycling/upcycling-2.jpg" type="image/jpeg">
-                            <img class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-2.jpg"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-2.jpg"/>
                         </picture>
                     </div>
                     <div class="col-12 col-md-4 mb-2">
                         <picture>
                             <source srcset="/src/img/eco/upcycling/upcycling-4.webp" type="image/webp">
                             <source srcset="/src/img/eco/upcycling/upcycling-4.jpg" type="image/jpeg">
-                            <img class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-4.jpg"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-4.jpg"/>
                         </picture>
                     </div>
                     <div class="col-12 col-md-4 mb-2">
                         <picture>
                             <source srcset="/src/img/eco/upcycling/upcycling-5.webp" type="image/webp">
                             <source srcset="/src/img/eco/upcycling/upcycling-5.jpg" type="image/jpeg">
-                            <img class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-5.jpg"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-5.jpg"/>
                         </picture>
                     </div>
                     <div class="col-12 col-md-4 mb-2">
                         <picture>
                             <source srcset="/src/img/eco/upcycling/upcycling-6.webp" type="image/webp">
                             <source srcset="/src/img/eco/upcycling/upcycling-6.jpg" type="image/jpeg">
-                            <img class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-6.jpg"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/eco/upcycling/upcycling-6.jpg"/>
                         </picture>  
                     </div>
                 </div>

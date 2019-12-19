@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -15,10 +15,10 @@
             More info at: <a href="mailto:shops@irievibes.be?Subject=Foodtruck%20Request" target="_top">shops@irievibes.be</a>.
             <hr/>
             <div class="row">
-                <div class="col-md-6"><img class="img-fluid rounded" src="/src/img/static/foodstand/food%202.jpg"></div>
-                <div class="col-md-6"><img class="img-fluid rounded" src="/src/img/static/foodstand/food%20stall.jpg"></div>
-                <div class="col-md-6"><img class="img-fluid rounded" src="/src/img/static/foodstand/food.jpg"></div>
-                <div class="col-md-6"><img class="img-fluid rounded" src="/src/img/static/foodstand/shop.jpg"></div>
+                <div class="col-md-6"><img alt="" class="img-fluid rounded" src="/src/img/static/foodstand/food%202.jpg"></div>
+                <div class="col-md-6"><img alt="" class="img-fluid rounded" src="/src/img/static/foodstand/food%20stall.jpg"></div>
+                <div class="col-md-6"><img alt="" class="img-fluid rounded" src="/src/img/static/foodstand/food.jpg"></div>
+                <div class="col-md-6"><img alt="" class="img-fluid rounded" src="/src/img/static/foodstand/shop.jpg"></div>
             </div>
         </div>
         <!-- Include Footer -->

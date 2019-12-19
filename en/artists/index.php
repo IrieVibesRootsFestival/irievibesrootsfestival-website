@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -26,13 +26,13 @@
                     <div class=" row text-white pt-3">
                         <span id="greenbeatzzz-winner" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/dj-anonymize.jpg" alt="DJ Anonymize"/>
-                            <img class="img-fluid rounded mt-2" src="/src/img/artists/dj-d-mole.jpg" alt="DJ D-Mole"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/dj-anonymize.jpg" alt="DJ Anonymize"/>
+                            <img alt="" class="img-fluid rounded mt-2" src="/src/img/artists/dj-d-mole.jpg" alt="DJ D-Mole"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Greenbeatzzz DJ Contest Winners</h2>
                             <h4>DJ Anonymize & D-Mole</h4>
-                            <p>DJ Anonymize vs D-Mole were neck to neck at the Greenbeatzzz DJ Contest. They will be opening Irie Vibes Roots Festival on <a href="/en/festival/kortemark_conge/" class="text-light">Kortemark Congé</a>. Who's your favourite?</p>
+                            <p>DJ Anonymize vs D-Mole were neck to neck at the Greenbeatzzz DJ Contest. They will be opening Irie Vibes Roots Festival on <a href="/en/festival/kortemark-conge/" class="text-light">Kortemark Congé</a>. Who's your favourite?</p>
                         </div>
                     </div>
                     <!-- End artist block -->
@@ -40,7 +40,7 @@
                     <div class="row text-white">
                         <span id="wicked-didgeridoo" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/tijslogic.jpg" alt="Tijs Logic"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/tijslogic.jpg" alt="Tijs Logic"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Tijs Logic & African Drums Man</h2>
@@ -52,7 +52,7 @@
                     <div class="row text-white">
                         <span id="the-delta-drones" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/deltadrones.jpg" alt="The Delta Drones"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/deltadrones.jpg" alt="The Delta Drones"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>The Delta Drones</h2>
@@ -64,7 +64,7 @@
                     <div class="row text-white">
                         <span id="dj-bobalicious" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/bobalicious.jpg" alt="The Delta Drones"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/bobalicious.jpg" alt="The Delta Drones"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>DJ Bobalicious</h2>
@@ -76,8 +76,8 @@
                     <div class=" row text-white pt-3">
                         <span id="dub-up-hifi" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/dubup_hifi.jpg" alt="Dub-Up Hifi"/>
-                            <img class="img-fluid rounded mt-2" src="/src/img/artists/saimn-i.jpg" alt="Saimn I"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/dubup_hifi.jpg" alt="Dub-Up Hifi"/>
+                            <img alt="" class="img-fluid rounded mt-2" src="/src/img/artists/saimn-i.jpg" alt="Saimn I"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Dub-Up Hifi ft. Saimn I</h2>
@@ -94,8 +94,8 @@
                         <span id="satta-sound" class="anchor-link"></span>
                         <span id="babbajah" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/sattasound.jpg" alt="Satta Sound"/>
-                            <img class="img-fluid rounded mt-2" src="/src/img/artists/babbajah.jpg" alt="Babbajah"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/sattasound.jpg" alt="Satta Sound"/>
+                            <img alt="" class="img-fluid rounded mt-2" src="/src/img/artists/babbajah.jpg" alt="Babbajah"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Satta Sound ft. Babbajah</h2>
@@ -115,8 +115,8 @@
                         <span id="salomon-heritage" class="anchor-link"></span>
                         <span id="i-jah-solomon" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/salomonheritage.jpg" alt="Salomon Heritage"/>
-                            <img class="img-fluid rounded mt-2" src="/src/img/artists/i-jah-solomon.jpg" alt="I Jah Solomon"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/salomonheritage.jpg" alt="Salomon Heritage"/>
+                            <img alt="" class="img-fluid rounded mt-2" src="/src/img/artists/i-jah-solomon.jpg" alt="I Jah Solomon"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Salomon Heritage ft. I Jah Solomon</h2>
@@ -129,7 +129,7 @@
                     <div class=" row text-white pt-3">
                         <span id="sunny-after-moon" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/sunny-after-moon.jpg" alt="Sunny After Moon"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/sunny-after-moon.jpg" alt="Sunny After Moon"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Sunny After Moon</h2>
@@ -141,8 +141,8 @@
                     <div class=" row text-white pt-3">
                         <span id="donovan-kingjay" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/donovan-kingjay.jpg" alt="Donovan Kingjay"/>
-                            <img class="img-fluid rounded mt-2" src="/src/img/artists/rootz-lions.jpg" alt="The Rootz Lions"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/donovan-kingjay.jpg" alt="Donovan Kingjay"/>
+                            <img alt="" class="img-fluid rounded mt-2" src="/src/img/artists/rootz-lions.jpg" alt="The Rootz Lions"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Donovan Kingjay</h2>
@@ -158,7 +158,7 @@
                     <div class=" row text-white pt-3">
                         <span id="new-kingston" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/new-kingston.jpg" alt="New Kingston"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/new-kingston.jpg" alt="New Kingston"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>New Kingston</h2>
@@ -171,8 +171,8 @@
                         <span id="uwe-banton" class="anchor-link"></span>
                         <span id="toughcutt-band" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/uwe-banton.jpg" alt="Uwe Banton"/>                            
-                            <img class="img-fluid rounded mt-2" src="/src/img/artists/toughcutt-band.jpg" alt="Toughcutt Band"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/uwe-banton.jpg" alt="Uwe Banton"/>                            
+                            <img alt="" class="img-fluid rounded mt-2" src="/src/img/artists/toughcutt-band.jpg" alt="Toughcutt Band"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Uwe Banton & the Toughcutt Band</h2>
@@ -187,7 +187,7 @@
                     <div class=" row text-white pt-3">
                         <span id="jahmbassador" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/jahmbassador.jpg" alt="Jahmbassador"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/jahmbassador.jpg" alt="Jahmbassador"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Jahmbassador</h2>
@@ -203,7 +203,7 @@
                     <div class=" row text-white pt-3">
                         <span id="bangarang-soundstation" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/bangarang_soundstation.jpg" alt="Bangarang Soundstation"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/bangarang_soundstation.jpg" alt="Bangarang Soundstation"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Bangarang Soundstation</h2>
@@ -215,7 +215,7 @@
                     <div class=" row text-white pt-3">
                         <span id="mirom-compostmobiel" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/compostmobiel.jpg" alt="Mirom Compostmobiel"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/compostmobiel.jpg" alt="Mirom Compostmobiel"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Mirom Compostmobiel</h2>
@@ -227,7 +227,7 @@
                     <div class=" row text-white pt-3">
                         <span id="bee-and-health" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/bee-health.png" alt="Bee & Health"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/bee-health.png" alt="Bee & Health"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Bee & Health</h2>
@@ -243,7 +243,7 @@
                     <div class=" row text-white pt-3">
                         <span id="hermes-sanctorum" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/hermessanctorum.jpg" alt="Hermes Sanctorum"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/hermessanctorum.jpg" alt="Hermes Sanctorum"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Hermes Sanctorum</h2>
@@ -255,7 +255,7 @@
                     <div class=" row text-white pt-3">
                         <span id="bijgekruid" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/bijgekruid.jpg" alt="Workshop Bijgekruid"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/bijgekruid.jpg" alt="Workshop Bijgekruid"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Bijgekruid</h2><small>(workshop)</small>
@@ -267,7 +267,7 @@
                     <div class=" row text-white pt-3">
                         <span id="stephanie-de-caluwe" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/stephaniedecaluwe.jpg" alt="Stepanie De Caluwe"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/stephaniedecaluwe.jpg" alt="Stepanie De Caluwe"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Stéphanie De Caluwé</h2><small>(workshop)</small>
@@ -279,7 +279,7 @@
                     <div class=" row text-white pt-3">
                         <span id="fishermen-sound" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/fishermen-sound.jpg" alt="Fishermen Sound"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/fishermen-sound.jpg" alt="Fishermen Sound"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Fishermen Sound</h2>
@@ -292,7 +292,7 @@
                     <div class=" row text-white pt-3">
                         <span id="forward-fever" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/forward-fever.jpg" alt="Forward Fever"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/forward-fever.jpg" alt="Forward Fever"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Forward Fever</h2>
@@ -305,7 +305,7 @@
                     <div class=" row text-white pt-3">
                         <span id="earthworks" class="anchor-link"></span>
                         <div class="col-12 col-md-3">
-                            <img class="img-fluid rounded" src="/src/img/artists/earthworks.jpg" alt="Earthworks"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/artists/earthworks.jpg" alt="Earthworks"/>
                         </div>
                         <div class="col-12 col-md-9">
                             <h2>Earthworks</h2>

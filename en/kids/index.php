@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -13,10 +13,10 @@
         <div class="container content">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <img src="/src/img/little-lion-banner.png" class="img-fluid w-50 mb-3 d-none d-md-inline">
-                        <img src="/src/img/little-lion-banner.png" class="img-fluid mb-3 d-inline d-md-none">
+                        <img alt="" src="/src/img/little-lion-banner.png" class="img-fluid w-50 mb-3 d-none d-md-inline">
+                        <img alt="" src="/src/img/little-lion-banner.png" class="img-fluid mb-3 d-inline d-md-none">
                     </div>
-                    <div class="col-12 col-sm-4"><img src="/src/img/kinderdorp/kinderdorp_1.jpg" class="img-fluid rounded"/></div>
+                    <div class="col-12 col-sm-4"><img alt="" src="/src/img/kinderdorp/kinderdorp_1.jpg" class="img-fluid rounded"/></div>
                     <div class="col-12 col-sm-8 pt-2 p-md-3">
                         <p>In the center of the festival site, children can enter the magical world of the Kid’s Village, where a world filled with surprises, arts and fun is waiting to be discovered. For the toddlers or parents with babies, there is a designated safe and quiet area.</p>
                         <p><i>During the festival, children can make jewelry from recyclable masterials or experiment with all kinds of crazy hairstyles created at the caravan.</i></p>
@@ -25,8 +25,8 @@
                         <p>At the entry of the festival, writable wristbands for your kids can be obtained. These can be used to write down your phone number, must there be an emergency where your child gets lost and finds itself with someone else.</p>
                         <p>The <b>CSP</b> (Central Safety Point) has specialized kids’ hearing protection. The warranty on the protective headphones is €20. Sunscreen and free water are available with hot weather</p>
                     </div>
-                    <div class="col-12 col-sm-4"><img src="/src/img/kinderdorp/kinderdorp_2.jpg" class="img-fluid rounded"/></div>
-                    <div class="col-12 col-sm-4"><img src="/src/img/kinderdorp/kinderdorp_3.jpg" class="img-fluid rounded mt-3 mt-md-0"/></div>
+                    <div class="col-12 col-sm-4"><img alt="" src="/src/img/kinderdorp/kinderdorp_2.jpg" class="img-fluid rounded"/></div>
+                    <div class="col-12 col-sm-4"><img alt="" src="/src/img/kinderdorp/kinderdorp_3.jpg" class="img-fluid rounded mt-3 mt-md-0"/></div>
                     <div class="col-12 col-sm-8 pt-2 p-md-3">
                         <p>Kids younger than 14 can enter the festival at no cost. The Kids’ Village is open to all children younger than 12. The Kids’ Village closes at 10 pm.</p>
                         <p><i>On Thursday, there is a special programme for the children in the Kid’s Village. You can find the programme <a href="/en/lineup/">here</a>.</i></p>
@@ -34,7 +34,7 @@
                     <div class="col-12 col-md-7">
                         <div class="row">
                             <div class="col-12 col-md-6">
-                                <img src="/src/img/kinderdorp/fedasil.jpg" class="img-fluid rounded mt-md-3">
+                                <img alt="" src="/src/img/kinderdorp/fedasil.jpg" class="img-fluid rounded mt-md-3">
                             </div>
                             <div class="col-12 col-md-6 pt-2 p-md-3">
                                 <p>Vzw Greenforward has created a cooperation with Fedasil. This gives the opportunity to a select group of refugees from the Poelkapelle Refugee Camp to help us out at the Kids’ Village during the entirety of the festival.</p>

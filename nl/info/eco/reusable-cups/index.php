@@ -1,4 +1,4 @@
-<html>
+<html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -25,7 +25,7 @@
                 <picture>
                     <source srcset="/src/img/eco/reusable-cups/cups-main.webp" type="image/webp">
                     <source srcset="/src/img/eco/reusable-cups/cups-main.jpg" type="image/jpeg">
-                    <img class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-main.jpg"/>
+                    <img alt="" class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-main.jpg"/>
                 </picture>
                 <small>onze eigen beker met logo</small>
             </div>
@@ -36,14 +36,14 @@
                 <picture>
                     <source srcset="/src/img/eco/reusable-cups/cups-0.webp" type="image/webp">
                     <source srcset="/src/img/eco/reusable-cups/cups-0.jpg" type="image/jpeg">
-                    <img class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-0.jpg"/>
+                    <img alt="" class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-0.jpg"/>
                 </picture>
             </div>
             <div class="col-12 col-md-6 p-1">
                 <picture>
                     <source srcset="/src/img/eco/reusable-cups/cups-1.webp" type="image/webp">
                     <source srcset="/src/img/eco/reusable-cups/cups-1.jpg" type="image/jpeg">
-                    <img class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-1.jpg"/>
+                    <img alt="" class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-1.jpg"/>
                 </picture>
             </div>
         </div>

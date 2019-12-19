@@ -1,4 +1,4 @@
-<html>
+<html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -13,7 +13,7 @@
             <h1 class="display-7 text-center">Irie Vibes pour enfants</h1>
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-sm-4"><img src="/src/img/kinderdorp/kinderdorp_1.jpg" class="img-fluid rounded"/></div>
+                    <div class="col-12 col-sm-4"><img alt="" src="/src/img/kinderdorp/kinderdorp_1.jpg" class="img-fluid rounded"/></div>
                     <div class="col-12 col-sm-8 pt-2 p-md-3">
                         <p>Au coeur du terrain de festival, les enfants peuvent entrer le monde magique du village d’enfants, où un monde de surprises et de plaisir leur attend. Pour les plus petits, ou pour les parents avec des nourissons, nous offrons un lieu sûr et tranquille.</p>
                         <p><i>Au cours du festival, les enfants peuvent faire des bijoux à base de matériaux recycles, ou ils peuvent s’amuser avec les différents coupes de cheveux que nous offrons dans la caravane.</i></p>
@@ -22,16 +22,16 @@
                         <p>A l’entrée du festival, vous pouvez obtenir des bracelets pour vos enfants, sur lesquels ils peuvent écrire et dessiner. Vous pouvez également y écrire votre numéro de telephone, et vos coordonnées, au cas où une situation d’urgence se présenterait.</p>
                         <p>Le <b>CSP (Point de sécurité central)</b> offer des oreillettes spécifiques pour les enfants. On demande une garantie de 20 euros. La crème solaire et l’eau seront gratuites en cas de beau temps.</p>
                     </div>
-                    <div class="col-12 col-sm-4"><img src="/src/img/kinderdorp/kinderdorp_2.jpg" class="img-fluid rounded"/></div>
-                    <div class="col-12 col-sm-4"><img src="/src/img/kinderdorp/kinderdorp_3.jpg" class="img-fluid rounded mt-3 mt-md-0"/></div>
+                    <div class="col-12 col-sm-4"><img alt="" src="/src/img/kinderdorp/kinderdorp_2.jpg" class="img-fluid rounded"/></div>
+                    <div class="col-12 col-sm-4"><img alt="" src="/src/img/kinderdorp/kinderdorp_3.jpg" class="img-fluid rounded mt-3 mt-md-0"/></div>
                     <div class="col-12 col-sm-8 pt-2 p-md-3">
                         <p>A moins de 14 ans, les enfants peuvent entrer le festival gratuitement. Le village enfants sera ouvert à tous les enfants de moins de 12 ans. Le village fermera à 22 heures.</p>
-                        <p><i>Le jeudi, un programme spécial est proposé aux enfants du Kid’s Village. Vous pouvez trouver le programme <a href="/fr/lineup/kortemark_conge/">ici</a>.</i></p>
+                        <p><i>Le jeudi, un programme spécial est proposé aux enfants du Kid’s Village. Vous pouvez trouver le programme <a href="/fr/lineup/kortemark-conge/">ici</a>.</i></p>
                     </div>
                     <div class="col-12 col-md-7">
                         <div class="row">
                             <div class="col-12 col-md-6">
-                                <img src="/src/img/kinderdorp/fedasil.jpg" class="img-fluid rounded mt-md-3">
+                                <img alt="" src="/src/img/kinderdorp/fedasil.jpg" class="img-fluid rounded mt-md-3">
                             </div>
                             <div class="col-12 col-md-6 pt-2 p-md-3">
                                 <p>Le vzw Greenforward a créé une cooperation avec Fedasil. Cela donne l’opportunité à un groupe de réfugiéq d’aider au festival, et avec le village d’enfants.</p>

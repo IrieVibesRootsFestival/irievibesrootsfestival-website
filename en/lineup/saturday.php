@@ -6,21 +6,21 @@
             <div class="col-6">
                 <div class="text-white bg-dark px-1 rounded h4">14:00</div>
                 <div class="img-fluid">    
-                    <img class="img-fluid rounded" src="/src/img/artists/sunny-after-moon.jpg"> 
+                    <img alt="" class="img-fluid rounded" src="/src/img/artists/sunny-after-moon.jpg"> 
                 </div>
                 <a class="d-block text-center pt-2" href="https://www.facebook.com/sunnyaftermoon/">Sunny After Moon</a>
             </div>
             <div class="col-6">
                 <div class="text-white bg-dark px-1 rounded h4">16:15</div>
                 <div class="img-fluid img-container">
-                    <img class="img-fluid rounded" src="/src/img/artists/donovan-kingjay.jpg"> 
+                    <img alt="" class="img-fluid rounded" src="/src/img/artists/donovan-kingjay.jpg"> 
                 </div>
                 <a class="d-block text-center pt-2" href="http://donovankingjay.com/">Donovan Kingjay</a>
             </div>
             <div class="col-6">
                 <div class="text-white bg-dark px-1 rounded h4">19:00</div>
                 <div class="img-fluid img-container">
-                    <img class="img-fluid rounded" src="/src/img/artists/new-kingston.jpg"> 
+                    <img alt="" class="img-fluid rounded" src="/src/img/artists/new-kingston.jpg"> 
                 </div>
                 <a class="d-block text-center pt-2" href="http://newkingstonmusic.com/">New Kingston</a>
             </div>
@@ -29,13 +29,13 @@
                 <div class="col-12 px-0"><div class="text-white bg-dark px-1 h4">22:00</div></div>
                 <div class="col-6">
                     <div class="img-fluid img-container">
-                        <img class="img-fluid rounded" src="/src/img/artists/uwe-banton.jpg"> 
+                        <img alt="" class="img-fluid rounded" src="/src/img/artists/uwe-banton.jpg"> 
                     </div>
                     <a class="d-block text-center pt-2" href="http://www.uwebanton.com/">Uwe Banton <small class="text-danger"></small></a>
                 </div>
                 <div class="col-6">
                     <div class="img-fluid img-container">
-                        <img class="img-fluid rounded" src="/src/img/artists/toughcutt-band.jpg"> 
+                        <img alt="" class="img-fluid rounded" src="/src/img/artists/toughcutt-band.jpg"> 
                     </div>
                     <a class="d-block text-center pt-2" href="https://www.facebook.com/ToughCutt-Band-520781848077575/">Toughcutt Band<small class="text-danger"></small></a>
                 </div>
@@ -44,7 +44,7 @@
             <div class="col-6">
                 <div class="text-white bg-dark px-1 rounded h4">23:30</div>
                 <div class="img-fluid img-container">
-                    <img class="img-fluid rounded" src="/src/img/artists/jahmbassador.jpg"> 
+                    <img alt="" class="img-fluid rounded" src="/src/img/artists/jahmbassador.jpg"> 
                 </div>
                 <a class="d-block text-center pt-2" href="https://www.jahmbassador.be/events/detail/irie-vibes">Jahmbassador</a>
             </div>
@@ -67,27 +67,27 @@
                 <div class="col-6">
                     <div class="text-white bg-dark px-1 rounded h4">12:00</div>
                     <div class="img-fluid img-container">
-                        <img class="img-fluid rounded" src="/src/img/artists/sattasound-babbajah.jpg"></div>
+                        <img alt="" class="img-fluid rounded" src="/src/img/artists/sattasound-babbajah.jpg"></div>
                     <a class="d-block text-center pt-2" href="https://www.facebook.com/sattasoundsystem/">Satta Sound ft. Babbajah</a>
                 </div>
                 <div class="col-6">
                     <div class="text-white bg-dark px-1 rounded h4">15:00</div>
                     <div class="img-fluid img-container">
-                        <img class="img-fluid rounded" src="/src/img/artists/fishermen-sound.jpg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/artists/fishermen-sound.jpg">
                     </div>
                     <a class="d-block text-center pt-2" href="https://www.facebook.com/FisherMenDub/">Fishermen Sound</a>
                 </div>
                 <div class="col-6">
                     <div class="text-white bg-dark px-1 rounded h4">17:15</div>
                     <div class="img-fluid img-container">
-                        <img class="img-fluid rounded" src="/src/img/artists/forward-fever.jpg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/artists/forward-fever.jpg">
                     </div>
                     <a class="d-block text-center pt-2" href="https://www.facebook.com/forward.fever/">Forward Fever</a>
                 </div>
                 <div class="col-6">
                     <div class="text-white bg-dark px-1 rounded h4">20:00</div>
                     <div class="img-fluid img-container">
-                        <img class="img-fluid rounded" src="/src/img/artists/earthworks.jpg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/artists/earthworks.jpg">
                     </div>
                     <a class="d-block text-center pt-2" href="https://www.earthworksamsterdam.com/">Earthworks</a>
                 </div>
@@ -100,13 +100,13 @@
                 <div class="col-12"><div class="text-white bg-dark p-1 rounded h4">Continuous</div></div>
                 <div class="col-6">
                     <div class="img-fluid img-container">
-                        <img class="img-fluid rounded" src="/src/img/artists/funny_haircuts.jpg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/artists/funny_haircuts.jpg">
                     </div>
                     <a class="d-block pt-2" href="">Crazy Hairstyles</a>
                 </div>
                 <div class="col-6">
                     <div class="img-fluid img-container">
-                        <img class="img-fluid rounded" src="/src/img/artists/making_jewelry.jpg"> 
+                        <img alt="" class="img-fluid rounded" src="/src/img/artists/making_jewelry.jpg"> 
                     </div>
                     <a class="d-block pt-2" href="">Making Jewelry</a>                
                 </div>

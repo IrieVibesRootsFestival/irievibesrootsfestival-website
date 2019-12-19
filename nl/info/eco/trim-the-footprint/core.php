@@ -4,7 +4,7 @@
         <h3 class="text-irie text-uppercase "><b>Voorwoord</b></h3>
         <picture>
             <source srcset="/src/img/eco/trim-the-footprint/trimthefootprint.png" type="image/png">
-            <img class="img-fluid rounded float-right w-25" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" alt="TTF Logo">
+            <img alt="" class="img-fluid rounded float-right w-25" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" alt="TTF Logo">
         </picture>
         <p>
             Klimaatverandering vereist oplossingen op (inter)nationaal, lokaal en persoonlijk niveau … Maar om echt een impact te hebben, is het wereldwijd belangrijk om het economische en sociale model te veranderen. Om dit te bereiken, moeten we samenwerken buiten onze eigen cirkel, beyond borders.
@@ -243,21 +243,21 @@
                         <picture>
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-1.webp" type="image/webp">
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-1.jpg" type="image/jpeg">
-                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-1.jpg"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-1.jpg"/>
                         </picture>
                     </div>
                     <div class="col">
                         <picture>
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-2.webp" type="image/webp">
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-2.jpg" type="image/jpeg">
-                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-2.jpg"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-2.jpg"/>
                         </picture>
                     </div>
                     <div class="col">
                         <picture>
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-3.webp" type="image/webp">
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-3.jpg" type="image/jpeg">
-                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-3.jpg"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-3.jpg"/>
                         </picture>
                     </div>
                 </div>
@@ -267,21 +267,21 @@
                         <picture>
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-4.webp" type="image/webp">
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-4.jpg" type="image/jpeg">
-                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-4.jpg"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-4.jpg"/>
                         </picture>
                     </div>
                     <div class="col">
                         <picture>
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-5.webp" type="image/webp">
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-5.jpg" type="image/jpeg">
-                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-5.jpg"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-5.jpg"/>
                         </picture>
                     </div>
                     <div class="col">
                         <picture>
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-6.webp" type="image/webp">
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-6.jpg" type="image/jpeg">
-                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-6.jpg"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-6.jpg"/>
                         </picture>
                     </div>
                 </div>
@@ -296,14 +296,14 @@
                         <picture>
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-7.webp" type="image/webp">
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-7.jpg" type="image/jpeg">
-                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-7.jpg"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-7.jpg"/>
                         </picture>
                     </div>
                     <div class="col">
                         <picture>
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-6.webp" type="image/webp">
                             <source srcset="/src/img/eco/trim-the-footprint/tanzania/tanzania-8.jpg" type="image/jpeg">
-                            <img class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-8.jpg"/>
+                            <img alt="" class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/tanzania/tanzania-8.jpg"/>
                         </picture>
                     </div>
                 </div>
@@ -316,14 +316,14 @@
                 <picture>
                     <source srcset="/src/img/eco/trim-the-footprint/weedo-logo.webp" type="image/webp">
                     <source srcset="/src/img/eco/trim-the-footprint/weedo-logo.jpg" type="image/jpeg">
-                    <img class="img-fluid rounded-circle w-50" src="/src/img/eco/trim-the-footprint/weedo-logo.jpg" alt="Weedo Logo">
+                    <img alt="" class="img-fluid rounded-circle w-50" src="/src/img/eco/trim-the-footprint/weedo-logo.jpg" alt="Weedo Logo">
                 </picture>
             </div>
             <div class="col-6 mt-2 text-center">
                 <picture>
                     <source srcset="/src/img/greenforward-large.webp" type="image/webp">
                     <source srcset="/src/img/greenforward-large.png" type="image/png">
-                    <img class="img-fluid rounded-circle w-50" src="/src/img/greenforward-large.png" alt="GreenForward Logo">
+                    <img alt="" class="img-fluid rounded-circle w-50" src="/src/img/greenforward-large.png" alt="GreenForward Logo">
                 </picture>
             </div>
         </div>
