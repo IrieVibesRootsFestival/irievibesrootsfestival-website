@@ -1,6 +1,6 @@
 <html>
     <head>
-        
+        <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Page not found - Irie Vibes</title>
         <meta property="og:title" content="About Irie Vibes" />
