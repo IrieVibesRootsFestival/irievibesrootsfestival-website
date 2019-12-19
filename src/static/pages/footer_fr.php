@@ -1,4 +1,4 @@
-<!----------- Footer ------------>
+<!--Footer-->
 <footer id="footer-anchor">   
     <div class="container pt-2">
         <div class="row">
