@@ -4,7 +4,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Trim The Footprint - Irie Vibes</title>
         <meta property="og:title" content="Trim The Footprint"/>
-        <meta property="og:description" content="What is Trim The Footprint all about?" />
+        <meta property="og:description" content="Trim The Footprint is Greenforward's project towards educating groups about a greener world. Learn more about what we do on our Trim The Footprint pages." />
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
