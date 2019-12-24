@@ -1,4 +1,5 @@
-<html lang="en"><!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
