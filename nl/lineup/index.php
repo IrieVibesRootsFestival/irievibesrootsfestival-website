@@ -21,13 +21,28 @@
                         </div>
                     </div>
                     <a id="lineup-thursday"/>
-                    <h3 class="text-irie"><b>Donderdag (Kortemark Congé) <a href="/nl/lineup/kortemark-conge/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i></a></b></h3>
+                    <h3 class="text-irie">
+                        <b>Donderdag (Kortemark Congé) </b>
+                        <a href="/nl/lineup/kortemark-conge/">
+                            <b><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i></b>
+                        </a>
+                    </h3>
                     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/lineup/kortemark-conge.php');?>
                     <a id="lineup-friday"/>
-                   <h3 class="text-irie"><b>Vrijdag <a href="/nl/lineup/friday/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i></a></b></h3>
+                    <h3 class="text-irie">
+                        <b>Vrijdag </b>
+                        <a href="/nl/lineup/friday/">
+                            <b><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i></b>
+                        </a>
+                    </h3>
                     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/lineup/friday.php');?>
                     <a id="lineup-saturday"/>
-                  <h3 class="text-irie"><b>Zaterdag <a href="/nl/lineup/saturday/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i></a></b></h3>
+                    <h3 class="text-irie">
+                        <b>Zaterdag </b>
+                        <a href="/nl/lineup/saturday/">
+                            <b><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i></b>
+                        </a>
+                    </h3>
                     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/lineup/saturday.php');?>
                 </div>
             </div>
