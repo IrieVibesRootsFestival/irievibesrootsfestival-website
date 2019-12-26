@@ -16,7 +16,7 @@
                     <div class="text-center">
                         <div>
                             <a href="#lineup-thursday"><button class="btn btn-irie"><p>Donderdag</p></button></a>
-                            <a href="#lineup-friday"><button class="btn btn-irie"><p>Vrijdag/p></button></a>
+                            <a href="#lineup-friday"><button class="btn btn-irie"><p>Vrijdag</p></button></a>
                             <a href="#lineup-saturday"><button class="btn btn-irie"><p>Zaterdag</p></button></a>
                         </div>
                     </div>
