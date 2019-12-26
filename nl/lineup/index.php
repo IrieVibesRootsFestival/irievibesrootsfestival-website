@@ -16,8 +16,8 @@
                     <div class="text-box-2 rounded p-2 sticky-top mt-1">
                         <div class="btn-group-vertical d-flex text-box">
                             <a class="btn" href="#lineup-thursday"><p>Donderdag</p></a>
-                            <button class="btn"><a href="#lineup-friday"><p>Vrijdag</p></a></button>
-                            <button class="btn"><a href="#lineup-saturday"><p>Zaterdag</p></a></button>
+                            <a class="btn" href="#lineup-friday"><p>Vrijdag</p></a>
+                            <a class="btn" href="#lineup-saturday"><p>Zaterdag</p></a>
                         </div>
                     </div>
                 </div>
