@@ -12,8 +12,8 @@ body{
     letter-spacing: -0.042rem;
 }
 
-h1, h2, h3, h4, h5, h6{font-family: 'Dosis';}
-.h1, .h2, .h3, .h4, .h5, .h6{font-family: 'Dosis';}
+h1, h2, h3, h4, h5, h6{font-family: 'Dosis'; letter-spacing: 0.2px;}
+.h1, .h2, .h3, .h4, .h5, .h6{font-family: 'Dosis'; letter-spacing: 0.2px;}
 
 /*--Link styling--*/
 a{color: #8e142f; font-style:italic; font-family: 'Roboto Mono', monospace;}
