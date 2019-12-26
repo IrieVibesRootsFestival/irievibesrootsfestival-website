@@ -9,9 +9,9 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
-        <div id="lineup-home" class="container">
+        <div id="lineup-home" class="container content">
+            <h3 class="display-7">Line-up Index</h3>
             <div class="row">
-                <div class="col-12 text-center"><span class="display-7">Line-up Index</span></div>
                 <div class="col-12">
                     <div class="text-center">
                         <div>

@@ -6,13 +6,14 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 @import url('/src/css/fonts/tipi.css');
 
+body{font-size:0.97rem;}
+
 h1, h2, h3, h4, h5, h6{font-family: 'Dosis';}
 .h1, .h2, .h3, .h4, .h5, .h6{font-family: 'Dosis';}
 
 p, ul, li, small, b, i, u, .content{
     font-family: 'Roboto Mono', monospace; 
     letter-spacing: -0.042rem;
-    font-size:0.97rem;
 }
 /*--Link styling--*/
 a{color: #8e142f; font-style:italic; font-family: 'Roboto Mono', monospace;}
