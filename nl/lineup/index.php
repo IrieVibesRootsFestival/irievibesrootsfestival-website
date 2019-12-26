@@ -21,7 +21,7 @@
                         </div>
                     </div>
                     <a id="lineup-thursday"></a>
-                    <h3 class="text-irie">
+                    <h3 class="text-irie text-uppercase">
                         <b>Donderdag (Kortemark Congé) </b>
                         <a href="/nl/lineup/kortemark-conge/">
                             <b><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i></b>
@@ -29,7 +29,7 @@
                     </h3>
                     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/lineup/kortemark-conge.php');?>
                     <a id="lineup-friday"></a>
-                    <h3 class="text-irie">
+                    <h3 class="text-irie text-uppercase">
                         <b>Vrijdag </b>
                         <a href="/nl/lineup/friday/">
                             <b><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i></b>
@@ -37,7 +37,7 @@
                     </h3>
                     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/lineup/friday.php');?>
                     <a id="lineup-saturday"></a>
-                    <h3 class="text-irie">
+                    <h3 class="text-irie text-uppercase">
                         <b>Zaterdag </b>
                         <a href="/nl/lineup/saturday/">
                             <b><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i></b>
