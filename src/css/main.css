@@ -46,7 +46,7 @@ body{
     )
 }
 
-/*Location Map*/
+/*Responsive Location Map*/
 .map-responsive{
     border-radius: 10px;
     overflow:hidden;
@@ -56,6 +56,22 @@ body{
     margin-bottom:25px;
 }
 .map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+/*Responsive Facebook Video*/
+.facebook-responsive {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.facebook-responsive iframe {
     left:0;
     top:0;
     height:100%;
