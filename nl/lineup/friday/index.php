@@ -12,29 +12,14 @@
         <div id="line-up" class="container">
             <div class="text-center">
                 <div class="btn-group mb-1" role="group" aria-label="Nav-button">
-                    <button class="btn btn-filter" data-toggle="collapse" data-target="#day1"><p>Thursday</p></button>
+                    <button class="btn btn-irie"><a href="/nl/lineup/kortemark-conge/"><p>Thursday</p></a></button>
                     <button class="btn btn-filter" data-toggle="collapse" data-target="#day2"><p>Friday</p></button>
                     <button class="btn btn-filter" data-toggle="collapse" data-target="#day3"><p>Saturday</p></button>
                 </div>
-                <span class="d-block m-1"></span>
-                <div class="btn-group mb-3" role="group" aria-label="Nav-button">
-                    <button type="button" class="btn btn-success text-white"><a href="#stage_tent">Lion's Den</a></button>
-                    <button type="button" class="btn btn-danger text-white"><a href="#stage_air">Open Air</a></button>
-                    <button type="button" class="btn btn-sand text-white"><a href="#stage_tent_outside">Inner Circle</a></button> 
-                    <button type="button" class="btn btn-warning text-white"><a href="#stage_kids">Little Lion</a></button>
-                </div>
             </div>
-            <div class="accordion-group">
-                <div class="collapse show" id="day1" data-parent="#line-up">
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/kortemark-conge/core_lineup.php');?>
-                </div>
-                <div class="collapse" id="day2" data-parent="#line-up">
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/friday.php');?>
-                </div>
-                <div class="collapse" id="day3" data-parent="#line-up">
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/saturday.php');?>
-                </div>
-            </div>
+            <span class="d-block m-1"></span>
+            <!--Add the content for the Friday Line-up from External page-->
+            <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/friday.php');?>
         </div>
         <!-- Include Footer -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_en.php');?>        
