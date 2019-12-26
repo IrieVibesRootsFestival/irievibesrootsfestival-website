@@ -14,7 +14,7 @@
                 <div class="col-12 text-center"><span class="display-7">Line-up Index</span></div>
                 <div class="col-12">
                     <div class="text-center">
-                        <div class="btn-group mb-1" role="group" aria-label="day-buttons">
+                        <div>
                             <a href="#lineup-thursday"><button class="btn btn-irie"><p>Donderdag</p></button></a>
                             <a href="#lineup-friday"><button class="btn btn-irie"><p>Vrijdag/p></button></a>
                             <a href="#lineup-saturday"><button class="btn btn-irie"><p>Zaterdag</p></button></a>
