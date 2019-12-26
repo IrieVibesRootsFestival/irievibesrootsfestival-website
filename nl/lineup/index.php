@@ -13,8 +13,8 @@
             <h3 class="display-7 text-center pb-2">Line-up Index</h3>
             <div class="row">
                 <div class="col-12 col-lg-3 order-lg-2">
-                    <div class="text-box-2 rounded p-2 sticky-top mt-1">
-                        <div class="btn-group-vertical d-flex text-box">
+                    <div class="text-box-2 rounded sticky-top mt-1">
+                        <div class="btn-group-vertical d-flex text-box rounded">
                             <a class="btn" href="#lineup-thursday"><p>Donderdag</p></a>
                             <a class="btn" href="#lineup-friday"><p>Vrijdag</p></a>
                             <a class="btn" href="#lineup-saturday"><p>Zaterdag</p></a>
