@@ -89,7 +89,6 @@ body{
 
 .text-box{
     background-image:url('/src/img/paper-texture.jpg');
-    padding-left:8px;
 }
 header a{
     padding-left: 8px;
@@ -360,7 +359,7 @@ footer .footer-nav ul.list a:hover { color:rgba(255,255,255,0.60); text-decorati
     visibility:hidden;
 }
 
-.text-box-2{background-image:url('/src/img/hardwood-horizontal.jpg');}
+.text-box-2{background-image:url('/src/img/hardwood-horizontal.jpg'); padding:.5rem;}
 .dropdown, .dropup{z-index:950}
 
 #accomodation h3:not(.display-7){text-transform:uppercase}
