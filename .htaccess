@@ -11,8 +11,8 @@ RewriteRule (.*) http://www.irievibes.be/$1 [R=301,L]
 RewriteRule ^$ nl [L]
 
 # Redirect the language and tickets subdomains
-RewriteCond %{HTTP_HOST} ^tickets.irievibes.be$
-RewriteRule ^$ https://www.irievibes.be/nl/tickets/ [R=301,L]
+RewriteCond %{HTTP_HOST} ^tickets\.irievibes\.be$
+RewriteRule ^ http://www.irievibes.be/tickets/$1 [R=301]
 
 Redirect 301 /src/static/grondplan_camping.pdf /src/static/groundplan_backtotheroots.pdf 
 Redirect 301 /src/static/spotify/ https://open.spotify.com/playlist/2Wgmu4URI3nwnRRCGTi5dq
