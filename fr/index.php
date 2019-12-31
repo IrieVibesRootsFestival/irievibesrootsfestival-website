@@ -11,12 +11,6 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <div class="container content">
             <div class="row justify-content-center">
-                <!-- Aftermovie -->
-                <div class="col-12 mb-md-3">
-                    <div id="slider-wrapper" class="rounded p-2 mb-1">
-                        <style>.embed-container { position: relative; padding-bottom: 43%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/371957649?autoplay=1&portrait=false&muted=true' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-                    </div>
-                </div>
                 <div class="col-12 my-md-3">
                     <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Irie Vibes Roots Festival</h1><br/>
                     <div class="text-left text-success">
@@ -35,6 +29,12 @@
                         <p class="text-justify">
                             Vous cherchez des billets? Achetez-les maintenant! Un ticket de camping vous garantit une place au camping. Les billets et les prix peuvent être trouvés <a class="text-danger" href="/en/tickets/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>ici</a>.
                         </p>
+                    </div>
+                </div>
+                <!-- Aftermovie -->
+                <div class="col-12 mb-md-3">
+                    <div id="slider-wrapper" class="rounded p-2 mb-1">
+                        <style>.embed-container { position: relative; padding-bottom: 43%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/371957649?autoplay=1&portrait=false&muted=true' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
                     </div>
                 </div>
                 <!-- Slider -->
