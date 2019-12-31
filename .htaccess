@@ -6,7 +6,7 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
 # Redirect anything except subdomains
 RewriteCond %{HTTP_HOST} ^irievibes\.be$
-RewriteRule (.*) http://www.irievibes.be/$1 [R=301, NC]
+RewriteRule (.*) http://www.irievibes.be/$1 [R=301,L]
 RewriteRule ^$ nl [L]
 
 # Redirect the subdomains to their subfolders, only if listed in the brackets
@@ -14,7 +14,7 @@ RewriteCond %{HTTP_HOST} ^(en|nl|fr)\.irievibes\.be
 RewriteRule ^(.*)$ http://www.irievibes.be/$1 [L,NC]
 
 # Redirect tickets subdomain to tickets page
-Redirect 301 tickets.irievibes.be www.irievibes.be/nl/tickets/
+
 
 Redirect 301 /src/static/grondplan_camping.pdf /src/static/groundplan_backtotheroots.pdf 
 Redirect 301 /src/static/spotify/ https://open.spotify.com/playlist/2Wgmu4URI3nwnRRCGTi5dq
