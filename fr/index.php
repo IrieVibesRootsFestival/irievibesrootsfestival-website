@@ -41,11 +41,14 @@
                             </div>
                             <a class="d-block text-center pt-2" href="https://www.facebook.com/Spellbreakersband">Spellbreakers</a>
                         </div>
-
+                    </div>
+                    <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Regarde</h1>
+                    <div id="slider-wrapper" class="p-2 mb-2 rounded">
+                        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/content/slider.php');?>
                     </div>
                 </div>
                 <!-- Slider -->
-                <div class="col-12 m-md-3">
+                <div class="col-12 m-md-3 d-none">
                     <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Regarde</h1>
                     <div id="slider-wrapper" class="p-2 mb-2 rounded">
                         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/content/slider.php');?>
