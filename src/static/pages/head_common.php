@@ -10,8 +10,8 @@
 <meta charset="utf-8">         
 <meta http-equiv="X-UA-Compatible" content="IE=edge">      
 <meta name="viewport" content="width=device-width, initial-scale=1">        
-<meta name="Description" content="Back in time to where it all began, Irie Vibes invites you to their Back to The Roots edition during the heart of summer 2019 in Kortemark.">
-<meta name="Keywords" content="dub, reggae, ska, world music, food, festival, Irie, irie, Vibes, vibes, Roots, roots, Festival, festival, Koekelarestraat, 16, 8610, Kortemark, tickets, buy, presale, kids, belgium, 2018, 2019, back to the roots, lineup, artists, sunny after moon, fishermen, babbajah, dub up hifi, satta sound, salomon heritage, donovan kingjay, new kingston, uwe banton, jahmbassador, forward fever, earthworks">
+<meta name="Description" content="Back in time to where it all began, Irie Vibes invites you to their Back to The Roots edition during the heart of summer 2020 in Kortemark.">
+<meta name="Keywords" content="dub, reggae, ska, world music, food, festival, Irie, irie, Vibes, vibes, Roots, roots, Festival, festival, Koekelarestraat, 16, 8610, Kortemark, tickets, buy, presale, kids, belgium, music, 2020, back to the roots, lineup, artists, sunny after moon, fishermen, babbajah, dub up hifi, satta sound, salomon heritage, donovan kingjay, new kingston, uwe banton, jahmbassador, forward fever, earthworks">
 <meta name="google-site-verification" content="DvKM06H9VdWqi8wX1hms0vN2lBrqfGkRSIVzmvtCehM" /> 
 <!--Square OG Image (botched)-->
 <meta property="og:image" content="https://i.imgur.com/jNRMvrY.png" /> 

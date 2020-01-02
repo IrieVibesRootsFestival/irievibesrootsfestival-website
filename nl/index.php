@@ -5,7 +5,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Home - Irie Vibes</title>
         <meta property="og:title" content="Ontdek de wereld van Irie Vbes Roots Festival"/>
-        <meta property="og:description" content="Terug naar waar het allemaal begon: Irie Vibes nodigt je uit naar hun Back to The Roots editie van het Irie Vibes Roots Festival in hartje zomer 2019 in Kortemark." />
+        <meta property="og:description" content="Terug naar waar het allemaal begon: Irie Vibes nodigt je uit naar hun Back to The Roots editie van het Irie Vibes Roots Festival in hartje zomer 2020 in Kortemark." />
     </head> 
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>

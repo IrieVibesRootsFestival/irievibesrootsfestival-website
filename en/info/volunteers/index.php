@@ -4,20 +4,20 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Volunteers - Irie Vibes</title>
         <meta property="og:title" content="Volunteers"/>
-        <meta property="og:description" content="Back in time to where it all began, Irie Vibes invites you to their Back to The Roots edition during the heart of summer 2019 in Kortemark." />
+        <meta property="og:description" content="Back in time to where it all began, Irie Vibes invites you to their Back to The Roots edition during the heart of summer 2020 in Kortemark." />
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <div class="container content">         
             <h1 style="margin-bottom:5px" class="display-7 text-center">Become volunteer</h1>
             <hr/>
-            <p>For the 2019 edition of Irie Vibes Roots Festival, we are once again looking for about 150 helping hands to help turn the Irie Vibes Roots Festival into a success. Volunteers make the difference!<br/>
+            <p>For the 2020 edition of Irie Vibes Roots Festival, we are once again looking for about 150 helping hands to help turn the Irie Vibes Roots Festival into a success. Volunteers make the difference!<br/>
                 This year we are going back to our roots with "BACK TO THE ROOTS". Same vibes, Same love, but on a smaller scale. </p>
             <p>All shifts and positions will be supervised by a team leader who will be there during the whole festival. This is the person responsible for answering any questions you may have during your shift. For all other questions, please contact <a href="mailto:volunteers@irievibes.be">Cindy Jonckheere</a> (your head of volunteer staff) or ask for help at the info booth on the festival terrain.</p>
             <div class="bg-success rounded p-3">
-                <h3 class="text-white">Please register ultimately by the 31st of May 2019!</h3>
+                <h3 class="text-white">Please register ultimately by the 31st of May 2020!</h3>
             </div>
-            <small class="ml-2"><i>Last update: 15/10/2019</i></small>
+            <small class="ml-2"><i>Last update: 2/01/2020</i></small>
             <hr/>
             <h3 class="text-irie text-uppercase"><b>Our offers</b></h3>
             <div class="row">
@@ -82,7 +82,7 @@
             <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZuujqpESwd2S5GaTzQMrUGbbRid12J8vzN5njCGKnf7KgjA/viewform?embedded=true" width="100%" height="550" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZuujqpESwd2S5GaTzQMrUGbbRid12J8vzN5njCGKnf7KgjA/viewform"><small>Click here to open the form in a new window.</small></a>
             <!--
-<div id="btn-volunteer-signup" class="text-center"><a alt="Volunteers Form 2019" class="btn btn-pill btn-irie" id="btn-volunteer-signup-inner" href="https://docs.google.com/forms/d/e/1FAIpQLSfcMSLUKs9FmjVoiC3hGoC0cwU-O133Xgobb0E35e0MWkJgoQ/viewform" role="button">Registration Form</a></div>
+<div id="btn-volunteer-signup" class="text-center"><a alt="Volunteers Form 2020" class="btn btn-pill btn-irie" id="btn-volunteer-signup-inner" href="https://docs.google.com/forms/d/e/1FAIpQLSfcMSLUKs9FmjVoiC3hGoC0cwU-O133Xgobb0E35e0MWkJgoQ/viewform" role="button">Registration Form</a></div>
 -->
         </div>
         <!-- Include Footer -->
