@@ -11,7 +11,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <div class="container content">
             <div class="row justify-content-center">
-                <div class="col-7 my-md-3">
+                <div class="col-12 col-md-7 my-md-3">
                     <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Irie Vibes Roots Festival</h1><br/>
                     <div class="text-left text-success">
                         <h1 class="mt-md-3 mb-0 px-3 quote">back to the roots</h1>
@@ -45,6 +45,11 @@
                     <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Regarde</h1>
                     <div id="slider-wrapper" class="p-2 mb-2 rounded">
                         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/content/slider.php');?>
+                    </div>                    
+                    <!-- Aftermovie -->
+                    <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Aftermovie</h1>
+                    <div id="slider-wrapper" class="rounded p-2 mb-1">
+                        <style>.embed-container { position: relative; padding-bottom: 43%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/371957649?autoplay=1&portrait=false&muted=true' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
                     </div>
                 </div>
                 <!-- Slider -->
@@ -63,13 +68,6 @@
                 <div class="col-12 col-md-6">
                     <h3 class="text-irie"><b>Mises à jour</b></h3>
                     <a class="twitter-timeline" data-height="380" data-theme="light" data-link-color="#8e142f" href="https://twitter.com/irievibesupdate?ref_src=twsrc%5Etfw" data-chrome="nofooter noborders noscrollbar"></a>
-                </div>
-                <!-- Aftermovie -->
-                <div class="col-12 mb-md-3">
-                    <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Aftermovie</h1>
-                    <div id="slider-wrapper" class="rounded p-2 mb-1">
-                        <style>.embed-container { position: relative; padding-bottom: 43%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/371957649?autoplay=1&portrait=false&muted=true' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-                    </div>
                 </div>
             </div> 
         </div>
