@@ -10,8 +10,8 @@
         <!-- This is the main container that encapsulates everything content related. -->
         <br/>
         <div id="line-up" class="container">
-            <h3 class="display-7 text-center pb-2">Donderdag</h3>
-            <p class="text-center text-irie"><b>16 Juli 2020 (Kortemark Congé)</b></p>
+            <h3 class="display-7 text-center">Donderdag</h3>
+            <p class="text-center text-irie pb-2"><b>16 Juli 2020 (Kortemark Congé)</b></p>
             <span class="d-block m-1"></span>
             <!--Add the content for the Friday Line-up from External page-->
             <?php include($_SERVER['DOCUMENT_ROOT'].'/src/lineup/thursday.php');?>
