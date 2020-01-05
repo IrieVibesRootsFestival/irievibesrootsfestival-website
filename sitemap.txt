@@ -26,7 +26,6 @@ https://www.irievibes.be/en/festival/kortemark-conge/
 https://www.irievibes.be/nl/lineup/kortemark-conge/
 https://www.irievibes.be/en/lineup/
 https://www.irievibes.be/nl/lineup/
-https://www.irievibes.be/playlist/2Wgmu4URI3nwnRRCGTi5dq
 https://www.irievibes.be/en/location/
 https://www.irievibes.be/en/festival/merchandise/
 https://www.irievibes.be/nl/info/partners/
@@ -44,7 +43,6 @@ https://www.irievibes.be/en/festival/safety/
 https://www.irievibes.be/en//festival/accomodation/
 https://www.irievibes.be/en/festival/food-shops/
 https://www.irievibes.be/en/festival/accomodation/
-https://www.irievibes.be/src/static/snapchat/
 https://www.irievibes.be/en/festival/transport/
 https://www.irievibes.be/nl/info/eco/trim-the-footprint/
 https://www.irievibes.be/en/info/eco/trim-the-footprint/

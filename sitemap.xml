@@ -3,293 +3,283 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://www.irievibes.be/en/lineup/kortemark-conge/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/festival/food-shops/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/festival/accomodation/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/artists/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/artists/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/info/volunteers/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/festival/camping/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/festival/camping/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/contact/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/info/crew/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/info/crew/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/info/eco/eco-team/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/info/eco/eco-team/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/festival/safety/evacuation/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/festival/safety/evacuation/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/lineup/friday/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/info/eco/groene-vent-award/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/info/eco/groene-vent-award/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/info/eco/reusable-cups/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/kids/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/festival/rules/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/kids/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/festival/kortemark-conge/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/lineup/kortemark-conge/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/lineup/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/lineup/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
-  </url>
-  <url>
-    <loc>https://www.irievibes.be/playlist/2Wgmu4URI3nwnRRCGTi5dq</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/location/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/festival/merchandise/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/info/partners/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/info/partners/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/lineup/posters/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/tickets/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/festival/transport/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/festival/safety/quality_nights/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/festival/safety/quality_nights/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/info/eco/clean-water/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/info/eco/reusable-cups/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/festival/rules/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/lineup/saturday/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/festival/safety/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en//festival/accomodation/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/festival/food-shops/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/festival/accomodation/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
-  </url>
-  <url>
-    <loc>https://www.irievibes.be/src/static/snapchat/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/festival/transport/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/info/eco/trim-the-footprint/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/info/eco/trim-the-footprint/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/info/trooper/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/info/eco/upcycling/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/en/info/eco/upcycling/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/festival/safety/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/tickets/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/info/eco/clean-water/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/info/vrijwilligers/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.irievibes.be/nl/info/volunteers/</loc>
-    <changefreq>none</changefreq>
-    <priority>None</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
 <!--<guid value="" />-->
