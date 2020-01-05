@@ -1,8 +1,8 @@
 <div id="lineup" class="row text-center">
     <!-- Lion's Den -->
     <div id="stage-lions-den" class="col-12 col-md-6">
-        <div class="row py-2 mb-3 border border-lg border-sand rounded bg-img">
-            <div class="col-12"><p class="bg-sand text-center rounded text-white">Inner Circle</p></div>
+        <div class="row py-2 mb-3 border border-lg border-success rounded bg-img">
+            <div class="col-12"><p class="bg-success text-center rounded text-white">Lion's Den</p></div>
             <div class="col-12"> <!--Change to Col-6 when teaser is over-->
                 <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
                 <picture>
