@@ -214,7 +214,7 @@ footer .row, footer p{margin:0;}
     color: #1c1f22;
 }
 
-footer #btn-social{padding:8px;}
+footer #btn-social{padding:8px 0px 8px 0px;}
 footer a {font-style:normal}
 footer .footer-nav ul.pages { list-style:none; padding:0px; }
 footer .footer-nav ul.pages li { padding:5px 0px;}
