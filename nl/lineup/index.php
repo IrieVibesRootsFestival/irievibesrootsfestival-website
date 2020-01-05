@@ -37,7 +37,7 @@
                             </a>
                         </b>
                     </h3>
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/lineup/kortemark-conge.php');?>
+                    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/lineup/thursday.php');?>
                     <!-- Friday-->
                     <a id="lineup-friday"></a>
                     <h3 class="text-irie text-uppercase">
