@@ -21,11 +21,11 @@
             <div class="col-12"> <!--Change to Col-6 when teaser is over-->
                 <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
                 <picture>
-                    <source srcset="/src/img/artists/bee-health.webp" type="image/webp">
-                    <source srcset="/src/img/artists/bee-health.jpg" type="image/jpeg">
-                    <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/bee-health.jpg"/>
+                    <source srcset="/src/img/artists/.webp" type="image/webp">
+                    <source srcset="/src/img/artists/.jpg" type="image/jpeg">
+                    <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/.jpg"/>
                 </picture>
-                <a class="d-block text-center pt-2" href="https://www.bee-en-health.be/algemeen/beehealth/">Bee & Health</a>
+                <a class="d-block text-center pt-2" href="#">#</a>
             </div>
         </div>
     </div>
@@ -36,11 +36,11 @@
             <div class="col-12"> <!--Change to Col-6 when teaser is over-->
                 <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
                 <picture>
-                    <source srcset="/src/img/artists/.webp" type="image/webp">
-                    <source srcset="/src/img/artists/.jpg" type="image/jpeg">
-                    <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/.jpg"/>
+                    <source srcset="/src/img/artists/bee-health.webp" type="image/webp">
+                    <source srcset="/src/img/artists/bee-health.jpg" type="image/jpeg">
+                    <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/bee-health.jpg"/>
                 </picture>
-                <a class="d-block text-center pt-2" href="#">#</a>
+                <a class="d-block text-center pt-2" href="https://www.bee-en-health.be/algemeen/beehealth/">Bee & Health</a>                
             </div>
         </div>
     </div>
