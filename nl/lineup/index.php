@@ -15,13 +15,15 @@
                 <div class="col-12 col-lg-3 order-lg-2">
                     <div class="text-box-2 rounded sticky-top mt-1">
                         <div class="btn-group-vertical d-flex text-box rounded mb-2">
+                            <a class="btn disabled"><p>Music</p></a>
                             <a class="btn" href="#lineup-thursday"><p>Donderdag</p></a>
                             <a class="btn" href="#lineup-friday"><p>Vrijdag</p></a>
                             <a class="btn" href="#lineup-saturday"><p>Zaterdag</p></a>
                         </div>
                         <div class="btn-group-vertical d-flex text-box rounded">
-                            <a class="btn" href="#"><p>Extra Button</p></a>
-                            <a class="btn" href="#"><p> Extra Button</p></a>
+                            <a class="btn disabled"><p>Animation</p></a>
+                            <a class="btn" href="#"><p>Workshops</p></a>
+                            <a class="btn" href="#"><p>Sprekers</p></a>
                         </div>
                     </div>
                 </div>
