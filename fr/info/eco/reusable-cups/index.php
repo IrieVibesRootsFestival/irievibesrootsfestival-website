@@ -22,12 +22,14 @@
                         <li>vous pouvez échanger les gobelets dans la salle des coupons, mais aussi le dimanche au bar du camping?</li>
                     </ul>
                 </div>
-                <picture>
-                    <source srcset="/src/img/eco/reusable-cups/cups-main.webp" type="image/webp">
-                    <source srcset="/src/img/eco/reusable-cups/cups-main.jpg" type="image/jpeg">
-                    <img alt="" class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-main.jpg"/>
-                </picture>
-                <small>now propres goblets avec logo</small>
+                <div class="col-auto">
+                    <picture>
+                        <source srcset="/src/img/eco/reusable-cups/cups-main.webp" type="image/webp">
+                        <source srcset="/src/img/eco/reusable-cups/cups-main.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-main.jpg"/>
+                    </picture>
+                    <small>nos propres goblets avec logo</small>
+                </div>
             </div>
         </div>
         <!-- Pictures -->

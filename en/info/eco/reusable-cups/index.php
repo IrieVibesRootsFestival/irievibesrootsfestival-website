@@ -22,12 +22,14 @@
                         <li>you can hand in the cups at the voucher salespoint, but also at the campingbar on Sunday morning?</li>
                     </ul>
                 </div>
-                <picture>
-                    <source srcset="/src/img/eco/reusable-cups/cups-main.webp" type="image/webp">
-                    <source srcset="/src/img/eco/reusable-cups/cups-main.jpg" type="image/jpeg">
-                    <img alt="" class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-main.jpg"/>
-                </picture>
-                <small>our own cups with logo</small>
+               <div class="col-auto">
+                    <picture>
+                        <source srcset="/src/img/eco/reusable-cups/cups-main.webp" type="image/webp">
+                        <source srcset="/src/img/eco/reusable-cups/cups-main.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-main.jpg"/>
+                    </picture>
+                    <small>our own cups with logo</small>
+                </div> 
             </div>
         </div>
         <!-- Pictures -->
