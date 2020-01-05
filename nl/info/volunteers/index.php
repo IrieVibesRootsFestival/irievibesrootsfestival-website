@@ -15,9 +15,9 @@
                 Dit jaar keren wij met ons concept <i>Back to The Roots</i> terug naar onze origine. De vibes blijven hetzelfde, de omkadering wordt eenvoudiger.</p>
             <p>Op elk punt is een verantwoordelijke aanwezig, die dit punt gedurende het hele festival zal opvolgen. Bij deze verantwoordelijke kan je voor alle praktische vragen en problemen <b>tijdens je shift</b> terecht. Voor alle andere vragen of opmerkingen kan je terecht bij <a href="mailto:volunteers@irievibes.be">Cindy Jonckheere</a> (hoofdverantwoordelijke medewerkers en vrijwilligers) of aan het infopunt op het festivalterrein.</p>
             <div class="bg-success rounded p-3">
-                <h3 class="text-white">Schrijf je ten laatste in tegen 31 mei 2019!</h3>
+                <h3 class="text-white">Schrijf je ten laatste in tegen 31 mei 2020!</h3>
             </div>
-            <small class="ml-2"><i>Laatste update: 15/10/2019</i></small>
+            <small class="ml-2"><i>Laatste update: 5/01/2020</i></small>
             <hr/>
             <h3 class="text-irie text-uppercase"><b>Aanbod</b></h3>
             <div class="row">
