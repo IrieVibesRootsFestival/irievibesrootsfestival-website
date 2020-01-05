@@ -31,7 +31,7 @@
                             </a>
                         </b>
                     </h3>
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/lineup/kortemark-conge.php');?>
+                    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/lineup/kortemark-conge.php');?>
                     <!-- Friday-->
                     <a id="lineup-friday"></a>
                     <h3 class="text-irie text-uppercase">
@@ -41,7 +41,7 @@
                             </a>
                         </b>
                     </h3>
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/lineup/friday.php');?>
+                    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/lineup/friday.php');?>
                     <!-- Saturday-->
                     <a id="lineup-saturday"></a>
                     <h3 class="text-irie text-uppercase">
@@ -51,7 +51,7 @@
                             </a>
                         </b>
                     </h3>
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/lineup/saturday.php');?>
+                    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/lineup/saturday.php');?>
                 </div>
             </div>
         </div>
