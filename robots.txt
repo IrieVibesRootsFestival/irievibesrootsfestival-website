@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Allow: /sitemap.htm
 Allow: /sitemap.xml
 Sitemap: https://www.irievibes.be/sitemap.xml
