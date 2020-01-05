@@ -10,7 +10,7 @@
                     <source srcset="/src/img/artists/jungle-roots.jpg" type="image/jpeg">
                     <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/jungle-roots.jpg"/>
                 </picture>
-                <a class="d-block text-center pt-2" href="https://www.facebook.com/sattasoundsystem/">Jungle Roots</a>
+                <a class="d-block text-center pt-2" href="https://vi.be/jungleroots">Jungle Roots</a>
             </div>
         </div>
     </div>
