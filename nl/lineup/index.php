@@ -3,14 +3,14 @@
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
-        <title>Line-Up - Irie Vibes</title>
-        <meta property="og:title" content="Line-Up"/>
+        <title>Line-up - Irie Vibes</title>
+        <meta property="og:title" content="Line-up Index"/>
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div id="lineup-home" class="container content">
-            <h3 class="display-7 text-center pb-2">Line-up Index</h3>
+            <h3 class="display-7 text-center pb-2">Line up Index</h3>
             <div class="row">
                 <div class="col-12 col-lg-3 order-lg-2">
                     <div class="text-box-2 rounded sticky-top mt-1">
@@ -22,6 +22,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-lg-9">
+                    <!-- Thursday-->
                     <a id="lineup-thursday"></a>
                     <h3 class="text-irie text-uppercase">
                         <b>Donderdag (Kortemark Congé) 
@@ -31,6 +32,7 @@
                         </b>
                     </h3>
                     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/lineup/kortemark-conge.php');?>
+                    <!-- Friday-->
                     <a id="lineup-friday"></a>
                     <h3 class="text-irie text-uppercase">
                         <b>Vrijdag 
@@ -40,6 +42,7 @@
                         </b>
                     </h3>
                     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/lineup/friday.php');?>
+                    <!-- Saturday-->
                     <a id="lineup-saturday"></a>
                     <h3 class="text-irie text-uppercase">
                         <b>Zaterdag 
