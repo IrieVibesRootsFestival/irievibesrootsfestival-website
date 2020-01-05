@@ -22,7 +22,7 @@
                         <li>vous pouvez échanger les gobelets dans la salle des coupons, mais aussi le dimanche au bar du camping?</li>
                     </ul>
                 </div>
-                <div class="col-auto">
+                <div class="col">
                     <picture>
                         <source srcset="/src/img/eco/reusable-cups/cups-main.webp" type="image/webp">
                         <source srcset="/src/img/eco/reusable-cups/cups-main.jpg" type="image/jpeg">
@@ -31,22 +31,22 @@
                     <small>nos propres goblets avec logo</small>
                 </div>
             </div>
-        </div>
-        <!-- Pictures -->
-        <div class="row">
-            <div class="col-12 col-md-6 p-1">
-                <picture>
-                    <source srcset="/src/img/eco/reusable-cups/cups-0.webp" type="image/webp">
-                    <source srcset="/src/img/eco/reusable-cups/cups-0.jpg" type="image/jpeg">
-                    <img alt="" class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-0.jpg"/>
-                </picture>
-            </div>
-            <div class="col-12 col-md-6 p-1">
-                <picture>
-                    <source srcset="/src/img/eco/reusable-cups/cups-1.webp" type="image/webp">
-                    <source srcset="/src/img/eco/reusable-cups/cups-1.jpg" type="image/jpeg">
-                    <img alt="" class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-1.jpg"/>
-                </picture>
+            <!-- Pictures -->
+            <div class="row">
+                <div class="col-12 col-md-6 p-1">
+                    <picture>
+                        <source srcset="/src/img/eco/reusable-cups/cups-0.webp" type="image/webp">
+                        <source srcset="/src/img/eco/reusable-cups/cups-0.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-0.jpg"/>
+                    </picture>
+                </div>
+                <div class="col-12 col-md-6 p-1">
+                    <picture>
+                        <source srcset="/src/img/eco/reusable-cups/cups-1.webp" type="image/webp">
+                        <source srcset="/src/img/eco/reusable-cups/cups-1.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-1.jpg"/>
+                    </picture>
+                </div>
             </div>
         </div>
         <!-- Include Footer -->
