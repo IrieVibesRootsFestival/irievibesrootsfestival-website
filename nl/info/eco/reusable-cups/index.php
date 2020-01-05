@@ -22,12 +22,14 @@
                         <li>je de bekers kan inruilen aan het bonnetjes kot, maar ook op zondag aan de camping bar?</li>
                     </ul>
                 </div>
-                <picture>
-                    <source srcset="/src/img/eco/reusable-cups/cups-main.webp" type="image/webp">
-                    <source srcset="/src/img/eco/reusable-cups/cups-main.jpg" type="image/jpeg">
-                    <img alt="" class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-main.jpg"/>
-                </picture>
-                <small>onze eigen beker met logo</small>
+                <div class="col-auto">
+                    <picture>
+                        <source srcset="/src/img/eco/reusable-cups/cups-main.webp" type="image/webp">
+                        <source srcset="/src/img/eco/reusable-cups/cups-main.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-main.jpg"/>
+                    </picture>
+                    <small>onze eigen beker met logo</small>
+                </div>
             </div>
         </div>
         <!-- Pictures -->
@@ -52,4 +54,4 @@
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
-</html>ss
+</html>
