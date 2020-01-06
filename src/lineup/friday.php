@@ -5,10 +5,12 @@
             <div class="col-12"><p class="text-center bg-success rounded text-white">Lion's Den</p></div>
             <div class="col-12">
                 <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
-                <div class="facebook-responsive">
-                    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwatch%2F%3Fv%3D1062072777464176&width=500&show_text=false&height=280&appId" width="" height="" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
-                </div>
-                <a class="d-block text-center pt-2" href="https://www.facebook.com/Spellbreakersband">Spellbreakers</a>
+                <picture>
+                    <source srcset="/src/img/artists/.webp" type="image/webp">
+                    <source srcset="/src/img/artists/.jpg" type="image/jpeg">
+                    <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/.jpg"/>
+                </picture>
+                <a class="d-block text-center pt-2" href="#">#</a>
             </div>
         </div>
     </div>
@@ -34,11 +36,11 @@
             <div class="col-12"> <!--Change to Col-6 when teaser is over-->
                 <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
                 <picture>
-                    <source srcset="/src/img/artists/bee-health.webp" type="image/webp">
-                    <source srcset="/src/img/artists/bee-health.jpg" type="image/jpeg">
-                    <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/bee-health.jpg"/>
+                    <source srcset="/src/img/artists/.webp" type="image/webp">
+                    <source srcset="/src/img/artists/.jpg" type="image/jpeg">
+                    <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/.jpg"/>
                 </picture>
-                <a class="d-block text-center pt-2" href="https://www.bee-en-health.be/algemeen/beehealth/">Bee & Health</a>                
+                <a class="d-block text-center pt-2" href="#">#</a>               
             </div>
         </div>
     </div>
