@@ -11,7 +11,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div class="container content">
             <div class="row justify-content-center">
-                <div class="col-12 col-md-8 my-md-3">
+                <div class="col-12 col-md-8">
                     <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Irie Vibes Roots Festival</h1><br/>
                     <div class="text-left">
                         <h1 class="mt-md-3 mb-0 px-3 quote text-success">back to the roots</h1>
@@ -32,7 +32,17 @@
                     </div>
                 </div>
                 <!-- Slider -->
-                <div class="col-12 col-md-4 m-md-3">
+                <div class="col-12 col-md-4">
+                    <div id="lineup" class="row py-2 mb-3 border border-lg border-success rounded bg-img">
+                        <div class="col-12"><p class="text-center bg-success rounded text-white">Lion's Den</p></div>
+                        <div class="col-12">
+                            <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
+                            <div class="facebook-responsive">
+                                <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwatch%2F%3Fv%3D1062072777464176&width=500&show_text=false&height=280&appId" width="" height="" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+                            </div>
+                            <a class="d-block text-center pt-2" href="https://www.facebook.com/Spellbreakersband">Spellbreakers</a>
+                        </div>
+                    </div>
                     <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Kijk eens</h1>
                     <div id="slider-wrapper" class="p-2 mb-2 rounded">
                         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/content/slider.php');?>
