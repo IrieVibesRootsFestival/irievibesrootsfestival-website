@@ -11,7 +11,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div class="container content">
             <div class="row justify-content-center">
-                <div class="col-12 col-md-8 my-md-3">
+                <div id="home-text" class="col-12 col-md-8 my-md-3">
                     <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Irie Vibes Roots Festival</h1><br/>
                     <div class="text-left text-success">
                         <h1 class="mt-md-3 mb-0 px-3 quote">back to the roots</h1>

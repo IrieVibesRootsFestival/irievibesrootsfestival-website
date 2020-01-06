@@ -372,3 +372,7 @@ header {
 .w-80{
     width:80%!important;
 }
+
+#home-text p{
+    text-shadow: black 1px 1px 2px;;
+}
