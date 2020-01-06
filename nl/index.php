@@ -13,21 +13,21 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-md-8 my-md-3">
                     <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Irie Vibes Roots Festival</h1><br/>
-                    <div class="text-left text-success">
-                        <h1 class="mt-md-3 mb-0 px-3 quote">back to the roots</h1>
+                    <div class="text-left">
+                        <h1 class="mt-md-3 mb-0 px-3 quote text-success">back to the roots</h1>
                         <p class="text-justify">
                             Irie Vibes gaat terug naar waar het allemaal begon. Irie Vibes 2020 zal opnieuw een terugblik zijn naar onze roots, herinneringen en gebeurend. We nodigen je uit om deel uit te maken van het <b>Irie Vibes back to the Roots Festival 2020</b>, waar hoofd, hart en lichaam samen komen in een fantastisch spektakel van kleur en geluid. Mis geen enkele drumslag! Plaats een bookmark van onze
-                            <a class="text-success" href="/en/lineup/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>line-up pagina</a> op je startscherm. Irie!
+                            <a href="/en/lineup/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>line-up pagina</a> op je startscherm. Irie!
                         </p>
                     </div>
-                    <div class="text-md-right text-warning">
-                        <h1 class="mt-3 mb-0 px-3 quote">one love</h1>
-                        <p class="text-justify text-md-right">Hier bij Irie Vibes is familie belangrijk. Als een grote familie die bouwt naar een nóg grotere toekomst. Zonder hulp van mensen zoals jij zou het onmogelijk zijn om deze droom waar te maken. Mash down! Ga naar de <a class="text-warning" href="/en/info/volunteers/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>vrijwilligers pagina</a> om te kijken als het iets voor jou is. Family thing!</p>
+                    <div class="text-md-right">
+                        <h1 class="mt-3 mb-0 px-3 quote text-warning">one love</h1>
+                        <p class="text-justify text-md-right">Hier bij Irie Vibes is familie belangrijk. Als een grote familie die bouwt naar een nóg grotere toekomst. Zonder hulp van mensen zoals jij zou het onmogelijk zijn om deze droom waar te maken. Mash down! Ga naar de <a href="/en/info/volunteers/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>vrijwilligers pagina</a> om te kijken als het iets voor jou is. Family thing!</p>
                     </div>
-                    <div class="text-left text-danger">
-                        <h1 class="mt-3 mb-0 px-3 quote ">wees er bij</h1>
+                    <div class="text-left">
+                        <h1 class="mt-3 mb-0 px-3 quote text-danger">wees er bij</h1>
                         <p class="text-justify">
-                            Op zoek naar tickets? Koop ze nu! Een camping ticket garandeert dat je een plaatsje op de camping krijgt. Tickets en prijzen kan je <a class="text-danger" href="/en/tickets/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>hier</a> vinden.
+                            Op zoek naar tickets? Koop ze nu! Een camping ticket garandeert dat je een plaatsje op de camping krijgt. Tickets en prijzen kan je <a href="/en/tickets/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>hier</a> vinden.
                         </p>
                     </div>
                 </div>
