@@ -11,7 +11,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <div class="container content">
             <div class="row justify-content-center">
-                <div class="col-12 col-md-7 my-md-3">
+                <div class="col-12 col-md-8 my-md-3">
                     <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Irie Vibes Roots Festival</h1><br/>
                     <div class="text-left text-success">
                         <h1 class="mt-md-3 mb-0 px-3 quote">back to the roots</h1>
@@ -31,7 +31,7 @@
                         </p>
                     </div>
                 </div>
-                <div id="lineup" class="col-12 col-md-5">
+                <div id="lineup" class="col-12 col-md-4">
                     <div class="row py-2 mb-3 border border-lg border-success rounded bg-img">
                         <div class="col-12"><p class="text-center bg-success rounded text-white">Lion's Den</p></div>
                         <div class="col-12">
