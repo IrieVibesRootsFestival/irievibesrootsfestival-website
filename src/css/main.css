@@ -368,3 +368,7 @@ header {
 }
 
 .dropdown-toggle{padding-left:2px;}
+
+.w-80{
+    width:80%!important;
+}
