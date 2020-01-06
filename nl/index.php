@@ -31,7 +31,7 @@
                         </p>
                     </div>
                 </div>
-                
+
                 <div class="col-12 col-md-4" id="lineup">
                     <div class="row py-2 mb-3 border border-lg border-success rounded bg-img">
                         <div class="col-12"><p class="text-center bg-success rounded text-white">Lion's Den</p></div>
@@ -47,9 +47,6 @@
                     <div id="slider-wrapper" class="p-2 mb-2 rounded">
                         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/content/slider.php');?>
                     </div>
-
-                    <h3 class="text-irie"><b>Realtime updates</b></h3>
-                    <a class="twitter-timeline" data-height="380" data-theme="light" data-link-color="#8e142f" href="https://twitter.com/irievibesupdate?ref_src=twsrc%5Etfw" data-chrome="nofooter noborders noscrollbar"></a>
                     <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Aftermovie</h1>
                     <div id="slider-wrapper" class="rounded p-2 mb-1">
                         <style>.embed-container { position: relative; padding-bottom: 43%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/371957649?autoplay=1&portrait=false&muted=true' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
@@ -59,6 +56,10 @@
                     <h3 class="text-irie"><b>Nieuws</b></h3>
                     <!--Inserted elements here -->
                     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/content/news-links.php');?>
+                </div>
+                <div class="col-12 col-md-6">
+                    <h3 class="text-irie"><b>Realtime updates</b></h3>
+                    <a class="twitter-timeline" data-height="380" data-theme="light" data-link-color="#8e142f" href="https://twitter.com/irievibesupdate?ref_src=twsrc%5Etfw" data-chrome="nofooter noborders noscrollbar"></a>
                 </div>
                 <div class="col-12"><h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">music unites</h1><br/></div>
             </div> 
