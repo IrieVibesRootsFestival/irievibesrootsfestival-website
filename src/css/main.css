@@ -96,12 +96,11 @@ header a{
     content:"";
 }
 
-/*Leave some space between the content and the navbar*/
+/*Leave some space between the content and the navbar+footer*/
 .content{
     /*padding-top: 35px;*/
     padding-top: 15px;
-    padding-bottom: 35px;
-    top:45px;
+    padding-bottom: 15px;
 }
 
 .btn p{
@@ -290,10 +289,6 @@ footer .footer-nav ul.list a:hover { color:rgba(255,255,255,0.60); text-decorati
 /*MEDIA QUERRIES*/
 /*ONLY RUN ON SMALL SCREEN*/
 @media only screen and (max-width : 768px) {
-    .content {
-        padding-top: 12px;
-        padding-bottom: 20px;
-    }
     .display-7{
         font-size: 2.5rem;
         line-height: 1.1;
