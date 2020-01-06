@@ -44,7 +44,7 @@
             </div>
         </div>
     </div>
-    <!-- Inner Circle -->
+    <!-- Little Lion -->
     <div id="stage-little-lion" class="col-12 col-lg-6">
         <div class="row py-2 mb-3 border border-lg border-warning rounded bg-img">
             <div class="col-12"><p class="bg-warning text-center rounded text-white">Little Lion</p></div>
