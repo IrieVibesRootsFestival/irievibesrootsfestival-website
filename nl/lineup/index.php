@@ -31,7 +31,7 @@
                     <!-- Thursday-->
                     <a id="lineup-thursday"></a>
                     <h3 class="text-irie text-uppercase">
-                        <b>Donderdag (Kortemark Congé) 
+                        <b>Donderdag <span class="p">(Kortemark Congé)</span>
                             <a href="/nl/lineup/kortemark-conge/">
                                 <i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>
                             </a>
