@@ -60,7 +60,7 @@
                 </div>
                 <div class="col-12 col-md-4">
                     <h3 class="text-irie"><b>Realtime updates</b></h3>
-                    <a class="twitter-timeline" data-height="380" data-theme="light" data-link-color="#8e142f" href="https://twitter.com/irievibesupdate?ref_src=twsrc%5Etfw" data-chrome="nofooter noborders noscrollbar"></a>
+                    <a class="twitter-timeline" data-height="320" data-theme="light" data-link-color="#8e142f" href="https://twitter.com/irievibesupdate?ref_src=twsrc%5Etfw" data-chrome="nofooter noborders noscrollbar"></a>
                 </div>
             </div> 
         </div>
