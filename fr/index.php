@@ -60,12 +60,12 @@
                     </div>
                 </div>
                 <div class="col-12"><h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">music unites</h1><br/></div>
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-8">
                     <h3 class="text-irie"><b>Nouvelles</b></h3>
                     <!--Inserted elements here -->
                     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/content/news-links.php');?>  
                 </div>
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-4">
                     <h3 class="text-irie"><b>Mises à jour</b></h3>
                     <a class="twitter-timeline" data-height="380" data-theme="light" data-link-color="#8e142f" href="https://twitter.com/irievibesupdate?ref_src=twsrc%5Etfw" data-chrome="nofooter noborders noscrollbar"></a>
                 </div>
