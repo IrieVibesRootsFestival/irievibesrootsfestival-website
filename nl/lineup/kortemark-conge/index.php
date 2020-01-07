@@ -6,7 +6,7 @@
         <meta property="og:title" content="Kortemark Congé Line-up"/>
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <br/>
         <div id="line-up" class="container">
@@ -17,7 +17,7 @@
             <?php include($_SERVER['DOCUMENT_ROOT'].'/src/lineup/thursday.php');?>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_en.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
