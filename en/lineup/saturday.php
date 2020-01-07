@@ -1,6 +1,6 @@
 <div id="lineup" class="row text-center">
     <!-- Lion's Den -->
-    <div id="stage-lions-den" class="col-md-6 col-lg-6">
+    <div id="stage-lions-den" class="col-12 col-lg-6">
         <div class="row py-2 mb-3 border border-lg border-success rounded bg-img">
             <div class="col-12"><p class="text-center bg-success rounded text-white">Lion's Den</p></div>
             <div class="col-12">
