@@ -373,6 +373,6 @@ header {
     width:80%!important;
 }
 
-p text-shadow{
+p .text-shadow{
     text-shadow: rgba(160, 169, 70, 0.73) 1px 1px 0px;
 }
