@@ -17,23 +17,23 @@
                         <h1 class="mt-md-3 mb-0 px-3 quote">back to the roots</h1>
                         <p class="text-justify">
                             Irie Vibes gaat terug naar waar het allemaal begon. Irie Vibes 2020 zal opnieuw een terugblik zijn naar onze roots, herinneringen en gebeurend. We nodigen je uit om deel uit te maken van het <b>Irie Vibes back to the Roots Festival 2020</b>, waar hoofd, hart en lichaam samen komen in een fantastisch spektakel van kleur en geluid. Mis geen enkele drumslag! Plaats een bookmark van onze
-                            <a class="text-success" href="/en/lineup/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>line-up pagina</a> op je startscherm. Irie!
+                            <a class="text-success" href="/nl/lineup/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>line-up pagina</a> op je startscherm. Irie!
                         </p>
                     </div>
                     <div class="text-md-right text-warning">
                         <h1 class="mt-3 mb-0 px-3 quote">one love</h1>
-                        <p class="text-justify text-md-right text-shadow">Hier bij Irie Vibes is familie belangrijk. Als een grote familie die bouwt naar een nóg grotere toekomst. Zonder hulp van mensen zoals jij zou het onmogelijk zijn om deze droom waar te maken. Mash down! Ga naar de <a class="text-warning" href="/en/info/volunteers/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>vrijwilligers pagina</a> om te kijken als het iets voor jou is. Family thing!</p>
+                        <p class="text-justify text-md-right text-shadow">Hier bij Irie Vibes is familie belangrijk. Als een grote familie die bouwt naar een nóg grotere toekomst. Zonder hulp van mensen zoals jij zou het onmogelijk zijn om deze droom waar te maken. Mash down! Ga naar de <a class="text-warning" href="/nl/info/volunteers/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>vrijwilligers pagina</a> om te kijken als het iets voor jou is. Family thing!</p>
                     </div>
                     <div class="text-left text-danger">
                         <h1 class="mt-3 mb-0 px-3 quote ">wees er bij</h1>
                         <p class="text-justify">
-                            Op zoek naar tickets? Koop ze nu! Een camping ticket garandeert dat je een plaatsje op de camping krijgt. Tickets en prijzen kan je <a class="text-danger" href="/en/tickets/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>hier</a> vinden.
+                            Op zoek naar tickets? Koop ze nu! Een camping ticket garandeert dat je een plaatsje op de camping krijgt. Tickets en prijzen kan je <a class="text-danger" href="/nl/tickets/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>hier</a> vinden.
                         </p>
                     </div>
                 </div>
 
                 <div class="col-12 col-md-4" id="lineup">
-                    <div class="row py-2 mb-3 border border-lg border-success rounded bg-img">
+                    <div class="row py-2 my-3 border border-lg border-success rounded bg-img">
                         <div class="col-12"><p class="text-center bg-success rounded text-white">Lion's Den</p></div>
                         <div class="col-12">
                             <div class="text-white bg-dark px-1 rounded h4">TEASER</div>

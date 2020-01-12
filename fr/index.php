@@ -17,22 +17,22 @@
                         <h1 class="mt-md-3 mb-0 px-3 quote">back to the roots</h1>
                         <p class="text-justify">
                             Irie Vibes retourne là où tout a commencé. Irie Vibes 2020 sera à nouveau une rétrospective de nos racines, souvenirs et événements. Nous vous invitons à faire partie du <b>retour d'Irie Vibes au festival Roots 2020</b>, où la tête, le cœur et le corps se rencontrent dans un fantastique spectacle de couleurs et de sons.
-                            Placez un signet de notre <a class="text-success" href="/en/lineup/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>page de line-up</a> sur votre écran d'accueil. Irie!
+                            Placez un signet de notre <a class="text-success" href="/fr/lineup/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>page de line-up</a> sur votre écran d'accueil. Irie!
                         </p>
                     </div>
                     <div class="text-md-right text-warning">
                         <h1 class="mt-3 mb-0 px-3 quote">one love</h1>
-                        <p class="text-justify text-md-right">Ici chez Irie Vibes, la famille est importante. Comme une grande famille qui construit pour un avenir encore plus grand. Sans l'aide de personnes comme vous, il serait impossible de réaliser ce rêve. Mash Down! Allez sur la <a class="text-warning" href="/en/info/volunteers/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>page des bénévoles</a> pour voir si c'est pour vous. Family thing!</p>
+                        <p class="text-justify text-md-right">Ici chez Irie Vibes, la famille est importante. Comme une grande famille qui construit pour un avenir encore plus grand. Sans l'aide de personnes comme vous, il serait impossible de réaliser ce rêve. Mash Down! Allez sur la <a class="text-warning" href="/fr/info/volunteers/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>page des bénévoles</a> pour voir si c'est pour vous. Family thing!</p>
                     </div>
                     <div class="text-left text-danger">
                         <h1 class="mt-3 mb-0 px-3 quote ">être là</h1>
                         <p class="text-justify">
-                            Vous cherchez des billets? Achetez-les maintenant! Un ticket de camping vous garantit une place au camping. Les billets et les prix peuvent être trouvés <a class="text-danger" href="/en/tickets/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>ici</a>.
+                            Vous cherchez des billets? Achetez-les maintenant! Un ticket de camping vous garantit une place au camping. Les billets et les prix peuvent être trouvés <a class="text-danger" href="/fr/tickets/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>ici</a>.
                         </p>
                     </div>
                 </div>
                 <div id="lineup" class="col-12 col-md-4">
-                    <div class="row py-2 mb-3 border border-lg border-success rounded bg-img">
+                    <div class="row py-2 my-3 border border-lg border-success rounded bg-img">
                         <div class="col-12"><p class="text-center bg-success rounded text-white">Lion's Den</p></div>
                         <div class="col-12">
                             <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
