@@ -9,7 +9,7 @@
     </div>
     <!-- Title & Text -->
     <div class="col-12 col-md-8 mt-2">
-        <a href="/src/img/news/reggae-be-irie-vibes-2019-de-tweede-jeugd-van-een-festival.webp"><h4>Nieuwsbrief </h4></a>
+        <a href="https://mailchi.mp/33d5a121dafa/nieuwsbrief-september-3776469"><h4>Nieuwsbrief </h4></a>
         <small>De Irie Vibes nieuwsbrief van Januari 2020.</small>
     </div>
     <!-- Image -->
