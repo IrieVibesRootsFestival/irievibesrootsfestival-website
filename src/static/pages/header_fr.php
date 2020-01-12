@@ -29,10 +29,8 @@
                             <li><a class="nav-link drop-2" href="/en/location/">Emplacement</a></li>
                             <li><a class="nav-link drop-2" href="/fr/festival/rules/">Règles</a></li>
                             <li><a class="nav-link drop-2" href="/fr/festival/camping/">Camping et Parking</a></li>
-                            <!--
-<li><a class="nav-link drop-2" href="/fr/festival/merchandise/">Merchandise</a></li>
--->
-                            <li><a class="nav-link drop-2" href="/fr/info/vrijwilligers/">Bénévoles</a></li>
+                            <li><a class="nav-link drop-2" href="/fr/festival/services/">Les services</a></li>
+                            <li><a class="nav-link drop-2" href="/fr/info/vokunteers/">Bénévoles</a></li>
                             <li><a class="nav-link drop-2" href="/fr/festival/food-shops/">(non)Food Shops</a></li>
                             <li><a class="nav-link drop-2" href="/fr/festival/transport/">Transport</a></li>
                             <li><a class="nav-link drop-2" href="/fr/festival/safety/">Sécurité</a></li>

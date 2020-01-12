@@ -27,11 +27,9 @@
                         <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/en/location/">Location</a></li>
-                            <li><a class="nav-link drop-2" href="/en/festival/rules/">Festival Rules</a></li>
+                            <li><a class="nav-link drop-2" href="/en/festival/rules/">Festival Rules</a></li>                            
                             <li><a class="nav-link drop-2" href="/en/festival/camping/">Camping & Parking</a></li>
-                            <!--
-<li><a class="nav-link drop-2" href="/en/festival/merchandise/">Merchandise</a></li>
--->
+                            <li><a class="nav-link drop-2" href="/en/festival/services/">Services</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/volunteers/">Volunteers</a></li>
                             <li><a class="nav-link drop-2" href="/en/festival/food-shops/">(non)Food Shops</a></li>
                             <li><a class="nav-link drop-2" href="/en/festival/transport/">Transport</a></li>

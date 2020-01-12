@@ -29,6 +29,7 @@
                             <li><a class="nav-link drop-2" href="/nl/location/">Locatie</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/rules/">Festivalregels</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/camping/">Camping en Parking</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/festival/services/">Voorzieningen</a></li>
                             <li><a class="nav-link drop-2" href="/nl/info/volunteers/">Vrijwilligers</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/food-shops/">(non)Food Shops</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/transport/">Transport</a></li>
