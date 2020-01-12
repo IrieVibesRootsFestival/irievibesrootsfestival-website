@@ -115,9 +115,3 @@ a:hover{color: #bc0939;}
     margin-top:10px;
     color: #4F0112;
 }
-
-/*Font-awesome alignment*/
-.fa-shopping-cart,
-.fa-home{
-    padding-top:0.2rem;
-}

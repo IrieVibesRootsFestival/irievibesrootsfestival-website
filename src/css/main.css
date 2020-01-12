@@ -373,6 +373,12 @@ header {
     width:80%!important;
 }
 
-p .text-shadow{
-    text-shadow: rgba(160, 169, 70, 0.73) 1px 1px 0px;
+#home-text .text-warning{
+    color: #e6b82e;
+}
+
+/*Font-awesome alignment*/
+.fa-shopping-cart,
+.fa-home{
+    padding-top:0.2rem;
 }
