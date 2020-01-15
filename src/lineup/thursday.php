@@ -3,7 +3,7 @@
     <div id="stage-lions-den" class="col-12 col-lg-6">
         <div class="row py-2 mb-3 border border-lg border-success rounded bg-img">
             <div class="col-12"><p class="bg-success text-center rounded text-white">Lion's Den</p></div>
-            <div class="col-12"> <!--Change to Col-6 when teaser is over-->
+            <div class="col-6">
                 <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
                 <picture>
                     <source srcset="/src/img/artists/jungle-roots.webp" type="image/webp">
@@ -11,6 +11,16 @@
                     <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/jungle-roots.jpg"/>
                 </picture>
                 <a class="d-block text-center pt-2" href="https://vi.be/jungleroots">Jungle Roots</a>
+            </div>
+        </div>
+        <div class="col-6">
+                <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
+                <picture>
+                    <source srcset="/src/img/artists/oxala-tamtam.webp" type="image/webp">
+                    <source srcset="/src/img/artists/oxala-tamtam.jpg" type="image/jpeg">
+                    <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/oxala-tamtam.jpg"/>
+                </picture>
+                <a class="d-block text-center pt-2" href="https://vi.be/jungleroots">Oxala Tamtam</a>
             </div>
         </div>
     </div>
