@@ -23,7 +23,7 @@
                         <div class="btn-group-vertical d-flex text-box rounded">
                             <h3 class="text-irie mx-auto">Animation</h3>
                             <a class="btn" href="#"><p>Workshops</p></a>
-                            <a class="btn" href="#"><p>Parleurs</p></a>
+                            <a class="btn" href="#"><p>Les orateurs</p></a>
                         </div>
                     </div>
                 </div>
