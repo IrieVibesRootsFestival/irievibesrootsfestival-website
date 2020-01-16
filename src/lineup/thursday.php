@@ -14,14 +14,13 @@
             </div>
         </div>
         <div class="col-6">
-                <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
-                <picture>
-                    <source srcset="/src/img/artists/oxala-tamtam.webp" type="image/webp">
-                    <source srcset="/src/img/artists/oxala-tamtam.jpg" type="image/jpeg">
-                    <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/oxala-tamtam.jpg"/>
-                </picture>
-                <a class="d-block text-center pt-2" href="https://vi.be/jungleroots">Oxala Tamtam</a>
-            </div>
+            <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
+            <picture>
+                <source srcset="/src/img/artists/oxala-tamtam.webp" type="image/webp">
+                <source srcset="/src/img/artists/oxala-tamtam.jpg" type="image/jpeg">
+                <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/oxala-tamtam.jpg"/>
+            </picture>
+            <a class="d-block text-center pt-2" href="https://vi.be/jungleroots">Oxala Tamtam</a>
         </div>
     </div>
     <!-- Open Air -->
