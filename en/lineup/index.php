@@ -1,38 +1,63 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
-        <title>Line Up - Irie Vibes</title>
-        <meta property="og:title" content="Line Up"/>
+        <title>Line-up - Irie Vibes</title>
+        <meta property="og:title" content="Line-up Index"/>
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
-        <br/>
-        <div id="line-up" class="container">
-            <div class="text-center">
-                <div class="btn-group mb-1" role="group" aria-label="Nav-button">
-                    <button class="btn btn-filter" data-toggle="collapse" data-target="#day1"><p>Thursday</p></button>
-                    <button class="btn btn-filter" data-toggle="collapse" data-target="#day2"><p>Friday</p></button>
-                    <button class="btn btn-filter" data-toggle="collapse" data-target="#day3"><p>Saturday</p></button>
+        <div id="lineup-home" class="container content">
+            <h3 class="display-7 text-center pb-2">Line up Index</h3>
+            <div class="row">
+                <div class="col-12 col-lg-3 order-lg-2">
+                    <div class="text-box-2 rounded sticky-top mt-1">
+                        <div class="btn-group-vertical d-flex text-box rounded mb-2">
+                            <h3 class="text-irie mx-auto">Music</h3>
+                            <a class="btn" href="#lineup-thursday"><p>Thursday</p></a>
+                            <a class="btn" href="#lineup-friday"><p>Friday</p></a>
+                            <a class="btn" href="#lineup-saturday"><p>Saturday</p></a>
+                        </div>
+                        <div class="btn-group-vertical d-flex text-box rounded">
+                            <h3 class="text-irie mx-auto">Animation</h3>
+                            <a class="btn" href="#"><p>Workshops</p></a>
+                            <a class="btn" href="#"><p>Speakers</p></a>
+                        </div>
+                    </div>
                 </div>
-                <span class="d-block m-1"></span>
-                <div class="btn-group mb-3" role="group" aria-label="Nav-button">
-                    <button type="button" class="btn btn-success text-white"><a href="#stage_tent">Lion's Den</a></button>
-                    <button type="button" class="btn btn-danger text-white"><a href="#stage_air">Open Air</a></button>
-                    <button type="button" class="btn btn-sand text-white"><a href="#stage_tent_outside">Inner Circle</a></button> 
-                    <button type="button" class="btn btn-warning text-white"><a href="#stage_kids">Little Lion</a></button>
-                </div>
-            </div>
-            <div class="accordion-group">
-                <div class="collapse show" id="day1" data-parent="#line-up">
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/kortemark-conge/core_lineup.php');?>
-                </div>
-                <div class="collapse" id="day2" data-parent="#line-up">
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/friday.php');?>
-                </div>
-                <div class="collapse" id="day3" data-parent="#line-up">
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'/en/lineup/saturday.php');?>
+                <div class="col-12 col-lg-9">
+                    <!-- Thursday-->
+                    <a id="lineup-thursday"></a>
+                    <h3 class="text-irie text-uppercase">
+                        <b>Thursday <span class="p">(Kortemark Congé)</span>
+                            <a href="/en/lineup/kortemark-conge/">
+                                <i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>
+                            </a>
+                        </b>
+                    </h3>
+                    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/lineup/thursday.php');?>
+                    <!-- Friday-->
+                    <a id="lineup-friday"></a>
+                    <h3 class="text-irie text-uppercase">
+                        <b>Friday 
+                            <a href="/en/lineup/friday/">
+                                <i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>
+                            </a>
+                        </b>
+                    </h3>
+                    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/lineup/friday.php');?>
+                    <!-- Saturday-->
+                    <a id="lineup-saturday"></a>
+                    <h3 class="text-irie text-uppercase">
+                        <b>Saturday 
+                            <a href="/en/lineup/saturday/">
+                                <i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>
+                            </a>
+                        </b>
+                    </h3>
+                    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/lineup/saturday.php');?>
                 </div>
             </div>
         </div>
@@ -41,11 +66,4 @@
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
-    <script src="/src/js/modernizr.js"></script>
-    <script src="/src/js/timetable.js"></script>
-    <!-- Initialize Tooltips--><script>
-    $(function () {
-        $('[data-toggle="popover"]').popover()
-    })
-    </script>
 </html>
