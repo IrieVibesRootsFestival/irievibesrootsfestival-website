@@ -3,11 +3,11 @@
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Location - Irie Vibes</title>
-        <meta property="og:title" content="Festival Location"/>
-        <meta property="og:description" content="Find the location of our festival terrain, camping and more." />
+        <meta property="og:title" content="Location de festival"/>
+        <meta property="og:description" content="Ils se trouve ici le location de terrain festival" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div id="location" class="container text-center content">
             <br/>
@@ -17,7 +17,7 @@
             <h2>Koekelarestraat 16, 8610 Kortemark</h2><br/>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_en.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
