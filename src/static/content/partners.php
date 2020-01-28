@@ -131,3 +131,17 @@
         </a>
     </div>
 </div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="https://www.facebook.com/aardbeiendavidenangie">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/davidenangie.jpg" alt="David & Angie">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="http://www.pepsico.be/ons-bedrijf">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/pepsico.jpg" alt="Pepsico">
+        </a>
+    </div>
+</div>
