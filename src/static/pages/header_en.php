@@ -1,7 +1,7 @@
 
 <!-- The header contains everything that displays as or above the nav-bar -->
 <header>
-    <div class="text-center py-2" id="banner-date">
+    <div class="text-center py-3" id="banner-date">
         <p class="text-white text-uppercase m-0"><b> 16 - 17 - 18 July 2020 // Thursday free entry</b></p>
     </div>
     <!--HEADER IMAGE-->
