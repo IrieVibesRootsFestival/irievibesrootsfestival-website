@@ -381,3 +381,8 @@ header {
 .fa-home{
     padding-top:0.2rem;
 }
+
+#banner-date {
+    background-color:rgba(255,255,255,0.1);
+    box-shadow: 0 0px 12px 1px rgba(255,255,255,0.1);
+}
