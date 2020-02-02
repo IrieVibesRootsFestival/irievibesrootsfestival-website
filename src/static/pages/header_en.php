@@ -1,7 +1,7 @@
 
 <!-- The header contains everything that displays as or above the nav-bar -->
 <header>
-    <div class="text-center py-2 row" id="banner-date">
+    <div class="text-center my-3 row" id="banner-date">
         <!--Hashtag info-->
         <div class="col-12 col-lg-3">
             <p class="text-white m-0"><i>#worldmarkets #ital #roots</i></p></div>
