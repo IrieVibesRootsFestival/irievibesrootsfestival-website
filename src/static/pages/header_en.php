@@ -1,6 +1,9 @@
 
 <!-- The header contains everything that displays as or above the nav-bar -->
 <header>
+    <div class="bg-light text-center p-2">
+        <p class="text-irie"> 16 - 17 - 18 July 2020 // Thursday free entry</p>
+    </div>
     <!--HEADER IMAGE-->
     <div id="banner">
         <img src="/src/img/banner-logo.svg" 
