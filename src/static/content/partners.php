@@ -145,3 +145,94 @@
         </a>
     </div>
 </div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="https://www.facebook.com/aardbeiendavidenangie">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/davidenangie.jpg" alt="David & Angie">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="https://winkels.carrefour.eu/nl/s/carrefour/carrefour-market-kortemark/358">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/carrefourkortemark.jpg" alt="Carrefour">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="https://kantoorvolcke.be/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/crelan.jpg" alt="Kantoor Volcke-Hoornaert-Willaert">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="http://www.in-print.be/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/inprint.jpg" alt="Drukkerij Inprint">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="https://www.kbc.be/retail/en/branch/8217-KORTEMARK-MARKT-22.html">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/kbc.jpg" alt="KBC">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="http://www.realtimesystems.be/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/realtimesystems.jpg" alt="Realtime Systems">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="http://www.rojo.be/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/rojo.jpg" alt="Drankencenter Rojo">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="verspuntkortemark.be">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/verspuntkortemark.jpg" alt="Verspunt Kortemark">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="http://www.aes-services.be/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/aes.jpg" alt="AES-ATB">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="https://www.worldwineweb.be/nl">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/wwinew.jpg" alt="WorldWineWeb">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="https://prearis.be/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/cannahopper.jpg" alt="Cannahoppper">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="http://www.bloemenweelde-kortemark.be/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/bloemenweelde.jpg" alt="Bloemen Decleir / Bloemenweelde">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="https://www.biotopeco.be/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/biotop.jpg" alt="Biotop">
+        </a>
+    </div>
+</div>
