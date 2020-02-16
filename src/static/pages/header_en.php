@@ -1,13 +1,14 @@
-
 <!-- The header contains everything that displays as or above the nav-bar -->
 <header>
     <div class="text-center mb-3 row" id="banner-date">
         <!--Hashtag info-->
         <div class="col-12 col-lg-4">
-            <p class="text-white m-0"><i>#worldmarkets #ital #roots</i></p></div>
+            <p class="text-white m-0"><i>#worldmarkets #ital #roots</i></p>
+        </div>
         <!--Main middle info-->
         <div class="col-12 col-lg-4">
-            <p class="text-white text-uppercase m-0"><b> 16 - 17 - 18 July 2020 // Thursday free entry</b></p></div>
+            <p class="text-white text-uppercase m-0"><b> 16 - 17 - 18 July 2020 // Thursday free entry</b></p>
+        </div>
         <!--Hashtag info-->
         <div class="col-12 col-lg-4">
             <p class="text-white m-0"><i>#kids #family #reggae #dub</i></p>
