@@ -236,3 +236,17 @@
         </a>
     </div>
 </div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="http://www.twinsvervoer.be/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/twins.jpg" alt="Twins Vervoer">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="https://www.t-shirts-bedrukt.be/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/t-shirts-bedrukt.jpg" alt="T-Shirts-Bedrukt">
+        </a>
+    </div>
+</div>
