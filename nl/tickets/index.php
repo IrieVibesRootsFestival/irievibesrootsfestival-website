@@ -21,9 +21,7 @@
                     <div class="p-2 text-box-2 rounded">
                         <div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div>
                     </div>
-                </div>
-                <div class="col-12 col-md-6">
-                    <p class="mx-md-5">Woon je in Kortemark? Koop je tickets aan €10 per dag na het tonen van uw identiteitskaart. Meer info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
+                    <hr/>
                 </div>
                 <div id="tickets" class="col-12 col-md-6">
                     <h1>Voorverkoop-punten</h1>
@@ -36,6 +34,9 @@
                         <li><b>Torhout</b>: RoseHeart Tattoo</li>
                         <li><b>Brugge</b>: Vrijplaats Zundag</li>
                     </ul>
+                </div>
+                <div class="col-12 col-md-6">
+                    <p class="mx-md-5">Woon je in Kortemark? Koop je tickets aan €10 per dag na het tonen van uw identiteitskaart. Meer info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
                 </div>
             </div>
         </div>
