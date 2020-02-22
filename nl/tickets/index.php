@@ -22,10 +22,10 @@
                         <div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div>
                     </div>
                 </div>
-                <div class="col-12 py-3">
+                <div class="col-12 col-md-6">
                     <p class="mx-md-5">Woon je in Kortemark? Koop je tickets aan €10 per dag na het tonen van uw identiteitskaart. Meer info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
                 </div>
-                <div id="tickets" class="col-12">
+                <div id="tickets" class="col-12 col-md-6">
                     <h1>Voorverkoop-punten</h1>
                     <ul>
                         <li><b>Roeselare</b>: Barbier Steve</li>
