@@ -373,7 +373,7 @@ header {
 }
 
 #home-text .text-warning{
-    color: #e6b82e;
+    color: #e6b82e!important;
 }
 
 /*Font-awesome alignment*/
