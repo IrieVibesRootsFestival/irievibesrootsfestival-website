@@ -17,28 +17,27 @@
                     <h3 class="display-7 text-center m-1">Billets</h3>
                     <p class="text-center text-irie"><b>Juillet 16-17-18 2020</b></p>
                 </div>
-                <div class="col-12 rounded">
+                <div class="col-12 pb-2 rounded">
                     <div class="p-2 text-box-2 rounded">
                         <div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div>
                     </div>
                 </div>
-                <div class="col-12 py-3">
-                    <p class="mx-md-5">Êtes-vous un résident de Kortemark? 
-                        Obtenez vos billets à 10 € par jour sur présentation de votre identifiant.<br/> Pour plus d'informations: <a href="mailto:info@irievibes.be">info@irievibes.be</a></p>
+                <div id="tickets" class="col-12 col-md-6">
+                    <h1>Presale stores</h1>
+                    <ul>
+                        <li><b>Roulers</b>: Barbier Steve</li>
+                        <li><b>Handzame</b>: Drankencenter Rojo</li>
+                        <li><b>Werken</b>: Jeugdhuis De Zunne</li>
+                        <li><b>Dixmude</b>: 4AD</li>
+                        <li><b>Courtrai</b>: Zimba Shop</li>
+                        <li><b>Torhout</b>: RoseHeart Tattoo</li>
+                        <li><b>Bruges</b>: Vrijplaats Zundag</li>
+                    </ul>
                 </div>
-                <div id="tickets" class="col-12 text-center">
-                    <div id="tickets" class="container text-center">
-                        <h1>Emplacements de prévente</h1>
-                        <div class="row">
-                            <div class="col-6 col-md-2 p-1"><div class="rounded bg-white p-1"><a href="https://www.facebook.com/Muziekclub.4AD.Diksmuide/"><img alt="" class="rounded img-fluid" alt="4AD" src="/src/img/presale/4ad.jpg"></a><p class="my-1">Dixmude</p></div></div>
-                            <div class="col-6 col-md-2 p-1"><div class="rounded bg-white p-1"><a href="https://www.facebook.com/Zimbakortrijk/"><img alt="" class="rounded img-fluid" src="/src/img/presale/zimbashop.jpg"></a><p class="my-1">Courtrai</p></div></div>
-                            <div class="col-6 col-md-2 p-1"><div class="rounded bg-white p-1"><a href="http://www.rojo.be"><img alt="" class="rounded img-fluid" alt="Drankcenter Rojo" src="/src/img/presale/rojo.jpg"></a><p class="my-1">Handzame</p></div></div>
-                            <div class="col-6 col-md-2 p-1"><div class="rounded bg-white p-1"><a href="https://www.facebook.com/cafebotecogent/"><img alt="" class="rounded img-fluid" alt="Café Botègo" src="/src/img/presale/boteco.jpg"></a><p class="my-1">Gand</p></div></div>
-                            <div class="col-6 col-md-2 p-1"><div class="rounded bg-white p-1"><a href="https://www.facebook.com/Mr-Steve-barbershop-Roeselare-267312400351270/"><img alt="" class="rounded img-fluid" alt="Mr. Steve" src="/src/img/presale/mrsteve.jpg"></a><p class="my-1">Roulers</p></div></div>
-                            <div class="col-6 col-md-2 p-1"><div class="rounded bg-white p-1"><a href="https://www.facebook.com/Halte-5-707298666029005/"><img alt="" class="rounded img-fluid" alt="Café Halte 5" src="/src/img/presale/halte5.jpg"></a><p class="my-1">Bruges</p></div></div>
-                        </div>
-                        <br/>
-                    </div>
+                <div class="col-12 col-md-6">
+                    <h1>Korting</h1>
+                    <p>Êtes-vous un résident de Kortemark? 
+                        Obtenez vos billets à 10 € par jour sur présentation de votre identifiant.<br/> Pour plus d'informations: <a href="mailto:info@irievibes.be">info@irievibes.be</a></p>
                 </div>
             </div>
         </div>
