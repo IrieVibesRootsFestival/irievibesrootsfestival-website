@@ -35,7 +35,7 @@
                     </ul>
                 </div>
                 <div class="col-12 col-md-6">
-                    <h1>Korting</h1>
+                    <h1>Discounts</h1>
                     <p>Are you a resident from Kortemark? Get your tickets at €10 a day, upon showing your ID. <br/>For more info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
                 </div>
             </div>

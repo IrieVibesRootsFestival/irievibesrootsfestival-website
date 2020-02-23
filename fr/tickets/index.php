@@ -23,7 +23,7 @@
                     </div>
                 </div>
                 <div id="tickets" class="col-12 col-md-6">
-                    <h1>Presale stores</h1>
+                    <h1>Preventes</h1>
                     <ul>
                         <li><b>Roulers</b>: Barbier Steve</li>
                         <li><b>Handzame</b>: Drankencenter Rojo</li>
@@ -35,7 +35,7 @@
                     </ul>
                 </div>
                 <div class="col-12 col-md-6">
-                    <h1>Korting</h1>
+                    <h1>Remises</h1>
                     <p>Êtes-vous un résident de Kortemark? 
                         Obtenez vos billets à 10 € par jour sur présentation de votre identifiant.<br/> Pour plus d'informations: <a href="mailto:info@irievibes.be">info@irievibes.be</a></p>
                 </div>
