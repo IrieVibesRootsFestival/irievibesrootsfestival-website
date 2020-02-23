@@ -19,7 +19,7 @@
                     <source srcset="/src/img/artists/oxala-tamtam.jpg" type="image/jpeg">
                     <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/oxala-tamtam.jpg"/>
                 </picture>
-                <a class="d-block text-center pt-2" href="https://vi.be/jungleroots">Oxala Tamtam</a>
+                <a class="d-block text-center pt-2" href="https://www.facebook.com/oxala.tamtam">Oxala Tamtam</a>
             </div>
         </div>
     </div>
