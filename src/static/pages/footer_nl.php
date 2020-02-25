@@ -35,9 +35,9 @@
                         <form action="https://irievibes.us8.list-manage.com/subscribe/post?u=d99c4a0da87cf14cbb7acb09c&amp;id=ec0420bb34" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                             <div id="mc_embed_signup_scroll">
                                 <div class="form-group w-100">
-                                <label class="sr-only" for="subscribe-email">Email adres</label>
-                                <input type="text" value="" name="EMAIL" placeholder="Enter your email..." class="subscribe-email form-control required email" id="mce-EMAIL">
-                            </div>
+                                    <label class="sr-only" for="subscribe-email">Email adres</label>
+                                    <input type="text" value="" name="EMAIL" placeholder="Enter your email..." class="subscribe-email form-control required email" id="mce-EMAIL">
+                                </div>
                                 <div id="mce-responses" class="clear">
                                     <div class="response" id="mce-error-response" style="display:block"></div>
                                     <div class="response" id="mce-success-response" style="display:block"></div>
@@ -69,4 +69,12 @@
             </div>
         </div>
     </div>
+    <!-- START Bootstrap-Cookie-Alert -->
+    <div class="alert text-center cookiealert" role="alert">
+        <p class="d-inline">Wij gebruiken cookies om zeker te weten dat je een goede ervaring hebt op onze website</p>
+        <button type="button" class="btn btn-primary btn-sm acceptcookies" aria-label="Close">
+            Oké
+        </button>
+    </div>
+    <!-- END Bootstrap-Cookie-Alert -->
 </footer>

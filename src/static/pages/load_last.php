@@ -1,10 +1,3 @@
-<!-- START Bootstrap-Cookie-Alert -->
-<div class="alert text-center cookiealert" role="alert">
-    <p class="d-inline">We use cookies and javascript to make sure you're a happy festival visitor.</p>
-    <button type="button" class="btn btn-primary btn-sm acceptcookies" aria-label="Close">
-        Okay
-    </button>
-</div>
 <!-- END Bootstrap-Cookie-Alert -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>

@@ -69,4 +69,12 @@
             <div class="col-md-6 text-center d-block d-md-none"><p>Copyright &copy; - vzw GreenForward 2001-2020</p></div>
         </div>
     </div>
+     <!-- START Bootstrap-Cookie-Alert -->
+    <div class="alert text-center cookiealert" role="alert">
+        <p class="d-inline">We use cookies to ensure you have the best possible experience on our website</p>
+        <button type="button" class="btn btn-primary btn-sm acceptcookies" aria-label="Close">
+            Okay
+        </button>
+    </div>
+    <!-- END Bootstrap-Cookie-Alert -->
 </footer>
