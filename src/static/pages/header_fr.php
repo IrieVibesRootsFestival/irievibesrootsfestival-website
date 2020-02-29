@@ -47,6 +47,7 @@
                             <li><a class="nav-link drop-2" href="/fr/festival/food-shops/">(non)Food Shops</a></li>
                             <li><a class="nav-link drop-2" href="/fr/festival/transport/">Transport</a></li>
                             <li><a class="nav-link drop-2" href="/fr/festival/safety/">Sécurité</a></li>
+                            <li><a class="nav-link drop-2" href="/fr/info/eco/world-cleanup-day/">World Cleanup Day</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
@@ -75,6 +76,8 @@
                             <li><a class="nav-link drop-2" href="/fr/info/eco/groene-vent-award/"><i>Groene Vent</i></a></li>
                             <li><a class="nav-link drop-2" href="/fr/info/eco/clean-water/">Eau propre</a></li>
                             <li><a class="nav-link drop-2" href="/fr/info/eco/upcycling/">Upcycling</a></li>
+                            <li><a class="nav-link drop-2" href="/fr/info/eco/bewilg-het-landschap/">Bewilg Het Landschap</a></li>
+                            <li><a class="nav-link drop-2" href="/fr/info/eco/world-cleanup-day/">World Cleanup Day</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">

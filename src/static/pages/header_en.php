@@ -75,6 +75,8 @@
                             <li><a class="nav-link drop-2" href="/en/info/eco/groene-vent-award/"><i>Groene Vent</i></a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/clean-water/">Clean water</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/upcycling/">Upcycling</a></li>
+                            <li><a class="nav-link drop-2" href="/en/info/eco/bewilg-het-landschap/">Bewilg Het Landschap</a></li>
+                            <li><a class="nav-link drop-2" href="/en/info/eco/world-cleanup-day/">World Cleanup Day</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
