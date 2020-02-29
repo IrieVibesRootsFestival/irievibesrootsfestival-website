@@ -63,36 +63,36 @@
                         <img alt="" class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-1.jpg"/>
                     </picture>
                 </div>
-                <div class="col-6 col-md-3 p-1">
+                <div class="col-6 col-md-4 p-1">
                     <picture>
                         <source srcset="/src/img/eco/mooimakers/cleanup-day-3.webp" type="image/webp">
                         <source srcset="/src/img/eco/mooimakers/cleanup-day-3.jpg" type="image/jpeg">
                         <img alt="" class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-3.jpg"/>
                     </picture>
                 </div>
-                <!-- break line -->
-                <div class="col-6 col-md-3 p-1">
+                <div class="col-6 col-md-4 p-1">
                     <picture>
                         <source srcset="/src/img/eco/world-cleanup-day/tanzania-0.webp" type="image/webp">
                         <source srcset="/src/img/eco/world-cleanup-day/tanzania-0.jpg" type="image/jpeg">
                         <img alt="" class="img-fluid rounded" src="/src/img/eco/world-cleanup-day/tanzania-0.jpg"/>
                     </picture>
                 </div>
-                <div class="col-6 col-md-3 p-1">
+                <!-- break line -->
+                <div class="col-6 col-md-4 p-1">
                     <picture>
                         <source srcset="/src/img/eco/world-cleanup-day/tanzania-1.webp" type="image/webp">
                         <source srcset="/src/img/eco/world-cleanup-day/tanzania-1.jpg" type="image/jpeg">
                         <img alt="" class="img-fluid rounded" src="/src/img/eco/world-cleanup-day/tanzania-1.jpg"/>
                     </picture>
                 </div>
-                <div class="col-6 col-md-3 p-1">
+                <div class="col-6 col-md-4 p-1">
                     <picture>
                         <source srcset="/src/img/eco/world-cleanup-day/tanzania-2.webp" type="image/webp">
                         <source srcset="/src/img/eco/world-cleanup-day/tanzania-2.jpg" type="image/jpeg">
                         <img alt="" class="img-fluid rounded" src="/src/img/eco/world-cleanup-day/tanzania-2.jpg"/>
                     </picture>
                 </div>
-                <div class="col-6 col-md-3 p-1">
+                <div class="col-6 col-md-4 p-1">
                     <picture>
                         <source srcset="/src/img/eco/mooimakers/cleanup-day-poster.webp" type="image/webp">
                         <source srcset="/src/img/eco/mooimakers/cleanup-day-poster.jpg" type="image/jpeg">
