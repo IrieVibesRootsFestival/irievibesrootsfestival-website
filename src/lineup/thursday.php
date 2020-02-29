@@ -42,7 +42,7 @@
     <div id="stage-inner-circle" class="col-12 col-lg-6">
         <div class="row py-2 mb-3 border border-lg border-sand rounded bg-img">
             <div class="col-12"><p class="bg-sand text-center rounded text-white">Inner Circle</p></div>
-            <div class="col-12"> <!--Change to Col-6 when teaser is over-->
+            <div class="col-6"> <!--Change to Col-6 when teaser is over-->
                 <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
                 <picture>
                     <source srcset="/src/img/artists/bee-health.webp" type="image/webp">
