@@ -56,7 +56,7 @@
                         <img alt="" class="img-fluid rounded" src="/src/img/eco/mooimakers/cleanup-day-head.jpg"/>
                     </picture>
                 </div>
-                <div class="col-6 col-md-3 p-1">
+                <div class="col-6 col-md-4 p-1">
                     <picture>
                         <source srcset="/src/img/eco/mooimakers/cleanup-day-1.webp" type="image/webp">
                         <source srcset="/src/img/eco/mooimakers/cleanup-day-1.jpg" type="image/jpeg">
