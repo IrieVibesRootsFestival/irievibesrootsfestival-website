@@ -20,8 +20,8 @@
                     </div>
                 </div>
                 <!--Artist text-->
-                <div class="col-12">
-                    <div class="text-box-2 rounded sticky-top mt-1 row">
+                <div class="col-12 text-box-2">
+                    <div class="text-box rounded sticky-top mt-1 row">
                         <a id="lions-den"/>
                         <!-- Start artist -->
                         <div class="col-12 col-md-6" id="artist-jungle-roots">
