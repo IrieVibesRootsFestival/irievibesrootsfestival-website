@@ -10,7 +10,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div id="artists" class="container content">
             <h3 class="display-7 text-center">Artiesten</h3>
-            <div class="row d-none">
+            <div class="row">
                 <div class="col-12 px-3 text-center">
                     <div class="btn-group mb-3" role="group" aria-label="Nav-button">
                         <button type="button" class="btn btn-success text-white"><a href="#lions-den">Lion's Den</a></button>
@@ -112,6 +112,4 @@
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
-    <script src="/src/js/modernizr.js"></script>
-    <script src="/src/js/timetable.js"></script>
 </html>
