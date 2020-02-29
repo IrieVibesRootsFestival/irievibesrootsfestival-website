@@ -17,7 +17,7 @@
                     <p>Op 15 september 2018 hebben 18 miljoen vrijwilligers uit 157 landen hun krachten gebundeld om de planeet schoon te maken. Ook in België hebben honderden organisaties en duizenden vrijwilligers zich via deze website geregistreerd en hebben ze ons land schoongemaakt. Dat was slechts de eerste keer – in 2019, op 21 september, hebben meer dan 330 acties en 20.000 mensen in België opgeruimd! Dankjewel iedereen!</p>
                     <h3 class="text-irie">Volgende World Cleanup Day: 19/09/2020</h3>
                 </div>
-                <div class="col-12 col-md-3"><img alt="" class="img-fluid rounded" src="/src/img/partners/mooimakers.jpg"/></div>
+                <div class="col-12 col-md-3"><img alt="" class="img-fluid rounded" src="/src/img/greenforward.png"/></div>
             </div>
             <!-- Mooimakers Pictures -->
             <div class="row">
