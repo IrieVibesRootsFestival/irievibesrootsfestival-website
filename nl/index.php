@@ -60,7 +60,7 @@
                 </div>
                 <div class="col-12 col-md-4">
                     <h3 class="text-irie"><b>Realtime updates</b></h3>
-                    <div class="fb-page" data-href="https://www.facebook.com/IrieVibesRootsFesitval" data-tabs="timeline" data-width="" data-height="350" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
+                    <div class="fb-page rounded" data-href="https://www.facebook.com/IrieVibesRootsFesitval" data-tabs="timeline" data-width="" data-height="350" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
                 </div>
             </div> 
         </div>
