@@ -60,7 +60,7 @@
                 </div>
                 <div class="col-12 col-md-4">
                     <h3 class="text-irie"><b>Realtime updates</b></h3>
-                    <a class="twitter-timeline" data-height="320" data-theme="light" data-link-color="#8e142f" href="https://twitter.com/irievibesupdate?ref_src=twsrc%5Etfw" data-chrome="nofooter noborders noscrollbar"></a>
+                    <div class="fb-page" data-href="https://www.facebook.com/IrieVibesRootsFesitval" data-tabs="timeline" data-width="" data-height="350" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
                 </div>
             </div> 
         </div>
@@ -69,5 +69,5 @@
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <div id="fb-root"></div> <script async defer crossorigin="anonymous" src="https://connect.facebook.net/nl_BE/sdk.js#xfbml=1&version=v6.0"></script>
 </html>
