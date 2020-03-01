@@ -1,10 +1,11 @@
-<!DOCTYPE html><html lang="nl">
+<!DOCTYPE html>
+<html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>World Cleanup Day - Irie Vibes</title>
-        <meta property="og:title" content="Our participation in the World Cleanup Day"/>
-        <meta property="og:description" content="We participated in the World Cleanup day on September 21st" />
+        <meta property="og:title" content="Notre participation à la Journée mondiale du nettoyage"/>
+        <meta property="og:description" content="Nous avons participé à la journée mondiale de nettoyage le 21 septembre" />
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
