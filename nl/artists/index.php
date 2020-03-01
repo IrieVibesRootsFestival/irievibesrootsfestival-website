@@ -26,7 +26,7 @@
                             <div class="row p-1">
                                 <!--<a class="col-12" id="lions-den"/>-->
                                 <!-- Start artist -->
-                                <div class="col-12 col-md-6" id="artist-jungle-roots">
+                                <div class="col-12" id="artist-jungle-roots">
                                     <div class="row">
                                         <!--Artist picture-->
                                         <div class="col-12 col-md-4"> 
@@ -45,7 +45,7 @@
                                 </div>
                                 <!-- End artist -->
                                 <!-- Start artist -->
-                                <div class="col-12 col-md-6" id="artist-the-resonators">
+                                <div class="col-12" id="artist-the-resonators">
                                     <div class="row">
                                         <!--Artist picture-->
                                         <div class="col-12 col-md-4"> 
@@ -66,7 +66,7 @@
 
                                <!-- <hr/><a class="col-12" id="open-air"/>-->
                                 <!-- Start artist -->
-                                <div class="col-12 col-md-6" id="artist-oxala-tamtam">
+                                <div class="col-12" id="artist-oxala-tamtam">
                                     <div class="row">
                                         <!--Artist picture-->
                                         <div class="col-12 col-md-4"> 
@@ -87,7 +87,7 @@
 
                                <!-- <hr/><a class="col-12" id="inner-circle"/>-->
                                 <!-- Start artist -->
-                                <div class="col-12 col-md-6" id="artist-bee-health">
+                                <div class="col-12" id="artist-bee-health">
                                     <div class="row">
                                         <!--Artist picture-->
                                         <div class="col-12 col-md-4"> 
