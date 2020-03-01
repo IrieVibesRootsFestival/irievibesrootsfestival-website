@@ -24,7 +24,7 @@
                     <div class="text-box-2 p-2 rounded">
                         <div class="text-box rounded sticky-top">
                             <div class="row p-1">
-                                <!--<a class="col-12" id="lions-den"/>-->
+                                <a class="col-12" id="lions-den"></a>
                                 <!-- Start artist -->
                                 <div class="col-12" id="artist-jungle-roots">
                                     <div class="row">
@@ -58,13 +58,13 @@
                                         <!--Artist text-->
                                         <div class="col-12 col-md-9"> 
                                             <h3>The Resonators</h3>
-                                            <p>Geleid door dual vocal powerhouse Faye Houstan en Kassia Zermon, neemt de negenkoppige band The Resonators ons mee op een geluids excursie die zich uitstrekt van licht en soulful, naar donker en gruizig.<br/>Tien jaar na hun start willen ze nog steeds iets positiefs in de wereld brengen.<br/>Door het formidabele vakmanschap van dub-ingenieur Darren Jamtone aan de besturing, bieden Resonators een krachtige, psychedelische en euforische ervaring, zowel op plaat als op het podium.  Bekendheid verwierven ze door hun geweldige liveshows en hun support acts voor grootheden zoals The Skatalites, Lee Scratch Perry, Jimmy Cliff, Fat Freddy’s Drop en Horace Andy om er maar een paar te noemen.<br/>Hun boodschap blijft er een van optimisme en het vermogen te overwinnen door liefde en groei.<br/><b>The Resonators, Zaterdag 18th July, Lion’s Den</b><br/><a href="https://www.youtube.com/watch?v=l52etcQJrO4">The Resonators on Youtube</a></p>
+                                            <p>Geleid door dual vocal powerhouse Faye Houstan en Kassia Zermon, neemt de negenkoppige band The Resonators ons mee op een geluids excursie die zich uitstrekt van licht en soulful, naar donker en gruizig.<br/>Tien jaar na hun start willen ze nog steeds iets positiefs in de wereld brengen.<br/>Door het formidabele vakmanschap van dub-ingenieur Darren Jamtone aan de besturing, bieden Resonators een krachtige, psychedelische en euforische ervaring, zowel op plaat als op het podium.  Bekendheid verwierven ze door hun geweldige liveshows en hun support acts voor grootheden zoals The Skatalites, Lee Scratch Perry, Jimmy Cliff, Fat Freddy’s Drop en Horace Andy om er maar een paar te noemen.<br/>Hun boodschap blijft er een van optimisme en het vermogen te overwinnen door liefde en groei.<br/><b>The Resonators, Zaterdag 18th July, Lion’s Den</b><br/><a href="https://www.youtube.com/watch?v=l52etcQJrO4">The Resonators op Youtube</a></p>
                                         </div>
                                     </div>
                                 </div>
                                 <!-- End artist -->
 
-                               <!-- <hr/><a class="col-12" id="open-air"/>-->
+                                <a class="col-12" id="open-air"><hr/></a>
                                 <!-- Start artist -->
                                 <div class="col-12" id="artist-oxala-tamtam">
                                     <div class="row">
@@ -85,7 +85,7 @@
                                 </div>
                                 <!-- End artist -->
 
-                               <!-- <hr/><a class="col-12" id="inner-circle"/>-->
+                               <a class="col-12" id="inner-circle"><hr/></a>
                                 <!-- Start artist -->
                                 <div class="col-12" id="artist-bee-health">
                                     <div class="row">
@@ -106,7 +106,7 @@
                                 </div>
                                 <!-- End artist -->
 
-                               <!-- <hr/><a class="col-12" id="little-lion"/>-->
+                               <a class="col-12" id="little-lion"><hr/></a>
                             </div>
                         </div>
                     </div>
