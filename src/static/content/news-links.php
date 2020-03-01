@@ -2,15 +2,15 @@
     <!-- Image -->
     <div class="col-12 col-md-4 mb-1 text-center">
         <picture>
-            <source srcset="/src/img/news/nieuwsbrief-september-3776469.webp" type="image/webp">
-            <source srcset="/src/img/news/nieuwsbrief-september-3776469.jpg" type="image/jpeg">
-            <img alt="" class="img-fluid rounded w-80" src="/src/img/news/nieuwsbrief-september-3776469.jpg"/>
+            <source srcset="/src/img/news/nieuwsbrief-februari-4141742.webp" type="image/webp">
+            <source srcset="/src/img/news/nieuwsbrief-februari-4141742.jpg" type="image/jpeg">
+            <img alt="" class="img-fluid rounded w-80" src="/src/img/news/nieuwsbrief-februari-4141742.jpg"/>
         </picture>
     </div>
     <!-- Title & Text -->
     <div class="col-12 col-md-8 mt-2">
-        <a href="https://mailchi.mp/33d5a121dafa/nieuwsbrief-september-3776469"><h4>Nieuwsbrief </h4></a>
-        <small>De Irie Vibes nieuwsbrief van Januari 2020.</small>
+        <a href="https://mailchi.mp/e1c3fd6c8a65/nieuwsbrief-februari-4141742"><h4>Nieuwsbrief Maart</h4></a>
+        <small>Meer info over Dub It Forward, Positivity Weekend foto's, ...</small>
     </div>
     <!-- Image -->
     <div class="col-12 col-md-4 text-center">
