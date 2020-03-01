@@ -24,7 +24,7 @@
                     <div class="text-box-2 p-1">
                         <div class="text-box rounded sticky-top">
                             <div class="row">
-                                <a class="col" id="lions-den"/>
+                                <a class="col-12" id="lions-den"/>
                                 <!-- Start artist -->
                                 <div class="col-12 col-md-6" id="artist-jungle-roots">
                                     <div class="row">
@@ -64,7 +64,7 @@
                                 </div>
                                 <!-- End artist -->
 
-                                <hr/><a class="col" id="open-air"/>
+                                <hr/><a class="col-12" id="open-air"/>
                                 <!-- Start artist -->
                                 <div class="col-12 col-md-6" id="artist-oxala-tamtam">
                                     <div class="row">
@@ -85,7 +85,7 @@
                                 </div>
                                 <!-- End artist -->
 
-                                <hr/><a class="col" id="inner-circle"/>
+                                <hr/><a class="col-12" id="inner-circle"/>
                                 <!-- Start artist -->
                                 <div class="col-12 col-md-6" id="artist-bee-health">
                                     <div class="row">
@@ -106,7 +106,7 @@
                                 </div>
                                 <!-- End artist -->
 
-                                <hr/><a class="col" id="little-lion"/>
+                                <hr/><a class="col-12" id="little-lion"/>
                             </div>
                         </div>
                     </div>
