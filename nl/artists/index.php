@@ -63,6 +63,25 @@
                                     </div>
                                 </div>
                                 <!-- End artist -->
+                                <!-- Start artist -->
+                                <div class="col-12" id="artist-the-resonators">
+                                    <div class="row">
+                                        <!--Artist picture-->
+                                        <div class="col-12 col-md-3"> 
+                                            <picture>
+                                                <source srcset="/src/img/artists/bounty-radio.webp" type="image/webp">
+                                                <source srcset="/src/img/artists/bounty-radio.jpg" type="image/jpeg">
+                                                <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/bounty-radio.jpg"/>
+                                            </picture>
+                                        </div>
+                                        <!--Artist text-->
+                                        <div class="col-12 col-md-9"> 
+                                            <h3>Bounty Radio</h3>
+                                            <p>...</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End artist -->
 
                                 <a class="col-12" id="open-air"><hr/></a>
                                 <!-- Start artist -->
@@ -85,7 +104,7 @@
                                 </div>
                                 <!-- End artist -->
 
-                               <a class="col-12" id="inner-circle"><hr/></a>
+                                <a class="col-12" id="inner-circle"><hr/></a>
                                 <!-- Start artist -->
                                 <div class="col-12" id="artist-bee-health">
                                     <div class="row">
@@ -106,7 +125,7 @@
                                 </div>
                                 <!-- End artist -->
 
-                               <a class="col-12" id="little-lion"><hr/></a>
+                                <a class="col-12" id="little-lion"><hr/></a>
                             </div>
                         </div>
                     </div>
