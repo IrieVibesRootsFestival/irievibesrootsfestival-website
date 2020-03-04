@@ -21,6 +21,15 @@
                 </picture>
                 <a class="d-block text-center pt-2" href="https://www.facebook.com/oxala.tamtam">Oxala Tamtam</a>
             </div>
+            <div class="col-6">
+                <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
+                <picture>
+                    <source srcset="/src/img/artists/bounty-radio.webp" type="image/webp">
+                    <source srcset="/src/img/artists/bounty-radio.jpg" type="image/jpeg">
+                    <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/bounty-radio.jpg"/>
+                </picture>
+                <a class="d-block text-center pt-2" href="https://vi.be/platform/bountyradio">Bounty Radio</a>
+            </div>
         </div>
     </div>
     <!-- Open Air -->
