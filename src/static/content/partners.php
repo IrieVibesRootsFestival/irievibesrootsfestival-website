@@ -189,8 +189,8 @@
 </div>
 <div class="col-6 col-sm-3 col-md-2 my-2">
     <div class="thumbnail">
-        <a href="http://www.aes-services.be/">
-            <img alt="" class="img-fluid rounded" src="/src/img/partners/aes.jpg" alt="AES-ATB">
+        <a href="https://www.dewofire.be/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/dewofire.jpg" alt="DewoFire">
         </a>
     </div>
 </div>
@@ -233,6 +233,48 @@
     <div class="thumbnail">
         <a href="https://www.t-shirts-bedrukt.be/">
             <img alt="" class="img-fluid rounded" src="/src/img/partners/t-shirts-bedrukt.jpg" alt="T-Shirts-Bedrukt">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="https://www.desotec.com/en">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/desotec.jpg" alt="Desotec">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="http://www.framefields.be/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/framefields.jpg" alt="Framefields">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="http://www.hoeves.be/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/ijzerweelde.jpg" alt="Vakantiehoeves Ijzerweelde Walleboom">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="https://www.oxfam.be/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/oxfam.jpg" alt="Oxfam">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="http://www.dedollebrouwers.be/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/dedollebrouwers.jpg" alt="De Dolle Brouwers">
+        </a>
+    </div>
+</div>
+<div class="col-6 col-sm-3 col-md-2 my-2">
+    <div class="thumbnail">
+        <a href="https://www.facebook.com/ElektroMaartenGotelaere/">
+            <img alt="" class="img-fluid rounded" src="/src/img/partners/maartengotelaere.jpg" alt="Elektro Maarten Gotelaere">
         </a>
     </div>
 </div>
