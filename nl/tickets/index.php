@@ -36,7 +36,11 @@
                 </div>
                 <div class="col-12 col-md-6">
                     <h1>Korting</h1>
-                    <p>Woon je in Kortemark? Koop je tickets aan €10 per dag na het tonen van uw identiteitskaart. Meer info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
+                    <ul>
+                    <li>Woon je in Kortemark? Koop je tickets aan €10 per dag na het tonen van uw identiteitskaart. </li>
+                        <li>Gratis toegang op vertoon van een vrijetijdspas of cultuurpas Kortemark</li>
+                    </ul>
+                    <p>Meer info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
                 </div>
             </div>
         </div>
