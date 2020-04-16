@@ -11,8 +11,12 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div class="container content">
             <div class="row justify-content-center">
-                <div class="col-12 bg-danger rounded">
-                    <h3 class="text-white">Dub It Forward 2 is geannuleerd uit gezondheids voorzorgen. Lees <a href="https://www.facebook.com/IrieVibesRootsFesitval/posts/1373333989535044">hier</a> meer.</h3>
+                <div class="col-12">
+                    <picture>
+                        <source srcset="/src/img/irie-vibes-cancelled.webp" type="image/webp">
+                        <source srcset="/src/img/irie-vibes-cancelled.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/irie-vibes-cancelled.jpg"/>
+                    </picture>
                 </div>
                 <div id="home-text" class="col-12 col-md-8 my-md-3">
                     <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Irie Vibes Roots Festival</h1><br/>
