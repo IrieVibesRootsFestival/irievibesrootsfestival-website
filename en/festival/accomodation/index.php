@@ -1,5 +1,5 @@
 <!DOCTYPE html><html lang="en">
-   <head>
+    <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Shops | Food & Gear - Irie Vibes</title>
@@ -123,15 +123,15 @@
                 </div>
             </div>
         </div>
-       <!-- Include Footer -->
+        <!-- Include Footer -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
     <script>
-    $(document).ready(function() {
-        // get current URL path and assign 'active' class
-        var pathname = window.location.pathname;
-        $('nav li > a[alt="/en/festival/"]').parent().addClass('active');
-    })</script>
+        $(document).ready(function() {
+            // get current URL path and assign 'active' class
+            var pathname = window.location.pathname;
+            $('nav li > a[alt="/en/festival/"]').parent().addClass('active');
+        })</script>
 </html>
