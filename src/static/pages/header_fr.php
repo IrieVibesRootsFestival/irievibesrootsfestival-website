@@ -7,7 +7,7 @@
             <p class="text-success m-0"><i>#worldmarkets #ital #roots</i></p></div>
         <!--Main middle info-->
         <div class="col-12 col-lg-4">
-            <p class="text-warning text-uppercase m-0"><b> 16 - 17 - 18 Juillet 2020 // Jeudi entrence gratuit</b></p>
+            <p class="text-warning text-uppercase m-0"><b> 15 - 16 - 17 Juillet 2021 / Jeudi entrence gratuit</b></p>
         </div>
         <!--Hashtag info-->
         <div class="col-12 col-lg-4 d-none d-md-inline">
