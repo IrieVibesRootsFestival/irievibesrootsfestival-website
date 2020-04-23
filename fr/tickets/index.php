@@ -15,13 +15,13 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <h3 class="display-7 text-center m-1">Billets</h3>
-                    <p class="text-center text-irie"><b>Juillet 16-17-18 2020</b></p>
-                </div><!--
+                    <p class="text-center text-irie"><b>Juillet 15-16-17 2021</b></p>
+                </div>
                 <div class="col-12 pb-2 rounded">
                     <div class="p-2 text-box-2 rounded">
                         <div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div>
                     </div>
-                </div>-->
+                </div>
                 <div id="tickets" class="col-12 col-md-6">
                     <h1>Preventes</h1>
                     <ul>
