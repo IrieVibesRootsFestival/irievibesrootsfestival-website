@@ -35,8 +35,8 @@
                 <!-- Right column, first block. -->
                 <div class="col-12 col-md-6 col-lg-4 d-none d-md-block">
                     <div class="text-center">
-                        <div class="fb-page" data-href="https://www.facebook.com/IrieVibesRootsFesitval/" data-tabs="timeline, events" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/IrieVibesRootsFesitval/" class="fb-xfbml-parse-ignore"><a 
-                    href="https://www.facebook.com/IrieVibesRootsFesitval/">Irie Vibes Roots Festival</a></blockquote></div>
+                        <div class="fb-page" data-href="https://www.facebook.com/events/2326818524093825/" data-tabs="timeline, events" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/events/2326818524093825/" class="fb-xfbml-parse-ignore"><a 
+                    href="https://www.facebook.com/events/2326818524093825/">Kortemark Congé</a></blockquote></div>
                     </div>
                 </div>
                 <!-- Hide line-up on mobile, and display a link to the Line-Up page instead -->
