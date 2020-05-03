@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html><html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -7,11 +7,11 @@
         <meta property="og:description" content="Everything there is to know about Kortemark Congé in and around Irie Vibes Roots Festival" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <!-- Main Content --> 
         <div class="container content">
             <div class="row">     
-                <div class="col-12 text-center"><span class="display-7">Kortemark Conge</span></div>
+                <span class="display-7 d-block mx-auto">Kortemark Congé</span>
                 <!-- Left column, first block. -->
                 <div class="col-12 col-md-6 col-lg-8">
                     <div class="row">
@@ -48,11 +48,9 @@
                     <button class="btn btn-pill btn-irie"><a class="text-white" href="/en/lineup/kortemark-conge/">View Line-up</a></button>
                 </div>
             </div>
-            <!-- Include TTF page content -->
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/en/info/trim-the-footprint/core.php');?>
         </div>        
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_en.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

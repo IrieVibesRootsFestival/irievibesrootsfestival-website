@@ -1,13 +1,13 @@
-<!DOCTYPE html><html lang="fr">
+<!DOCTYPE html><html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Kortemark Congé - Irie Vibes</title>
         <meta property="og:title" content="Kortemark Congé"/>
-        <meta property="og:description" content="Everything there is to know about Kortemark Congé in and around Irie Vibes Roots Festival" />
+        <meta property="og:description" content="Alles dat je moet weten over het evenement Kortemark Congé op Iie Vibes Roots Festival." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <!-- Main Content --> 
         <div class="container content">
             <div class="row">     
@@ -27,7 +27,7 @@
                         </div>
                         <div class="col-12">
                             <a href="https://www.facebook.com/events/622231101564639/" rel="Kortemark Congé Facebook Page">
-                                <img alt="" src="/src/img/kortemark-conge.jpg" class="img-fluid rounded"/>
+                                <img alt="" src="/src/img/kortemark_conge.jpg" class="img-fluid rounded"/>
                             </a>
                         </div>
                     </div>
@@ -50,7 +50,7 @@
             </div>
         </div>        
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_en.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
