@@ -59,9 +59,9 @@
                                     <p>De camping gaat open op donderdag om 14u en sluit op zondag om 11u. We verwachten dan ook dat alle bezoekers op zondag om 11u hun campingplaats net achterlaten en de camping verlaten.</p> 
                                     <p class="mb-0"><b>Het Irie Vibes Roots Festival is open voor het publiek op:</b></p>
                                     <ul>
-                                        <li>Donderdag 18 juli, vanaf 18u</li>
-                                        <li>Vrijdag 19 juli, vanaf 17u</li>
-                                        <li>Zaterdag 20 juli, vanaf 12u ('s middags)</li>  
+                                        <li>Donderdag 15 juli, vanaf 18u</li>
+                                        <li>Vrijdag 16 juli, vanaf 17u</li>
+                                        <li>Zaterdag 17 juli, vanaf 12u ('s middags)</li>  
                                     </ul>
                                     <p><i>De camping is open 24h/24h gedurende het hele weekend</i></p>               
                                 </div>

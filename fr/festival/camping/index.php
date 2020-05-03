@@ -60,9 +60,9 @@
                                     <p>The camping opens on Thursday at 2PM and closes on Sunday at 11AM. We expect each visitor to leave the camping site and leave a clean spot by that time.</p>                     
                                     <p class="mb-0"><b>The Irie Vibes Roots Festival is open to the public on:</b></p>
                                     <ul>
-                                        <li>Thursday July 19th, from 6PM</li>
-                                        <li>Friday July 20th, from 5PM</li>
-                                        <li>Saturday July 21st, from 12PM</li>  
+                                        <li>Thursday July 15th, from 6PM</li>
+                                        <li>Friday July 16th, from 5PM</li>
+                                        <li>Saturday July 17th, from 12PM</li>  
                                     </ul>
                                     <p><i>The camping is open 24h/24h during this whole weekend.</i></p>
                                 </div>
