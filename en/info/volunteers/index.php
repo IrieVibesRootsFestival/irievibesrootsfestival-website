@@ -11,11 +11,11 @@
         <div class="container content">         
             <h1 style="margin-bottom:5px" class="display-7 text-center">Become volunteer</h1>
             <hr/>
-            <p>For the 2020 edition of Irie Vibes Roots Festival, we are once again looking for about 150 helping hands to help turn the Irie Vibes Roots Festival into a success. Volunteers make the difference!<br/>
+            <p>For the next edition of Irie Vibes Roots Festival, we are once again looking for about 150 helping hands to help turn the Irie Vibes Roots Festival into a success. Volunteers make the difference!<br/>
                 This year we are going back to our roots with "BACK TO THE ROOTS". Same vibes, Same love, but on a smaller scale. </p>
             <p>All shifts and positions will be supervised by a team leader who will be there during the whole festival. This is the person responsible for answering any questions you may have during your shift. For all other questions, please contact <a href="mailto:volunteers@irievibes.be">Cindy Jonckheere</a> (your head of volunteer staff) or ask for help at the info booth on the festival terrain.</p>
             <div class="bg-success rounded p-3">
-                <h3 class="text-white">Please register ultimately by the 31st of May 2020!</h3>
+                <h3 class="text-white">Please register ultimately by the 31st of May 2021!</h3>
             </div>
             <small class="ml-2"><i>Last update: 2/01/2020</i></small>
             <hr/>
@@ -24,7 +24,7 @@
                 <div class="col-12 col-md-4">
                     <p class="text-box rounded">Volunteers construction</p>
                     <ul>
-                        <li>Volunteers that register for the construction are expected to register for the <b>entire construction period</b> <i>(July 11 - July 16)</i> We expect you to arrive the day before to set up your materials and tent (if required) in a timely manner.</li>
+                        <li>Volunteers that register for the construction are expected to register for the <b>entire construction period</b> <i>(July 12 - July 15)</i> We expect you to arrive the Sunday (July 11th) prior to the construction to set up your materials and tent (if required) in a timely manner.</li>
                         <li>We will supply fresh drinks and warm meals.</li>
                         <li>At the end of the construction period, construction vulunteers receive their volunteer's t-shirt, a festival entry bracelet and drink coupons to use freely during the festival.</li>
                         <li>Costless use of the sanitary facilities.</li>

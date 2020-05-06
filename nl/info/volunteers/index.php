@@ -11,11 +11,11 @@
         <div class="container content">         
             <h1 style="margin-bottom:5px" class="display-7 text-center">Word vrijwilliger</h1>
             <hr/>
-            <p>Ook dit jaar is VZW Greenforward op zoek naar een 150-tal vrijwilligers/medewerkers om Irie Vibes Roots Festival <i>(Back to The Roots)</i> in goede banen te helpen leiden. Vrijwilligers maken bij ons het verschil!<br/>
+            <p>Voor de volgende editie van het Irie Vibes Roots Festival is vzw Greenforward op zoek naar een 150-tal vrijwilligers/medewerkers. Vrijwilligers maken bij ons het verschil!<br/>
                 Dit jaar keren wij met ons concept <i>Back to The Roots</i> terug naar onze origine. De vibes blijven hetzelfde, de omkadering wordt eenvoudiger.</p>
             <p>Op elk punt is een verantwoordelijke aanwezig, die dit punt gedurende het hele festival zal opvolgen. Bij deze verantwoordelijke kan je voor alle praktische vragen en problemen <b>tijdens je shift</b> terecht. Voor alle andere vragen of opmerkingen kan je terecht bij <a href="mailto:volunteers@irievibes.be">Cindy Jonckheere</a> (hoofdverantwoordelijke medewerkers en vrijwilligers) of aan het infopunt op het festivalterrein.</p>
             <div class="bg-success rounded p-3">
-                <h3 class="text-white">Schrijf je ten laatste in tegen 31 mei 2020!</h3>
+                <h3 class="text-white">Schrijf je ten laatste in tegen 31 mei 2021!</h3>
             </div>
             <small class="ml-2"><i>Laatste update: 5/01/2020</i></small>
             <hr/>
@@ -24,7 +24,7 @@
                 <div class="col-12 col-md-4">
                     <p class="text-box rounded">Medewerkers opbouw</p>
                     <ul>
-                        <li>Vrijwilligers die zich inschrijven voor de opbouw, doen dit voor de <b>volledige opbouw</b> <i>(Maandag 15 Juli -Donderdag 18 Juli.)</i> Zij komen toe op <b>Zondag 14 juli.</b></li>
+                        <li>Vrijwilligers die zich inschrijven voor de opbouw, doen dit voor de <b>volledige opbouw</b> <i>(Maandag 12 Juli - Donderdag 15 Juli.)</i> Zij komen toe op <b>Zondag 11 juli.</b></li>
                         <li>We voorzien frisdranken en (warme) maaltijden.</li>
                         <li>Op het einde van de opbouw ontvang je je t-shirt, festivalbandje en 12 drank coupons</li>
                     </ul>

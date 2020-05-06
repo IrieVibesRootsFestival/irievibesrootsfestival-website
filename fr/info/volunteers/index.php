@@ -11,8 +11,11 @@
         <div class="container content">         
             <h1 style="margin-bottom:5px" class="display-7 text-center">Devenez volontaire</h1>
             <hr/>
-            <p>Pour l’édition de 2019, nous sommes à la recherche de volontaires pour rendre le festival un succès inoubliable. Ce sont les volontaires qui font la différence! Cette année, c’est un retour à l’essentiel: la même atmosphère, mais le même cauchemar logistique!</p>
+            <p>Pour l’édition suivante de Irie Vibes Roots Festival, nous sommes à la recherche de volontaires pour rendre le festival un succès inoubliable. Ce sont les volontaires qui font la différence! Cette année, c’est un retour à l’essentiel: la même atmosphère, mais le même cauchemar logistique!</p>
             <p>Tous les jobs et positions seront supervisés par un chef d’équipe qui sera là au cours du festival. Ceci est la personne responsable à toutes vos questions. Pour toutes les autres questions, contactez <a href="mailto:volunteers@irievibes.be">Cindy Jonckheere</a> (chef de l’équipe des volontaires) ou demandez de l’aide au poste d’info sur le terrain.</p>
+            <div class="bg-success rounded p-3">
+                <h3 class="text-white">Inscrivez-vous au plus tard le 31 mai 2021!</h3>
+            </div>
             <small class="ml-2"><i>Dernière mise jour: 27/06/2019</i></small>
             <hr/>
             <h3 class="text-irie text-uppercase"><b>Pour les volontaires de</b></h3>
@@ -20,7 +23,7 @@
                 <div class="col-12 col-md-4">
                     <p class="text-box rounded">La construction</p>
                     <ul>
-                        <li>Les volontaires pour la construction sont priés de s’engager pour la durée complète de la construction (du lundi 15 juillet au jeudi 18 juillet). On vous attend le dimanche 14 juillet.</li>
+                        <li>Les volontaires pour la construction sont priés de s’engager pour la durée complète de la construction (du lundi 12 juillet au jeudi 15 juillet). On vous attend le dimanche 11 juillet.</li>
                         <li>Vous recevez des repas frais et des boissons fraîches.</li>
                         <li>Au bout de la construction, vous recevez un T-shirt exclusif, un ticket pour le week-end et 12 coupons-boissons.</li>
                     </ul>
