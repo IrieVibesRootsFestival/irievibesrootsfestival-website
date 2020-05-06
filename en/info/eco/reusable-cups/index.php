@@ -28,7 +28,7 @@
                         <source srcset="/src/img/eco/reusable-cups/cups-main.jpg" type="image/jpeg">
                         <img alt="" class="img-fluid rounded" src="/src/img/eco/reusable-cups/cups-main.jpg"/>
                     </picture>
-                    <small>our own cups with logo</small>
+                    <a href="https://shop.irievibes.be/index.php?route=product/product&product_id=12"><small>our own cups with logo</small></a>
                 </div> 
             </div>
             <!-- Pictures -->
