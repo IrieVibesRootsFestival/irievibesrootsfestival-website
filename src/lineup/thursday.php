@@ -1,4 +1,4 @@
-<div id="lineup" class="row text-center d-none">
+<div id="lineup" class="row text-center">
     <!-- Lion's Den -->
     <div id="stage-lions-den" class="col-12 col-lg-6">
         <div class="row py-2 mb-3 border border-lg border-success rounded bg-img">
@@ -11,7 +11,7 @@
                     <source srcset="/src/img/artists/placeholder-irie.jpg" type="image/jpeg">
                     <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/placeholder-irie.jpg"/>
                 </picture>
-                <a class="d-block text-center pt-2" href="https://vi.be/jungleroots">ARTIST</a>
+                <a class="d-block text-center pt-2" href="###">ARTIST</a>
             </div>
             <!-- Block end -->
         </div>
@@ -28,7 +28,7 @@
                     <source srcset="/src/img/artists/placeholder-irie.jpg" type="image/jpeg">
                     <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/placeholder-irie.jpg"/>
                 </picture>
-                <a class="d-block text-center pt-2" href="https://vi.be/jungleroots">ARTIST</a>
+                <a class="d-block text-center pt-2" href="###">ARTIST</a>
             </div>
             <!-- Block end -->
         </div>
@@ -45,7 +45,7 @@
                     <source srcset="/src/img/artists/placeholder-irie.jpg" type="image/jpeg">
                     <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/placeholder-irie.jpg"/>
                 </picture>
-                <a class="d-block text-center pt-2" href="https://vi.be/jungleroots">ARTIST</a>
+                <a class="d-block text-center pt-2" href="###">ARTIST</a>
             </div>
             <!-- Block end -->
         </div>
@@ -62,7 +62,7 @@
                     <source srcset="/src/img/artists/placeholder-irie.jpg" type="image/jpeg">
                     <img alt="" class="img-fluid rounded img-container" src="/src/img/artists/placeholder-irie.jpg"/>
                 </picture>
-                <a class="d-block text-center pt-2" href="https://vi.be/jungleroots">ARTIST</a>
+                <a class="d-block text-center pt-2" href="###">ARTIST</a>
             </div>
             <!-- Block end -->
         </div>

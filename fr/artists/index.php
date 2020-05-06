@@ -21,7 +21,7 @@
                     </div>
                 </div>
                 <!--Artist text-->
-                <div class="col-12 d-none">
+                <div class="col-12">
                     <div class="text-box-2 p-2 rounded">
                         <div class="text-box rounded sticky-top">
                             <div class="row p-1">
