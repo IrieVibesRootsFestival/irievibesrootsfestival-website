@@ -35,9 +35,29 @@
                     </ul>
                 </div>
                 <div class="col-12 col-md-6">
-                    <h1>Remises</h1>
-                    <p>Êtes-vous un résident de Kortemark? 
-                        Obtenez vos billets à 10 € par jour sur présentation de votre identifiant.<br/> Pour plus d'informations: <a href="mailto:info@irievibes.be">info@irievibes.be</a></p>
+                    <h1>DRemises</h1>
+                    <ul>
+                    <li>Êtes-vous un résident de Kortemark? 
+                        Obtenez vos billets à 10 € par jour sur présentation de votre identifiant.</li>
+                        <li>Entrée gratuite lors de l'utilisation de votre carte Vrijetijdspas ou Cultuur Kortemark</li>
+                    </ul>
+                    <p>Pour plus d'informations: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
+                    <div class="row">
+                        <div class="col-6">
+                            <picture>
+                                <source srcset="/src/img/partners/vtpas.webp" type="image/webp">
+                                <source srcset="/src/img/partners/vtpas.jpg" type="image/jpeg">
+                                <img alt="" class="img-fluid rounded" src="/src/img/partners/vtpas.jpg"/>
+                            </picture>
+                        </div>
+                        <div class="col-6">
+                            <picture>
+                                <source srcset="/src/img/partners/cultuurkortemark.webp" type="image/webp">
+                                <source srcset="/src/img/partners/cultuurkortemark.jpg" type="image/jpeg">
+                                <img alt="" class="img-fluid rounded" src="/src/img/partners/cultuurkortemark.jpg"/>
+                            </picture>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
