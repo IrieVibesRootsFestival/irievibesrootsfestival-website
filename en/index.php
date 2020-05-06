@@ -11,7 +11,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <div class="container content">
             <div class="row justify-content-center">
-                <div class="col-12">
+                <div class="col-12 text-cetner">
                     <picture>
                         <source srcset="/src/img/irie-vibes-cancelled.webp" type="image/webp">
                         <source srcset="/src/img/irie-vibes-cancelled.jpg" type="image/jpeg">

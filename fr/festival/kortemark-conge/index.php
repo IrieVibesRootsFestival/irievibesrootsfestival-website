@@ -4,7 +4,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Kortemark Congé - Irie Vibes</title>
         <meta property="og:title" content="Kortemark Congé"/>
-        <meta property="og:description" content="Everything there is to know about Kortemark Congé in and around Irie Vibes Roots Festival" />
+        <meta property="og:description" content="Tout ce qu'il faut savoir sur Kortemark Congé dans et autour du festival Irie Vibes Roots" />
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
