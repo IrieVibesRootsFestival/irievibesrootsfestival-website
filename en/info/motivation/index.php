@@ -100,9 +100,9 @@
                     <div class="col-md-7 text-center"></div>
                     <div class="col-md-3">
                         <div id="btn-social" class="text-center">
-                            <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook-square fa-3x social"></i></a>
+                            <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook fa-3x social"></i></a>
                             <a href="https://www.instagram.com/irievibesroots/"><i class="fab fa-instagram fa-3x social"></i></a>
-                            <a href="/src/static/snapchat/"><i class="fab fa-snapchat-square fa-3x social"></i></a>
+                            <a href="/src/static/snapchat/"><i class="fab fa-snapchat fa-3x social"></i></a>
                         </div>
                     </div>
                 </div>

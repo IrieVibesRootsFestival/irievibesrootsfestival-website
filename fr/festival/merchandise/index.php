@@ -78,7 +78,7 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="/en/info/partners/">Partners</a>
                             </li>
-							<li class="nav-item">
+                            <li class="nav-item">
                                 <a class="nav-link" href="#ShoppingCart"><i class="fas fa-shopping-cart"></i></a>
                             </li>
                         </ul>
@@ -122,9 +122,9 @@
                     <div class="col-md-6 text-center copyright-notice"><p>Copyright &copy; - vzw GreenForward 2002-2020</p></div>
                     <div class="col-md-3">
                         <div id="btn-social" class="text-center">
-                            <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook-square fa-3x social"></i></a>
+                            <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook fa-3x social"></i></a>
                             <a href="https://www.instagram.com/irievibesroots/"><i class="fab fa-instagram fa-3x social"></i></a>
-                            <a href="/src/static/snapchat/"><i class="fab fa-snapchat-square fa-3x social"></i></a>
+                            <a href="/src/static/snapchat/"><i class="fab fa-snapchat fa-3x social"></i></a>
                         </div>
                     </div>
                 </div>

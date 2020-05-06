@@ -59,9 +59,9 @@
             <div class="col-md-6 m-auto text-center d-none d-md-block"><p>Copyright &copy; - vzw GreenForward 2001-2020</p></div>
             <div class="col-md-3">
                 <div id="btn-social" class="text-center">
-                    <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook-square fa-3x social"></i></a>
+                    <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook fa-3x social"></i></a>
                     <a href="https://www.instagram.com/irievibesroots/"><i class="fab fa-instagram fa-3x social"></i></a>
-                    <a href="/src/static/snapchat/"><i class="fab fa-snapchat-square fa-3x social"></i></a>
+                    <a href="/src/static/snapchat/"><i class="fab fa-snapchat fa-3x social"></i></a>
                     <a href="/src/static/spotify/"><i class="fab fa-spotify fa-3x social"></i></a>
                 </div>
             </div>

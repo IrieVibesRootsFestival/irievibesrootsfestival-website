@@ -106,7 +106,7 @@
                 <div class="text-center"><img alt="" width="80%" class="rounded img-fluid mx-auto d-block" src="/src/img/merchandise/body_shirt.jpg"></div>
             </div>
         </div>
-        <footer class="footer">             <div class="container">                 <div class="row">                     <div class="col-md-3 text-center">                         <a href="/en/info/volunteers" class="btn btn-volunteer">Become Volunteer</a>                     </div>                     <div class="col-md-6 m-auto text-center d-none d-md-block"><p>Copyright &copy; - vzw GreenForward 2002-2019</p></div>                     <div class="col-md-3">                         <div id="btn-social" class="text-center">                             <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook-square fa-3x social"></i></a>                             <a href="https://www.instagram.com/irievibesroots/"><i class="fab fa-instagram fa-3x social"></i></a>                             <a href="/src/static/snapchat/"><i class="fab fa-snapchat-square fa-3x social"></i></a>                         </div>                     </div>                     <!-- Redundant for Mobile Compatibility-->                     <div class="col-md-6 text-center d-block d-md-none"><p>Copyright &copy; - vzw GreenForward 2002-2019</p></div>                 </div>             </div>         </footer>
+        <footer class="footer">             <div class="container">                 <div class="row">                     <div class="col-md-3 text-center">                         <a href="/en/info/volunteers" class="btn btn-volunteer">Become Volunteer</a>                     </div>                     <div class="col-md-6 m-auto text-center d-none d-md-block"><p>Copyright &copy; - vzw GreenForward 2002-2019</p></div>                     <div class="col-md-3">                         <div id="btn-social" class="text-center">                             <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook fa-3x social"></i></a>                             <a href="https://www.instagram.com/irievibesroots/"><i class="fab fa-instagram fa-3x social"></i></a>                             <a href="/src/static/snapchat/"><i class="fab fa-snapchat fa-3x social"></i></a>                         </div>                     </div>                     <!-- Redundant for Mobile Compatibility-->                     <div class="col-md-6 text-center d-block d-md-none"><p>Copyright &copy; - vzw GreenForward 2002-2019</p></div>                 </div>             </div>         </footer>
             <div class="container">
                 <div class="row">
                     <div class="col-md-2 text-center">
@@ -115,9 +115,9 @@
                     <div class="col-md-7 text-center"></div>
                     <div class="col-md-3">
                         <div id="btn-social" class="text-center">
-                            <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook-square fa-3x social"></i></a>
+                            <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook fa-3x social"></i></a>
                             <a href="https://www.instagram.com/irievibesroots/"><i class="fab fa-instagram fa-3x social"></i></a>
-                            <a href="/src/static/snapchat/"><i class="fab fa-snapchat-square fa-3x social"></i></a>
+                            <a href="/src/static/snapchat/"><i class="fab fa-snapchat fa-3x social"></i></a>
                         </div>
                     </div>
                 </div>
