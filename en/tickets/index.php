@@ -36,7 +36,11 @@
                 </div>
                 <div class="col-12 col-md-6">
                     <h1>Discounts</h1>
-                    <p>Are you a resident from Kortemark? Get your tickets at €10 a day, upon showing your ID. <br/>For more info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
+                    <ul>
+                    <li>Are you a resident from Kortemark? Get your tickets at €10 a day, upon showing your ID.</li>
+                        <li>Free entry when using your Vrijetijdspas or Cultuur Kortemark card</li>
+                    </ul>
+                    <p>For more info: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
                     <div class="row">
                         <div class="col-6">
                             <picture>
