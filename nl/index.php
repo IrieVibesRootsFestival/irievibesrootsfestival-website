@@ -5,7 +5,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Home - Irie Vibes</title>
         <meta property="og:title" content="Ontdek de wereld van Irie Vbes Roots Festival"/>
-        <meta property="og:description" content="Terug naar waar het allemaal begon: Irie Vibes nodigt je uit naar hun Back to The Roots editie van het Irie Vibes Roots Festival in hartje zomer 2020 in Kortemark." />
+        <meta property="og:description" content="Terug naar waar het allemaal begon: Irie Vibes nodigt je uit naar hun Back to The Roots editie van het Irie Vibes Roots Festival in hartje zomer 2021 in Kortemark." />
     </head> 
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
@@ -23,7 +23,7 @@
                     <div class="text-left text-success">
                         <h1 class="mt-md-3 mb-0 px-3 quote">back to the roots</h1>
                         <p class="text-justify">
-                            Irie Vibes gaat terug naar waar het allemaal begon. Irie Vibes 2020 zal opnieuw een terugblik zijn naar onze roots, herinneringen en gebeurend. We nodigen je uit om deel uit te maken van het <b>Irie Vibes back to the Roots Festival 2020</b>, waar hoofd, hart en lichaam samen komen in een fantastisch spektakel van kleur en geluid. Mis geen enkele drumslag! Plaats een bookmark van onze
+                            Irie Vibes gaat terug naar waar het allemaal begon. Irie Vibes 2021 zal opnieuw een terugblik zijn naar onze roots, herinneringen en gebeurend. We nodigen je uit om deel uit te maken van het <b>Irie Vibes back to the Roots Festival 2021</b>, waar hoofd, hart en lichaam samen komen in een fantastisch spektakel van kleur en geluid. Mis geen enkele drumslag! Plaats een bookmark van onze
                             <a class="text-success" href="/nl/lineup/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>line-up pagina</a> op je startscherm. Irie!
                         </p>
                     </div>

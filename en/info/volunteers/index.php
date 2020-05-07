@@ -4,7 +4,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Volunteers - Irie Vibes</title>
         <meta property="og:title" content="Volunteers"/>
-        <meta property="og:description" content="Back in time to where it all began, Irie Vibes invites you to their Back to The Roots edition during the heart of summer 2020 in Kortemark." />
+        <meta property="og:description" content="Back in time to where it all began, Irie Vibes invites you to their Back to The Roots edition during the heart of summer 2021 in Kortemark." />
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
@@ -82,7 +82,7 @@
             <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZuujqpESwd2S5GaTzQMrUGbbRid12J8vzN5njCGKnf7KgjA/viewform?embedded=true" width="100%" height="550" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZuujqpESwd2S5GaTzQMrUGbbRid12J8vzN5njCGKnf7KgjA/viewform"><small>Click here to open the form in a new window.</small></a>
             <!--
-<div id="btn-volunteer-signup" class="text-center"><a alt="Volunteers Form 2020" class="btn btn-pill btn-irie" id="btn-volunteer-signup-inner" href="https://docs.google.com/forms/d/e/1FAIpQLSfcMSLUKs9FmjVoiC3hGoC0cwU-O133Xgobb0E35e0MWkJgoQ/viewform" role="button">Registration Form</a></div>
+<div id="btn-volunteer-signup" class="text-center"><a alt="Volunteers Form 2021" class="btn btn-pill btn-irie" id="btn-volunteer-signup-inner" href="https://docs.google.com/forms/d/e/1FAIpQLSfcMSLUKs9FmjVoiC3hGoC0cwU-O133Xgobb0E35e0MWkJgoQ/viewform" role="button">Registration Form</a></div>
 -->
         </div>
         <!-- Include Footer -->

@@ -4,8 +4,8 @@
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Home - Irie Vibes</title>
-        <meta property="og:title" content="Irie Vibes Roots Festival 2020 - Découvrez le monde du festival Irie Vibes Roots"/>
-        <meta property="og:description" content="De retour à l'endroit où tout a commencé: Irie Vibes vous invite à l'édition Back to The Roots du festival Irie Vibes Roots en plein été 2020 à Kortemark." />
+        <meta property="og:title" content="Irie Vibes Roots Festival 2021 - Découvrez le monde du festival Irie Vibes Roots"/>
+        <meta property="og:description" content="De retour à l'endroit où tout a commencé: Irie Vibes vous invite à l'édition Back to The Roots du festival Irie Vibes Roots en plein été 2021 à Kortemark." />
     </head> 
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
@@ -23,7 +23,7 @@
                     <div class="text-left text-success">
                         <h1 class="mt-md-3 mb-0 px-3 quote">back to the roots</h1>
                         <p class="text-justify">
-                            Irie Vibes retourne là où tout a commencé. Irie Vibes 2020 sera à nouveau une rétrospective de nos racines, souvenirs et événements. Nous vous invitons à faire partie du <b>retour d'Irie Vibes au festival Roots 2020</b>, où la tête, le cœur et le corps se rencontrent dans un fantastique spectacle de couleurs et de sons.
+                            Irie Vibes retourne là où tout a commencé. Irie Vibes 2021 sera à nouveau une rétrospective de nos racines, souvenirs et événements. Nous vous invitons à faire partie du <b>retour d'Irie Vibes au festival Roots 2021</b>, où la tête, le cœur et le corps se rencontrent dans un fantastique spectacle de couleurs et de sons.
                             Placez un signet de notre <a class="text-success" href="/fr/lineup/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>page de line-up</a> sur votre écran d'accueil. Irie!
                         </p>
                     </div>

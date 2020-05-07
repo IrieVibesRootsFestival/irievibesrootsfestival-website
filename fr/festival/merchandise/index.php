@@ -119,7 +119,7 @@
                     <div class="col-md-3 text-center">
                         <a href="/en/info/volunteers" class="btn btn-volunteer">Become Volunteer</a>
                     </div>
-                    <div class="col-md-6 text-center copyright-notice"><p>Copyright &copy; - vzw GreenForward 2002-2020</p></div>
+                    <div class="col-md-6 text-center copyright-notice"><p>Copyright &copy; - vzw GreenForward 2002-2021</p></div>
                     <div class="col-md-3">
                         <div id="btn-social" class="text-center">
                             <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook fa-3x social"></i></a>

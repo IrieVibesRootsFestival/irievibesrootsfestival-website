@@ -4,7 +4,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Tickets - Irie Vibes</title>
         <meta property="og:title" content="He, vroege vogel! Koop je ticket!"/>
-        <meta property="og:description" content="De Early Bird ticketverkoop is gestart en duurt tot 5 januari 2020. Wees snel! Het aanbod is beperkt en de prijzen zijn hot!" /> 
+        <meta property="og:description" content="De Early Bird ticketverkoop is gestart en duurt tot 5 januari 2021. Wees snel! Het aanbod is beperkt en de prijzen zijn hot!" /> 
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>

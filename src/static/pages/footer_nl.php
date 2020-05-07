@@ -58,7 +58,7 @@
             <div class="col-md-3 text-center order-1">
                 <a href="/en/info/volunteers" class="btn btn-volunteer">Word Vrijwilliger</a>
             </div>
-            <div class="col-md-6 m-auto text-center d-none d-md-block order-3 order-md-2"><p>Copyright &copy; - vzw GreenForward 2001-2020</p></div>
+            <div class="col-md-6 m-auto text-center d-none d-md-block order-3 order-md-2"><p>Copyright &copy; - vzw GreenForward 2001-2021</p></div>
             <div class="col-md-3 order-2 order-md-3">
                 <div id="btn-social" class="text-center">
                     <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook fa-3x social"></i></a>
