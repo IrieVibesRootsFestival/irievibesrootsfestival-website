@@ -14,6 +14,13 @@
             <div class="row">
                 <div class="col-12 col-md-3 mb-2">
                     <picture>
+                        <source srcset="/src/img/posters/irie-vibes-meets-delirium-presents-reggae-festival.webp" type="image/webp">
+                        <source srcset="/src/img/posters/irie-vibes-meets-delirium-presents-reggae-festival.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/posters/irie-vibes-meets-delirium-presents-reggae-festival.jpg"/>
+                    </picture>
+                </div>
+                <div class="col-12 col-md-3 mb-2">
+                    <picture>
                         <source srcset="/src/img/posters/irie-vibes-2009.webp" type="image/webp">
                         <source srcset="/src/img/posters/irie-vibes-2009.jpg" type="image/jpeg">
                         <img alt="" class="img-fluid rounded" src="/src/img/posters/irie-vibes-2009.jpg"/>
