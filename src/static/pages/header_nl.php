@@ -52,7 +52,7 @@
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/nl/artists">Artiesten</a></li>
                             <li><a class="nav-link drop-2" href="/nl/lineup/">Line-Up</a></li>
-                            <li><a class="nav-link drop-2" href="/en/lineup/posters/">Affiches</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/lineup/posters/">Affiches</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">

@@ -53,9 +53,9 @@
                     <li class="nav-item dropdown">
                         <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Programme<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a class="nav-link drop-2" href="/en/artists">Artistes</a></li>
+                            <li><a class="nav-link drop-2" href="/fr/artists">Artistes</a></li>
                             <li><a class="nav-link drop-2" href="/fr/lineup/">Line-Up</a></li>
-                            <li><a class="nav-link drop-2" href="/en/lineup/posters/">Posters</a></li>
+                            <li><a class="nav-link drop-2" href="/fr/lineup/posters/">Posters</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
