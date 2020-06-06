@@ -1,6 +1,6 @@
 <div class="row">
     <!-- Image -->
-    <div class="col-12 col-md-4 text-center">
+    <div class="col-12 col-md-4 mb-1 text-center">
         <picture>
             <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie.webp" type="image/webp">
             <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie.jpg" type="image/jpeg">
