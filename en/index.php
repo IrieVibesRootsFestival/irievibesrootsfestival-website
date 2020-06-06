@@ -38,6 +38,15 @@
                 </div>
                 <div class="col-12 col-md-4" id="lineup">
                     <div class="row py-2 my-3 border border-lg border-success rounded bg-img">
+                        <a href="https://shop.irievibes.be">
+                            <picture>
+                                <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie.webp" type="image/webp">
+                                <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie.jpg" type="image/jpeg">
+                                <img alt="" class="img-fluid rounded" src="/src/img/news/irie-vibes-trui-webshop-advertentie.jpg"/>
+                            </picture>
+                        </a>
+                    </div>
+                    <div class="row py-2 my-3 border border-lg border-success rounded bg-img">
                         <div class="col-12"><p class="text-center bg-success rounded text-white">Lion's Den</p></div>
                         <div class="col-12">
                             <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
