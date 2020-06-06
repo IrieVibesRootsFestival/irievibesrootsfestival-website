@@ -38,7 +38,7 @@
                 </div>
                 <div id="lineup" class="col-12 col-md-4">
 
-                    <div class="row py-2 my-3 border border-lg border-success rounded bg-img">
+                    <div class="row my-3 border-success rounded bg-img">
                         <a href="https://shop.irievibes.be">
                             <picture>
                                 <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie.webp" type="image/webp">
