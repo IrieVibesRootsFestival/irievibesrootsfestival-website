@@ -330,9 +330,9 @@
             </div>
             <div class="col-6 mt-2 text-center">
                 <picture>
-                    <source srcset="/src/img/greenforward-large.webp" type="image/webp">
-                    <source srcset="/src/img/greenforward-large.png" type="image/png">
-                    <img alt="" class="img-fluid rounded-circle w-50" src="/src/img/greenforward-large.png" alt="GreenForward Logo">
+                    <source srcset="/src/img/greenforward.webp" type="image/webp">
+                    <source srcset="/src/img/greenforward.png" type="image/png">
+                    <img alt="" class="img-fluid rounded-circle w-50" src="/src/img/greenforward.png" alt="GreenForward Logo">
                 </picture>
             </div>
         </div>
