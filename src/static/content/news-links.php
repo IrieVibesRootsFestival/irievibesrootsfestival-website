@@ -1,11 +1,13 @@
 <div class="row">
     <!-- Image -->
     <div class="col-12 col-md-4 mb-1 text-center">
-        <picture>
-            <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie.webp" type="image/webp">
-            <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie.jpg" type="image/jpeg">
-            <img alt="" class="img-fluid rounded w-80" src="/src/img/news/irie-vibes-trui-webshop-advertentie.jpg"/>
-        </picture>
+        <a href="https://shop.irievibes.be">
+            <picture>
+                <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie.webp" type="image/webp">
+                <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie.jpg" type="image/jpeg">
+                <img alt="" class="img-fluid rounded w-80" src="/src/img/news/irie-vibes-trui-webshop-advertentie.jpg"/>
+            </picture>
+        </a>
     </div>
     <!-- Title & Text -->
     <div class="col-12 col-md-8 mt-2">
@@ -14,11 +16,13 @@
     </div> 
     <!-- Image -->
     <div class="col-12 col-md-4 mb-1 text-center">
-        <picture>
-            <source srcset="/src/img/news/nieuwsbrief-februari-4141742.webp" type="image/webp">
-            <source srcset="/src/img/news/nieuwsbrief-februari-4141742.jpg" type="image/jpeg">
-            <img alt="" class="img-fluid rounded w-80" src="/src/img/news/nieuwsbrief-februari-4141742.jpg"/>
-        </picture>
+        <a href="https://mailchi.mp/e1c3fd6c8a65/nieuwsbrief-februari-4141742">
+            <picture>
+                <source srcset="/src/img/news/nieuwsbrief-februari-4141742.webp" type="image/webp">
+                <source srcset="/src/img/news/nieuwsbrief-februari-4141742.jpg" type="image/jpeg">
+                <img alt="" class="img-fluid rounded w-80" src="/src/img/news/nieuwsbrief-februari-4141742.jpg"/>
+            </picture>
+        </a>
     </div>
     <!-- Title & Text -->
     <div class="col-12 col-md-8 mt-2">
