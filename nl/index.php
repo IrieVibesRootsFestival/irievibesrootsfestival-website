@@ -11,7 +11,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div class="container content">
             <div class="row justify-content-center">
-               <div id="home-text" class="col-12 col-md-8 my-md-3">
+               <div id="home-text" class="col-12 col-md-8">
                     <picture>
                         <source srcset="/src/img/irie-vibes-2021-banner.webp" type="image/webp">
                         <source srcset="/src/img/irie-vibes-2021-banner.jpg" type="image/jpeg">
@@ -38,7 +38,7 @@
                 </div>
 
                 <div class="col-12 col-md-4" id="lineup">
-                    <div class="row p-2 my-3 border border-lg border-warning rounded bg-img">
+                    <div class="row p-2 m-0 mb-1 border border-lg border-warning rounded bg-img">
                         <a href="https://shop.irievibes.be" class="p-0">
                             <picture>
                                 <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie.webp" type="image/webp">
@@ -47,7 +47,7 @@
                             </picture>
                         </a>
                     </div>
-                    <div class="row py-2 my-3 border border-lg border-success rounded bg-img">
+                    <div class="row py-2 m-0 border border-lg border-success rounded bg-img">
                         <div class="col-12"><p class="text-center bg-success rounded text-white">Lion's Den</p></div>
                         <div class="col-12">
                             <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
