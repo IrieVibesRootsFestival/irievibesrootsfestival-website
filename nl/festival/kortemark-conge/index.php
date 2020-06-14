@@ -15,33 +15,28 @@
                 <!-- Upper banner block -->
                 <div class="col-12">
                     <div class="row">
-                        <div class="col-12 col-md-6">
+                        <div class="col-12 col-md-4">
                             <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
                                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6GhMiDClsqk"></iframe>
                             </div>
                         </div>
-                        <div class="col-12 col-md-6">
+                        <div class="col-12 col-md-4">
                             <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
                                 <iframe class="embed-responsive-item" src="//player.cdn01.rambla.be?account_id=VzaPKg&amp;item_id=W9MoDP" frameborder="0"></iframe>
                             </div>
                         </div>
-                        <div class="col-12 col-md-6">
-                            <a href="https://www.facebook.com/events/622231101564639/" rel="Kortemark Congé Facebook Page">
-                                <img alt="" src="/src/img/kortemark_conge.jpg" class="img-fluid rounded"/>
-                            </a>
-                        </div>
                     </div>
                 </div>
                 <!-- Text block block (left) -->
-                <div class="col-12 col-md-8">
+                <div class="col-12 col-md-7">
                     <h3>Wat is Kortemark Congé eigenlijk?</h3>
                     <p>Kortemark Congé is een lokaal initiatief om buurtbewoners samen te brengen en te laten genieten van evenementen in de buurt waar Irie Vibes Roots Festival deel van uit maakt. Inwoners van Kortemark kunnen dan in hun eigen buurt evenementen ontdekken, hun buurtbewoners leren kennen, de dreivende krachten achter cultuur en genieten van hun eigen gemeente. Irie Vibes Roots Festival laat festivalgangers op Donderdag gratis een kijkje nemen op het festival terrein, genieten van keigekke reggae of wereldmuziek, en vooral laten zien dat Kortemark toch écht de place-to-be is voor hen.</p>
                 </div>
-                <!-- Facebook block (right) -->
-                <div class="col-12 col-md-4 d-none d-md-block">
-                    <div class="text-center">
-                       <div class="fb-page" data-href="https://www.facebook.com/events/2326818524093825/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
-                    </div>
+                <!-- Img block (right) -->
+                <div class="col-12 col-md-5">
+                    <a href="https://www.facebook.com/events/622231101564639/" rel="Kortemark Congé Facebook Page">
+                        <img alt="" src="/src/img/kortemark_conge.jpg" class="img-fluid rounded"/>
+                    </a>
                 </div>
                 <!-- Hide line-up on mobile, and display a link to the Line-Up page instead -->
                 <div class="col-12 d-none d-md-block mt-md-2">
