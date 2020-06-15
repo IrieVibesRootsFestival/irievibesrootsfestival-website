@@ -77,6 +77,8 @@
                             <li><a class="nav-link drop-2" href="/en/info/eco/upcycling/">Upcycling</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/bewilg-het-landschap/">Bewilg Het Landschap</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/world-cleanup-day/">World Cleanup Day</a></li>
+                            <li><a class="nav-link drop-2" href="/en/info/eco/sdg/"><strong>S</strong>ustainable <strong>D</strong>evelopment <strong>G</strong>oals</a></li>
+                            <li><a class="nav-link drop-2" href="/en/info/eco/outreaching/">Outreaching</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
