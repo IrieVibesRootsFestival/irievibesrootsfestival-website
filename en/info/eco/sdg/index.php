@@ -61,18 +61,15 @@
                 <div class="text-box-2 rounded p-2 sticky-top mt-1">
                     <div class="text-box rounded p-2">
                         <!-- Anchor Navigation -->
-                        <ul class="nav nav-pills">
+                        <ul class="nav flex-column">
                             <li class="nav-item">
-                                <a class="nav-link active" href="#">Active</a>
+                                <a class="nav-link" href="#tanzania"><strong>1:</strong> Trim The Footprint Tanzania</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Link</a>
+                                <a class="nav-link" href="#worldmarkets"><strong>2:</strong> Worldmarkets w/ Noord-Zuid Raad Kortemark</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Link</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link disabled" href="#">Disabled</a>
+                                <a class="nav-link" href="#fairtrade"><strong>3:</strong>Fair Trade @ Irie Vibes</a>
                             </li>
                         </ul>
                     </div>
@@ -102,8 +99,6 @@
                     <p>
                         Both groups of women would benefit from entrepreneurship training in a community-based format, learning from other women in addition to a trusted facilitator.
                     </p>
-                </div>
-                <div class="col-12">
                     <div class="text-box-2 rounded p-3">
                         <div class="text-box rounded p-3">
                             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -245,8 +240,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-12">
                     <h4 class="text-irie mt-2"><b>Trim The Footprint @ Tanzania</b></h4>
                     <p class="small"><i>
                         <b>Goal 15.</b> Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss<br/>
@@ -347,9 +340,12 @@
                         <img alt="" class="img-fluid rounded-circle w-50" src="/src/img/greenforward.png" alt="GreenForward Logo">
                     </picture>
                 </div>
-
+                <!-- End Tanzania Text -->
+                <!-- begin Worldmarkets text -->
+                <!-- end Worldmarkets text -->
+                <!-- begin Fairtrade text -->
+                <!-- begin Fairtrade text -->
             </div>
-
         </div>
         <!-- Include Footer -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_en.php');?>        
