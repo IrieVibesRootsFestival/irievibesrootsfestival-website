@@ -58,20 +58,22 @@
                 </div>
                 <!-- End Pictures -->
                 <!-- navigation for the projects -->
-                <div class="text-box-2 rounded p-2 sticky-top mt-1">
-                    <div class="text-box rounded p-2">
-                        <!-- Anchor Navigation -->
-                        <ul class="nav flex-column">
-                            <li class="nav-item">
-                                <a class="nav-link" href="#tanzania"><strong>1:</strong> Trim The Footprint Tanzania</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#worldmarkets"><strong>2:</strong> Worldmarkets w/ Noord-Zuid Raad Kortemark</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#fairtrade"><strong>3:</strong>Fair Trade @ Irie Vibes</a>
-                            </li>
-                        </ul>
+                <div class="col">
+                    <div class="text-box-2 rounded p-2 sticky-top mt-1 mx-auto">
+                        <div class="text-box rounded p-2">
+                            <!-- Anchor Navigation -->
+                            <ul class="nav flex-column">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#tanzania"><strong>1:</strong> Trim The Footprint Tanzania</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#worldmarkets"><strong>2:</strong> Worldmarkets w/ Noord-Zuid Raad Kortemark</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#fairtrade"><strong>3:</strong>Fair Trade @ Irie Vibes</a>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
                 <!-- Begin Tanzania Text -->
