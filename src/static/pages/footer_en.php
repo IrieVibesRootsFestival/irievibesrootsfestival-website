@@ -26,7 +26,7 @@
                 </div>
             </div>
             <div class="col-12 col-md-3">
-                <h4>— Newsletter —</h4>
+                <h4>— <i class="fas fa-newspaper"></i> Newsletter —</h4>
                 <p class="py-1">Subscribe to our newsletter</p>
                 <span>
                     <!-- Begin Mailchimp Signup Form -->
