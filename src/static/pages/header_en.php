@@ -40,10 +40,10 @@
                         <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/en/location/"><i class="fas fa-location-arrow"></i> Location</a></li>
-                            <li><a class="nav-link drop-2" href="/en/festival/rules/">Festival Rules</a></li>                            
+                            <li><a class="nav-link drop-2" href="/en/festival/rules/"><i class="fas fa-hand-point-right"></i> Festival Rules</a></li>                            
                             <li><a class="nav-link drop-2" href="/en/festival/camping/"><i class="fas fa-campground"></i> Camping & Parking</a></li>
-                            <li><a class="nav-link drop-2" href="/en/festival/services/">Services</a></li>
-                            <li><a class="nav-link drop-2" href="/en/info/volunteers/">Volunteers</a></li>
+                            <li><a class="nav-link drop-2" href="/en/festival/services/"><i class="fas fa-shower"></i> Services</a></li>
+                            <li><a class="nav-link drop-2" href="/en/info/volunteers/"><i class="fas fa-hands-helping"></i> Volunteers</a></li>
                             <li><a class="nav-link drop-2" href="/en/festival/food-shops/"><i class="fas fa-utensils"></i> (non)Food Shops</a></li>
                             <li><a class="nav-link drop-2" href="/en/festival/transport/"><i class="fas fa-car"></i> Transport</a></li>
                             <li><a class="nav-link drop-2" href="/en/festival/safety/"><i class="fas fa-shield-alt"></i> Safety</a></li>

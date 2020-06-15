@@ -38,10 +38,10 @@
                         <a href="#" alt="/en/festival/" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/nl/location/"><i class="fas fa-location-arrow"></i> Locatie</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/festival/rules/">Festivalregels</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/festival/rules/"><i class="fas fa-hand-point-right"></i> Festivalregels</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/camping/"><i class="fas fa-campground"></i> Camping en Parking</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/festival/services/">Voorzieningen</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/info/volunteers/">Vrijwilligers</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/festival/services/"><i class="fas fa-shower"></i> Voorzieningen</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/volunteers/"><i class="fas fa-hands-helping"></i> Vrijwilligers</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/food-shops/"><i class="fas fa-utensils"></i> (non)Food Shops</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/transport/"><i class="fas fa-car"></i> Transport</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/safety/"><i class="fas fa-shield-alt"></i> Veiligheid</a></li>
