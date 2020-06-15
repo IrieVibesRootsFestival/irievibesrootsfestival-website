@@ -43,9 +43,9 @@
                 </div>
                 <div class="col-6 col-md-4 col-xl-3">
                     <picture>
-                        <source srcset="/src/img/eco/sdg/intro/world-in-hands.webp" type="image/webp">
-                        <source srcset="/src/img/eco/sdg/intro/world-in-hands.jpg" type="image/jpeg">
-                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/intro/world-in-hands.jpg"/>
+                        <source srcset="/src/img/eco/sdg/intro/SDG.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/intro/SDG.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/intro/SDG.jpg"/>
                     </picture>
                 </div>
                 <div class="col-6 col-md-4 col-xl-3">
