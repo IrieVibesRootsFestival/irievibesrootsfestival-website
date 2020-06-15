@@ -21,7 +21,7 @@
              style="margin-bottom:-10px;"/>
     </div>
     <!--NAVIGATION-->
-    <nav id="navbar" class="navbar sticky-top navbar-expand-lg">
+    <nav id="navbar" class="navbar sticky-top navbar-expand-xl">
         <div class="container">
             <!-- This allows the Navbar to become smaller on a smaller mobile device. -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
