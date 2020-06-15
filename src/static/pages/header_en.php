@@ -50,7 +50,7 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-md-none"></i> Program<span class="dropdown-toggle"></span></a>
+                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-lg-none"></i> Program<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/en/artists">Artists</a></li>
                             <li><a class="nav-link drop-2" href="/en/lineup/">Line-Up</a></li>
