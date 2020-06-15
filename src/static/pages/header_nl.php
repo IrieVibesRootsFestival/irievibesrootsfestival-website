@@ -37,18 +37,18 @@
                     <li class="nav-item dropdown">
                         <a href="#" alt="/en/festival/" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a class="nav-link drop-2" href="/nl/location/">Locatie</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/location/"><i class="fas fa-location-arrow"></i> Locatie</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/rules/">Festivalregels</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/festival/camping/">Camping en Parking</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/festival/camping/"><i class="fas fa-campground"></i> Camping en Parking</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/services/">Voorzieningen</a></li>
                             <li><a class="nav-link drop-2" href="/nl/info/volunteers/">Vrijwilligers</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/festival/food-shops/">(non)Food Shops</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/festival/transport/">Transport</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/festival/safety/">Veiligheid</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/festival/food-shops/"><i class="fas fa-utensils"></i> (non)Food Shops</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/festival/transport/"><i class="fas fa-car"></i> Transport</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/festival/safety/"><i class="fas fa-shield-alt"></i> Veiligheid</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Programma<span class="dropdown-toggle"></span></a>
+                        <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-md-none"></i> Programma<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/nl/artists">Artiesten</a></li>
                             <li><a class="nav-link drop-2" href="/nl/lineup/">Line-Up</a></li>
@@ -56,7 +56,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/nl/tickets/"><i class="fas fa-ticket-alt d-md-none"></i> Tickets</a>
+                        <a class="nav-link" href="/nl/tickets/"><i class="fas fa-ticket-alt "></i> Tickets</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/nl/kids/">Little Lion</a>
@@ -71,7 +71,7 @@
                             <li><a class="nav-link drop-2" href="/nl/info/eco/eco-team/">Eco team</a></li>
                             <li><a class="nav-link drop-2" href="/nl/info/eco/reusable-cups/">Herbruikbare bekers</a></li>
                             <li><a class="nav-link drop-2" href="/nl/info/eco/groene-vent-award/"><i>Groene Vent</i></a></li>
-                            <li><a class="nav-link drop-2" href="/nl/info/eco/clean-water/">Waterrecyclage</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/clean-water/"><i class="fas fa-hand-holding-water"></i> Waterrecyclage</a></li>
                             <li><a class="nav-link drop-2" href="/nl/info/eco/upcycling/">Upcycling</a></li>
                             <li><a class="nav-link drop-2" href="/nl/info/eco/bewilg-het-landschap/">Bewilg Het Landschap</a></li>
                             <li><a class="nav-link drop-2" href="/nl/info/eco/world-cleanup-day/">World Cleanup Day</a></li>

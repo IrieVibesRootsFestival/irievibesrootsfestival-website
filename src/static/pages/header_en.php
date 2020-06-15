@@ -39,18 +39,18 @@
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a class="nav-link drop-2" href="/en/location/">Location</a></li>
+                            <li><a class="nav-link drop-2" href="/en/location/"><i class="fas fa-location-arrow"></i> Location</a></li>
                             <li><a class="nav-link drop-2" href="/en/festival/rules/">Festival Rules</a></li>                            
-                            <li><a class="nav-link drop-2" href="/en/festival/camping/">Camping & Parking</a></li>
+                            <li><a class="nav-link drop-2" href="/en/festival/camping/"><i class="fas fa-campground"></i> Camping & Parking</a></li>
                             <li><a class="nav-link drop-2" href="/en/festival/services/">Services</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/volunteers/">Volunteers</a></li>
-                            <li><a class="nav-link drop-2" href="/en/festival/food-shops/">(non)Food Shops</a></li>
-                            <li><a class="nav-link drop-2" href="/en/festival/transport/">Transport</a></li>
-                            <li><a class="nav-link drop-2" href="/en/festival/safety/">Safety First</a></li>
+                            <li><a class="nav-link drop-2" href="/en/festival/food-shops/"><i class="fas fa-utensils"></i> (non)Food Shops</a></li>
+                            <li><a class="nav-link drop-2" href="/en/festival/transport/"><i class="fas fa-car"></i> Transport</a></li>
+                            <li><a class="nav-link drop-2" href="/en/festival/safety/"><i class="fas fa-shield-alt"></i> Safety</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Program<span class="dropdown-toggle"></span></a>
+                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-md-none"></i> Program<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/en/artists">Artists</a></li>
                             <li><a class="nav-link drop-2" href="/en/lineup/">Line-Up</a></li>
@@ -73,7 +73,7 @@
                             <li><a class="nav-link drop-2" href="/en/info/eco/eco-team/">Eco team</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/reusable-cups/">Reusable cups</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/groene-vent-award/"><i>Groene Vent</i></a></li>
-                            <li><a class="nav-link drop-2" href="/en/info/eco/clean-water/">Clean water</a></li>
+                            <li><a class="nav-link drop-2" href="/en/info/eco/clean-water/"><i class="fas fa-hand-holding-water"></i> Clean water</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/upcycling/">Upcycling</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/bewilg-het-landschap/">Bewilg Het Landschap</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/world-cleanup-day/">World Cleanup Day</a></li>
