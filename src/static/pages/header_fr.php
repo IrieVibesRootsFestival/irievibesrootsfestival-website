@@ -34,7 +34,7 @@
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto d-lg-flex align-items-lg-center px-2 px-md-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="/fr/"><i class="fas fa-home"></i><span class="d-lg-none"> Home</span><span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="/fr/"><i class="fas fa-home"> </i><span class="d-lg-none">Home</span><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item dropdown">
                         <a href="#" alt="/en/festival/" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival<span class="dropdown-toggle"></span></a>
@@ -50,7 +50,7 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-lg-none"></i> Programme<span class="dropdown-toggle"></span></a>
+                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-lg-none"> </i>Programme<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/fr/artists">Artistes</a></li>
                             <li><a class="nav-link drop-2" href="/fr/lineup/">Line-Up</a></li>
@@ -58,7 +58,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/fr/tickets/"><i class="fas fa-ticket-alt d-lg-none"></i> Tickets</a>
+                        <a class="nav-link" href="/fr/tickets/"><i class="fas fa-ticket-alt d-lg-none"> </i>Tickets</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/fr/kids/">Little Lion</a>
