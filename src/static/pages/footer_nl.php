@@ -6,7 +6,7 @@
                 <img src="/src/img/greenforward.webp" class="img-fluid p-3 rounded-circle" alt="Greenforward Logo">
             </div>
             <div class="col-12 col-md-6 footer-nav animated fadeInUp">
-                <h4>— Menu —</h4>
+                <h4>— <i class="fas fa-info-circle"></i> Info —</h4>
                 <div class="row">
                     <div class="col-12 col-md-6">
                         <ul class="pages">
@@ -25,7 +25,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-12 col-md-3">
                 <h4>— Nieuwsbrief —</h4>
                 <p class="py-1">Abonneer op onze nieuwsbrief</p>
