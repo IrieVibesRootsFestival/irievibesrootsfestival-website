@@ -67,7 +67,7 @@
                         <a class="nav-link" href="/fr/festival/kortemark-conge/">Kortemark Congé</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;ECO<span class="dropdown-toggle"></span></a>
+                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/fr/info/eco/trim-the-footprint/">Trim The Footprint</a></li>
                             <li><a class="nav-link drop-2" href="/fr/info/eco/eco-team/">Équipe éco</a></li>
