@@ -16,11 +16,13 @@
     </div>
     <!--HEADER IMAGE-->
     <div id="banner">
+        <a class="nav-link" href="/fr/">
         <img src="/src/img/banner-logo.svg" 
              alt="Logo"
              height="115"
              width="254"
              style="margin-bottom:-10px;"/>
+        </a>
     </div>
     <!--NAVIGATION-->
     <nav id="navbar" class="navbar sticky-top navbar-expand-xl">
