@@ -366,6 +366,14 @@ header {
     font-family: 'Roboto Mono', monospace;
 }
 
+header a.nav-link{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 120px;
+    max-height: 32px;
+}
+
 .dropdown-toggle{padding-left:2px;}
 
 .w-80{
