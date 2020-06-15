@@ -60,7 +60,7 @@
                 <!-- navigation for the projects -->
                 <div class="col py-2">
                     <div class="text-box-2 rounded p-2 sticky-top mt-1 mx-auto">
-                        <div class="text-box rounded p-2">
+                        <div class="text-box rounded p-3">
                             <!-- Anchor Navigation -->
                             <ul class="nav flex-column">
                                 <li class="nav-item">
