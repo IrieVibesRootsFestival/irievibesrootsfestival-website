@@ -2,7 +2,7 @@
 <header>
     <div class="text-center mx-0 mb-3 row" id="banner-date">
         <!--Hashtag info-->
-        <div class="col-12 col-lg-4 d-none d-md-inline">
+        <div class="col-12 col-lg-4 d-none d-lg-inline">
             <p class="text-success m-0"><i>#worldmarkets #ital #roots</i></p>
         </div>
         <!--Main middle info-->
@@ -10,7 +10,7 @@
             <p class="text-warning text-uppercase m-0"><b> 15 - 16 - 17 July 2021 / Thursday free entry</b></p>
         </div>
         <!--Hashtag info-->
-        <div class="col-12 col-lg-4 d-none d-md-inline">
+        <div class="col-12 col-lg-4 d-none d-lg-inline">
             <p class="text-danger m-0"><i>#kids #family #reggae #dub</i></p>
         </div>
     </div>
