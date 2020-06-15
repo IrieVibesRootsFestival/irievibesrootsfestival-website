@@ -58,7 +58,7 @@
                 </div>
                 <!-- End Pictures -->
                 <!-- navigation for the projects -->
-                <div class="col">
+                <div class="col py-2">
                     <div class="text-box-2 rounded p-2 sticky-top mt-1 mx-auto">
                         <div class="text-box rounded p-2">
                             <!-- Anchor Navigation -->
@@ -70,7 +70,7 @@
                                     <a class="nav-link" href="#worldmarkets"><strong>2:</strong> Worldmarkets w/ Noord-Zuid Raad Kortemark</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#fairtrade"><strong>3:</strong>Fair Trade @ Irie Vibes</a>
+                                    <a class="nav-link" href="#fairtrade"><strong>3:</strong> Fair Trade @ Irie Vibes</a>
                                 </li>
                             </ul>
                         </div>
