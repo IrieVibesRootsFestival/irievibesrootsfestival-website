@@ -58,7 +58,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/en/tickets/">Tickets</a>
+                        <a class="nav-link" href="/en/tickets/"><i class="fas fa-ticket-alt"></i> Tickets</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/en/kids/">Little Lion</a>
