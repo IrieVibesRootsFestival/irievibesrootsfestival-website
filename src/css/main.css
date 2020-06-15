@@ -190,8 +190,9 @@ header a{
         box-shadow: 0 0px 12px 1px #1b1e21;
     }     
 }
-
+/* NOT SURE WHAT THIS DID?
 .nav-link{padding: .1rem;}
+*/
 /*---Footer Config---*/
 footer{
     background-image:url(/src/img/hardwood-horizontal.jpg);

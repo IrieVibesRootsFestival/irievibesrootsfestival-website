@@ -57,11 +57,31 @@
                     </picture>
                 </div>
                 <!-- End Pictures -->
+                <!-- navigation for the projects -->
+                <div class="text-box-2 rounded p-2 sticky-top mt-1">
+                    <div class="text-box rounded p-2">
+                        <!-- Anchor Navigation -->
+                        <ul class="nav nav-pills">
+                            <li class="nav-item">
+                                <a class="nav-link active" href="#">Active</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Link</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Link</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link disabled" href="#">Disabled</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
                 <!-- Begin Tanzania Text -->
                 <div class="col-12">
                     <a id="tanzania"></a>
                     <h3 class="text-irie text-uppercase"><b>Project: Women Empowering Women Entrepreneurs</b></h3>
-                    <h4 class="text-irie"><b>Achtergrond:</b></h4>
+                    <h4 class="text-irie"><b>Background:</b></h4>
                     <p>
                         Gender- and social inequality are known constraints to economic growth. As evidenced by the Tanzania Development Policy Vision 2025, the benefits from poverty reduction initiatives are unequally shared with women and marginalized populations, which contributes to pervasive poverty throughout the country. Rural communities are very poor, in part because there are limited work opportunities for women, who are then unable to contribute to the household financially and rely on men to sell crops or seek non-farm income in the workforce.
                     </p>

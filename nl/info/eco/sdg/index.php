@@ -56,6 +56,8 @@
                     </picture>
                 </div>
                 <!-- End Pictures -->
+                <!-- Begin OL for navigation -->
+                
                 <!-- begin TTF Tanzania -->
                 <div class="col-12">
                     <h4 class="text-irie mt-2"><b>Trim The Footprint @ Tanzania</b></h4>
