@@ -190,9 +190,9 @@ header a{
         box-shadow: 0 0px 12px 1px #1b1e21;
     }     
 }
-/* NOT SURE WHAT THIS DID?
-.nav-link{padding: .1rem;}
-*/
+
+
+
 /*---Footer Config---*/
 footer{
     background-image:url(/src/img/hardwood-horizontal.jpg);
@@ -374,6 +374,9 @@ header a.nav-link{
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+/*More tightly align dropdown items*/
+header .nav-link{padding: .1rem;}
 
 .dropdown-toggle{padding-left:2px;}
 
