@@ -88,19 +88,19 @@
                         <div class="text-box rounded p-3">
                             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                                 <li class="nav-item">
-                                    <a class="nav-link p-2 active" id="WEWE-1tab" data-toggle="pill" href="#WEWE-1" role="tab" aria-controls="conscious-communication" aria-selected="true">Project Goals</a>
+                                    <a class="nav-link active" id="WEWE-1tab" data-toggle="pill" href="#WEWE-1" role="tab" aria-controls="conscious-communication" aria-selected="true">Project Goals</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link p-2" id="WEWE-2tab" data-toggle="pill" href="#WEWE-2" role="tab" aria-controls="trim-the-footprint" aria-selected="false">Project Design</a>
+                                    <a class="nav-link" id="WEWE-2tab" data-toggle="pill" href="#WEWE-2" role="tab" aria-controls="trim-the-footprint" aria-selected="false">Project Design</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link p-2" id="WEWE-3tab" data-toggle="pill" href="#WEWE-3" role="tab" aria-controls="changing-minds" aria-selected="false">Recruitment</a>
+                                    <a class="nav-link" id="WEWE-3tab" data-toggle="pill" href="#WEWE-3" role="tab" aria-controls="changing-minds" aria-selected="false">Recruitment</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link p-2" id="WEWE-4tab" data-toggle="pill" href="#WEWE-4" role="tab" aria-controls="food-waste-facts" aria-selected="false">Monitoring Participation</a>
+                                    <a class="nav-link" id="WEWE-4tab" data-toggle="pill" href="#WEWE-4" role="tab" aria-controls="food-waste-facts" aria-selected="false">Monitoring Participation</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link p-2" id="WEWE-5tab" data-toggle="pill" href="#WEWE-5" role="tab" aria-controls="food-waste-facts" aria-selected="false">Outcomes</a>
+                                    <a class="nav-link" id="WEWE-5tab" data-toggle="pill" href="#WEWE-5" role="tab" aria-controls="food-waste-facts" aria-selected="false">Outcomes</a>
                                 </li>
                             </ul>
                             <div class="tab-content rounded p-0 p-md-2" id="TrimTheFootprint-tab">
