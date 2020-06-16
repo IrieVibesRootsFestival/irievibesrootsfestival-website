@@ -346,6 +346,7 @@
                 <!-- begin Worldmarkets text -->
                 <div class="col-12">
                     <a id="worldmarkets"></a>
+                    <hr/>
                     <h3 class="text-irie text-uppercase"><b>Project: Worldmarkets w/ Noord-Zuid Raad Kortemark</b></h3>
                     <p>
                         In addition to the entire project, we also provide a world market during the Irie Vibes Roots Festival 2020. The world market is an initiation of the North South Counsel in Kortemark. By bringing the world market to the festival, we create the link between various partners and we want to make our visitors aware of the development goals. In the world market, various local organizations that are committed to the South or linked to fair trade and development goals can introduce themselves to the visitors. We also provide the province's Under Construction exhibition on the world market.
@@ -393,6 +394,8 @@
                 <!-- begin Fairtrade text -->
                 <div class="col-12">
                     <a id="fairtrade"></a>
+                    <hr/>
+                    <h3 class="text-irie text-uppercase"><b>Project: Fair Trade @ Irie Vibes</b></h3>
                     <p>Beginning the 2021 edition, we also want to offer fair trade products in our main bar, our cocktail bar, our camping bar and our camping shop.</p>
                     <p><a href="https://www.oxfamfairtrade.be/nl/">Home | Oxfam Fair Trade</a></p>
                 </div>
