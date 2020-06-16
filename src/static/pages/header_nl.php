@@ -52,9 +52,9 @@
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-lg-none">&nbsp;</i>Programma<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a class="nav-link drop-2" href="/nl/artists">Artiesten</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/lineup/">Line-Up</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/lineup/posters/">Affiches</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/artists"><i class="fas fa-microphone-alt"></i> Artiesten</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/lineup/"><i class="fas fa-record-vinyl"></i> Line-Up</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/lineup/posters/"><i class="fas fa-scroll"></i> Affiches</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
