@@ -58,7 +58,7 @@
                 </div>
                 <!-- End Pictures -->
                 <!-- navigation for the projects -->
-                <div class="col py-2">
+                <div class="col py-md-4">
                     <div class="text-box-2 rounded p-2 sticky-top mt-1 mx-auto">
                         <div class="text-box rounded p-3">
                             <!-- Anchor Navigation -->
@@ -344,6 +344,50 @@
                 </div>
                 <!-- End Tanzania Text -->
                 <!-- begin Worldmarkets text -->
+                <div class="col-12">
+                    <h3 class="text-irie text-uppercase"><b>Project: Worldmarkets w/ Noord-Zuid Raad Kortemark</b></h3>
+                    <p>
+                        In addition to the entire project, we also provide a world market during the Irie Vibes Roots Festival 2020. The world market is an initiation of the North South Counsel in Kortemark. By bringing the world market to the festival, we create the link between various partners and we want to make our visitors aware of the development goals. In the world market, various local organizations that are committed to the South or linked to fair trade and development goals can introduce themselves to the visitors. We also provide the province's Under Construction exhibition on the world market.
+                    </p>
+                    <p>
+                        <a href="https://www.west-vlaanderen.be/over-west-vlaanderen/bestuur-en-beleid/administratie/provinciale-diensten/wereldhuis">Wereldhuis West-Vlaanderen | Provincie West-Vlaanderen</a>
+                    </p>
+                </div>
+                <div class="col-6 col-md-4">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/worldmarket/group-2015.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/worldmarket/group-2015.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid" src="/src/img/eco/sdg/worldmarket/group-2015.jpg" alt="Foto 1">
+                    </picture>
+                </div>
+                <div class="col-6 col-md-4">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/worldmarket/under-construction.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/worldmarket/under-construction.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid" src="/src/img/eco/sdg/worldmarket/under-construction.jpg" alt="Foto 2">
+                    </picture>
+                </div>
+                <div class="col-6 col-md-4">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/worldmarket/expo-panels.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/worldmarket/expo-panels.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid" src="/src/img/eco/sdg/worldmarket/expo-panels.jpg" alt="Foto 3">
+                    </picture>
+                </div>
+                <div class="col-6">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/worldmarket/blocks.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/worldmarket/blocks.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid" src="/src/img/eco/sdg/worldmarket/blocks.jpg" alt="Foto 4">
+                    </picture>
+                </div>
+                <div class="col-6">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/worldmarket/Web_word_wereldburger.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/worldmarket/Web_word_wereldburger.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid" src="/src/img/eco/sdg/worldmarket/Web_word_wereldburger.jpg" alt="Foto 5">
+                    </picture>
+                </div>
                 <!-- end Worldmarkets text -->
                 <!-- begin Fairtrade text -->
                 <!-- begin Fairtrade text -->
