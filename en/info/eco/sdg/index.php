@@ -415,9 +415,9 @@
                 </div>
                 <div class="col-6 col-md-3 pb-1">
                     <picture>
-                        <source srcset="/src/img/eco/sdg/fairtrade/oft-logo.webp" type="image/webp">
-                        <source srcset="/src/img/eco/sdg/fairtrade/oft-logo.jpg" type="image/jpeg">
-                        <img alt="" class="img-fluid" src="/src/img/eco/sdg/fairtrade/oft-logo.jpg" alt="Foto 1">3
+                        <source srcset="/src/img/eco/sdg/fairtrade/sap-voor-sap.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/fairtrade/sap-voor-sap.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid" src="/src/img/eco/sdg/fairtrade/sap-voor-sap.jpg" alt="Foto 3">
                     </picture>
                 </div>
                 <div class="col-6 col-md-3 pb-1">
