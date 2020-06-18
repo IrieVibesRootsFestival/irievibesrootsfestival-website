@@ -346,11 +346,17 @@ footer .footer-nav ul.list a:hover { color:rgba(255,255,255,0.60); text-decorati
     background-position: center;
 }
 
-.anchor-link {
-    display: block;
-    position: relative;
-    top: -75px;
-    visibility:hidden;
+/*flash the target object when you navigate to it*/
+.anchor:target {
+    animation-name: blink;
+    animation-direction: normal;
+    animation-duration: .5s;
+    animation-iteration-count: 2;
+    animation-timing-function: ease;
+}
+@keyframes blink {
+    0% { color: rgba(0,0,0,.9); }
+    100% { color: rgba(0,0,0,0); }
 }
 
 .text-box-2{background-image:url('/src/img/hardwood-horizontal.jpg'); padding:.5rem;}
