@@ -67,7 +67,7 @@
                                     <a class="nav-link" href="#tanzania"><strong>1:</strong> Trim The Footprint Tanzania</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#worldmarkets"><strong>2:</strong> Wereldmarkt ism Noord Zuid Raad Kortemark</a>
+                                    <a class="nav-link" href="#worldmarkets"><strong>2:</strong> Marché mondial en collaboration avec Noord-Zuid Raad Kortemark</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="#fairtrade"><strong>3:</strong> Fair Trade @ Irie Vibes</a>
