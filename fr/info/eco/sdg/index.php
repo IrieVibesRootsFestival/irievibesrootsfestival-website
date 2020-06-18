@@ -57,30 +57,49 @@
                     </picture>
                 </div>
                 <!-- End Pictures -->
-                <!-- begin Tanzania TTF -->
+                <!-- navigation for the projects -->
+                <div class="col py-md-4">
+                    <div class="text-box-2 rounded p-2 sticky-top mt-1 mx-auto">
+                        <div class="text-box rounded p-3">
+                            <!-- Anchor Navigation -->
+                            <ul class="nav flex-column">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#tanzania"><strong>1:</strong> Trim The Footprint Tanzania</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#worldmarkets"><strong>2:</strong> Wereldmarkt ism Noord Zuid Raad Kortemark</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#fairtrade"><strong>3:</strong> Fair Trade @ Irie Vibes</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- begin TTF Tanzania -->
                 <div class="col-12">
                     <a id="tanzania"></a>
                     <h3 class="text-irie text-uppercase"><b>Project: Women Empowering Women Entrepreneurs</b></h3>
                     <h4 class="text-irie"><b>Achtergrond:</b></h4>
                     <p>
-                        Gender- and social inequality are known constraints to economic growth. As evidenced by the Tanzania Development Policy Vision 2025, the benefits from poverty reduction initiatives are unequally shared with women and marginalized populations, which contributes to pervasive poverty throughout the country. Rural communities are very poor, in part because there are limited work opportunities for women, who are then unable to contribute to the household financially and rely on men to sell crops or seek non-farm income in the workforce.
+                        Gender- en sociale ongelijkheid zijn gekende drempels in de economische groei. Zoals de Tanzania Development Policy Vision 2025 aangaf, worden vrouwen en achtergesteld groepen onvoldoende betrokken bij armoedebestrijdings initiatieven. 
                     </p>
                     <p>
-                        Most women are not participating in work, or they are given domestic work like fetching water or caring for the youngest and oldest household members. In addition, cultural traditions such as FGM, women’s inferior role in marriage, and polygamy reduce women’s access to education, which keeps women out of the workforce. This lack of education prevents women from benefiting from development initiatives offered by the government and NGO because many women lack the education and exposure to try new things.
+                        Landelijke gemeenschappen zijn erg arm, vaak omdat er weinig werkmogelijkheden zijn naar vrouwen toe, die afhankelijk blijven van het inkomen van de mannen. Het merendeel van deze vrouwen werkt niet of blijft verantwoordelijk voor het huishouden en het zorgen voor de familie. Daarenboven zijn er culturele tradities zoals FGM, de ondergeschikte rol van de vrouw in het huwelijk en polygamie, die de toegang van vrouwen tot opleiding en onderwijs minimaliseren. Dit gebrek aan opleiding vormt een drempel naar initiatieven toe die aangeboden worden door NGO’s of de overheid. 
                     </p>
                     <p>
-                        While some women in Kigamboni have engaged in entrepreneurial activities such as selling vegetables, selling batik or kanga to tourists and local people, or selling breakfast snacks and chai and food near the market, many women lack the exposure or skills to start their own business to earn income.
+                        Terwijl vrouwen in Kigamboni wel betrokken zijn bij het ondernemerschap, zoals het verkopen van groenten, batik of kanga aan toeristen en de lokale bevolking; het verkopen van ontbijt, chai en eten op de markt; merken we dat veel vrouwen de ervaring en kennis ontbreken om hun eigen zaak op te starten en zo een vaste bron van inkomen te hebben.
                     </p>
                     <p>
-                        The biggest constraints for many women are lack of education and exposure to other women who are working. Therefore most women stay at home doing domestic work despite the fact that they are talented and could do something to contribute to their household income to reduce poverty. Self-employment also means both women and men have equal opportunities to work, therefore reducing women’s one-sided dependence on men for household income.<br/>
-                        Through talking to some women in the Kigamboni community, we have observed two types of women who could benefit from additional skills to become an entrepreneur:
+                        De grootste drempel voor veel vrouwen is het gebrek aan opleiding en ervaring. Daardoor blijven veel vrouwen thuis, niettegenstaande zij wel de talenten hebben om financieel bij te dragen in het eigen gezin en aan de gemeenschap.<br/>
+                        We merken twee groepen vrouwen op die het ondernemerschap onder de knie zouden kunnen krijgen:
                     </p>
                     <ul>
-                        <li><b>Group 1 - Unskilled Inventors:</b> They have an idea of doing something, and some have tried to put idea into practice, but failed or get unexpected outcome/results because of how they do it.</li>
-                        <li><b>Group 2 - Unexposed Observers:</b>They really want to learn how to do something that can make them money, but they don’t know how or where to seek help.</li>
+                        <li><b>Groep 1 - Unskilled Inventors:</b> Zij hebben wel het idee om iets te doen en hebben vaak al geprobeerd om dit idee ook uit te voeren, maar faalden in de uitvoering omwille van de manier waarop ze het aan pakten.</li>
+                        <li><b>Groep 2 - Unexposed Observers:</b>Zij willen leren hoe ze zelf actie kunnen ondernemen, maar weten niet goed hoe eraan te beginnen of waar ze ondersteuning kunnen krijgen.</li>
                     </ul>
                     <p>
-                        Both groups of women would benefit from entrepreneurship training in a community-based format, learning from other women in addition to a trusted facilitator.
+                        Beide groepen zouden de voordelen ondervinden van een opleiding rond ondernemerschap binnen de gemeenschap, waar ze in een vertrouwde omgeving zouden kunnen leren van andere vrouwen.
                     </p>
                 </div>
                 <div class="col-12">
@@ -88,83 +107,69 @@
                         <div class="text-box rounded p-3">
                             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                                 <li class="nav-item">
-                                    <a class="nav-link active" id="WEWE-1tab" data-toggle="pill" href="#WEWE-1" role="tab" aria-controls="conscious-communication" aria-selected="true">Project Goals</a>
+                                    <a class="nav-link active" id="WEWE-1tab" data-toggle="pill" href="#WEWE-1" role="tab" aria-controls="conscious-communication" aria-selected="true">Doelstellingen</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" id="WEWE-2tab" data-toggle="pill" href="#WEWE-2" role="tab" aria-controls="trim-the-footprint" aria-selected="false">Project Design</a>
+                                    <a class="nav-link" id="WEWE-2tab" data-toggle="pill" href="#WEWE-2" role="tab" aria-controls="trim-the-footprint" aria-selected="false">Stappenplan</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" id="WEWE-3tab" data-toggle="pill" href="#WEWE-3" role="tab" aria-controls="changing-minds" aria-selected="false">Recruitment</a>
+                                    <a class="nav-link" id="WEWE-3tab" data-toggle="pill" href="#WEWE-3" role="tab" aria-controls="changing-minds" aria-selected="false">Ledenwerving</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" id="WEWE-4tab" data-toggle="pill" href="#WEWE-4" role="tab" aria-controls="food-waste-facts" aria-selected="false">Monitoring Participation</a>
+                                    <a class="nav-link" id="WEWE-4tab" data-toggle="pill" href="#WEWE-4" role="tab" aria-controls="food-waste-facts" aria-selected="false">Participatie</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" id="WEWE-5tab" data-toggle="pill" href="#WEWE-5" role="tab" aria-controls="food-waste-facts" aria-selected="false">Outcomes</a>
+                                    <a class="nav-link" id="WEWE-5tab" data-toggle="pill" href="#WEWE-5" role="tab" aria-controls="food-waste-facts" aria-selected="false">Uiteindelijke doelstellingen</a>
                                 </li>
                             </ul>
                             <div class="tab-content rounded p-0 p-md-2" id="TrimTheFootprint-tab">
                                 <div class="tab-pane fade show active" id="WEWE-1" role="tabpanel" aria-labelledby="WEWE-1">
                                     <p>
-                                        WEWE is based on the idea that women have valuable skills and insights to share with other women, regardless of their formal experience working in a business. WEWE would employ a similar model to other group-based development initiatives such as Rotating Savings and Credit Associations (ROSCAs) used to help women save money or Community Producer Groups designed to help farmers share agricultural knowledge, market information, inputs, and labor but oriented toward a goal of entrepreneurial development, particularly for women. The WEWE project seeks to address the lack of education and exposure to business for women in order to help them build or grow entrepreneurial enterprises that generate income for their household.<br/>
-                                        The overall goals of the project are to:
+                                        WEWE is gebaseerd op het idee dat vrouwen waardevolle talenten en inzichten hebben om te delen met andere vrouwen, ongeacht of zij reeds ervaring hebben in het ondernemerschap. WEWE baseert zich hiervoor op een gelijkaardig model als andere werkingen, zoals Rotating Savings and Credit Associations (ROSCAs) of gemeenschappen waar boeren hun landbouwkennis met elkaar delen, maar dan specifiek gericht op vrouwen. <br/>Het WEWE project kaart het gebrek aan opleiding en de toegang tot ondernemerschap voor vrouwen aan.
+                                    </p>
+                                    <p>
+                                        De doelstellingen van het project zijn:
                                     </p>
                                     <ol>
-                                        <li>Provide women an opportunity to learn about different ideas related to starting and growing a business</li>
-                                        <li>Facilitate the skill-sharing and group-based financing mechanisms necessary to help women start or grow their businesses</li>
-                                        <li>Provide opportunities for women to earn or increase their income</li>
+                                        <li>Vrouwen de mogelijkheid geven om ideeën met elkaar uit te wisselen en de diverse mogelijkheden tot het opstarten van een eigen zaken te ontdekken.</li>
+                                        <li>Het ondersteunen van de groepsmechanismen rond financiëring en het ontwikkelen van de nodige talenten die nodig zijn om een eigen zaak op te richten</li>
+                                        <li>Mogelijkheden voorzien voor vrouwen om in een eigen inkomen te voorzien</li>
                                     </ol>
                                     <p>
-                                        In addition, the project aims to increase decision making roles for women within their households and to reinforce the fact that household gender equality is important in every aspect in life in order to reduce poverty
+                                        Daarnaast wil het project ook de rol van de vrouw in het gezin en de gemeenschap opwaarderen en genderongelijkheid verminderen.
                                     </p>
                                 </div>
                                 <div class="tab-pane fade" id="WEWE-2" role="tabpanel" aria-labelledby="WEWE-2">
-                                    <p>WEWE plans to build on the group-based, mutual aid model employed in agricultural development and microfinance efforts to bring a group of women together as a social development project. However, WEWE model proposes grouping both groups of women outlined above together to learn from each other in the group format, regardless of previous exposure to entrepreneurship.</p>
                                     <p>
-                                        Our plan is to facilitate opportunities for women from various communities and businesses to interact with each other in a group setting to collectively discuss business ideas, opportunities, constraints, and solutions. For example, some women have already started a business while some others have not, so those who have already started a business can help the other women by sharing their experience, including the ways they financed their business originally and any other lessons they have learned. While the WEWE group facilitators will provide some trainings themselves or will coordinate with other NGOs to provide skill-building training to the women (e.g., record keeping, learning about market prices, formalizing the business with the government), the group facilitators will work with the participants to determine an appropriate curriculum given the group’s self-defined learning goals.
+                                        WEWE wil een groep vrouwen samenbrengen binnen een model dat gebaseerd is op gemeenschap en wederzijdse hulp en dit in de landelijke gebieden. Centraal is het idee dat vrouwen van elkaar kunnen leren, ongeacht hun ervaring met ondernemerschap. Door mogelijkheden te faciliteren voor vrouwen uit verschillende gemeenschappen en met verschillende achtergronden om samen te denken rond ideeën, drempels en oplossingen voor het opstarten van een eigen zaak. 
                                     </p>
                                     <p>
-                                        While the goal of the WEWE groups is to help expose women to other women with the goal of helping them develop their own or their own shared business, we will not require women to have a specific idea in mind before they join the group. Some women may wish to participate and hear what others are doing first before developing their own idea, but they can still benefit from participating and can contribute ideas to other participants who have or are thinking of starting a business themselves.<br/>
-                                        Several aspects of this proposal are subject to further field testing through interviews or focus groups with women who fit the target population. However, the basic idea involves the following activities:</p>
+                                        In combinatie met opleidingen gecoördineerd door ngo’s (bv boekhouding, marktprijzen, de nodige documenten invullen, ….) kunnen de begeleiders samen met de deelnemers aangepaste doelstellingen opmaken. Deze visie en deze doelstellingen kunnen groeien vanuit de vrouwen zelf.  Vanuit de focusgroepen en gesprekken met vrouwen zullen de trajecten nog verder gedetailleerd worden, maar als algemene doelstellingen kunnen we op dit moment reeds stellen: 
+                                    </p>
                                     <ol>
                                         <li>
-                                            <a class="btn btn-irie p-1 m-1" data-toggle="collapse" href="#WEWE-2-1" role="button" aria-expanded="false" aria-controls="WEWE-2-1">Entrepreneurial learning circles</a>
+                                            <a class="btn btn-irie p-1 m-1" data-toggle="collapse" href="#WEWE-2-1" role="button" aria-expanded="false" aria-controls="WEWE-2-1">Leercirkels rond ondernemerschap</a>
                                             <span class="collapse" id="WEWE-2-1">
                                                 <p>
-                                                    Small groups in each neighborhood of roughly 6-12 members will meet regularly to discuss business opportunities, exchange ideas, and save money. Participants in the entrepreneurial learning circle will take turns hosting the other participants to learn about their existing business or to share ideas to improve the host’s existing business plan. Participants will learn about and from their group members’ entrepreneurial ideas, which can help them develop their own entrepreneurial ideas as well.
-                                                </p>
-                                                <p>
-                                                    <b>Group composition:</b> Ideally, we will have a mix of the two types of women (above). However, it may be difficult to create a perfect mix, and geographic considerations may outweigh the benefits of recruiting the perfectly mixed group. It may also be possible to form groups based on pre-existing groups or affiliations. For example, we could recruit women who belong to or are affiliated with existing groups (e.g., women’s saving groups, mothers of same-aged children).
-                                                </p>
-                                                <p>
-                                                    <b>Benefits:</b> Through peer observation and knowledge sharing, members can learn from each other and think of ways to develop or improve their own business ideas
+                                                    Kleine groepen in elke buurt van ongeveer 6-12 leden die op regelmatige basis samenkomen om ideeën uit te wisselen rond ondernemerschap en samen geld te sparen. Deelnemers die reeds een eigen zaak hebben (of hadden) delen hun ervaringen.  Deelnemers die geen ervaring hebben, kunnen een eigen idee ontwikkelen.  Een perfecte mix tussen ervaren en niet-ervaren vrouwen zal wellicht niet altijd mogelijk zijn. We kunnen ons ook baseren op reeds bestaande groeperingen (bv spaargroepen vrouwen, moeders met kinderen van eenzelfde leeftijd, …)
+
                                                 </p>
                                             </span>
                                         </li>
                                         <li>
-                                            <a class="btn btn-irie p-1 m-1" data-toggle="collapse" href="#WEWE-2-2" role="button" aria-expanded="false" aria-controls="WEWE-2-2">Rotating labor group</a>
+                                            <a class="btn btn-irie p-1 m-1" data-toggle="collapse" href="#WEWE-2-2" role="button" aria-expanded="false" aria-controls="WEWE-2-2">Wisselende arbeidsgroep</a>
                                             <span class="collapse" id="WEWE-2-2">
                                                 <p>
-                                                    WEWE facilitators will also encourage members of the entrepreneurial learning circles to help each other with large tasks that require group labor on a regular, rotating basis. These tasks may include cleaning a plot of land to start a business, painting, working at a restaurant, or making a product to sell (e.g., food). other with tasks.
+                                                    De begeleiders zullen de leden van de eerste groep stimuleren om elkaar te helpen bij grote taken, zoals een stuk land effenen om een zaak op te starten, het opknappen van een gebouw, het samen maken van een product voor verkoop ….  Door actief aan de slag te gaan, kunnen vrouwen die nog geen ervaring hebben met het werken buiten het eigen huishouden, al doende leren.<br/>
+                                                    Deze samenkomsten zouden wekelijks kunnen gebeuren en er kan telkens een nieuwe takenlijst voorgelegd worden. Op die manier is er een gedeelde verantwoordelijkheid en kunnen grotere taken afgewerkt worden. Deze methode werd reeds toegepast in bepaalde landbouwgemeenschappen (Women in Agricultural Value Chain), waar de leden van de gemeenschap elkaar ondersteunen bij de meer arbeidsintensieve taken zoals het ploegen of oogsten. Dit component stimuleert een gevoel van samenhorigheid en gedeelde verantwoordelijkheid en geeft alle vrouwen toegang tot een gevoel van (gedeeld) succes.
                                                 </p>
-                                                <ul>
-                                                    <li>
-                                                        For members who already own or work at a business, the host can choose what they would like the group to help them. For example, if they visited a local restaurant, members could help cook or wash dishes. This would be especially beneficial for women who have not worked outside of the household since they can learn by doing instead of watching.
-                                                    </li>
-                                                    <li>
-                                                        <b>Structure/Timing:</b> This can be done weekly or however frequently the members would like to meet. Group members in WEWE could choose to define a set list of tasks or let the host choose which tasks they would like completed when it is their turn to host. Groups can also choose if they would like to have one designated day for labor sharing activities (like Saturday).
-                                                    </li>
-                                                    <li>
-                                                        <b>Benefits:</b> This component helps build skills and provides pooled labor for business owners to support their businesses and accomplish larger tasks better suited for a group work day than an individual. While some households have access to informal labor during times of peak labor needs through extended family or through purchases labor, not all women do. This component enables all WEWE members to benefit materially from group membership in addition to the education and exposure components through the learning circle alone. This method has been tested in rotating agricultural groups through the Women in Agricultural Value Chain (WAV) project, in which farmer groups facilitated a rotating labor group to help out with more labor-intensive tasks at key agricultural windows such as plowing, weeding, or harvesting. In addition to providing labor for more labor-intensive activities, this component also builds in a commitment mechanism to ensure all members have a chance to benefit from group membership with whatever tasks they would like help accomplishing to develop a sense of shared success.
-                                                    </li>
-                                                </ul>
                                             </span>
                                         </li>
                                         <li>
-                                            <a class="btn btn-irie p-1 m-1" data-toggle="collapse" href="#WEWE-2-3" role="button" aria-expanded="false" aria-controls="WEWE-2-3">Group capital development fund</a>
+                                            <a class="btn btn-irie p-1 m-1" data-toggle="collapse" href="#WEWE-2-3" role="button" aria-expanded="false" aria-controls="WEWE-2-3">Gedeeld ontwikkelingsfonds</a>
                                             <span class="collapse" id="WEWE-2-3">
                                                 <p>
-                                                    In addition to skill sharing and skill building activities, the WEWE groups will also provide a mechanism for women to participate in group savings through a ROSCA or Savings and Loan model to enable women to save the capital necessary to start or build their business. The group can create a shared savings accounts and develop whatever institutions they feel are necessary to ensure the funds are withdrawn only for business development purposes. 
+                                                    Naast het uitwisselen van ervaringen en ontwikkelen van talenten, willen we ook de mogelijkheid voorzien voor de deelnemers om gezamenlijk te sparen via een ROSCA of Savings&Loan model. Op die manier willen we een startbudget creëren voor de vrouwen die met een eigen zaak starten.  De groep kan gedeelde spaarrekeningen opstarten. 
                                                 </p>
                                             </span>
                                         </li>
@@ -172,52 +177,48 @@
                                 </div>
                                 <div class="tab-pane fade" id="WEWE-3" role="tabpanel" aria-labelledby="WEWE-3">
                                     <p>
-                                        Due to the dispersed environment in Kigamboni, we will go house-by-house or street-by-street to educate potential group members about the goals and activities of the WEWE group as well as what they can expect to achieve as a result of participating to motivate them to join. Given the expansive geographic area to cover in Kigamboni, it will be helpful to recruit a local liaison in each [[neighborhood/community]] to help facilitate local recruitment in order to maximize the number of women who learn about the opportunity. 
-                                    </p>
-                                    <p><i>OR:</i></p>
-                                    <p>
-                                        We will ask permission to community leadership to speak with the community and ask if they have names of women who currently own or work in a business. Then I will ask the women I meet to recommend other women who community leaders did not recommend.
+                                        We plannen om van huis tot huis (van straat tot straat) te gaan om mogelijke groepleden te vertellen over de doelstellingen en activiteiten van de WEWE groep en hen te motiveren om lid te worden. Rekening houdend met de uitgebreide regio die in Kigamboni bezocht moet worden, zouden we de mogelijkheid bekijken om in elke buurt een lokale begeleider te zoeken die ons hierin kan ondersteunen. Indien dit niet mogelijk is, zouden we aan de gemeenschap vragen of we de namen van vrouwen kunnen verkrijgen die reeds een eigen onderneming hebben en deze vrouwen contacteren. 
                                     </p>
                                 </div>
                                 <div class="tab-pane fade" id="WEWE-4" role="tabpanel" aria-labelledby="WEWE-4">
                                     <p>
-                                        It will be important for the group to develop a contract at the beginning during formation to ensure all members agree to the same goals and general rules. WEWE facilitators can help groups start this contract by providing a template and facilitating discussions about what some shared goals or rules might be, but the contract and participation requirements will ultimately be up to each small group. <br/>
-                                        Parameters of the contract may include: 
+                                        Het zal belangrijk zijn om participatief aan de slag te gaan met de groep om ervoor te zorgen dat alle leden zich achter dezelfde regels en doelstellingen kunnen scharen. WEWE begeleiders kunnen een template voorzien en de groepsdiscussies faciliteren, maar de uiteindelijke doelstellingen en visie zullen vanuit de groep zelf komen. <br/>
+                                        Parameters van het contract kunnen zijn: 
                                     </p>
                                     <ul>
-                                        <li>Attendance/Absences</li>
-                                        <li>Rotating labor group rules (which tasks, how many hours</li>
-                                        <li>Minimum savings requirements</li>
-                                        <li>Rules for withdrawing money</li>
-                                        <li>Reasons for group dismissal</li>
+                                        <li>aanwezigheden</li>
+                                        <li>taakverdeling en uurverdeling</li>
+                                        <li>minimum spaar vereisten</li>
+                                        <li>regels voor het afhalen van gelden</li>
+                                        <li>redens om de groep te verlaten of te ontbinden</li>
                                     </ul>
                                 </div>
                                 <div class="tab-pane fade" id="WEWE-5" role="tabpanel" aria-labelledby="WEWE-5">
-                                    <p>The WEWE project aims to affect the following outcomes:</p>
                                     <ul>
-                                        <li><b>Entrepreneurial activity engagement</b>
+                                        <li><b>Ondernemerschap</b>
                                             <ul>
-                                                <li>Increased participation in non-household labor</li>
-                                                <li>Increased knowledge about business skills (e.g., record keeping, obtaining supplies, navigating government permits, if appropriate)</li>
-                                                <li>Increased market orientation (e.g., knowledge about prices, where to sell, where to obtain supplies for lowest prices, what technology to use)</li>
+                                                <li>Nieuwe ondernemerschappen opstarten</li>
+                                                <li>Verhoging in de participatie van vrouwen in niet-huishoudelijke arbeid</li>
+                                                <li>Verhoging van de kennis over het ondernemerschap</li>
                                             </ul>
                                         </li>
-                                        <li><b>Increased wealth</b>
+                                        <li><b>Welvaart</b>
                                             <ul>
-                                                <li>Measurable increases in cash or in-kind income</li>
-                                                <li>Increased savings</li>
-                                                <li>Increased ability to pay for expenses such as children’s school fees, sickness, large household purchase</li>
+                                                <li>Meetbare verhoging van de inkomens</li>
+                                                <li>Verhoging van de spaargelden</li>
+                                                <li>Verhoging van de mogelijkheid om te betalen voor o.a. onderwijs, ziektekosten,...</li>
                                             </ul>
                                         </li>
-                                        <li><b>Autonomy</b>
+                                        <li><b>Autonomie</b>
                                             <ul>
-                                                <li>Increased confidence, sense of self-efficacy</li>
-                                                <li>Increased role for women in household decision making due to more equal role in household finances</li>
+                                                <li>Verhoging van het zelfvertrouwen</li>
+                                                <li>Gevoel van zelfwaarde verhogen</li>
+                                                <li>Een grotere input van vrouwen bij de beslissingen over de huishoudgelden</li>
                                             </ul>
                                         </li>
-                                        <li><b>Women’s time allocation:</b>
+                                        <li><b>Tijdsbesteding</b>
                                             <ul>
-                                                <li>Greater leisure time relative to labor due to benefits of shared labor groups</li>
+                                                <li>Meer vrije tijd dankzij de voordelen van gedeelde arbeid</li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -229,15 +230,16 @@
                 <div class="col-12">
                     <h4 class="text-irie mt-2"><b>Trim The Footprint @ Tanzania</b></h4>
                     <p class="small"><i>
-                        <b>Goal 15.</b> Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss<br/>
-                        <b>15.2</b> By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally<br/>
-                        <b>15.b</b> Mobilize significant resources from all sources and at all levels to finance sustainable forest management and provide adequate incentives to developing countries to advance such management, including for conservation and reforestation</i>
+                        <b>Doelstelling 15</b> Bescherm, herstel en bevorder het duurzaam gebruik van ecosystemen op het vasteland, beheer bossen duurzaam, bestrijd woestijnvorming, stop landdegradatie en draai het terug en roep het verlies aan biodiversiteit een halt toe<br/>
+                        <b>15.2</b> Tegen 2020 de implementatie bevorderen van het duurzaam beheer van alle soorten bossen, de ontbossing een halt toeroepen, verloederde bossen herstellen en op duurzame manier bebossing en herbebossing mondiaal opvoeren<br/>
+                        <b>15.b</b> Aanzienlijke middelen mobiliseren vanuit allerlei bronnen en op alle niveaus om duurzaam bosbeheer te financieren en gepaste stimuli te verschaffen aan ontwikkelingslanden om een dergelijk beheer te organiseren, ook voor behoud en herbebossing
+                        </i>
                     </p>
-                    <p>Vzw Greenforward is a non profit organisation who has been active for 19 years in West Flanders, Belgium. The organisation is based completely on the enthousiasm and work of volunteers. Every year, they organise the Irie Vibes Roots Festival, a low budget, open minded, family friendly and ecological aware festival that attracts about 2500 people. In their actions and activities, the organisation always tries to keep the ecological footprint as low as possible. Social engagement is an important aspect of the working of the organisation. vzw Greenforward strongly believes that music transcends prejudices, music unites. But it’s not just about uniting, words of beliefs. They want to make a change in this world. In 2018, vzw Greenforward received the Ovam Green Event Award.<br/>
-                        Together with ngo WEEDO and the communities in Kigamboni, vzw Greenforward wants to start up the Carbon Free Project “Trim your footprint”.  The project is not only about reducing the own co emissions, we want to increase reforestation and support the use of clean ovens in the region.
+                    <p>Vzw Greenforward is reeds 19 jaar actief in West-Vlaanderen, België. De werking van de organisatie is volledig gebaseerd op het enthousiasme en werk van vrijwilligers. Jaarlijks organiseert de vzw het Irie Vibes Roots Festival, een low budget, open minded, gezinsvriendelijk en ecologisch bewust festival met zo’n 2500 bezoekers. In de activiteiten van de vzw wordt steeds geprobeerd om de ecologische voetafdruk zo klein mogelijk te houden. Sociaal engagement is een belangrijk aspect in de werking. De vzw gelooft sterk dat muziek mensen samenbrengt en vooroordelen overstijgt. Maar het gaat niet alleen over samenbrengen of een visie, de vzw wil daadwerkelijk een verandering teweegbrengen in de wereld. In 2018 ontving de vzw de Ovam Groen Event Award in de categorie kleine festivals voor haar ecologische initiatieven. <br/>
+                        Samen met ngo WEEDO en de gemeenschappen in Kigamboni wil vzw Greenforward een CO² neutraal project “Trim your footprint” opstarten. Binnen dit project willen we niet alleen de eigen uitstoot verminderen, we willen door het aanplanten van bossen en door het stimuleren van het gebruik van clean ovens in de regio echt een verschil maken.
                     </p>
-                    <p>The WEEDO is the ideal partner for us, because it gives us the chance to combine both our ecological and our social commitment. Educating and empowering women can be a keystone to change the world.<br/>
-                        In 2019, vzw Greenforward funded a banda where the women of Weedo can come together. 
+                    <p>WEEDO is een perfecte partner voor vzw Greenforward, omdat het zowel ecologisch als sociaal engagement met elkaar combineert. Het opleiden en versterken van vrouwen speelt hierin een cruciale rol. <br/>
+                        In 2019 sponsorde vzw Greenforward een banda waar de vrouwen van WEEDO samen kunnen komen. 
                     </p>
                     <div class="row">
                         <div class="col">
@@ -262,7 +264,7 @@
                             </picture>
                         </div>
                     </div>
-                    <p>Also in the summer of 2019, vzw Greenfoward and Weedo joined forces and planted 150 trees in the region of Kigamboni.</p>
+                    <p>In de zomer van 2019, sloegen vzw Greenforward en Weedo de handen in elkaar om 150 bomen te planten in de regio van Kigamboni.</p>
                     <div class="row">
                         <div class="col">
                             <picture>
@@ -287,10 +289,10 @@
                         </div>
                     </div>
                     <p>
-                        Yet, we want to do more.<br/> In cooperation with local communities, we want to plant a whole forest in the region. We would focus on native trees, but also on fruit trees, so the community can prosper directly from the project. The members of WEEDO can start an entrepreneurship keeping gard of the forest, watering the trees, selling the fruits from the trees,...
-                    </p>
+                        Maar, we willen meer.<br/>
+                        In overleg met lokale overheden en gemeenschappen, willen we een bos aanleggen in de regio. Hierbij zou onze focus liggen op inheemse bomen, maar ook op fruitbomen, zodat de gemeenschap rechtstreeks kan profiteren van het project. De leden van Weedo kunnen op die manier een onderneming opstarten waarbij ze het bos helpen aanleggen, onderhouden en naar de toekomst toe de vruchten kunnen verkopen op de lokale markt. </p>
                     <p>
-                        On a regular basis, both organisations have contact with each other. There a several skype calls and we keep each other informed about our actions. In addition, crew members of vzw Greenforward visit WEEDO yearly. Together, they talk to local governments, ngo’s and WEWE groups.
+                        Beide organisaties hebben op regelmatige basis contact met elkaar. Via social media, emailverkeer en skype calls houden we elkaar op de hoogte van onze activiteiten. Daarnaast bezoeken leden van vzw Greenforward jaarlijks Weedo. Samen gaan de organisaties in overleg met lokale overheden, ngo’s en de plaatselijke WEWE groepen.
                     </p>
                     <div class="row">
                         <div class="col">
@@ -327,6 +329,94 @@
                         <img alt="" class="img-fluid rounded-circle w-50" src="/src/img/greenforward.png" alt="GreenForward Logo">
                     </picture>
                 </div>
+                <!-- End Tanzania Text -->
+                <!-- begin Worldmarkets text -->
+                <div class="col-12">
+                    <a id="worldmarkets"></a>
+                    <hr/>
+                    <h3 class="text-irie text-uppercase"><b>Projet: Marché mondial en collaboration avec Noord-Zuid Raad Kortemark</b></h3>
+                    <p>
+                        En plus, nous prévoyons également un marché mondial lors du festival Irie Vibes Roots 2021. Le marché mondial est une initiation biennale de l'opération Nord-Sud à Kortemark. En amenant le marché mondial au festival, nous créons le lien entre les différents partenaires et nous voulons sensibiliser nos visiteurs aux objectifs de développement. Sur le marché mondial, diverses organisations locales engagées dans le Sud ou liées à des objectifs de développement durable peuvent se présenter aux visiteurs. En outre, nous proposons également l'exposition Under Construction sur le marché mondial
+                    </p>
+                    <p>
+                        <a href="https://www.west-vlaanderen.be/over-west-vlaanderen/bestuur-en-beleid/administratie/provinciale-diensten/wereldhuis">Wereldhuis West-Vlaanderen | Provincie West-Vlaanderen</a>
+                    </p>
+                </div>
+                <div class="col-6 col-md-4 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/worldmarket/group-2015.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/worldmarket/group-2015.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/worldmarket/group-2015.jpg" alt="Foto 1">
+                    </picture>
+                </div>
+                <div class="col-6 col-md-4 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/worldmarket/under-construction.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/worldmarket/under-construction.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/worldmarket/under-construction.jpg" alt="Foto 2">
+                    </picture>
+                </div>
+                <div class="col-6 col-md-4 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/worldmarket/expo-panels.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/worldmarket/expo-panels.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/worldmarket/expo-panels.jpg" alt="Foto 3">
+                    </picture>
+                </div>
+                <div class="col-6 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/worldmarket/blocks.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/worldmarket/blocks.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/worldmarket/blocks.jpg" alt="Foto 4">
+                    </picture>
+                </div>
+                <div class="col-6 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/worldmarket/Web_word_wereldburger.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/worldmarket/Web_word_wereldburger.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/worldmarket/Web_word_wereldburger.jpg" alt="Foto 5">
+                    </picture>
+                </div>
+                <!-- end Worldmarkets text -->
+                <!-- begin Fairtrade text -->
+                <div class="col-12">
+                    <a id="fairtrade"></a>
+                    <hr/>
+                    <h3 class="text-irie text-uppercase"><b>Projet: Fair Trade @ Irie Vibes</b></h3>
+                    <p>
+                        Dès l'édition 2021, nous souhaitons également proposer des produits de fairtrade dans notre bars et notre camping shop
+                    </p>
+                    <p><a href="https://www.oxfamfairtrade.be/nl/">Home | Oxfam Fair Trade</a></p>
+                </div>
+                <div class="col-6 col-md-3 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/fairtrade/oft-logo.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/fairtrade/oft-logo.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/fairtrade/oft-logo.jpg" alt="Foto 1">
+                    </picture>
+                </div>
+                <div class="col-6 col-md-3 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/fairtrade/voeding.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/fairtrade/voeding.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/fairtrade/voeding.jpg" alt="Foto 2">
+                    </picture>
+                </div>
+                <div class="col-6 col-md-3 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/fairtrade/sap-voor-sap.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/fairtrade/sap-voor-sap.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/fairtrade/sap-voor-sap.jpg" alt="Foto 3">
+                    </picture>
+                </div>
+                <div class="col-6 col-md-3 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/fairtrade/fairtrade-label.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/fairtrade/fairtrade-label.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/fairtrade/fairtrade-label.jpg" alt="Foto 4">
+                    </picture>
+                </div>
+                <!-- end Fairtrade text -->
             </div>
         </div>
         <!-- Include Footer -->

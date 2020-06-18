@@ -349,7 +349,7 @@
                     <hr/>
                     <h3 class="text-irie text-uppercase"><b>Project: Worldmarkets w/ Noord-Zuid Raad Kortemark</b></h3>
                     <p>
-                        In addition to the entire project, we also provide a world market during the Irie Vibes Roots Festival 2020. The world market is an initiation of the North South Counsel in Kortemark. By bringing the world market to the festival, we create the link between various partners and we want to make our visitors aware of the development goals. In the world market, various local organizations that are committed to the South or linked to fair trade and development goals can introduce themselves to the visitors. We also provide the province's Under Construction exhibition on the world market.
+                        In addition to the entire project, we also provide a world market during the Irie Vibes Roots Festival 2021. The world market is an initiation of the North South Counsel in Kortemark. By bringing the world market to the festival, we create the link between various partners and we want to make our visitors aware of the development goals. In the world market, various local organizations that are committed to the South or linked to fair trade and development goals can introduce themselves to the visitors. We also provide the province's Under Construction exhibition on the world market.
                     </p>
                     <p>
                         <a href="https://www.west-vlaanderen.be/over-west-vlaanderen/bestuur-en-beleid/administratie/provinciale-diensten/wereldhuis">Wereldhuis West-Vlaanderen | Provincie West-Vlaanderen</a>
