@@ -20,11 +20,11 @@
                 <!-- Province logo & Sponsor message -->
                 <div class="col-12 col-md-3">
                     <picture>
-                        <source srcset="/src/img/partners/westvl.webp" type="image/webp">
-                        <source srcset="/src/img/partners/westvl.jpg" type="image/jpeg">
-                        <img alt="" class="img-fluid rounded" src="/src/img/partners/westvl.jpg"/>
+                        <source srcset="" type="image/webp">
+                        <source srcset="" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src=""/>
                     </picture>
-                    <small>Dit project wordt gesteund door de Provincie West-Vlaanderen</small>
+                    <small></small>
                 </div>
                 <!-- Begin pictures -->
                 <div class="col-6 col-md-3">
@@ -56,8 +56,25 @@
                     </picture>
                 </div>
                 <!-- End Pictures -->
-                <!-- Begin OL for navigation -->
-
+                <!-- navigation for the projects -->
+                <div class="col py-md-4">
+                    <div class="text-box-2 rounded p-2 sticky-top mt-1 mx-auto">
+                        <div class="text-box rounded p-3">
+                            <!-- Anchor Navigation -->
+                            <ul class="nav flex-column">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#tanzania"><strong>1:</strong> Trim The Footprint Tanzania</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#worldmarkets"><strong>2:</strong> Wereldmarkt ism Noord Zuid Raad Kortemark</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#fairtrade"><strong>3:</strong> Fair Trade @ Irie Vibes</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
                 <!-- begin TTF Tanzania -->
                 <div class="col-12">
                     <a id="tanzania"></a>
@@ -311,6 +328,92 @@
                         <img alt="" class="img-fluid rounded-circle w-50" src="/src/img/greenforward.png" alt="GreenForward Logo">
                     </picture>
                 </div>
+                <!-- End Tanzania Text -->
+                <!-- begin Worldmarkets text -->
+                <div class="col-12">
+                    <a id="worldmarkets"></a>
+                    <hr/>
+                    <h3 class="text-irie text-uppercase"><b>Project: Worldmarkets w/ Noord-Zuid Raad Kortemark</b></h3>
+                    <p>
+                        In addition to the entire project, we also provide a world market during the Irie Vibes Roots Festival 2020. The world market is an initiation of the North South Counsel in Kortemark. By bringing the world market to the festival, we create the link between various partners and we want to make our visitors aware of the development goals. In the world market, various local organizations that are committed to the South or linked to fair trade and development goals can introduce themselves to the visitors. We also provide the province's Under Construction exhibition on the world market.
+                    </p>
+                    <p>
+                        <a href="https://www.west-vlaanderen.be/over-west-vlaanderen/bestuur-en-beleid/administratie/provinciale-diensten/wereldhuis">Wereldhuis West-Vlaanderen | Provincie West-Vlaanderen</a>
+                    </p>
+                </div>
+                <div class="col-6 col-md-4 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/worldmarket/group-2015.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/worldmarket/group-2015.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/worldmarket/group-2015.jpg" alt="Foto 1">
+                    </picture>
+                </div>
+                <div class="col-6 col-md-4 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/worldmarket/under-construction.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/worldmarket/under-construction.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/worldmarket/under-construction.jpg" alt="Foto 2">
+                    </picture>
+                </div>
+                <div class="col-6 col-md-4 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/worldmarket/expo-panels.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/worldmarket/expo-panels.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/worldmarket/expo-panels.jpg" alt="Foto 3">
+                    </picture>
+                </div>
+                <div class="col-6 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/worldmarket/blocks.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/worldmarket/blocks.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/worldmarket/blocks.jpg" alt="Foto 4">
+                    </picture>
+                </div>
+                <div class="col-6 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/worldmarket/Web_word_wereldburger.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/worldmarket/Web_word_wereldburger.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/worldmarket/Web_word_wereldburger.jpg" alt="Foto 5">
+                    </picture>
+                </div>
+                <!-- end Worldmarkets text -->
+                <!-- begin Fairtrade text -->
+                <div class="col-12">
+                    <a id="fairtrade"></a>
+                    <hr/>
+                    <h3 class="text-irie text-uppercase"><b>Project: Fair Trade @ Irie Vibes</b></h3>
+                    <p>Vanaf de editie 2021 willen we ook fairtrade producten aanbieden in onze main bar, onze cocktailbar, onze campingbar en onze campingshop.</p>
+                    <p><a href="https://www.oxfamfairtrade.be/nl/">Home | Oxfam Fair Trade</a></p>
+                </div>
+                <div class="col-6 col-md-3 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/fairtrade/oft-logo.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/fairtrade/oft-logo.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/fairtrade/oft-logo.jpg" alt="Foto 1">
+                    </picture>
+                </div>
+                <div class="col-6 col-md-3 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/fairtrade/voeding.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/fairtrade/voeding.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/fairtrade/voeding.jpg" alt="Foto 2">
+                    </picture>
+                </div>
+                <div class="col-6 col-md-3 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/fairtrade/sap-voor-sap.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/fairtrade/sap-voor-sap.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/fairtrade/sap-voor-sap.jpg" alt="Foto 3">
+                    </picture>
+                </div>
+                <div class="col-6 col-md-3 pb-1">
+                    <picture>
+                        <source srcset="/src/img/eco/sdg/fairtrade/fairtrade-label.webp" type="image/webp">
+                        <source srcset="/src/img/eco/sdg/fairtrade/fairtrade-label.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/fairtrade/fairtrade-label.jpg" alt="Foto 4">
+                    </picture>
+                </div>
+                <!-- end Fairtrade text -->
             </div>
         </div>
         <!-- Include Footer -->

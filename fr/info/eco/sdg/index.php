@@ -21,11 +21,11 @@
                 <!-- Province logo & Sponsor message -->
                 <div class="col-12 col-md-3">
                     <picture>
-                        <source srcset="/src/img/partners/westvl.webp" type="image/webp">
-                        <source srcset="/src/img/partners/westvl.jpg" type="image/jpeg">
-                        <img alt="" class="img-fluid rounded" src="/src/img/partners/westvl.jpg"/>
+                        <source srcset="" type="image/webp">
+                        <source srcset="" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src=""/>
                     </picture>
-                    <small>Ce projet est soutenu par la Province de Flandre Occidentale</small>
+                    <small></small>
                 </div>
                 <!-- Begin pictures -->
                 <div class="col-6 col-md-3">
