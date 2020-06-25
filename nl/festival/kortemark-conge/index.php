@@ -35,8 +35,23 @@
                 <!-- Img block (right) -->
                 <div class="col-12 col-md-5">
                     <a href="https://www.facebook.com/events/622231101564639/" rel="Kortemark Congé Facebook Page">
-                        <img alt="" src="/src/img/kortemark_conge.jpg" class="img-fluid rounded"/>
+                        <img alt="" src="/src/img/kortemark-conge/kortemark_conge.jpg" class="img-fluid rounded"/>
                     </a>
+                </div>
+                <!-- Two poster halves -->
+                <div class="col-12 col-md-6">
+                    <picture>
+                        <source srcset="kortemark-conge/kortemarkconge-flyer-front.webp" type="image/webp">
+                        <source srcset="kortemark-conge/kortemarkconge-flyer-front.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/kortemark-conge/kortemarkconge-flyer-front.jpg"/>
+                    </picture>
+                </div>
+                <div class="col-12 col-md-6">
+                    <picture>
+                        <source srcset="kortemark-conge/kortemarkconge-flyer-back.webp" type="image/webp">
+                        <source srcset="kortemark-conge/kortemarkconge-flyer-back.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/kortemark-conge/kortemarkconge-flyer-back.jpg"/>
+                    </picture>
                 </div>
                 <!-- Hide line-up on mobile, and display a link to the Line-Up page instead -->
                 <div class="col-12 d-none d-md-block mt-md-2">
