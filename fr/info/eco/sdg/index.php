@@ -82,24 +82,24 @@
                     <h3 class="text-irie text-uppercase"><b>Project: Women Empowering Women Entrepreneurs</b></h3>
                     <h4 class="text-irie"><b>Achtergrond:</b></h4>
                     <p>
-                        Gender- en sociale ongelijkheid zijn gekende drempels in de economische groei. Zoals de Tanzania Development Policy Vision 2025 aangaf, worden vrouwen en achtergesteld groepen onvoldoende betrokken bij armoedebestrijdings initiatieven. 
+                        Les inégalités de genre et sociales sont des obstacles connus à la croissance économique. Comme la Vision 2025 de la politique de développement de la Tanzanie dites, les femmes et les groupes défavorisés ne sont pas suffisamment impliqués dans les initiatives de réduction de la pauvreté.
                     </p>
                     <p>
-                        Landelijke gemeenschappen zijn erg arm, vaak omdat er weinig werkmogelijkheden zijn naar vrouwen toe, die afhankelijk blijven van het inkomen van de mannen. Het merendeel van deze vrouwen werkt niet of blijft verantwoordelijk voor het huishouden en het zorgen voor de familie. Daarenboven zijn er culturele tradities zoals FGM, de ondergeschikte rol van de vrouw in het huwelijk en polygamie, die de toegang van vrouwen tot opleiding en onderwijs minimaliseren. Dit gebrek aan opleiding vormt een drempel naar initiatieven toe die aangeboden worden door NGO’s of de overheid. 
+                        Les communautés rurales sont très pauvres, souvent parce qu'il y a peu de possibilités d'emploi pour les femmes, qui restent tributaires du revenu des hommes. La majorité de ces femmes ne travaillent pas et restent responsables du ménage. En outre, il existe des traditions culturelles telles que les FGM, le rôle subalterne des femmes dans le mariage et la polygamie, qui minimisent l'accès des femmes à la formation et à l'éducation. Ce manque de formation est un obstacle aux initiatives proposées par les NGO ou le gouvernement. 
                     </p>
                     <p>
-                        Terwijl vrouwen in Kigamboni wel betrokken zijn bij het ondernemerschap, zoals het verkopen van groenten, batik of kanga aan toeristen en de lokale bevolking; het verkopen van ontbijt, chai en eten op de markt; merken we dat veel vrouwen de ervaring en kennis ontbreken om hun eigen zaak op te starten en zo een vaste bron van inkomen te hebben.
+                        Pendant que les femmes de Kigamboni sont impliquées dans l'entreprenariat, comme la vente de légumes, de batik ou de kanga aux touristes et aux habitants; vendre le petit déjeuner, le chai et la nourriture sur le marché; nous remarquons que de nombreuses femmes n'ont pas l'expérience pour créer leur propre entreprise.
                     </p>
                     <p>
-                        De grootste drempel voor veel vrouwen is het gebrek aan opleiding en ervaring. Daardoor blijven veel vrouwen thuis, niettegenstaande zij wel de talenten hebben om financieel bij te dragen in het eigen gezin en aan de gemeenschap.<br/>
-                        We merken twee groepen vrouwen op die het ondernemerschap onder de knie zouden kunnen krijgen:
+                        Le plus grand obstacle pour les femmes est le manque d'éducation et d'expérience. En conséquence, de nombreuses femmes restent à la maison, même si elles ont le talent de contribuer financièrement à leur propre famille et à la communauté.
                     </p>
+                    <p>On voit deux groupes de femmes qui pourraient maîtriser l'entrepreneuriat:</p>
                     <ul>
-                        <li><b>Groep 1 - Unskilled Inventors:</b> Zij hebben wel het idee om iets te doen en hebben vaak al geprobeerd om dit idee ook uit te voeren, maar faalden in de uitvoering omwille van de manier waarop ze het aan pakten.</li>
-                        <li><b>Groep 2 - Unexposed Observers:</b>Zij willen leren hoe ze zelf actie kunnen ondernemen, maar weten niet goed hoe eraan te beginnen of waar ze ondersteuning kunnen krijgen.</li>
+                        <li><b>Groupe 1 - Unskilled Inventors:</b>  Ils ont l'idée de faire quelque chose et ont souvent essayé de faire cette idée également, mais n'ont pas réussi à la mettre en œuvre en raison de la façon dont ils l'ont traitée.</li>
+                        <li><b>Groupe 2 - Unexposed Observers:</b> ils veulent apprendre à agir eux-mêmes, mais ne savent pas où commencer ni où trouver du soutien.</li>
                     </ul>
                     <p>
-                        Beide groepen zouden de voordelen ondervinden van een opleiding rond ondernemerschap binnen de gemeenschap, waar ze in een vertrouwde omgeving zouden kunnen leren van andere vrouwen.
+                        Les deux groupes bénéficieraient d'une formation en entrepreneuriat dans la communauté, où ils pourraient apprendre des autres femmes dans un environnement familier.
                     </p>
                 </div>
                 <div class="col-12">
@@ -107,10 +107,10 @@
                         <div class="text-box rounded p-3">
                             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                                 <li class="nav-item">
-                                    <a class="nav-link active" id="WEWE-1tab" data-toggle="pill" href="#WEWE-1" role="tab" aria-controls="conscious-communication" aria-selected="true">Doelstellingen</a>
+                                    <a class="nav-link active" id="WEWE-1tab" data-toggle="pill" href="#WEWE-1" role="tab" aria-controls="conscious-communication" aria-selected="true">Objectifs WEWE</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" id="WEWE-2tab" data-toggle="pill" href="#WEWE-2" role="tab" aria-controls="trim-the-footprint" aria-selected="false">Stappenplan</a>
+                                    <a class="nav-link" id="WEWE-2tab" data-toggle="pill" href="#WEWE-2" role="tab" aria-controls="trim-the-footprint" aria-selected="false">Plan d’etappes</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" id="WEWE-3tab" data-toggle="pill" href="#WEWE-3" role="tab" aria-controls="changing-minds" aria-selected="false">Ledenwerving</a>
@@ -125,51 +125,51 @@
                             <div class="tab-content rounded p-0 p-md-2" id="TrimTheFootprint-tab">
                                 <div class="tab-pane fade show active" id="WEWE-1" role="tabpanel" aria-labelledby="WEWE-1">
                                     <p>
-                                        WEWE is gebaseerd op het idee dat vrouwen waardevolle talenten en inzichten hebben om te delen met andere vrouwen, ongeacht of zij reeds ervaring hebben in het ondernemerschap. WEWE baseert zich hiervoor op een gelijkaardig model als andere werkingen, zoals Rotating Savings and Credit Associations (ROSCAs) of gemeenschappen waar boeren hun landbouwkennis met elkaar delen, maar dan specifiek gericht op vrouwen. <br/>Het WEWE project kaart het gebrek aan opleiding en de toegang tot ondernemerschap voor vrouwen aan.
+                                        WEWE est basé sur l'idée que les femmes ont de précieux talents et des idées à partager avec d'autres femmes, qu'elles aient déjà une expérience entrepreneuriale ou pas. WEWE base cela sur un modèle similaire à d'autres activités, telles que les associations tournantes d'épargne et de crédit (ROSCAs) ou les communautés où les agriculteurs partagent leurs connaissances agricoles, mais spécifiquement destinées aux femmes<br/>Le projet WEWE parle de la manque d'éducation et d'accès à l'entrepreneuriat pour les femmes.
                                     </p>
                                     <p>
-                                        De doelstellingen van het project zijn:
+                                        Les objectifs du projet sont:
                                     </p>
                                     <ol>
-                                        <li>Vrouwen de mogelijkheid geven om ideeën met elkaar uit te wisselen en de diverse mogelijkheden tot het opstarten van een eigen zaken te ontdekken.</li>
-                                        <li>Het ondersteunen van de groepsmechanismen rond financiëring en het ontwikkelen van de nodige talenten die nodig zijn om een eigen zaak op te richten</li>
-                                        <li>Mogelijkheden voorzien voor vrouwen om in een eigen inkomen te voorzien</li>
+                                        <li>Donner aux femmes la possibilité d'échanger des idées et de découvrir les différentes options pour créer leur propre entreprise.</li>
+                                        <li>Soutenir les mécanismes du groupe autour du financement et développer les talents nécessaires pour démarrer votre propre entreprise</li>
+                                        <li>Donner aux femmes la possibilité de subvenir à leurs propres revenus</li>
                                     </ol>
                                     <p>
-                                        Daarnaast wil het project ook de rol van de vrouw in het gezin en de gemeenschap opwaarderen en genderongelijkheid verminderen.
+                                        En outre, le projet veut renforcer le rôle des femmes dans la famille et la communauté et réduire les inégalités entre les sexes.
+
                                     </p>
                                 </div>
                                 <div class="tab-pane fade" id="WEWE-2" role="tabpanel" aria-labelledby="WEWE-2">
                                     <p>
-                                        WEWE wil een groep vrouwen samenbrengen binnen een model dat gebaseerd is op gemeenschap en wederzijdse hulp en dit in de landelijke gebieden. Centraal is het idee dat vrouwen van elkaar kunnen leren, ongeacht hun ervaring met ondernemerschap. Door mogelijkheden te faciliteren voor vrouwen uit verschillende gemeenschappen en met verschillende achtergronden om samen te denken rond ideeën, drempels en oplossingen voor het opstarten van een eigen zaak. 
+                                        WEWE veut réunir les femmes au sein d'un modèle basé sur la communauté et l'entraide en milieu rural. L'idée est que les femmes peuvent apprendre les unes des autres, quelle que soit leur expérience entrepreneuriale. En facilitant les opportunités pour les femmes de différentes communautés et d'horizons différents de réfléchir ensemble sur les idées, les obstacles et les solutions pour démarrer leur propre entreprise. 
                                     </p>
                                     <p>
-                                        In combinatie met opleidingen gecoördineerd door ngo’s (bv boekhouding, marktprijzen, de nodige documenten invullen, ….) kunnen de begeleiders samen met de deelnemers aangepaste doelstellingen opmaken. Deze visie en deze doelstellingen kunnen groeien vanuit de vrouwen zelf.  Vanuit de focusgroepen en gesprekken met vrouwen zullen de trajecten nog verder gedetailleerd worden, maar als algemene doelstellingen kunnen we op dit moment reeds stellen: 
+                                        En combination avec des cours de formation coordonnés par des ngo  (par exemple comptabilité, prix du marché, remplissage des documents nécessaires,….) les superviseurs peuvent établir des objectifs adaptés avec les participants. Cette vision et ces objectifs peuvent émaner des femmes elles-mêmes. Les trajectoires seront davantage détaillées à partir des groupes de discussion et des conversations avec les femmes, mais en tant qu'objectifs généraux, nous pouvons déjà définir:
                                     </p>
                                     <ol>
                                         <li>
-                                            <a class="btn btn-irie p-1 m-1" data-toggle="collapse" href="#WEWE-2-1" role="button" aria-expanded="false" aria-controls="WEWE-2-1">Leercirkels rond ondernemerschap</a>
+                                            <a class="btn btn-irie p-1 m-1" data-toggle="collapse" href="#WEWE-2-1" role="button" aria-expanded="false" aria-controls="WEWE-2-1">Cercles autour de l'entrepreneuriat</a>
                                             <span class="collapse" id="WEWE-2-1">
                                                 <p>
-                                                    Kleine groepen in elke buurt van ongeveer 6-12 leden die op regelmatige basis samenkomen om ideeën uit te wisselen rond ondernemerschap en samen geld te sparen. Deelnemers die reeds een eigen zaak hebben (of hadden) delen hun ervaringen.  Deelnemers die geen ervaring hebben, kunnen een eigen idee ontwikkelen.  Een perfecte mix tussen ervaren en niet-ervaren vrouwen zal wellicht niet altijd mogelijk zijn. We kunnen ons ook baseren op reeds bestaande groeperingen (bv spaargroepen vrouwen, moeders met kinderen van eenzelfde leeftijd, …)
-
+                                                    Des petits groupes dans chaque quartier d'environ 6 à 12 membres qui se réunissent régulièrement pour échanger des idées sur l'entrepreneuriat et économiser de l'argent ensemble. Les participants qui ont déjà leur propre entreprise partagent leurs expériences. Les participants qui n'ont aucune expérience peuvent développer leur propre idée. Un mélange parfait entre femmes expérimentées et inexpérimentées n'est pas toujours possible. Nous pouvons également compter sur des groupes préexistants (par exemple, les groupes d'épargne des femmes, les mères avec des enfants du même âge, etc.)
                                                 </p>
                                             </span>
                                         </li>
                                         <li>
-                                            <a class="btn btn-irie p-1 m-1" data-toggle="collapse" href="#WEWE-2-2" role="button" aria-expanded="false" aria-controls="WEWE-2-2">Wisselende arbeidsgroep</a>
+                                            <a class="btn btn-irie p-1 m-1" data-toggle="collapse" href="#WEWE-2-2" role="button" aria-expanded="false" aria-controls="WEWE-2-2">Groupe de travail changeante</a>
                                             <span class="collapse" id="WEWE-2-2">
                                                 <p>
-                                                    De begeleiders zullen de leden van de eerste groep stimuleren om elkaar te helpen bij grote taken, zoals een stuk land effenen om een zaak op te starten, het opknappen van een gebouw, het samen maken van een product voor verkoop ….  Door actief aan de slag te gaan, kunnen vrouwen die nog geen ervaring hebben met het werken buiten het eigen huishouden, al doende leren.<br/>
-                                                    Deze samenkomsten zouden wekelijks kunnen gebeuren en er kan telkens een nieuwe takenlijst voorgelegd worden. Op die manier is er een gedeelde verantwoordelijkheid en kunnen grotere taken afgewerkt worden. Deze methode werd reeds toegepast in bepaalde landbouwgemeenschappen (Women in Agricultural Value Chain), waar de leden van de gemeenschap elkaar ondersteunen bij de meer arbeidsintensieve taken zoals het ploegen of oogsten. Dit component stimuleert een gevoel van samenhorigheid en gedeelde verantwoordelijkheid en geeft alle vrouwen toegang tot een gevoel van (gedeeld) succes.
+                                                    Les animateurs encourageront les membres du premier groupe à s'entraider pour des tâches importantes, telles que paver un terrain pour démarrer une entreprise, rénover un bâtiment, fabriquer un produit à vendre ensemble…. En travaillant activement, les femmes qui n'ont pas encore d'expérience de travail en dehors de leur propre foyer peuvent apprendre en faisant.<br/>
+                                                    Ces réunions pourraient avoir lieu chaque semaine et une nouvelle liste de tâches peut être présentée à chaque fois. De cette façon, il y a une responsabilité partagée et des tâches plus importantes peuvent être accomplies. Cette méthode a déjà été appliquée dans certaines communautés agricoles (Women in Agricultural Value Chain), où les membres de la communauté se soutiennent mutuellement dans des tâches à plus forte intensité de main-d'œuvre comme le labour ou la récolte. Cette composante stimule le sentiment d'unité et de responsabilité partagée et donne à toutes les femmes un sentiment de réussite (partagée).
                                                 </p>
                                             </span>
                                         </li>
                                         <li>
-                                            <a class="btn btn-irie p-1 m-1" data-toggle="collapse" href="#WEWE-2-3" role="button" aria-expanded="false" aria-controls="WEWE-2-3">Gedeeld ontwikkelingsfonds</a>
+                                            <a class="btn btn-irie p-1 m-1" data-toggle="collapse" href="#WEWE-2-3" role="button" aria-expanded="false" aria-controls="WEWE-2-3">Fonds de développement partagé</a>
                                             <span class="collapse" id="WEWE-2-3">
                                                 <p>
-                                                    Naast het uitwisselen van ervaringen en ontwikkelen van talenten, willen we ook de mogelijkheid voorzien voor de deelnemers om gezamenlijk te sparen via een ROSCA of Savings&Loan model. Op die manier willen we een startbudget creëren voor de vrouwen die met een eigen zaak starten.  De groep kan gedeelde spaarrekeningen opstarten. 
+                                                    En plus d'échanger des expériences et de développer des talents, nous voulons également offrir aux participants la possibilité d'économiser collectivement par un modèle ROSCA ou Savings & Loan. De cette façon, nous voulons créer un budget pour les femmes qui créent leur propre entreprise. Le groupe peut créer des comptes d'épargne partagés. 
                                                 </p>
                                             </span>
                                         </li>
@@ -230,16 +230,19 @@
                 <div class="col-12">
                     <h4 class="text-irie mt-2"><b>Trim The Footprint @ Tanzania</b></h4>
                     <p class="small"><i>
-                        <b>Doelstelling 15</b> Bescherm, herstel en bevorder het duurzaam gebruik van ecosystemen op het vasteland, beheer bossen duurzaam, bestrijd woestijnvorming, stop landdegradatie en draai het terug en roep het verlies aan biodiversiteit een halt toe<br/>
-                        <b>15.2</b> Tegen 2020 de implementatie bevorderen van het duurzaam beheer van alle soorten bossen, de ontbossing een halt toeroepen, verloederde bossen herstellen en op duurzame manier bebossing en herbebossing mondiaal opvoeren<br/>
-                        <b>15.b</b> Aanzienlijke middelen mobiliseren vanuit allerlei bronnen en op alle niveaus om duurzaam bosbeheer te financieren en gepaste stimuli te verschaffen aan ontwikkelingslanden om een dergelijk beheer te organiseren, ook voor behoud en herbebossing
+                        <b>Objectif 15</b> Protéger, restaurer et promouvoir l'utilisation durable des écosystèmes continentaux, gérer les forêts de manière durable, lutter contre la désertification, arrêter et inverser la dégradation des terres et arrêter la perte de biodiversité<br/>
+                        <b>15.2</b> De 2020, promoter la mise en œuvre d'une gestion durable de tous les types de forêts, arrêter la déforestation, restaurer les forêts dégradées et promouvoir durablement le boisement et le reboisement à l'échelle mondiale<br/>
+                        <b>15.b</b> Mobiliser les ressources importantes à tous les niveaux pour financer la gestion durable des forêts et fournir des incitations appropriées aux pays en développement pour organiser une telle gestion, y compris pour la conservation et le reboisement
                         </i>
                     </p>
-                    <p>Vzw Greenforward is reeds 19 jaar actief in West-Vlaanderen, België. De werking van de organisatie is volledig gebaseerd op het enthousiasme en werk van vrijwilligers. Jaarlijks organiseert de vzw het Irie Vibes Roots Festival, een low budget, open minded, gezinsvriendelijk en ecologisch bewust festival met zo’n 2500 bezoekers. In de activiteiten van de vzw wordt steeds geprobeerd om de ecologische voetafdruk zo klein mogelijk te houden. Sociaal engagement is een belangrijk aspect in de werking. De vzw gelooft sterk dat muziek mensen samenbrengt en vooroordelen overstijgt. Maar het gaat niet alleen over samenbrengen of een visie, de vzw wil daadwerkelijk een verandering teweegbrengen in de wereld. In 2018 ontving de vzw de Ovam Groen Event Award in de categorie kleine festivals voor haar ecologische initiatieven. <br/>
-                        Samen met ngo WEEDO en de gemeenschappen in Kigamboni wil vzw Greenforward een CO² neutraal project “Trim your footprint” opstarten. Binnen dit project willen we niet alleen de eigen uitstoot verminderen, we willen door het aanplanten van bossen en door het stimuleren van het gebruik van clean ovens in de regio echt een verschil maken.
+                    <p>Vzw Greenforward est actif en Flandre occidentale, en Belgique, depuis 19 ans. Le fonctionnement de l'organisation repose entièrement sur l'enthousiasme et le travail des bénévoles. Chaque année, l'organisation organise le festival Irie Vibes Roots, un festival à petit budget, ouvert d'esprit, familial et soucieux de l'environnement avec environ 2500 visiteurs. Dans les activités de l'organisation, des efforts sont toujours faits pour maintenir l'empreinte écologique aussi petite que possible. L'engagement social est un aspect important de l'opération. L'association croit fermement que la musique rassemble les gens et transcende les préjugés. Mais il ne s'agit pas seulement de rassembler ou d'avoir une vision, l'organisation veut en réalité provoquer un changement dans le monde. En 2018, l'association a reçu l'Ovam Groen Event Award dans la catégorie des petits festivals pour ses initiatives écologiques.
+<br/>
+                        En collaboration avec  WEEDO et les communautés de Kigamboni, Greenforward souhaite lancer un projet neutre en CO2 «Trim the footprint». Dans ce projet, nous voulons non seulement réduire nos propres émissions, nous voulons faire une réelle différence en plantant des forêts et en stimulant l'utilisation de fours propres dans la région.
                     </p>
-                    <p>WEEDO is een perfecte partner voor vzw Greenforward, omdat het zowel ecologisch als sociaal engagement met elkaar combineert. Het opleiden en versterken van vrouwen speelt hierin een cruciale rol. <br/>
-                        In 2019 sponsorde vzw Greenforward een banda waar de vrouwen van WEEDO samen kunnen komen. 
+                    <p>WEEDO est un partenaire idéal pour Greenforward, car il combine à la fois un engagement écologique et social. La formation et l'autonomisation des femmes jouent un rôle crucial à cet égard.
+<br/>
+                        En 2019, Greenforward a donné un banda où les femmes de WEEDO peuvent se réunir.
+
                     </p>
                     <div class="row">
                         <div class="col">
