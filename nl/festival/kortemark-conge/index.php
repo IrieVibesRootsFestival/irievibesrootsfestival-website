@@ -31,13 +31,13 @@
                                 <!--KConge 2018-->
                                 <div class="col-12 col-md-4">
                                     <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
-                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=6GhMiDClsqk" frameborder="0"></iframe>
+                                        <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/6GhMiDClsqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                                 <!--KConge 2019-->
                                 <div class="col-12 col-md-4">
                                     <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
-                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=6GhMiDClsqk" frameborder="0"></iframe>
+                                        <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/6GhMiDClsqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                                 <!--Focus WTV Clip-->
@@ -56,20 +56,25 @@
                             ecologische initiatieven in de kijker
 
                             (logo Interreg, Trim the Footprint)
-                            (filmpje invoegen eco : https://www.facebook.com/IrieVibesRootsFesitval/videos/416779585895356/
 
                             <div class="row m-0 p-0">
                                 <div class="col-12 col-md-4">
-
+                                    <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
+                                        <iframe class="embed-responsive-item" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FIrieVibesRootsFesitval%2Fvideos%2F416779585895356%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+                                    </div>
                                 </div>
                                 <div class="col-12 col-md-4">
                                     <img alt="" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" class="img-fluid rounded"/>
                                 </div>
-                                <div class="col-12 col-md-4"></div>
+                                <div class="col-12 col-md-4">
+                                    <picture>
+                                        <source srcset="/src/img/partners/interreg.webp" type="image/webp">
+                                        <source srcset="/src/img/partners/interreg.jpg" type="image/jpeg">
+                                        <img alt="" class="img-fluid rounded" src="/src/img/partners/interreg.jpg"/>
+                                    </picture>
+                                </div>
                             </div>
-                            <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
-                                <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=6GhMiDClsqk" frameborder="0"></iframe>
-                            </div>
+
                         </li>
                     </ul>
                 </div>
