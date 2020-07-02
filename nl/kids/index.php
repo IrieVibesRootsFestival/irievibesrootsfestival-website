@@ -45,6 +45,9 @@
                     <div class="col-12">
                         <p class="h3 d-block highlight-black p-2">De organisatie kan niet verantwoordelijk worden gehouden voor lokaal gebeurde ongevallen. We doen onze uiterste best om met een team vrijwilligers de basisveiligheid van uw kinderen te verzorgen.</p>
                     </div>
+                    <div class="col-12">
+                        <a href="https://www.hln.be/in-de-buurt/kortemark/-bob-marley-wie-zegt-u~af6d929e/">https://www.hln.be/in-de-buurt/kortemark/-bob-marley-wie-zegt-u~af6d929e/</a>
+                    </div>
                 </div>
             </div>
         </div>
