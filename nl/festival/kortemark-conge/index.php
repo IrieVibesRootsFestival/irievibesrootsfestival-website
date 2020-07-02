@@ -14,35 +14,63 @@
                 <div class="col-12">
                     <span class="display-7 d-block mx-auto">Kortemark Conge</span>
                 </div>
-                <!-- Upper banner block -->
+                <div class="col-12 col-md-5">
 
-                <div class="col-12 col-md-5">
-                    <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6GhMiDClsqk"></iframe>
-                    </div>
                 </div>
-                <div class="col-12 col-md-5">
-                    <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
-                        <iframe class="embed-responsive-item" src="//player.cdn01.rambla.be?account_id=VzaPKg&amp;item_id=W9MoDP" frameborder="0"></iframe>
-                    </div>
-                </div>
-                <div class="col-12 col-md-2">
-                    <a href="https://www.facebook.com/events/622231101564639/" rel="Kortemark Congé Facebook Page">
-                        <img alt="" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" class="img-fluid rounded"/>
-                    </a>
-                </div>
+
                 <!-- Text block block (left) -->
-                <div class="col-12 col-md-9">
+                <div class="col-12">
                     <h3 class="text-irie text-uppercase">15 juli 2021 vanaf 18u00</h3>
                     <a href="https://www.facebook.com/events/2326818524093825/">Kortemark Congé 2021 - Facebook Events</a>
                     <p>vzw Greenforward heet jullie welkom op onze GRATIS festivalavond “Kortemark Congé”.</p>
                     <ul>
-                        <li>Lion’s Den: “a touch of reggae, a lot of vibes”</li>
-                        <p>Warmte, gastvrijheid, ritme en vibes … 
-                            (filmpjes invoegen Kortemark Congé 2019, 2018 en wtv)
+                        <li>
+                            Lion’s Den: “a touch of reggae, a lot of vibes”
+                            Warmte, gastvrijheid, ritme en vibes … 
+                            <div class="row m-0 p-0">
+                                <!--KConge 2018-->
+                                <div class="col-12 col-md-4">
+                                    <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=6GhMiDClsqk" frameborder="0"></iframe>
+                                    </div>
+                                </div>
+                                <!--KConge 2019-->
+                                <div class="col-12 col-md-4">
+                                    <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
+                                        <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=6GhMiDClsqk" frameborder="0"></iframe>
+                                    </div>
+                                </div>
+                                <!--Focus WTV Clip-->
+                                <div class="col-12 col-md-4">
+                                    <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
+                                        <iframe class="embed-responsive-item" src="//player.cdn01.rambla.be?account_id=VzaPKg&amp;item_id=W9MoDP" frameborder="0"></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            Trim the footprint : “ because there is no planet B” 
 
-                            https://www.youtube.com/watch?v=6GhMiDClsqk
-                        </p>
+                            workshops en lezingen
+                            met de steun van Interreg France-Wallonie-Vlaanderen
+                            ecologische initiatieven in de kijker
+
+                            (logo Interreg, Trim the Footprint)
+                            (filmpje invoegen eco : https://www.facebook.com/IrieVibesRootsFesitval/videos/416779585895356/
+
+                            <div class="row m-0 p-0">
+                                <div class="col-12 col-md-4">
+
+                                </div>
+                                <div class="col-12 col-md-4">
+                                    <img alt="" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" class="img-fluid rounded"/>
+                                </div>
+                                <div class="col-12 col-md-4"></div>
+                            </div>
+                            <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
+                                <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=6GhMiDClsqk" frameborder="0"></iframe>
+                            </div>
+                        </li>
                     </ul>
                 </div>
                 <!-- Img block (right) 
