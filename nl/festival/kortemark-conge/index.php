@@ -10,8 +10,10 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <!-- Main Content --> 
         <div class="container content">
-            <div class="row">     
-                <span class="display-7 d-block mx-auto">Kortemark Conge</span>
+            <div class="row"> 
+                <div class="col-12">
+                    <span class="display-7 d-block mx-auto">Kortemark Conge</span>
+                </div>
                 <!-- Upper banner block -->
 
                 <div class="col-12 col-md-4">
