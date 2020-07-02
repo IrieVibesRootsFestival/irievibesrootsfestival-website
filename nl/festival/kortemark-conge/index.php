@@ -41,15 +41,15 @@
                 <!-- Two poster halves -->
                 <div class="col-12 col-md-6">
                     <picture>
-                        <source srcset="kortemark-conge/kortemarkconge-flyer-front.webp" type="image/webp">
-                        <source srcset="kortemark-conge/kortemarkconge-flyer-front.jpg" type="image/jpeg">
+                        <source srcset="/src/img/kortemark-conge/kortemarkconge-flyer-front.webp" type="image/webp">
+                        <source srcset="/src/img/kortemark-conge/kortemarkconge-flyer-front.jpg" type="image/jpeg">
                         <img alt="" class="img-fluid rounded" src="/src/img/kortemark-conge/kortemarkconge-flyer-front.jpg"/>
                     </picture>
                 </div>
                 <div class="col-12 col-md-6">
                     <picture>
-                        <source srcset="kortemark-conge/kortemarkconge-flyer-back.webp" type="image/webp">
-                        <source srcset="kortemark-conge/kortemarkconge-flyer-back.jpg" type="image/jpeg">
+                        <source srcset="/src/img/kortemark-conge/kortemarkconge-flyer-back.webp" type="image/webp">
+                        <source srcset="/src/img/kortemark-conge/kortemarkconge-flyer-back.jpg" type="image/jpeg">
                         <img alt="" class="img-fluid rounded" src="/src/img/kortemark-conge/kortemarkconge-flyer-back.jpg"/>
                     </picture>
                 </div>
