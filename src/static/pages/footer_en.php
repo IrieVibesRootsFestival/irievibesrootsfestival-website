@@ -12,12 +12,11 @@
                         <ul class="pages">
                             <li><a href="/en/info/faq/">FAQ</a></li>
                             <li><a href="/en/info/crew/">Crew</a></li>
-                            <li><a href="/en/info/eco/trim-the-footprint/">Trim The<br/>Footprint</a></li>
+                            <li><a href="/en/info/partners/">Partners</a></li>
                         </ul>
                     </div>
                     <div class="col-12 col-md-6">
                         <ul class="list">
-                            <li><a href="/en/info/partners/">Partners</a></li>
                             <li><a href="/en/contact/">Contact</a></li>
                             <li><a href="/en/info/about/">About US</a></li>
                             <li><a href="/en/info/trooper/"><img alt="" src="https://trooper.be/Content/Assets/02401_favicon_trooper.png" style="margin-top:-6px;"> Trooper</a></li>

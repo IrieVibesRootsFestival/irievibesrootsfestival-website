@@ -266,13 +266,6 @@
 </div>
 <div class="col-6 col-sm-3 col-md-2 my-2">
     <div class="thumbnail">
-        <a href="http://www.dedollebrouwers.be/">
-            <img alt="" class="img-fluid rounded" src="/src/img/partners/dedollebrouwers.jpg" alt="De Dolle Brouwers">
-        </a>
-    </div>
-</div>
-<div class="col-6 col-sm-3 col-md-2 my-2">
-    <div class="thumbnail">
         <a href="https://www.facebook.com/ElektroMaartenGotelaere/">
             <img alt="" class="img-fluid rounded" src="/src/img/partners/maartengotelaere.jpg" alt="Elektro Maarten Gotelaere">
         </a>

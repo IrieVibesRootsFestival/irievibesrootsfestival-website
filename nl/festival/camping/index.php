@@ -69,7 +69,7 @@
                                     <h3 class="text-irie"><b>Parking & Vervoer</b></h3>
                                     <p>
                                         De parking kost <b>€5</b> en is op wandelafstand van de festivalingang. Bij het oprijden op de parking krijg je na betaling een betalingsbewijs dat aan je voorruit plaatst. Noteer er je gsm nummer op.<br/>
-                                        Wij adviseren om te carpooling of gebruik te maken van het openbaar vervoer. Er is een treinstation in Kortemark en de organisatie voorziet een shuttlebus naar het festivalterrein.<br/>
+                                        Wij adviseren om te carpoolenof gebruik te maken van het openbaar vervoer. Er is een treinstation in Kortemark en de organisatie voorziet een shuttlebus naar het festivalterrein.<br/>
                                         Als je toch liever met de auto komt, bekijk dan misschien de gratis <a href="https://www.carpool.be/nl/common/app">Carpool.be App</a>!
                                     </p>
                                 </div>
@@ -79,7 +79,7 @@
                                     <ul> 
                                         <li>geen schade toe te brengen aan de natuur of omgeving</li>
                                         <li>respect te tonen voor de buurtbewoners en voor de fauna en flora in de omgeving</li>  
-                                        <li>je afval naar de vuilnisvak te brengen. Wees aandachtig voor scherpe voorwerpen en glas en gooi geen peuken op de grond</li>
+                                        <li>je afval naar de vuilnisbak te brengen. Wees aandachtig voor scherpe voorwerpen en glas en gooi geen peuken op de grond</li>
                                     </ul>
                                     <p class="text-danger"><i>Open vuur en een eigen barbecuetoestel is verboden op de camping. Aan de camping bar vind je een openbaar barbecuetoestel, een microgolfoven en andere toestellen die vrij te gebruiken zijn.</i></p>
                                     <p>We vragen je om met goede bedoelingen naar de camping te komen:<br/> 
