@@ -25,8 +25,10 @@
                     <p>vzw Greenforward heet jullie welkom op onze GRATIS festivalavond “Kortemark Congé”.</p>
                     <ul>
                         <li>
-                            <b>Lion’s Den: “a touch of reggae, a lot of vibes”</b>
-                            Warmte, gastvrijheid, ritme en vibes … 
+                            <h3 class="text-success"><b>Lion’s Den: “a touch of reggae, a lot of vibes”</b></h3>
+                            <p>
+                                Warmte, gastvrijheid, ritme en vibes … 
+                            </p>
                             <div class="row m-0 p-0">
                                 <!--KConge 2018-->
                                 <div class="col-12 col-md-4">
@@ -49,14 +51,15 @@
                             </div>
                         </li>
                         <li>
-                            <b>Trim the footprint: “because there is no planet B” </b>
 
-                            workshops en lezingen
-                            met de steun van Interreg France-Wallonie-Vlaanderen
-                            ecologische initiatieven in de kijker
+                            <h3 class="text-warning"><b>Trim the footprint: “because there is no planet B” </b></h3>
+                            <p>
+                                workshops en lezingen
+                                met de steun van Interreg France-Wallonie-Vlaanderen
+                                ecologische initiatieven in de kijker
 
-                            (logo Interreg, Trim the Footprint)
-
+                                (logo Interreg, Trim the Footprint)
+                            </p>
                             <div class="row m-0 p-0">
                                 <div class="col-12 col-md-4">
                                     <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
@@ -64,7 +67,7 @@
                                     </div>
                                 </div>
                                 <div class="col-12 col-md-4">
-                                    <img alt="" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" class="img-fluid rounded"/>
+                                    <img alt="" height="75%" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" class="img-fluid rounded"/>
                                 </div>
                                 <div class="col-12 col-md-4">
                                     <picture>
@@ -74,31 +77,31 @@
                                     </picture>
                                 </div>
                             </div>
-
                         </li>
                         <li>
-                            <b>Wereldmarkt:  “inspire the world”</b>
-                            Kortemark is niet wereldvreemd
+                            <h3 class="text-danger"><b>Wereldmarkt: “inspire the world”</b></h3>
+                            <p>
+                                Kortemark is niet wereldvreemd
 
-                            foodtrucks / world food / shops
-                            wereldmarkt : noord-zuid verenigingen en projecten uit de regio
+                                foodtrucks / world food / shops
+                                wereldmarkt : noord-zuid verenigingen en projecten uit de regio
 
-                            in samenwerking met Noord Zuid Kortemark en Weedo Tanzania
-                            tentoonstelling SDG’s  
+                                in samenwerking met Noord Zuid Kortemark en Weedo Tanzania
+                                tentoonstelling SDG’s  
 
-                            (foto sdg’s)
-                            <a href="https://www.facebook.com/weedo.womenempowering/">https://www.facebook.com/weedo.womenempowering/</a>
-
+                                (foto sdg’s)
+                                <a href="https://www.facebook.com/weedo.womenempowering/">https://www.facebook.com/weedo.womenempowering/</a>
+                            </p>
                         </li>
-                        <li>
-                            <b>Little Lion: “children see magic because they look for it”</b>
+                        <h3 class="text-dark"><b>Little Lion: “children see magic because they look for it”</b></h3>
+                        <p>
                             Recycle art
                             Kinderdorp
                             Gekke kapsels
                             Qi Gong
                             Workshops en animatie
                             Bouwen aan een betere wereld
-                        </li>
+                        </p>
                     </ul>
                 </div>
                 <!-- Img block (right) 
