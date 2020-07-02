@@ -25,7 +25,7 @@
                     <p>vzw Greenforward heet jullie welkom op onze GRATIS festivalavond “Kortemark Congé”.</p>
                     <ul>
                         <li>
-                            Lion’s Den: “a touch of reggae, a lot of vibes”
+                            <b>Lion’s Den: “a touch of reggae, a lot of vibes”</b>
                             Warmte, gastvrijheid, ritme en vibes … 
                             <div class="row m-0 p-0">
                                 <!--KConge 2018-->
@@ -49,7 +49,7 @@
                             </div>
                         </li>
                         <li>
-                            Trim the footprint : “ because there is no planet B” 
+                            <b>Trim the footprint: “because there is no planet B” </b>
 
                             workshops en lezingen
                             met de steun van Interreg France-Wallonie-Vlaanderen
@@ -74,6 +74,32 @@
                                     </picture>
                                 </div>
                             </div>
+
+                        </li>
+                        <li>
+                            <b>Wereldmarkt:  “inspire the world”</b>
+                            Kortemark is niet wereldvreemd
+
+                            foodtrucks / world food / shops
+                            wereldmarkt : noord-zuid verenigingen en projecten uit de regio
+
+                            in samenwerking met Noord Zuid Kortemark en Weedo Tanzania
+                            tentoonstelling SDG’s  
+
+                            (foto sdg’s)
+                            <a href="https://www.facebook.com/weedo.womenempowering/">https://www.facebook.com/weedo.womenempowering/</a>
+
+                        </li>
+                        <li>
+                            <b>Little Lion: “children see magic because they look for it”</b>
+                            Recycle art
+                            Kinderdorp
+                            Gekke kapsels
+                            Qi Gong
+                            Workshops en animatie
+                            Bouwen aan een betere wereld
+
+                            (invoegen bij KINDERDORP : https://www.hln.be/in-de-buurt/kortemark/-bob-marley-wie-zegt-u~af6d929e/)
 
                         </li>
                     </ul>
