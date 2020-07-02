@@ -16,32 +16,41 @@
                 </div>
                 <!-- Upper banner block -->
 
-                <div class="col-12 col-md-4">
+                <div class="col-12 col-md-5">
                     <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
                         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6GhMiDClsqk"></iframe>
                     </div>
                 </div>
-                <div class="col-12 col-md-4">
+                <div class="col-12 col-md-5">
                     <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
                         <iframe class="embed-responsive-item" src="//player.cdn01.rambla.be?account_id=VzaPKg&amp;item_id=W9MoDP" frameborder="0"></iframe>
                     </div>
                 </div>
-                <div class="col-12 col-md-4">
+                <div class="col-12 col-md-2">
                     <a href="https://www.facebook.com/events/622231101564639/" rel="Kortemark Congé Facebook Page">
                         <img alt="" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" class="img-fluid rounded"/>
                     </a>
                 </div>
                 <!-- Text block block (left) -->
                 <div class="col-12 col-md-9">
-                    <h3>15 juli 2021 vanaf 18u00</h3>
+                    <h3 class="text-irie text-uppercase">15 juli 2021 vanaf 18u00</h3>
+                    <a href="https://www.facebook.com/events/2326818524093825/">Kortemark Congé 2021 - Facebook Events</a>
+                    <p>vzw Greenforward heet jullie welkom op onze GRATIS festivalavond “Kortemark Congé”.</p>
+                    <ul>
+                        <li>Lion’s Den: “a touch of reggae, a lot of vibes”</li>
+                        <p>Warmte, gastvrijheid, ritme en vibes … 
+                            (filmpjes invoegen Kortemark Congé 2019, 2018 en wtv)
 
+                            https://www.youtube.com/watch?v=6GhMiDClsqk
+                        </p>
+                    </ul>
                 </div>
                 <!-- Img block (right) 
-                <div class="col-12 col-md-3">
-                    <a href="https://www.facebook.com/events/622231101564639/" rel="Kortemark Congé Facebook Page">
-                        <img alt="" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" class="img-fluid rounded"/>
-                    </a>
-                </div>-->
+<div class="col-12 col-md-3">
+<a href="https://www.facebook.com/events/622231101564639/" rel="Kortemark Congé Facebook Page">
+<img alt="" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" class="img-fluid rounded"/>
+</a>
+</div>-->
                 <!-- Two poster halves -->
                 <div class="col-12 col-md-6">
                     <picture>
