@@ -98,9 +98,6 @@
                             Qi Gong
                             Workshops en animatie
                             Bouwen aan een betere wereld
-
-                            (invoegen bij KINDERDORP : https://www.hln.be/in-de-buurt/kortemark/-bob-marley-wie-zegt-u~af6d929e/)
-
                         </li>
                     </ul>
                 </div>
