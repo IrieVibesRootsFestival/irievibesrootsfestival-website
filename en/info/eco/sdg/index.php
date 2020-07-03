@@ -16,6 +16,7 @@
                 <!-- Main text -->
                 <div class="col-12 col-md-9">
                     <p>The Sustainable Development Goals (SDGs) were approved by the United Nations General Assembly in September 2015. They are 17 goals, 169 sub-goals and 229 indicators to be achieved by 2030. The SDGs balance the three dimensions of sustainable development (the economic, social and environmental dimension) within the framework of peace and cooperation.
+                        <a href="https://sustainabledevelopment.un.org/?menu=1300">https://sustainabledevelopment.un.org/?menu=1300</a>
                     </p>
                 </div>
                 <!-- Province logo & Sponsor message -->
