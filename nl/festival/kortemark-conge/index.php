@@ -83,7 +83,7 @@
                                 wereldmarkt : noord-zuid verenigingen en projecten uit de regio
                             </p>
                             <p>
-                                in samenwerking met Noord Zuid Kortemark en Weedo Tanzania<br/>
+                                in samenwerking met Noord Zuid Kortemark en Weedo Tanzania<br/> <a href="https://www.facebook.com/weedo.womenempowering/">https://www.facebook.com/weedo.womenempowering/</a>
                                 tentoonstelling SDG’s
                             </p>
                             <div class="row">
@@ -119,8 +119,6 @@
                                 </div>
                             </div>
                             <!-- End Pictures -->
-                            <a href="https://www.facebook.com/weedo.womenempowering/">https://www.facebook.com/weedo.womenempowering/</a>
-
                         </li>
                         <li>
                             <h3 class="text-dark"><b>Little Lion: “children see magic because they look for it”</b></h3>
