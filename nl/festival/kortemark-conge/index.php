@@ -11,13 +11,9 @@
         <!-- Main Content --> 
         <div class="container content">
             <div class="row"> 
-                <div class="col-12">
-                    <span class="display-7 d-block mx-auto">Kortemark Conge</span>
+                <div class="col-12 text-center">
+                    <span class="display-7">Kortemark Conge</span>
                 </div>
-                <div class="col-12 col-md-5">
-
-                </div>
-
                 <!-- Text block block (left) -->
                 <div class="col-12">
                     <h3 class="text-irie text-uppercase">15 juli 2021 vanaf 18u00</h3>
@@ -64,8 +60,8 @@
                                         <iframe class="embed-responsive-item" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FIrieVibesRootsFesitval%2Fvideos%2F416779585895356%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
                                     </div>
                                 </div>
-                                <div class="col-12 col-md-4">
-                                    <img alt="" height="75%" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" class="img-fluid rounded"/>
+                                <div class="col-12 col-md-4 text-center">
+                                    <img alt="" width="60%" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" class="img-fluid rounded"/>
                                 </div>
                                 <div class="col-12 col-md-4">
                                     <picture>
