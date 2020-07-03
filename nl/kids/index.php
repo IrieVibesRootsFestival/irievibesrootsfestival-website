@@ -25,22 +25,23 @@
                     <div class="col-12 col-sm-4"><img alt="" src="/src/img/kinderdorp/kinderdorp_2.jpg" class="img-fluid rounded"/></div>
                     <div class="col-12 col-sm-4"><img alt="" src="/src/img/kinderdorp/kinderdorp_3.jpg" class="img-fluid rounded mt-3 mt-md-0"/></div>
                     <div class="col-12 col-sm-8 pt-2 p-md-3">
-                        <p>Kinderen jonger dan 14 jaar mogen <b>gratis</b> het festival op. Het kinderdorp is open voor alle kinderen <b>jonger dan 12 jaar</b>. <i>Het kinderdorp is open tot 22u</i>.</p>
                         <p><i>Op donderdag zijn er speciale activiteiten in het Kinderdorp. Je kan het programma <a href="/en/lineup/">hier</a> vinden.</i></p>
                         <a href="https://www.hln.be/in-de-buurt/kortemark/-bob-marley-wie-zegt-u~af6d929e/">https://www.hln.be/in-de-buurt/kortemark/-bob-marley-wie-zegt-u~af6d929e/</a>
                     </div>
-                    <div class="col-12 col-md-7">
-                        <div class="row">
-                            <div class="col-12 col-md-6">
-                                <img alt="" src="/src/img/kinderdorp/fedasil.jpg" class="img-fluid rounded mt-md-3">
-                            </div>
-                            <div class="col-12 col-md-6 pt-2 p-md-3">
-                                <p>VZW GreenForward werkt samen met Fedasil Poelkapelle. We geven een selecte groep vluchtelingen uit het Vluchtelingenkamp uit Poelkapelle de unieke kans om samen te helpen tijdens het volledige festival. </p>
-                            </div>
+                </div>
+                <div class="row">
 
-                        </div>
+                    <div class="col-12 col-md-3">
+                        <picture>
+                            <source srcset="/src/img/partners/fedasil.webp" type="image/webp">
+                            <source srcset="/src/img/partners/fedasil.jpg" type="image/jpeg">
+                            <img alt="" class="img-fluid rounded" src="/src/img/partners/fedasil.jpg"/>
+                        </picture>
                     </div>
                     <div class="col-12 col-md-5 pt-2 p-md-3">
+                        <p>VZW GreenForward werkt samen met Fedasil Poelkapelle. We geven een selecte groep vluchtelingen uit het Vluchtelingenkamp uit Poelkapelle de unieke kans om samen te helpen tijdens het volledige festival. </p>
+                    </div>
+                    <div class="col-12 col-md-4 pt-2 p-md-3">
                         <p class="text-irie">Kinderen jonger dan 14 jaar mogen <b>gratis</b> het festival op. Het kinderdorp is open voor alle kinderen <b>jonger dan 12 jaar</b>. <i>Het kinderdorp is open tot 22u</i>.</p>
                     </div>
                     <div class="col-12">

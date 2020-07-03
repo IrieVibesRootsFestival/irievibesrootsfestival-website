@@ -53,13 +53,11 @@
                         <li>
 
                             <h3 class="text-warning"><b>Trim the footprint: “because there is no planet B” </b></h3>
-                            <p>
-                                workshops en lezingen
-                                met de steun van Interreg France-Wallonie-Vlaanderen
-                                ecologische initiatieven in de kijker
-
-                                (logo Interreg, Trim the Footprint)
-                            </p>
+                            <ul>
+                                <li> workshops en lezingen</li>
+                                <li> met de steun van Interreg France-Wallonie-Vlaanderen</li>
+                                <li>ecologische initiatieven in de kijker</li>
+                            </ul>
                             <div class="row m-0 p-0">
                                 <div class="col-12 col-md-4">
                                     <div class="embed-responsive embed-responsive-16by9 rounded mb-3">

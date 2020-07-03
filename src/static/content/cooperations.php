@@ -28,7 +28,11 @@
 <div class="col-6 col-sm-3 col-md-2 my-2"> 
     <div class="thumbnail">
         <a href="https://www.fedasil.be/nl/poelkapelle">
-            <img alt="" class="img-fluid rounded" src="/src/img/partners/fedasil.jpg" alt="Fedasil Poelkapelle">
+            <picture>
+                <source srcset="/src/img/partners/fedasil.webp" type="image/webp">
+                <source srcset="/src/img/partners/fedasil.jpg" type="image/jpeg">
+                <img alt="" class="img-fluid rounded" src="/src/img/partners/fedasil.jpg"/>
+            </picture>
         </a>
     </div>
 </div>
