@@ -27,6 +27,7 @@
                     <div class="col-12 col-sm-8 pt-2 p-md-3">
                         <p>A moins de 14 ans, les enfants peuvent entrer le festival gratuitement. Le village enfants sera ouvert à tous les enfants de moins de 12 ans. Le village fermera à 22 heures.</p>
                         <p><i>Le jeudi, un programme spécial est proposé aux enfants du Kid’s Village. Vous pouvez trouver le programme <a href="/fr/lineup/kortemark-conge/">ici</a>.</i></p>
+                        <a href="https://www.hln.be/in-de-buurt/kortemark/-bob-marley-wie-zegt-u~af6d929e/">https://www.hln.be/in-de-buurt/kortemark/-bob-marley-wie-zegt-u~af6d929e/</a>
                     </div>
                     <div class="col-12 col-md-7">
                         <div class="row">

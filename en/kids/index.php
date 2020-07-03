@@ -30,6 +30,7 @@
                     <div class="col-12 col-sm-8 pt-2 p-md-3">
                         <p>Kids younger than 14 can enter the festival at no cost. The Kids’ Village is open to all children younger than 12. The Kids’ Village closes at 10 pm.</p>
                         <p><i>On Thursday, there is a special programme for the children in the Kid’s Village. You can find the programme <a href="/en/lineup/">here</a>.</i></p>
+                        <a href="https://www.hln.be/in-de-buurt/kortemark/-bob-marley-wie-zegt-u~af6d929e/">https://www.hln.be/in-de-buurt/kortemark/-bob-marley-wie-zegt-u~af6d929e/</a>
                     </div>
                     <div class="col-12 col-md-7">
                         <div class="row">

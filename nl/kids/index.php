@@ -27,6 +27,7 @@
                     <div class="col-12 col-sm-8 pt-2 p-md-3">
                         <p>Kinderen jonger dan 14 jaar mogen <b>gratis</b> het festival op. Het kinderdorp is open voor alle kinderen <b>jonger dan 12 jaar</b>. <i>Het kinderdorp is open tot 22u</i>.</p>
                         <p><i>Op donderdag zijn er speciale activiteiten in het Kinderdorp. Je kan het programma <a href="/en/lineup/">hier</a> vinden.</i></p>
+                        <a href="https://www.hln.be/in-de-buurt/kortemark/-bob-marley-wie-zegt-u~af6d929e/">https://www.hln.be/in-de-buurt/kortemark/-bob-marley-wie-zegt-u~af6d929e/</a>
                     </div>
                     <div class="col-12 col-md-7">
                         <div class="row">
@@ -44,9 +45,6 @@
                     </div>
                     <div class="col-12">
                         <p class="h3 d-block highlight-black p-2">De organisatie kan niet verantwoordelijk worden gehouden voor lokaal gebeurde ongevallen. We doen onze uiterste best om met een team vrijwilligers de basisveiligheid van uw kinderen te verzorgen.</p>
-                    </div>
-                    <div class="col-12">
-                        <a href="https://www.hln.be/in-de-buurt/kortemark/-bob-marley-wie-zegt-u~af6d929e/">https://www.hln.be/in-de-buurt/kortemark/-bob-marley-wie-zegt-u~af6d929e/</a>
                     </div>
                 </div>
             </div>
