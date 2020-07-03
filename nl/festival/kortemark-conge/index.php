@@ -78,13 +78,14 @@
                             <p>
                                 <i>Kortemark is niet wereldvreemd</i>
                             </p>
-                            <p>
-                                foodtrucks / world food / shops<br/>
-                                wereldmarkt : noord-zuid verenigingen en projecten uit de regio
-                            </p>
+                            <ul>
+                                <li>foodtrucks / world food / shops</li>
+                                <li>wereldmarkt : noord-zuid verenigingen en projecten uit de regio</li>
+                                <li>tentoonstelling SDG’s</li>
+                            </ul>
                             <p>
                                 in samenwerking met Noord Zuid Kortemark en Weedo Tanzania<br/> <a href="https://www.facebook.com/weedo.womenempowering/">https://www.facebook.com/weedo.womenempowering/</a>
-                                tentoonstelling SDG’s
+
                             </p>
                             <div class="row">
                                 <!-- Begin pictures -->
