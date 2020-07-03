@@ -1,10 +1,11 @@
-<!DOCTYPE html><html lang="nl">
+<!DOCTYPE html>
+<html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Kortemark Congé - Irie Vibes</title>
         <meta property="og:title" content="Kortemark Congé"/>
-        <meta property="og:description" content="Alles dat je moet weten over het evenement Kortemark Congé op Iie Vibes Roots Festival." />
+        <meta property="og:description" content="Alles dat je moet weten over het evenement Kortemark Congé op Irie Vibes Roots Festival." />
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
@@ -87,6 +88,7 @@
                                 <a href="https://www.facebook.com/weedo.womenempowering/">https://www.facebook.com/weedo.womenempowering/</a>
                             </p>
                         </li>
+                        <li>
                         <h3 class="text-dark"><b>Little Lion: “children see magic because they look for it”</b></h3>
                         <p>
                             Recycle art
@@ -96,6 +98,7 @@
                             Workshops en animatie
                             Bouwen aan een betere wereld
                         </p>
+                        </li>
                     </ul>
                 </div>
                 <!-- Img block (right) 
