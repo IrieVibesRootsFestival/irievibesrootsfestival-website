@@ -36,7 +36,7 @@
                                 <!--KConge 2019-->
                                 <div class="col-12 col-md-4">
                                     <div class="embed-responsive embed-responsive-16by9 rounded mb-3">
-                                        <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/6GhMiDClsqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/uaY9Y4iB5nE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                                 <!--Focus WTV Clip-->
