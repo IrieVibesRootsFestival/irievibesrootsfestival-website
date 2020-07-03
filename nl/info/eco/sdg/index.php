@@ -16,6 +16,7 @@
                 <!-- Main text -->
                 <div class="col-12 col-md-9">
                     <p>De ‘Sustainable Development Goals’ (SDG’s) of ‘Duurzame Ontwikkelingsdoelstellingen’ werden goedgekeurd door de Algemene Vergadering van de Verenigde Naties in september 2015. Het zijn 17 doelstellingen, 169 subdoelstellingen en 229 indicatoren die tegen 2030 bereikt moeten worden. De SDG’s zorgen voor evenwicht tussen de drie dimensies van duurzame ontwikkeling (de economische, sociale en ecologische dimensie) binnen het kader van vrede en samenwerking.</p>
+                    <a href="https://sustainabledevelopment.un.org/?menu=1300">https://sustainabledevelopment.un.org/?menu=1300</a>
                 </div>
                 <!-- Province logo & Sponsor message -->
                 <div class="col-12 col-md-3">

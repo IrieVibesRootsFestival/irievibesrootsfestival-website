@@ -16,6 +16,7 @@
                 <!-- Main text -->
                 <div class="col-12 col-md-9">
                     <p>Les Objectifs de développement durable ont été approuvés par l'Assemblée générale des Nations Unies en septembre 2015. Il s'agit de 17 objectifs, 169 sous-objectifs et 229 indicateurs à atteindre d'ici 2030. Les ODD équilibrent les trois dimensions du développement durable (la dimension économique, sociale et environnementale) dans le cadre de la paix et de la coopération.
+                        <a href="https://sustainabledevelopment.un.org/?menu=1300">https://sustainabledevelopment.un.org/?menu=1300</a>
                     </p>
                 </div>
                 <!-- Province logo & Sponsor message -->
