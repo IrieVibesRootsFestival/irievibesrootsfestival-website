@@ -76,28 +76,62 @@
                         <li>
                             <h3 class="text-danger"><b>Wereldmarkt: “inspire the world”</b></h3>
                             <p>
-                                Kortemark is niet wereldvreemd
-
-                                foodtrucks / world food / shops
-                                wereldmarkt : noord-zuid verenigingen en projecten uit de regio
-
-                                in samenwerking met Noord Zuid Kortemark en Weedo Tanzania
-                                tentoonstelling SDG’s  
-
-                                (foto sdg’s)
-                                <a href="https://www.facebook.com/weedo.womenempowering/">https://www.facebook.com/weedo.womenempowering/</a>
+                                <i>Kortemark is niet wereldvreemd</i>
                             </p>
+                            <p>
+                                foodtrucks / world food / shops<br/>
+                                wereldmarkt : noord-zuid verenigingen en projecten uit de regio
+                            </p>
+                            <p>
+                                in samenwerking met Noord Zuid Kortemark en Weedo Tanzania<br/>
+                                tentoonstelling SDG’s
+                            </p>
+                            <div class="row">
+                                <!-- Begin pictures -->
+
+                                <div class="col-6 col-md-4 col-xl-3 pb-1">
+                                    <picture>
+                                        <source srcset="/src/img/eco/sdg/intro/color-circle.webp" type="image/webp">
+                                        <source srcset="/src/img/eco/sdg/intro/color-circle.jpg" type="image/jpeg">
+                                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/intro/color-circle.jpg"/>
+                                    </picture>
+                                </div>
+                                <div class="col-6 col-md-4 col-xl-3 pb-1">
+                                    <picture>
+                                        <source srcset="/src/img/eco/sdg/intro/intro-square.webp" type="image/webp">
+                                        <source srcset="/src/img/eco/sdg/intro/intro-square.jpg" type="image/jpeg">
+                                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/intro/intro-square.jpg"/>
+                                    </picture>
+                                </div>
+                                <div class="col-6 col-md-4 col-xl-3 pb-1">
+                                    <picture>
+                                        <source srcset="/src/img/eco/sdg/intro/SDG.webp" type="image/webp">
+                                        <source srcset="/src/img/eco/sdg/intro/SDG.jpg" type="image/jpeg">
+                                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/intro/SDG.jpg"/>
+                                    </picture>
+                                </div>
+                                <div class="col-6 col-md-4 col-xl-3 pb-1">
+                                    <picture>
+                                        <source srcset="/src/img/eco/sdg/intro/world-in-hands.webp" type="image/webp">
+                                        <source srcset="/src/img/eco/sdg/intro/world-in-hands.jpg" type="image/jpeg">
+                                        <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/intro/world-in-hands.jpg"/>
+                                    </picture>
+                                </div>
+                            </div>
+                            <!-- End Pictures -->
+                            <a href="https://www.facebook.com/weedo.womenempowering/">https://www.facebook.com/weedo.womenempowering/</a>
+
                         </li>
                         <li>
-                        <h3 class="text-dark"><b>Little Lion: “children see magic because they look for it”</b></h3>
-                        <p>
-                            Recycle art
-                            Kinderdorp
-                            Gekke kapsels
-                            Qi Gong
-                            Workshops en animatie
-                            Bouwen aan een betere wereld
-                        </p>
+                            <h3 class="text-dark"><b>Little Lion: “children see magic because they look for it”</b></h3>
+                            <ul>
+                                <li>Recycle art</li>
+                                <li>Kinderdorp</li>
+                                <li>Gekke kapsels</li>
+                                <li>Qi Gong</li>
+                                <li>Workshops en animatie</li>
+                                <li>Bouwen aan een betere wereld</li>
+                            </ul>
                         </li>
                     </ul>
                 </div>
