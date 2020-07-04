@@ -84,9 +84,10 @@
                                 <li>tentoonstelling SDG’s</li>
                             </ul>
                             <p>
-                                in samenwerking met Noord Zuid Kortemark en Weedo Tanzania<br/> <a href="https://www.facebook.com/weedo.womenempowering/">https://www.facebook.com/weedo.womenempowering/</a>
+                                <br/>in samenwerking met Noord Zuid Kortemark en Weedo Tanzania<br/> <a href="https://www.facebook.com/weedo.womenempowering/">https://www.facebook.com/weedo.womenempowering/</a>
 
                             </p>
+                            <hr/>
                             <div class="row">
                                 <!-- Begin pictures -->
 
@@ -134,12 +135,7 @@
                         </li>
                     </ul>
                 </div>
-                <!-- Img block (right) 
-<div class="col-12 col-md-3">
-<a href="https://www.facebook.com/events/622231101564639/" rel="Kortemark Congé Facebook Page">
-<img alt="" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" class="img-fluid rounded"/>
-</a>
-</div>-->
+                <div class="col-12"><h3 class="text-irie text-uppercase">Flyer Kortemark Congé</h3></div>
                 <!-- Two poster halves -->
                 <div class="col-12 col-md-6">
                     <picture>
