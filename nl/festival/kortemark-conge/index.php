@@ -87,7 +87,6 @@
                                 <br/>in samenwerking met Noord Zuid Kortemark en Weedo Tanzania<br/> <a href="https://www.facebook.com/weedo.womenempowering/">https://www.facebook.com/weedo.womenempowering/</a>
 
                             </p>
-                            <hr/>
                             <div class="row">
                                 <!-- Begin pictures -->
 
@@ -135,7 +134,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-12"><h3 class="text-irie text-uppercase">Flyer Kortemark Congé</h3></div>
+                <div class="col-12"><h3 class="text-irie text-uppercase">Flyer Kortemark Congé - Irie Vibes Roots Festival 2019</h3></div>
                 <!-- Two poster halves -->
                 <div class="col-12 col-md-6">
                     <picture>
