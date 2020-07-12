@@ -63,6 +63,7 @@
                     <a href="https://www.instagram.com/irievibesroots/"><i class="fab fa-instagram fa-3x social"></i></a>
                     <a href="/src/static/snapchat/"><i class="fab fa-snapchat fa-3x social"></i></a>
                     <a href="/src/static/spotify/"><i class="fab fa-spotify fa-3x social"></i></a>
+                    <a href="https://www.youtube.com/channel/UCCWpbW7WkOyS0ycQdkqRhww"><i class="fab fa-youtube fa-3x social"></i></a>
                 </div>
             </div>
             <!-- Redundant for Mobile Compatibility-->
