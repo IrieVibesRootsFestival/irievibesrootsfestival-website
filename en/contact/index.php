@@ -20,7 +20,7 @@
                                 <div class="h3">
                                     <h3>Info</h3>
                                 </div>
-                                <p>for general inquiries, information, sponsors, partnerships, guests, tech, ..</p>
+                                <p>for general inquiries, information, sponsors, partnerships, guests, tech</p>
                                 <a href="mailto:info@irievibes.be">info@irievibes.be</a>
                             </div>
                         </div>
