@@ -14,7 +14,7 @@
             <div class="row text-irie">
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-4 col-12">
-                        <div class="p-2 m-1 text-center">
+                        <div class="p-2 m-1 text-box text-center">
                             <i class="fa fa-instagram fa-3x" aria-hidden="true"></i>
                             <div class="title">
                                 <h4>Info</h4>
@@ -26,7 +26,7 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-12">
-                        <div class="p-2 m-1 text-center">
+                        <div class="p-2 m-1 text-box text-center">
                             <i class="fa fa-twitter fa-3x" aria-hidden="true"></i>
                             <div class="title">
                                 <h4>Promo</h4>
@@ -38,7 +38,7 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-12">
-                        <div class="p-2 m-1 text-center">
+                        <div class="p-2 m-1 text-box text-center">
                             <i class="fa fa-facebook fa-3x" aria-hidden="true"></i>
                             <div class="title">
                                 <h4>Finance</h4>
@@ -50,7 +50,7 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-12">
-                        <div class="p-2 m-1 text-center">
+                        <div class="p-2 m-1 text-box text-center">
                             <i class="fa fa-pinterest-p fa-3x" aria-hidden="true"></i>
                             <div class="title">
                                 <h4>Shops</h4>
@@ -62,27 +62,27 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-12">
-                        <div class="p-2 m-1 text-center">
-                            <i class="fa fa-google-plus fa-3x" aria-hidden="true"></i>
+                        <div class="p-2 m-1 text-box text-center">
+                            <i class="fas fa-eye h1"></i>
                             <div class="title">
                                 <h4>Security</h4>
                             </div>
                             <div class="text">
-                                <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                <span>for all information about safety at our events or if you want to be part of team security at Irie Vibes Roots Festival</span>
                             </div>
-                            <a href="#">Learn More</a>
+                            <a href="mailto:security@irievibes.be">security@irievibes.be</a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-12">
-                        <div class="p-2 m-1 text-center">
-                            <i class="fas fa-mouse-pointer"></i>
+                        <div class="p-2 m-1 text-box text-center">
+                            <i class="fas fa-mouse-pointer h1"></i>
                             <div class="title">
                                 <h4>Webmaster</h4>
                             </div>
                             <div class="text">
-                                <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                <span>Found an error on the website? Interested in helping us out? We're more than happy to talk to you.</span>
                             </div>
-                            <i class="fas fa-mouse-pointer"></i><a href="#">Learn More</a>
+                            <a href="mailto:web@irievibes.be">web@irievibes.be</a>
                         </div>
                     </div>
                 </div>
