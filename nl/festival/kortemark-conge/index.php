@@ -5,7 +5,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Kortemark Congé - Irie Vibes</title>
         <meta property="og:title" content="Kortemark Congé"/>
-        <meta property="og:description" content="Alles dat je moet weten over het evenement Kortemark Congé op Irie Vibes Roots Festival." />
+        <meta property="og:description" content="Alles wat je moet weten over het evenement Kortemark Congé op Irie Vibes Roots Festival." />
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
@@ -51,8 +51,8 @@
 
                             <h3 class="text-warning"><b>Trim the footprint: “because there is no planet B” </b></h3>
                             <ul>
-                                <li> workshops en lezingen</li>
-                                <li> met de steun van Interreg France-Wallonie-Vlaanderen</li>
+                                <li>workshops en lezingen</li>
+                                <li>met de steun van Interreg France-Wallonie-Vlaanderen</li>
                                 <li>ecologische initiatieven in de kijker</li>
                             </ul>
                             <div class="row m-0 p-0">
