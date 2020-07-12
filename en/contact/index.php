@@ -14,8 +14,8 @@
             <div class="row text-irie">
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-4 col-12">
-                        <div class="text-box-2 m1 rounded">
-                            <div class="p-2 m-1 text-box rounded text-center">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
                                 <i class="far fa-question-circle h1"></i>
                                 <div class="h3">
                                     <h3>Info</h3>
@@ -26,8 +26,8 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-12">
-                        <div class="text-box-2 m1 rounded">
-                            <div class="p-2 m-1 text-box rounded text-center">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
                                 <i class="fas fa-share-alt-square h1"></i>
                                 <div class="h3">
                                     <h3>Promo</h3>
@@ -38,8 +38,8 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-12">
-                        <div class="text-box-2 m1 rounded">
-                            <div class="p-2 m-1 text-box rounded text-center">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
                                 <i class="fas fa-piggy-bank h1"></i>
                                 <div class="h3">
                                     <h3>Finance</h3>
@@ -50,8 +50,8 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-12">
-                        <div class="text-box-2 m1 rounded">
-                            <div class="p-2 m-1 text-box rounded text-center">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
                                 <i class="fas fa-store h1"></i>
                                 <div class="h3">
                                     <h3>Shops</h3>
@@ -62,8 +62,8 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-12">
-                        <div class="text-box-2 m1 rounded">
-                            <div class="p-2 m-1 text-box rounded text-center">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
                                 <i class="fas fa-eye h1"></i>
                                 <div class="h3">
                                     <h3>Security</h3>
@@ -74,8 +74,8 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-12">
-                        <div class="text-box-2 m1 rounded">
-                            <div class="p-2 m-1 text-box rounded text-center">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
                                 <i class="fas fa-mouse-pointer h1"></i>
                                 <div class="h3">
                                     <h3>Webmaster</h3>
