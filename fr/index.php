@@ -11,8 +11,9 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <div class="container content">
             <div class="row justify-content-center">
-                <div id="home-text" class="col-12 col-md-8">
-                    <!-- Add a placeholder for the Twitch embed -->
+                
+                <div class="col-12">
+                <!-- Add a placeholder for the Twitch embed -->
     <div id="twitch-embed"></div>
 
     <!-- Load the Twitch embed script -->
@@ -26,6 +27,9 @@
         channel: "irievibesrootsfestival",
       });
     </script>
+                    </div>
+                
+                <div id="home-text" class="col-12 col-md-8">
                     <picture>
                         <source srcset="/src/img/irie-vibes-2021-banner.webp" type="image/webp">
                         <source srcset="/src/img/irie-vibes-2021-banner.jpg" type="image/jpeg">
