@@ -12,6 +12,20 @@
         <div class="container content">
             <div class="row justify-content-center">
                 <div id="home-text" class="col-12 col-md-8">
+                    <!-- Add a placeholder for the Twitch embed -->
+    <div id="twitch-embed"></div>
+
+    <!-- Load the Twitch embed script -->
+    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+    <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
+    <script type="text/javascript">
+      new Twitch.Embed("twitch-embed", {
+        width: 854,
+        height: 480,
+        channel: "irievibesrootsfestival",
+      });
+    </script>
                     <picture>
                         <source srcset="/src/img/irie-vibes-2021-banner.webp" type="image/webp">
                         <source srcset="/src/img/irie-vibes-2021-banner.jpg" type="image/jpeg">
