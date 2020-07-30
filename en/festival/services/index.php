@@ -90,7 +90,16 @@
                             <div class="p-2 text-box rounded text-center">
                                 <i class="fas fa-wifi h1"></i>                                
                                 <h3>WiFix</h3>                                
-                                <p>Free hotspot and a phone repair station on the festival site in collaboration with <a href="https://www.facebook.com/wifixleuven/">WiFix</a></p>
+                                <p>Free hotspot, charging station and a phone repair cafe on the festival site in collaboration with <a href="https://www.facebook.com/wifixleuven/">WiFix</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-12">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
+                                <i class="fas fa-wheelchair h1"></i>                                
+                                <h3>Accessibility</h3>                                
+                                <p>We have services to help people who might need assistance on the terrain. You can email us at <a href="info@irievibes.be">info@irievibes.be</a> for further information or assistance.</p>
                             </div>
                         </div>
                     </div>
