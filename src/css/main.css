@@ -400,7 +400,7 @@ header .nav-link{padding: .1rem;}
     padding-top:0.2rem;
 }
 
-/* Link get fancy icons */
+/* Links get fancy icons */
 
 a:before{
     content:"<i class="fas fa-external-link-alt"></i>";
