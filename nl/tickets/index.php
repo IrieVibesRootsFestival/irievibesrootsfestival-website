@@ -25,13 +25,13 @@
                 <div id="tickets" class="col-12 col-md-6">
                     <h1>Voorverkoop-punten</h1>
                     <ul>
-                        <li><b>Roeselare</b>: Barbier Steve</li>
-                        <li><b>Handzame</b>: Drankencenter Rojo</li>
-                        <li><b>Werken</b>: Jeugdhuis De Zunne</li>
-                        <li><b>Diksmuide</b>: 4AD</li>
-                        <li><b>Kortrijk</b>: Zimba Shop</li>
-                        <li><b>Torhout</b>: RoseHeart Tattoo</li>
-                        <li><b>Brugge</b>: Vrijplaats Zundag</li>
+                        <li><b>Roeselare</b>: <a href="https://facebook.com/Mr-Steve-barbershop-Roeselare-267312400351270/">Barbier Steve</a></li>
+                        <li><b>Handzame</b>: <a href="http://www.rojo.be/">Drankencenter Rojo</a></li>
+                        <li><b>Werken</b>: <a href="https://www.facebook.com/Jeugdhuisdezunne/">Jeugdhuis De Zunne</a></li>
+                        <li><b>Diksmuide</b>: <a href="https://www.4ad.be/">4AD</a></li>
+                        <li><b>Kortrijk</b>: <a href="https://www.facebook.com/Zimbakortrijk/">Zimba Shop</a></li>
+                        <li><b>Torhout</b>: <a href="https://janeleenders.wixsite.com/mijnsite">RoseHeart Tattoo</a></li>
+                        <li class="text-disabled"><b>Brugge</b>: <a href="">Vrijplaats Zundag</a></li>
                     </ul>
                 </div>
                 <div class="col-12 col-md-6">
