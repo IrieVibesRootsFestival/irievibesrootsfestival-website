@@ -55,6 +55,7 @@
                             <li><a class="nav-link drop-2" href="/nl/artists"><i class="fas fa-microphone-alt"></i> Artiesten</a></li>
                             <li><a class="nav-link drop-2" href="/nl/lineup/"><i class="fas fa-record-vinyl"></i> Line-Up</a></li>
                             <li><a class="nav-link drop-2" href="/nl/lineup/posters/"><i class="fas fa-scroll"></i> Affiches</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/lineup/livestream/"><i class="fas fa-video"></i> Livestream</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">

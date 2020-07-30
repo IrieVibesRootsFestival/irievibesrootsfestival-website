@@ -56,7 +56,8 @@
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/fr/artists"><i class="fas fa-microphone-alt"></i> Artistes</a></li>
                             <li><a class="nav-link drop-2" href="/fr/lineup/"><i class="fas fa-record-vinyl"></i> Line-Up</a></li>
-                            <li><a class="nav-link drop-2" href="/fr/lineup/posters/"><i class="fas fa-scroll"></i> Posters</a></li>
+                            <li><a class="nav-link drop-2" href="/fr/lineup/posters/"><i class="fas fa-scroll"></i> Posters</a></li>                            
+                            <li><a class="nav-link drop-2" href="/fr/lineup/livestream/"><i class="fas fa-video"></i> Livestream</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
