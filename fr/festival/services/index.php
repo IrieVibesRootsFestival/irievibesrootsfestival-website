@@ -20,7 +20,7 @@
                         <li><b>Camping</b>: All information about accomodation can be found on the website</li>
                         <li><b>Parking</b>: Cars aren't allowed on the camping. We ask you to park your car on the parking site. A weekend pass costs €5. Carpooling is a great alternative to driving your own car. There will be hourly shuttle busses between the festival terrain and train station, to make sure you're never left out.</li>
                         <li><b>First Aid</b>: The first aid tent provided by the Red Cross of Belgium is there to soothe all injuries you have. Don't hesitate to ask for help!</li>
-                        <li><b>WiFix</b>: Free hotspot, charging station and a phone repair cafer on the festival site in collaboration with <a href="https://www.facebook.com/wifixleuven/">WiFix</a></li>
+                        <li><b>WiFix</b>: Free hotspot, charging station and a phone repair cafe on the festival site in collaboration with <a href="https://www.facebook.com/wifixleuven/">WiFix</a></li>
                     </ul>
                 </div>
         </div>

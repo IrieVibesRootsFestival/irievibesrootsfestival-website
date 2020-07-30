@@ -399,3 +399,14 @@ header .nav-link{padding: .1rem;}
 .fa-home{
     padding-top:0.2rem;
 }
+
+/* Link get fancy icons */
+
+a:before{
+    content:"<i class="fas fa-external-link-alt"></i>";
+}
+
+a[href*="facebook.com/"] {
+background:url(https://www.facebook.com/favicon.ico) no-repeat left center;
+padding-left:19px;
+}
