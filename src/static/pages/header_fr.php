@@ -41,7 +41,7 @@
                     <li class="nav-item dropdown">
                         <a href="#" alt="/en/festival/" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a class="nav-link drop-2" href="/en/location/"><i class="fas fa-location-arrow"></i> Emplacement</a></li>
+                            <li><a class="nav-link drop-2" href="/fr/location/"><i class="fas fa-location-arrow"></i> Emplacement</a></li>
                             <li><a class="nav-link drop-2" href="/fr/festival/rules/"><i class="fas fa-hand-point-right"></i> Règles</a></li>
                             <li><a class="nav-link drop-2" href="/fr/festival/camping/"><i class="fas fa-campground"></i> Camping et Parking</a></li>
                             <li><a class="nav-link drop-2" href="/fr/festival/services/"><i class="fas fa-shower"></i> Les services</a></li>
