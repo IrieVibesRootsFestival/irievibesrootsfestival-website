@@ -402,11 +402,12 @@ header .nav-link{padding: .1rem;}
 
 /* Links get fancy icons */
 
-a:before{
-    content:"<i class="fas fa-external-link-alt"></i>";
+.content a{
+    background:url(https://image.flaticon.com/icons/svg/25/25284.svg) no-repeat left center;
+    padding-left:19px;
 }
 
-a[href*="facebook.com/"] {
-background:url(https://www.facebook.com/favicon.ico) no-repeat left center;
-padding-left:19px;
+.content a[href*="facebook.com/"] {
+    background:url(https://www.facebook.com/favicon.ico) no-repeat left center;
+    padding-left:19px;
 }
