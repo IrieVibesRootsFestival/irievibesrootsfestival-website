@@ -1,19 +1,20 @@
+
 <!DOCTYPE html><html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
-        <title>Festival regels - Irie Vibes</title>
-        <meta property="og:title" content="De regels op het festival"/>
-        <meta property="og:description" content="Hier vind je de regels van het festival terrein. Lezen is essentieel!" /> 
+        <title>Rules - Irie Vibes</title>
+        <meta property="og:title" content="Festival Rules"/>
+        <meta property="og:description" content="Wat zijn de regels op het festival? Wat mag je wel meenemen, en wat is niet toegelaten?" />
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
-        <!-- This is the main container that encapsulates everything content related. -->
-        <div class="container content">
-            <h3 class="text-irie text-uppercase col-12"><b>Festivalregels</b></h3>
+        <div id="rules" class="container content">
+            <h3 class="display-7 text-center">Festivalregels</h3> 
             <div class="row">
+                <h3 class="text-irie text-uppercase col-12"><b>Dingen mebrengen naar het festival</b></h3>
                 <div class="col-12 col-md-6">
-                    <p class="text-danger">Dit is niet toegelaten:</p>
+                    <h4 class="text-danger">Wat is <b>NIET</b> toegelaten?</h4>
                     <ul>
                         <li>glas</li>
                         <li>wapens</li> 
@@ -28,7 +29,7 @@
                     </ul>
                 </div>
                 <div class="col-12 col-md-6">
-                    <p class="text-success">Dit is toegelaten:</p>
+                    <h4 class="text-success">Wat is wel toegelaten?</h4>
                     <ul>
                         <li>een hervulbare fles: Je kan je fles vullen met water aan het waterpunt. Het is gratis! (Alleen transparante plastic flessen.)</li>
                         <li>eigen voorziene producten om je baby of kind te verzorgen (luiers, drinkfles, ...)</li>

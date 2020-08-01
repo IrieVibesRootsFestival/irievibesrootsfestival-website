@@ -3,15 +3,15 @@
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Rules - Irie Vibes</title>
-        <meta property="og:title" content="Festival Rules"/>
-        <meta property="og:description" content="What can and can't you bring to or do on the festival(terrain)?" />
+        <meta property="og:title" content="The festival rules"/>
+        <meta property="og:description" content="What are the rules on the festival? What are you allowed to bring to the festival and what is forbidden?" />
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <div id="rules" class="container content">
             <h3 class="display-7 text-center">Festival Rules</h3> 
             <div class="row">
-                <h3 class="text-irie text-uppercase col-12"><b>Festival rules</b></h3>
+                <h3 class="text-irie text-uppercase col-12"><b>Bringing objects to the festival</b></h3>
                 <div class="col-12 col-md-6">
                     <h4 class="text-danger">What is <b>NOT</b> allowed?</h4>
                     <ul>
