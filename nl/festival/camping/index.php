@@ -148,7 +148,6 @@
                                         <li>For this paradise, thou shalt pay only one fee, so you’re at ease for a shower or a pee</li>
                                         <li>Thou shalt not covet your neighbor's house, his ox or donkey, or anything that belongs to thy neighbor</li>
                                     </ol>
-                                    <hr/><br/>
                                 </div>
                             </div>
                         </div>
