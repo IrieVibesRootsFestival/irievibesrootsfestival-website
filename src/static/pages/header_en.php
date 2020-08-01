@@ -72,15 +72,18 @@
                     <li class="nav-item dropdown">
                         <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a class="nav-link drop-2" href="/en/info/eco/trim-the-footprint/">Trim The Footprint</a></li>
+                            <li class="dropdown-header">On the festival</li>
+                            <li><a class="nav-link drop-2" href="/en/info/eco/upcycling/">Upcycling</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/eco-team/">Eco team</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/reusable-cups/">Reusable cups</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/groene-vent-award/"><i>Groene Vent</i></a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/clean-water/"><i class="fas fa-hand-holding-water"></i> Clean water</a></li>
-                            <li><a class="nav-link drop-2" href="/en/info/eco/upcycling/">Upcycling</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/bewilg-het-landschap/">Bewilg Het Landschap</a></li>
-                            <li><a class="nav-link drop-2" href="/en/info/eco/world-cleanup-day/">World Cleanup Day</a></li>
+                            <div class="dropdown-divider"></div>
+                            <li class="dropdown-header">International</li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/sdg/"><strong>S</strong>ustainable <strong>D</strong>evelopment <strong>G</strong>oals</a></li>
+                            <li><a class="nav-link drop-2" href="/en/info/eco/trim-the-footprint/">Trim The Footprint</a></li>
+                            <li><a class="nav-link drop-2" href="/en/info/eco/world-cleanup-day/">World Cleanup Day</a></li>                        
                             <li><a class="nav-link drop-2" href="/en/info/eco/outreaching/">Outreaching</a></li>
                         </ul>
                     </li>
