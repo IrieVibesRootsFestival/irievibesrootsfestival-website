@@ -8,21 +8,106 @@
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
-        <div id="rules" class="container content">
-                <h3 class="text-irie text-uppercase col-12"><b>Services</b></h3>
-                <div class="col-12">
-                    <ul>
-                        <li><b>Info Point</b>: the beating heart of the festival, ready to help you out with all kinds of questions. Visitors, sponsors, guests and shops can address the info point. You can also get free earplugs, ear protection for children, pocket ashtrays and gadgets.</li>
-                        <li><b>Toilets</b>:  €1 to pee all weekend! It is not allowed to pee outside the toilet area!</li>
-                        <li><b>Ecoteam</b>: Respect nature and our ecoteam. Leave your waste in the proper garbage bins. Gather your garbage at the camping in a bag and bring your bags to the entrance on Sunday morning in exchange for a coffee. Ask for your pocket ashtray at the info point.</li>
-                        <li><b>Safe ‘n Sound</b>: This information booth is a cooperation with VAD. They will provide you with information about alcohol, drugs, ear damage and safe sex.</li>
-                        <li><b>Food Stands + Bar</b>: There will be plenty of food stands available and 3 bars (main bar, coffee/cocktail bar and camping bar)</li>
-                        <li><b>Camping</b>: All information about accomodation can be found on the website</li>
-                        <li><b>Parking</b>: Cars aren't allowed on the camping. We ask you to park your car on the parking site. A weekend pass costs €5. Carpooling is a great alternative to driving your own car. There will be hourly shuttle busses between the festival terrain and train station, to make sure you're never left out.</li>
-                        <li><b>First Aid</b>: The first aid tent provided by the Red Cross of Belgium is there to soothe all injuries you have. Don't hesitate to ask for help!</li>
-                        <li><b>WiFix</b>: Free hotspot, charging station and a phone repair cafe on the festival site in collaboration with <a href="https://www.facebook.com/wifixleuven/">WiFix</a></li>
-                    </ul>
+        <div id="services" class="container content">
+            <h3 class="display-7 text-center">Services</h3>
+            <br/>
+            <div class="row text-irie">
+                <div class="row">
+                    <div class="col-md-3 col-sm-4 col-12">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
+                                <i class="fas fa-info-circle h1"></i>
+                                <h3>Point d’information</h3>                             
+                                <p>Le coeur du festival, prêt à vous aider avec toutes les questions. Les visiteurs, sponsors, invité et shops peuvent s’ adresser au point d’info. Vous pouvez obtenier des bouchons d’oreille gratuits, des protections auditives pour enfants, des cendrier de poche et des gagets.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-12">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
+                                <i class="fas fa-toilet h1"></i>   
+                                <h3>Les toilettes</h3>                                
+                                <p>€1 pour utiliser les toilettes tout le week-end! N’oubliez pas de l’acheter à l’entrée.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-12">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
+                                <i class="fas fa-leaf h1"></i> 
+                                <h3>Equipe éco</h3>                                
+                                <p>Respectez la nature et notre équipe éco. Laissez vos déchets dans les poubelles. Rassemblez votre gaspillage au camping et apportez vos sacs à l’entrée le dimanche matin en échange d’un café. N’oubliez pas de demander votre cendrier de poche au point info. </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-12">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
+                                <i class="fas fa-shield-alt h1"></i>   
+                                <h3>Safe ‘n Sound</h3>      
+                                <p>
+                                    Ce stand d’information est une coopération avec le <a href="https://www.vad.be/">VAD</a>.. Ils vous fourniront des informations sur l’alcool, les drogues, les dommages aux oreilles et les rapports sexuels protégés.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-12">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
+                                <i class="fas fa-utensils h1"></i><i class="fas fa-glass-whiskey h1"></i>                   
+                                <h3>Marché & Bars</h3>     
+                                <p>Il y aura de nombreux stands de nourriture disponibles et 3 bars (bar principal, bar à cocktails et bar du camping.)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-12">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
+                                <i class="fas fa-campground h1"></i>  
+                                <h3>Camping</h3>                                
+                                <p>Il y a un camping disponible pour tous les visiteurs avec un pass de camping valide. Plus d’info sur <a href="https://www.irievibes.be/en/festival/camping/">Camping & Parking</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-12">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
+                                <i class="fas fa-parking h1"></i>   
+                                <h3>Parking</h3>                                
+                                <p>Il y a un parking pour ceux qui viennent au festival en voiture. Plus d’info sur <a href="https://www.irievibes.be/en/festival/camping/">Camping & Parking</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-12">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
+                                <i class="fas fa-first-aid h1"></i>    
+                                <h3>Premiers secours</h3> 
+                                <p>
+                                    La tente par la <a href="https://www.rodekruis.be/en/">Croix-Rouge de Belgique</a> est là pour apaiser toutes vos blessures. N’hésitez pas à demander de l’aide! 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-12">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
+                                <i class="fas fa-wifi h1"></i>   
+                                <h3>WiFix</h3>                                
+                                <p>Hotspot gratuit, borne de recharge et café de réparation de téléphone sur le site du festival en collaboration avec <a href="https://www.facebook.com/wifixleuven/">WiFix</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-12">
+                        <div class="text-box-2 m-1 rounded">
+                            <div class="p-2 text-box rounded text-center">
+                                <i class="fas fa-wheelchair h1"></i>  
+                                <h3>Accessibility</h3>                                
+                                <p>Nous avons des services pour aider les personnes qui pourraient avoir besoin d’assistance sur le terrain. Vous pouvez nous envoyer un email à <a href="info@irievibes.be">info@irievibes.be</a> pour plus d’info.</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+            </div>
         </div>
         <!-- Include Footer -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>        
