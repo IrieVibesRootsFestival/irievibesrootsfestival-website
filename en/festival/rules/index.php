@@ -33,6 +33,27 @@
                         <li>Utilities to take care of children (diapers, drinking bottles,...)</li>
                     </ul>
                 </div>
+                <h3 class="text-irie text-uppercase col-12"><b>Agreements</b></h3>
+                <div id="agreements" class="col-12 anchor">
+                    <p>The festival and camping are situated in a quiet environment. <br/><b>We ask you to:</b></p>
+                    <ul> 
+                        <li>Not cause any environmental damage to fields or properties</li>
+                        <li>Show respect to all living creatures, including animals in the fields near the camping</li>  
+                        <li>Keep the ground where children are walking on safe. Bring your cans, glass or other garbage to the trash bins.</li>
+                    </ul>
+                    <p class="text-danger"><i>All kinds of fire are forbidden as a safety measure.</i></p> 
+                    <p><b>Weapons or any dangerous objects do not belong at the camping or the festival.</b></p>
+
+                    <p>All forms of fighting, injustice, racism or vandalism are disrespectful and not allowed.</p>
+                    <p>Always consider the other guests and keep the noise down.</p>
+                    <p>Although we love animals, we cannot admit them to the festival or camping.
+                        <b>Animals that are found will be taken to the shelter where the owner can pick it up later.</b> 
+                        An exception is made for guide dogs.
+                    </p>
+                    <p>We want a safe and nice festival for everyone, so we ask you to respect these basic rules:</p> 
+                    <p><i>Visitors who show no respect for these rules, the organisation or other visitors, can be removed from the festival and camping. Tickets will not be refunded.</i></p> 
+                    <p><b>In case of serious crimes, police can be alarmed.</b>.</p>
+                </div>
             </div>
         </div>
         <!-- Include Footer -->
