@@ -135,7 +135,7 @@
                             <p class="highlight-black">IRIE VIBES ROOTS FESTIVAL kan niet verantwoordelijk worden gehouden voor diefstal, gebeurtelijke ongevallen of eigen verantwoordelijkheiden.</p>
                         </div>
                         <div class="col-12 order-md-10">
-                            <div class="text-box-2 rounded p-3">
+                            <div class="text-box-2 rounded">
                                 <div class="text-box rounded p-2">
                                     <a id="home"></a>
                                     <p><b>I = I&I</b> -- Reconsider your doings before you annoy other beings.</p>
