@@ -82,7 +82,7 @@
                             <div class="dropdown-divider"></div>
                             <li class="m-2 h4 text-white">International</li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/sdg/"><i class="fas fa-exchange-alt"></i> <strong>S</strong>ustainable <strong>D</strong>evelopment <strong>G</strong>oals</a></li>
-                            <li><a class="nav-link drop-2" href="/en/info/eco/trim-the-footprint/"><i class="fas fa-exchange-alt"></i> Trim The Footprint</a></li>
+                            <li><a class="nav-link drop-2" href="/en/info/eco/trim-the-footprint/"><i class="fas fa-footprints"></i> Trim The Footprint</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/world-cleanup-day/"><i class="fas fa-globe"></i> World Cleanup Day</a></li>                        
                             <li><a class="nav-link drop-2" href="/en/info/eco/outreaching/"><i class="fas fa-hands"></i> Outreaching</a></li>
                         </ul>
