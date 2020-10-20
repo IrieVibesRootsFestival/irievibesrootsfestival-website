@@ -68,18 +68,21 @@
                         <a class="nav-link" href="/nl/festival/kortemark-conge/">Kortemark Congé</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projecten<span class="dropdown-toggle"></span></a>
+                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a class="nav-link drop-2" href="/nl/info/eco/trim-the-footprint/">Trim The Footprint</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/info/eco/eco-team/">Eco team</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/info/eco/reusable-cups/">Herbruikbare bekers</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/info/eco/groene-vent-award/"><i>Groene Vent</i></a></li>
+                            <li class="m-2 h4 text-white">Op het festival</li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/upcycling/"><i class="fas fa-recycle"></i> Upcycling</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/eco-team/"><i class="fas fa-leaf"></i> Eco team</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/reusable-cups/"><i class="fas fa-glass-whiskey"></i> Herbruikbare bekers</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/groene-vent-award/"><i><i class="fas fa-award"></i> Groene Vent</i></a></li>
                             <li><a class="nav-link drop-2" href="/nl/info/eco/clean-water/"><i class="fas fa-hand-holding-water"></i> Waterrecyclage</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/info/eco/upcycling/">Upcycling</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/info/eco/bewilg-het-landschap/">Bewilg Het Landschap</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/info/eco/world-cleanup-day/">World Cleanup Day</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/info/eco/sdg/"><strong>S</strong>ustainable <strong>D</strong>evelopment <strong>G</strong>oals</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/info/eco/outreaching/">Outreaching</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/bewilg-het-landschap/"><i class="fas fa-tree"></i> Bewilg Het Landschap</a></li>
+                            <div class="dropdown-divider"></div>
+                            <li class="m-2 h4 text-white">Internationaal</li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/sdg/"><i class="fas fa-exchange-alt"></i> <strong>S</strong>ustainable <strong>D</strong>evelopment <strong>G</strong>oals</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/trim-the-footprint/"><i class="fas fa-shoe-prints"></i> Trim The Footprint</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/world-cleanup-day/"><i class="fas fa-globe"></i> World Cleanup Day</a></li>                        
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/outreaching/"><i class="fas fa-hands"></i> Outreaching</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
