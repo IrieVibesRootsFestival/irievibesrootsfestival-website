@@ -77,7 +77,7 @@
                             <li><a class="nav-link drop-2" href="/fr/info/eco/eco-team/"><i class="fas fa-leaf"></i> Équipe éco</a></li>
                             <li><a class="nav-link drop-2" href="/fr/info/eco/reusable-cups/"><i class="fas fa-glass-whiskey"></i> Gobelets réutilisables</a></li>
                             <li><a class="nav-link drop-2" href="/fr/info/eco/groene-vent-award/"><i><i class="fas fa-award"></i> Groene Vent</i></a></li>
-                            <li><a class="nav-link drop-2" href="/fr/info/eco/clean-water/"><i class="fas fa-hand-holding-water"></i> propre</a></li>
+                            <li><a class="nav-link drop-2" href="/fr/info/eco/clean-water/"><i class="fas fa-hand-holding-water"></i> Eau propre</a></li>
                             <li><a class="nav-link drop-2" href="/fr/info/eco/bewilg-het-landschap/"><i class="fas fa-tree"></i> Bewilg Het Landschap</a></li>
                             <div class="dropdown-divider"></div>
                             <li class="m-2 h4 text-white">International</li>
