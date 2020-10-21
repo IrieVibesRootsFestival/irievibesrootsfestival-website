@@ -79,7 +79,7 @@
                             <li><a class="nav-link drop-2" href="/nl/info/eco/bewilg-het-landschap/"><i class="fas fa-tree"></i> Bewilg Het Landschap</a></li>
                             <div class="dropdown-divider"></div>
                             <li class="m-2 h4 text-white">Internationaal</li>
-                            <li><a class="nav-link drop-2" href="/nl/info/eco/sdg/"><i class="fas fa-exchange-alt"></i> <strong>S</strong>ustainable <strong>D</strong>evelopment <strong>G</strong>oals</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/sdg/"><i class="fas fa-exchange-alt"></i> <u>S</u>ustainable <u>D</u>evelopment <u>G</u>oals</a></li>
                             <li><a class="nav-link drop-2" href="/nl/info/eco/trim-the-footprint/"><i class="fas fa-shoe-prints"></i> Trim The Footprint</a></li>
                             <li><a class="nav-link drop-2" href="/nl/info/eco/world-cleanup-day/"><i class="fas fa-globe"></i> World Cleanup Day</a></li>                        
                             <li><a class="nav-link drop-2" href="/nl/info/eco/outreaching/"><i class="fas fa-hands"></i> Outreaching</a></li>
