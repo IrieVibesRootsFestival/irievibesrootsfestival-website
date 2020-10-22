@@ -9,10 +9,18 @@
     </head> 
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
-        <div class="container content">
+        <div class="container-fluid content">
             <div class="row">
-            <div class="col-12">
-                
+                <div class="col-12">
+                    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+                    <div class="embed-responsive embed-responsive-16by9 rounded" id="alivestream"></div>
+                    <script type="text/javascript">
+                        new Twitch.Embed("alivestream", {
+                            width: '100%',
+                            height: '100%',
+                            channel: "irievibesrootsfestival"
+                        });
+                    </script>
                 </div>
             </div>
         </div>
