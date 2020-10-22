@@ -5,7 +5,9 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Kortemark Congé - Irie Vibes</title>
         <meta property="og:title" content="Kortemark Congé"/>
-        <meta property="og:description" content="Alles wat je moet weten over het evenement Kortemark Congé op Irie Vibes Roots Festival." />
+        <meta property="og:description" content="Donderdag Gratis Inkom! Korting voor Kortemarknaren op Vrij/Zat. Kom jij ook? - Kortemark Congé promoot culturele ontwikkeling in Kortemark door te partneren met locale en nationale initiatieven - Sustainable Development Goals - Noord-Zuid" />
+        <meta property="og:image" content="https://www.irievibes.be/src/img/kortemark-conge/kortemarkconge-flyer-front.jpg" />
+        <meta property="og:image" content="https://www.irievibes.be/src/img/eco/sdg/intro/SDG.jpg" />
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
