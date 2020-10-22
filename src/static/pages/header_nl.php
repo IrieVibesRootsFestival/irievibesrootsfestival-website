@@ -15,11 +15,11 @@
     <!--HEADER IMAGE-->
     <div id="banner">
         <a class="nav-link" href="/nl/">
-        <img src="/src/img/banner-logo.svg" 
-             alt="Logo"
-             height="115"
-             width="254"
-             style="margin-bottom:-10px;"/>
+            <img src="/src/img/banner-logo.svg" 
+                 alt="Logo"
+                 height="115"
+                 width="254"
+                 style="margin-bottom:-10px;"/>
         </a>
     </div>
     <!--NAVIGATION-->
@@ -81,8 +81,7 @@
                             <li class="m-2 h4 text-white">Internationaal</li>
                             <li><a class="nav-link drop-2" href="/nl/info/eco/sdg/"><i class="fas fa-exchange-alt"></i> <u>S</u>ustainable <u>D</u>evelopment <u>G</u>oals</a></li>
                             <li><a class="nav-link drop-2" href="/nl/info/eco/trim-the-footprint/"><i class="fas fa-shoe-prints"></i> Trim The Footprint</a></li>
-                            <li><a class="nav-link drop-2" href="/nl/info/eco/world-cleanup-day/"><i class="fas fa-globe"></i> World Cleanup Day</a></li>                        
-                            <li><a class="nav-link drop-2" href="/nl/info/eco/outreaching/"><i class="fas fa-hands"></i> Outreaching</a></li>
+                            <li><a class="nav-link drop-2" href="/nl/info/eco/world-cleanup-day/"><i class="fas fa-globe"></i> World Cleanup Day</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
