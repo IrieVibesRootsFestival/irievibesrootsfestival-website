@@ -5,7 +5,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Home - Irie Vibes</title>
         <meta property="og:title" content="Irie Vibes Livestream"/>
-        <meta property="og:description" content="Kijk naar de Livestream wanneer er evenementen worden gestreamd!" />
+        <meta property="og:description" content="Kijk naar de Livestream wanneer er evenementen worden gestreamd! - Twitch" />
     </head> 
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
