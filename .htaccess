@@ -17,6 +17,10 @@ RewriteRule ^(.*)$ http://www.irievibes.be/$1 [L]
 RewriteCond %{HTTP_HOST} ^(tickets)\.irievibes\.be
 RewriteRule ^(.*)$ http://www.irievibes.be/nl/tickets/ [L]
 
+# Redirect tickets subdomain to tickets page
+RewriteCond %{HTTP_HOST} ^(live)\.irievibes\.be
+RewriteRule ^(.*)$ http://www.irievibes.be/nl/lineup/livestream/ [L]
+
 Redirect 301 /src/static/grondplan_camping.pdf /src/static/groundplan_backtotheroots.pdf 
 Redirect 301 /src/static/spotify/ https://open.spotify.com/playlist/2Wgmu4URI3nwnRRCGTi5dq
 
