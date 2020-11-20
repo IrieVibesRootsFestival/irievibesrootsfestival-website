@@ -19,7 +19,7 @@
                         <ul class="list">
                             <li><a href="/en/contact/">Contact</a></li>
                             <li><a href="/en/info/about/">About US</a></li>
-                            <li><a href="/en/info/trooper/"><img alt="" src="https://trooper.be/Content/Assets/02401_favicon_trooper.png" style="margin-top:-6px;"> Trooper</a></li>
+                            <li><a href="/en/info/trooper/"><img alt="" src="https://www.trooper.be/favicon.png" style="margin-top:-6px;"> Trooper</a></li>
                         </ul>
                     </div>
                 </div>
