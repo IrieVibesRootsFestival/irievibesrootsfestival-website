@@ -31,6 +31,10 @@
                         <img alt="" class="img-fluid rounded m-2" src="/src/img/trooperbot/2.png"></li>
                     </ol>
                 </div>
+                <div class="col-12 col-md-8">
+                    <h3>Alternatively...</h3>
+                    <p>you can also support us by clicking on your webshop of choice on <a href="https://www.trooper.be/nl/trooperverenigingen/greenforward">this page</a>. Trooper will automatically add the necessary info to the weblink.</p>
+                </div>
             </div>
         </div>
         <!-- Include Footer -->
