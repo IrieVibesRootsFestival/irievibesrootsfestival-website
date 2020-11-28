@@ -10,7 +10,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div class="container content">
-            <textarea id="CMS"></textarea>
+
         </div>
         <!-- Include Footer -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_nl.php');?>        
