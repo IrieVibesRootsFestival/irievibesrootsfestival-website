@@ -18,4 +18,4 @@
 <script src="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.js"></script>
 <!-- Run TinyCME -->
 <script src="https://cdn.tiny.cloud/1/sbcc4vzmeag6ibykxu92g90pwiocg7ga84sdcmasijbo782v/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
-<script>tinymce.init({selector:'textarea#CMS'});</script>
+<script>tinymce.init({selector:'textarea#CMS', inline: true});</script>
