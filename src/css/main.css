@@ -4,7 +4,8 @@
 /*-------Basic Stuff-------*/
 html {overflow-y: scroll !important;}
 body{
-    background-image: url("/src/img/background.jpg");
+    background-color:#fff1c2;
+    background-image: url("/src/img/background/clouds-overlay.png");
     background-repeat: repeat;
     background-attachment: fixed;
 }
@@ -195,7 +196,7 @@ header a{
 
 /*---Footer Config---*/
 footer{
-    background-image:url(/src/img/hardwood-horizontal.jpg);
+    background-image: linear-gradient(hsla(0, 93%, 43%, 0.20), hsla(53, 100%, 40%, 0.25), hsla(150, 100%, 20%, 0.25)),url(/src/img/hardwood-horizontal.jpg);
     color: rgba(255,255,255,1.00);
     box-shadow: 0 0px 12px 1px #1b1e21;
     padding-top:8px;  
