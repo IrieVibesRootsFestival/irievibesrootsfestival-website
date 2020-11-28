@@ -7,7 +7,7 @@ body{
     background-color:#ffefc5;
     background-image: url("/src/img/background/clouds-overlay.png");
     background-repeat: repeat;
-    background-attachment: fixed;
+    background-size:cover;
 }
 
 /*Edit Social Icons*/
