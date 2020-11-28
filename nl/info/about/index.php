@@ -8,7 +8,7 @@
         <meta property="og:description" content="Over het Irie Vibes Roots Festival" />
         <!-- Run TinyCME -->
         <script src="https://cdn.tiny.cloud/1/sbcc4vzmeag6ibykxu92g90pwiocg7ga84sdcmasijbo782v/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
-        <script>tinymce.init({selector:'textarea#CMS'});</script>
+        <script src="/src/js/init-tinymce.js"></script>
     </head> 
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
