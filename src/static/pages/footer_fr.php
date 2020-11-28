@@ -8,14 +8,14 @@
             <div class="col-12 col-md-6 footer-nav animated fadeInUp">
                 <h4>— <i class="fas fa-info-circle"></i> Info —</h4>
                 <div class="row">
-                    <div class="col-12 col-md-6">
+                    <div class="col-6">
                         <ul class="pages">
                             <li><a href="/fr/info/faq/">FAQ</a></li>
                             <li><a href="/fr/info/crew/">Crew</a></li>
                             <li><a href="/fr/info/partners/">Partenaires</a></li>
                         </ul>
                     </div>
-                    <div class="col-12 col-md-6">
+                    <div class="col-6">
                         <ul class="list">
                             <li><a href="/fr/contact/">Contact</a></li>
                             <li><a href="/fr/info/about/">à Propos de Nous</a></li>
