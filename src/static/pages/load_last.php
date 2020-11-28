@@ -16,6 +16,3 @@
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/81c9b73355e0e402d5618756c/4bc3b38f98e566d382695610d.js");</script>
 <!-- Cookie consent code -->
 <script src="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.js"></script>
-<!-- Run TinyCME -->
-<script src="https://cdn.tiny.cloud/1/sbcc4vzmeag6ibykxu92g90pwiocg7ga84sdcmasijbo782v/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
-<script>tinymce.init({selector:'textarea#CMS', inline: true});</script>
