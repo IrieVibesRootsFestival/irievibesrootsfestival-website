@@ -2,11 +2,11 @@
 @import url('/src/css/typesetting.css'); /*Where fonts, sizing and styling for text is defined*/
 
 /*-------Basic Stuff-------*/
-html {overflow-y: scroll !important;}
+html {overflow-y: scroll!important;}
 body{
-    background-color:#ffefc5;
-    background-image: url("/src/img/background/woodgrain-overlay.png"), url("/src/img/background/clouds-overlay.png");
-    background-repeat: repeat;
+    background: url("/src/img/background/woodgrain-overlay.png"), url("/src/img/background/clouds-overlay.png"), #ffefc5;
+    background-size: initial, cover;
+    background-repeat: repeat, repeat-y;
 }
 
 /*Edit Social Icons*/
