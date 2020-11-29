@@ -10,7 +10,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <div id="artists" class="container content">
-            <h3 class="display-7 text-center">Artists</h3>
+            <h3 class="display-7 page-header text-center">Artists</h3>
             <div class="row">
                 <div class="col-12 px-3 text-center">
                     <div class="btn-group mb-3" role="group" aria-label="Nav-button">

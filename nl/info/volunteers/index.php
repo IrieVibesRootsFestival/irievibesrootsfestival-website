@@ -9,7 +9,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div class="container content">         
-            <h1 style="margin-bottom:5px" class="display-7 text-center">Word vrijwilliger</h1>
+            <h1 style="margin-bottom:5px" class="display-7 page-header text-center">Word vrijwilliger</h1>
             <hr/>
             <p>Voor de volgende editie van het Irie Vibes Roots Festival is vzw Greenforward op zoek naar een 150-tal vrijwilligers/medewerkers. Vrijwilligers maken bij ons het verschil!<br/>
                 Dit jaar keren wij met ons concept <i>Back to The Roots</i> terug naar onze origine. De vibes blijven hetzelfde, de omkadering wordt eenvoudiger.</p>

@@ -9,7 +9,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <div class="container content">         
-            <h1 style="margin-bottom:5px" class="display-7 text-center">Become volunteer</h1>
+            <h1 style="margin-bottom:5px" class="display-7 page-header text-center">Become volunteer</h1>
             <hr/>
             <p>For the next edition of Irie Vibes Roots Festival, we are once again looking for about 150 helping hands to help turn the Irie Vibes Roots Festival into a success. Volunteers make the difference!<br/>
                 This year we are going back to our roots with "BACK TO THE ROOTS". Same vibes, Same love, but on a smaller scale. </p>

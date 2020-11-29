@@ -101,7 +101,7 @@
         <div class="content container">
             <br/>
             <div id="merch" class="container text-center">
-                <h3  class="display-7 text-center">Merchandise</h3> 
+                <h3  class="display-7 page-header text-center">Merchandise</h3> 
                 <p>Our webshop with gadgets, clothes and more will be opening soon. Watch our blog, facebook page, or check the <i class="fas fa-shopping-cart"></i> in the navigation bar.</p>
                 More info: <a class="roboto" href="mailto:info@irievibes.be?Subject=Merchandise" target="_top">info@irievibes.be</a>
                 <br/>

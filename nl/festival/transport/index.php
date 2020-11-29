@@ -9,7 +9,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div class="container content">
-                <h3  class="display-7 text-center">Transport</h3> 
+                <h3  class="display-7 page-header text-center">Transport</h3> 
                 <h3 class="text-irie"><b>Openbaar veroer</b></h3>
                 <p>Je kan jouw route naar het festival berekenen op <a href="https://www.delijn.be/nl/routeplanner/">DeLijn Routeplanner</a> 
                 </p>

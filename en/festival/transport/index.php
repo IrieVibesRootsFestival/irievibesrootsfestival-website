@@ -10,7 +10,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container content">
-            <h3 class="display-7 text-center">Transport</h3> 
+            <h3 class="display-7 page-header text-center">Transport</h3> 
             <h3 class="text-irie"><b>Public transport</b></h3>
             <p>Search for your best route to the festival at <a href="https://www.delijn.be/nl/routeplanner/">DeLijn Routeplanner</a>.<br/></p>   
             <p>Kortemark train station is located at 2 km from the festival.<br/> 

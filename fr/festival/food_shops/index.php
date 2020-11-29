@@ -9,7 +9,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <div class="content container">
-            <h3  class="display-7 text-center">(non)Food Shops</h3> 
+            <h3  class="display-7 page-header text-center">(non)Food Shops</h3> 
             <p class="text-white">Interested in advertising your food truck, food stand or gear shop on our festival?</p>
             <p><b>Don’t wait too long! Spaces are limited!</b></p>
             More info at: <a href="mailto:shops@irievibes.be?Subject=Foodtruck%20Request" target="_top">shops@irievibes.be</a>.

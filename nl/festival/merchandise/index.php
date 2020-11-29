@@ -98,7 +98,7 @@
         <div class="content container">
             <br/>
             <div id="merch" class="container text-center">
-                <h3  class="display-7 text-center">Merchandise</h3> 
+                <h3  class="display-7 page-header text-center">Merchandise</h3> 
                 <p>Baby-body and t-shirts: €15 </p>
                 Info and sales: <a class="roboto" href="mailto:info@irievibes.be?Subject=Merchandise" target="_top">info@irievibes.be</a>
                 <br/>

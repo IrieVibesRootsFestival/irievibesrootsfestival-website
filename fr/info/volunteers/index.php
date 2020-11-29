@@ -9,7 +9,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <div class="container content">         
-            <h1 style="margin-bottom:5px" class="display-7 text-center">Devenez volontaire</h1>
+            <h1 style="margin-bottom:5px" class="display-7 page-header text-center">Devenez volontaire</h1>
             <hr/>
             <p>Pour l’édition suivante de Irie Vibes Roots Festival, nous sommes à la recherche de volontaires pour rendre le festival un succès inoubliable. Ce sont les volontaires qui font la différence! Cette année, c’est un retour à l’essentiel: la même atmosphère, mais le même cauchemar logistique!</p>
             <p>Tous les jobs et positions seront supervisés par un chef d’équipe qui sera là au cours du festival. Ceci est la personne responsable à toutes vos questions. Pour toutes les autres questions, contactez <a href="mailto:volunteers@irievibes.be">Cindy Jonckheere</a> (chef de l’équipe des volontaires) ou demandez de l’aide au poste d’info sur le terrain.</p>

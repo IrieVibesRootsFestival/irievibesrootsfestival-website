@@ -15,7 +15,7 @@
         <div class="container content">
             <div class="row"> 
                 <div class="col-12 text-center">
-                    <span class="display-7">Kortemark Conge</span>
+                    <span class="display-7 page-header">Kortemark Conge</span>
                 </div>
                 <!-- Text block block (left) -->
                 <div class="col-12">

@@ -11,9 +11,9 @@
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container content">
             <br/>
-            <h1 class="display-7 text-center">Partners</h1>
+            <h1 class="display-7 page-header text-center">Partners</h1>
             <div class="row"><?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/content/partners.php');?></div>
-            <h1 class="display-7 text-center">Samenwerkingen</h1>
+            <h1 class="display-7 page-header text-center">Samenwerkingen</h1>
             <div class="row"><?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/content/cooperations.php');?></div>
         <p class="mt-2 mb-2 text-center"><span class="text-danger">De sponsorlijst is <u>niet</u> compleet!</span> Verwachte datum van completering is eind April.</p>
         </div>

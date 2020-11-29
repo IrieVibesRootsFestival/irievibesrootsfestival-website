@@ -10,7 +10,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <div class="container content">
             <div class="row">
-                <h3 class="display-7 text-center col-12">Transport</h3> 
+                <h3 class="display-7 page-header text-center col-12">Transport</h3> 
                 <div class="col-12 col-md-8">
                     <h3 class="text-irie"><b>Bicyclette</b></h3>
                     <p>Il y a un parking <b>gratuit</b> pour les vélos, juste en face de l’entrée de festival.</p>

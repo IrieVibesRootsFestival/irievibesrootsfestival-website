@@ -98,7 +98,7 @@
         <div class="content container">
             <br/>
             <div id="food-shops" class="container">
-                <h3  class="display-7 text-center">(non)Food Shops</h3> 
+                <h3  class="display-7 page-header text-center">(non)Food Shops</h3> 
                 <p class="text-warning">Interested in advertising your (non) food truck/stand on our festival?</p>
                 <p><b>Don’t wait too long! Spaces are limited!</b></p>
                 More info at: <a href="mailto:shops@irievibes.be?Subject=Foodtruck%20Request" target="_top">shops@irievibes.be</a>.

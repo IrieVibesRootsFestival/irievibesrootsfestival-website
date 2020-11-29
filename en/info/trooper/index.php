@@ -10,7 +10,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container content">
-            <h1 style="margin-bottom:5px" class="display-7 text-center">Trooper</h1> 
+            <h1 style="margin-bottom:5px" class="display-7 page-header text-center">Trooper</h1> 
             <div class="row">
                 <div class="col-12 col-md-8">
                     <h3>What's Trooper?</h3>

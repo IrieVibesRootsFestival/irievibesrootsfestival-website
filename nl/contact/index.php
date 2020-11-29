@@ -9,7 +9,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div class="content container">
-            <h3 class="display-7 text-center">Contact</h3>
+            <h3 class="display-7 page-header text-center">Contact</h3>
             <br/>
             <div class="row text-irie">
                 <div class="row">

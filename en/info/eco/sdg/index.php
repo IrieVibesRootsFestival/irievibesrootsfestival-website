@@ -10,7 +10,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <div class="container content">         
-            <h1 style="margin-bottom:5px" class="display-7 text-center">Sustainable Development Goals</h1>
+            <h1 style="margin-bottom:5px" class="display-7 page-header text-center">Sustainable Development Goals</h1>
             <br/>
             <div class="row">
                 <!-- Main text -->

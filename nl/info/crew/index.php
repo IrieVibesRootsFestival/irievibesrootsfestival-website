@@ -9,7 +9,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div class="content container">
-            <h3  class="display-7 text-center">Crew</h3> 
+            <h3  class="display-7 page-header text-center">Crew</h3> 
             <p>Onze crew is ongelooflijk waardevol voor ons. Met deze bedank- en lofpagina willen we iedereen in de crew bedanken die Irie Vibes mogelijk maakt, die het hele jaar door werken om een grote show neer te zetten - keer op keer.</p>
             <picture>
                 <source srcset="/src/img/crew-2019.webp" type="image/webp">

@@ -216,7 +216,7 @@ footer .footer-nav ul.list a:hover { /*color:rgba(255,255,255,0.60);*/ text-deco
 /*MEDIA QUERRIES*/
 /*ONLY RUN ON SMALL SCREEN*/
 @media only screen and (max-width : 768px) {
-    .display-7{
+    .display-7 page-header{
         font-size: 2.5rem;
         line-height: 1.1;
         margin-bottom: 10px;
@@ -256,7 +256,7 @@ footer .footer-nav ul.list a:hover { /*color:rgba(255,255,255,0.60);*/ text-deco
 
 .text-box-2{background-image:url('/src/img/hardwood-horizontal.jpg'); padding:.5rem;}
 
-#accomodation h3:not(.display-7){text-transform:uppercase}
+#accomodation h3:not(.display-7 page-header){text-transform:uppercase}
 
 
 

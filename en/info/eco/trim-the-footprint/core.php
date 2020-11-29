@@ -1,6 +1,6 @@
 <div class="row">
     <div class="col-12 col-md-12">                    
-        <h1 class="display-7 text-center">Trim The Footprint</h1>
+        <h1 class="display-7 page-header text-center">Trim The Footprint</h1>
         <h3 class="text-irie text-uppercase "><b>Preface</b></h3>
         <picture>
             <source srcset="/src/img/eco/trim-the-footprint/trimthefootprint.png" type="image/png">

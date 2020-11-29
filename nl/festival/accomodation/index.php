@@ -98,7 +98,7 @@
         <div class="content container">
             <br/>
             <div id="accomodation" class="container">
-                <h3  class="display-7 text-center">Accomodatie</h3> 
+                <h3  class="display-7 page-header text-center">Accomodatie</h3> 
                 <div class="container">
                     <div class="row">
                         <div id="accomodation-nav" class="col-12 col-lg-3 order-lg-2 mb-10">
