@@ -99,8 +99,9 @@ h1.page-header{
     color: #4F0112;
     font-weight: bold;
     text-transform: uppercase;
-    letter-spacing: 3.5px;
+    letter-spacing: 0.1rem;
     margin:.25rem;
+    font-size:3rem;
 }
 
 .display-8{
