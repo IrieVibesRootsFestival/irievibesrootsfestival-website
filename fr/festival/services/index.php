@@ -9,8 +9,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <div id="services" class="container content">
-            <h3 class="display-7 text-center">Services</h3>
-            <br/>
+            <h1 class="page-header">Services</h1>
             <div class="row text-irie">
                 <div class="row">
                     <div class="col-md-3 col-sm-4 col-12">

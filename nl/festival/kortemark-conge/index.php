@@ -13,10 +13,8 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <!-- Main Content --> 
         <div class="container content">
+            <h1 class="page-header">Kortemark Conge</h1>
             <div class="row"> 
-                <div class="col-12 text-center">
-                    <span class="display-7">Kortemark Conge</span>
-                </div>
                 <!-- Text block block (left) -->
                 <div class="col-12">
                     <h3 class="text-irie text-uppercase">15 juli 2021 vanaf 18u00</h3>

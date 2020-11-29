@@ -89,21 +89,18 @@ a:hover{color: #bc0939;}
     font-weight: 300;
     line-height: 1.1
 }
-.display-7{
+h1.page-header{
+    border-image-slice:65 76 69 80;
+    border-image-width:20px 20px 20px 20px;
+    border-image-outset:0px 0px 0px 0px;
+    border-image-repeat:stretch stretch;
+    border-image-source: url(/src/img/border/header.jpg);
     font-family: 'Tipi Regular';
     color: #4F0112;
-    font-size: 3.5rem;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 3.5px;
-    /*text-shadow: 2px 2px rgba(109,33,10,0.45);*/
-    margin-bottom: 35px;
-    /* background-image: url("/src/img/page-banner.png");
-    background-position: center, center;
-    background-size:contain;
-    background-repeat: no-repeat;
-    display: block;
-    padding:26px;*/
+    margin:.25rem;
 }
 
 .display-8{
