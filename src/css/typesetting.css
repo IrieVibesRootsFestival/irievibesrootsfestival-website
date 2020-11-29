@@ -96,4 +96,5 @@ h1.page-header, .display-7{ /*display-7 for backward compat, deprecated*/
     display: inline-block;
     background-image: url(/src/img/background/wood-1.jpg);
     background-size:cover;
+    min-width: 350px;
 }
