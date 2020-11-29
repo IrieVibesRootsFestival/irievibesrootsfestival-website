@@ -10,7 +10,8 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container content">
-            <h1 class="page-header">Irie Vibes For Kids</h1>
+            <h1 class="page-header">Little Lion</h1> 
+            <p class="page-subtitle">Irie Vibes Kids Village</p>
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-sm-4"><img alt="" src="/src/img/kinderdorp/kinderdorp_1.jpg" class="img-fluid rounded"/></div>

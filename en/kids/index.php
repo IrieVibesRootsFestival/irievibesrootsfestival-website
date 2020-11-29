@@ -11,7 +11,9 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container content">
-                <div class="row">
+            <h1 class="page-header">Little Lion</h1>
+            <p class="page-subtitle">Irie Vibes Kids Village</p>
+                <div class="row"> 
                     <div class="col-12 text-center">
                         <img alt="" src="/src/img/little-lion-banner.png" class="img-fluid w-50 mb-3 d-none d-md-inline">
                         <img alt="" src="/src/img/little-lion-banner.png" class="img-fluid mb-3 d-inline d-md-none">
