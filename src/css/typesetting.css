@@ -99,3 +99,6 @@ h1.page-header, .display-7{ /*display-7 for backward compat, deprecated*/
     width: fit-content;
     box-shadow: 5px 5px 6px 0px rgba(0,0,0,.15);
 }
+p.page-subtitle{
+    
+}
