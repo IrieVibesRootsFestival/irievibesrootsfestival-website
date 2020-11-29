@@ -8,7 +8,6 @@
 
 body{
     font-family: 'Roboto Mono', monospace;
-    font-size:0.97rem;
     letter-spacing: -0.042rem;
 }
 
@@ -78,17 +77,6 @@ a:hover{color: #bc0939;}
     padding: .65rem .9rem;
 }
 
-/* Display Classes*/
-.display-5 {
-    font-size: 2.5rem;
-    font-weight: 300;
-    line-height: 1.1;
-}
-.display-6 {
-    font-size: 1.5rem;
-    font-weight: 300;
-    line-height: 1.1
-}
 h1.page-header{
     border-image-slice:65 76 69 80;
     border-image-width:20px 20px 20px 20px;
@@ -102,14 +90,5 @@ h1.page-header{
     letter-spacing: 0.1rem;
     margin:.25rem;
     font-size:3rem;
-}
-
-.display-8{
-    font-family: 'Fredericka the Great', cursive;
-    font-size: 2.5rem;
-    font-weight: 300;
-    line-height: 1.1;
-    margin-bottom: 10px;
-    margin-top:10px;
-    color: #4F0112;
+    text-align:center;
 }
