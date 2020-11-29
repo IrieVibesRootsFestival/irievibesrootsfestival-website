@@ -296,3 +296,20 @@ header .nav-link{padding: .1rem;}
     background:url(https://www.facebook.com/favicon.ico) no-repeat left center;
     padding-left:19px;
 }
+
+
+/* what the fuck */
+#kc .bg-img,
+#lineup .bg-img,
+#artists .bg-img{background-image: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)),url(/src/img/hardwood-horizontal.jpg);}
+#kc .bg-text,
+#lineup .bg-text,
+#artists .bg-text{background-image: url('/src/img/paper-texture.jpg');}
+#kc a, 
+#lineup a{color:white; padding-top:0; padding-bottom:0.5rem;}
+#kc p,
+#lineup p{margin-bottom:0.5rem;} 
+.trans-50 {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
