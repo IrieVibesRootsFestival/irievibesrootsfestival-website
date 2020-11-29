@@ -10,8 +10,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <div class="container content">         
-            <h1 style="margin-bottom:5px" class="display-7 page-header text-center">Bewilg Het Landschap</h1>
-            <br/>
+            <h1 class="page-header">Bewilg Het Landschap</h1>
             <div class="row">
                 <div class="col-12 col-md-9">
                     <p>Willows ensure marshy meadows become drier, they offer a shelter to various animals and insects, hold streams, provide shadow, ...<br/>Therefore, we planted 50 willows on the festival site.</p>

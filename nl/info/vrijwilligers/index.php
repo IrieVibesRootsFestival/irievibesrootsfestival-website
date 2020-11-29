@@ -10,8 +10,8 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container content">            
-            <h1 style="margin-bottom:5px" class="display-7 page-header text-center">Word Vrijwilliger</h1>
-            <!-- <br/>
+            <h1 class="page-header">Word Vrijwilliger</h1>
+            <!--
 <div class="highlight-black">The volunteer jobs for the <span class="text-danger">build-up</span> have all been taken.</div> 
 <br/>-->
             <div id="volunteers_form" class="container">

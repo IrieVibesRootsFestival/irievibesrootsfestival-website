@@ -10,7 +10,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div id="lineup-home" class="container content">
-            <h3 class="display-7 page-header text-center pb-2">Line up Index</h3>
+            <h1 class="page-header">Line up Index</h1>
             <div class="row">
                 <div class="col-12 col-lg-3 order-lg-2">
                     <div class="text-box-2 rounded sticky-top mt-1">

@@ -11,7 +11,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <div id="privacy-policy" class="container content">
-            <h3 class="display-7 page-header text-center">Privacy Policy</h3>
+            <h1 class="page-header">Privacy Policy</h1>
             <h1>Welcome to our Privacy Policy</h1>
             <h3>Your privacy is critically important to us.</h3>
             <small>Irie Vibes Roots Festival is located at:<br/>

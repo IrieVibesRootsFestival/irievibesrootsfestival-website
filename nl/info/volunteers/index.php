@@ -9,8 +9,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div class="container content">         
-            <h1 style="margin-bottom:5px" class="display-7 page-header text-center">Word vrijwilliger</h1>
-            <hr/>
+            <h1 class="page-header">Word vrijwilliger</h1>
             <p>Voor de volgende editie van het Irie Vibes Roots Festival is vzw Greenforward op zoek naar een 150-tal vrijwilligers/medewerkers. Vrijwilligers maken bij ons het verschil!<br/>
                 Dit jaar keren wij met ons concept <i>Back to The Roots</i> terug naar onze origine. De vibes blijven hetzelfde, de omkadering wordt eenvoudiger.</p>
             <p>Op elk punt is een verantwoordelijke aanwezig, die dit punt gedurende het hele festival zal opvolgen. Bij deze verantwoordelijke kan je voor alle praktische vragen en problemen <b>tijdens je shift</b> terecht. Voor alle andere vragen of opmerkingen kan je terecht bij <a href="mailto:volunteers@irievibes.be">Cindy Jonckheere</a> (hoofdverantwoordelijke medewerkers en vrijwilligers) of aan het infopunt op het festivalterrein.</p>

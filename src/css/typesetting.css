@@ -89,12 +89,12 @@ h1.page-header, .display-7{ /*display-7 for backward compat, deprecated*/
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.1rem;
-    margin:.25rem;
+    margin:.5rem auto;
     font-size:3rem;
     text-align:center;
-    padding: 25px;
+    padding: 25px 50px 25px 50px;
     display: inline-block;
     background-image: url(/src/img/background/wood-1.jpg);
     background-size:cover;
-    min-width: 350px;
+    width: fit-content;
 }

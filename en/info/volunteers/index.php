@@ -9,8 +9,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <div class="container content">         
-            <h1 style="margin-bottom:5px" class="display-7 page-header text-center">Become volunteer</h1>
-            <hr/>
+            <h1 class="page-header">Become volunteer</h1>
             <p>For the next edition of Irie Vibes Roots Festival, we are once again looking for about 150 helping hands to help turn the Irie Vibes Roots Festival into a success. Volunteers make the difference!<br/>
                 This year we are going back to our roots with "BACK TO THE ROOTS". Same vibes, Same love, but on a smaller scale. </p>
             <p>All shifts and positions will be supervised by a team leader who will be there during the whole festival. This is the person responsible for answering any questions you may have during your shift. For all other questions, please contact <a href="mailto:volunteers@irievibes.be">Cindy Jonckheere</a> (your head of volunteer staff) or ask for help at the info booth on the festival terrain.</p>

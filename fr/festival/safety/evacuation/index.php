@@ -9,7 +9,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <div class="container text-center">
-            <h3 class="display-7 page-header pt-2">Plan d'evacuation</h3> 
+            <h1 class="page-header">Plan d'evacuation</h1> 
             <img alt="" class="img-fluid rounded" src="/src/img/Evacuatieplan_Irie-Vibes-Festival.jpg">
         </div>
         <!-- Include Footer -->

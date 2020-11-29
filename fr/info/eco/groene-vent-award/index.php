@@ -9,7 +9,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <div class="container content">         
-            <h1 style="margin-bottom:5px" class="display-7 page-header text-center">Groene Vent Award</h1>
+            <h1 class="page-header">Groene Vent Award</h1>
             <br/>
             <div class="row">
                 <div class="col-12 col-md-8">

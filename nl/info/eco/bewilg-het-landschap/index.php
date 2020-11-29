@@ -9,8 +9,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div class="container content">         
-            <h1 style="margin-bottom:5px" class="display-7 page-header text-center">Bewilg Het Landschap</h1>
-            <br/>
+            <h1 class="page-header">Bewilg Het Landschap</h1>
             <div class="row">
                 <div class="col-12 col-md-9">
                     <p>Knotwilgen zorgen dat drassige weilanden droger worden, bieden een schuilplaats aan veel dieren en insecten, houden beekkanten vast, zorgen voor schaduw,...<br/>In het kader van "Bewilg het landschap" (Natuurpunt) plantten we 50 wilgen op het festivalterrein.</p>

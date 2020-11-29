@@ -10,8 +10,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <div class="container content">         
-            <h1 style="margin-bottom:5px" class="display-7 page-header text-center">Objectifs de développement durable</h1>
-            <br/>
+            <h1 class="page-header">Objectifs de développement durable</h1>
             <div class="row">
                 <!-- Main text -->
                 <div class="col-12 col-md-9">

@@ -9,8 +9,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div class="container content">         
-            <h1 style="margin-bottom:5px" class="display-7 page-header text-center">Outreaching</h1>
-            <br/>
+            <h1 class="page-header">Outreaching</h1>
             <div class="row">
 
             </div>

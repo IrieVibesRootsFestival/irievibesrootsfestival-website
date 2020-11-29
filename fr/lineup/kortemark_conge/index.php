@@ -9,7 +9,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div id="line-up" class="container content text-center">
-            <span class="display-7 page-header d-block ">Kortemark Congé</span>
+            <h1 class="page-header">Kortemark Congé</h1>
             <div class="btn-group mb-3" role="group" aria-label="Nav-button">
                 <button type="button" class="btn btn-success text-white"><a href="#stage_tent">Lion's Den</a></button>
                 <button type="button" class="btn btn-danger text-white"><a href="#stage_air">Open Air</a></button>

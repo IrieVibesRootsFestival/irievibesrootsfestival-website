@@ -8,9 +8,8 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
-        <br/>
+        <h1 class="page-header">Zaterdag</h1>
         <div id="line-up" class="container">
-            <h3 class="display-7 page-header text-center mb-1">Zaterdag</h3>
             <p class="text-center text-irie pb-2"><b>18 Juli 2020</b></p>
             <span class="d-block m-1"></span>
             <!--Add the content for the Friday Line-up from External page-->
