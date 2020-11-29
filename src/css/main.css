@@ -175,7 +175,9 @@ header .nav-link{padding: .1rem;}
     border: none;
     min-width: 3rem;
     white-space: nowrap;
-    box-shadow: 0 0px 12px 1px #1b1e21; }
+    box-shadow: 0 0px 12px 1px #1b1e21; 
+    background-image:url(/src/img/hardwood-horizontal.jpg);
+}
 
 /*---Footer Config---*/
 footer{
@@ -253,7 +255,6 @@ footer .footer-nav ul.list a:hover { /*color:rgba(255,255,255,0.60);*/ text-deco
 }
 
 .text-box-2{background-image:url('/src/img/hardwood-horizontal.jpg'); padding:.5rem;}
-.dropdown, .dropup{z-index:950}
 
 #accomodation h3:not(.display-7){text-transform:uppercase}
 
