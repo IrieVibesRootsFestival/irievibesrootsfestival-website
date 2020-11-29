@@ -10,7 +10,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div id="rules" class="container content">
-            <h3 class="display-7 text-center">Festivalregels</h3> 
+            <h1 class="page-header">Festivalregels</h1>
             <div class="row">
                 <h3 class="text-irie text-uppercase col-12"><b>Dingen mebrengen naar het festival</b></h3>
                 <div class="col-12 col-md-6">

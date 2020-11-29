@@ -15,7 +15,7 @@
         <div class="container content">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h3 class="display-7 text-center m-1">Billets</h3>
+                    <h1 class="page-header">Billets</h1>
                     <p class="text-center text-irie"><b>Juillet 15-16-17 2021</b></p>
                 </div>
                 <div class="col-12 pb-2 rounded">

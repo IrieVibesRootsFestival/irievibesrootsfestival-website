@@ -9,7 +9,7 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
         <div class="container content">
-            <h3 class="display-7 text-center">Règles du festival</h3> 
+            <h1 class="page-header">Règles du festival</h1>
             <div class="row">
                 <h3 class="text-irie text-uppercase col-12"><b>Apporter des objets au festival</b></h3>
                 <div class="col-12 col-md-6">

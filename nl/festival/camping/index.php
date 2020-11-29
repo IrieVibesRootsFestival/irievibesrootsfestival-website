@@ -11,7 +11,7 @@
         <div class="content container">
             <br/>
             <div id="accomodation" class="container">
-                <h3  class="display-7 text-center">Camping & Parking</h3> 
+                <h1 class="page-header">Camping - Parking</h1>
                 <div class="container">
                     <div class="row">
                         <div id="accomodation-nav" class="col-12 col-lg-3 order-lg-2 ">
