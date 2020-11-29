@@ -5,9 +5,8 @@
 html {overflow-y: scroll !important;}
 body{
     background-color:#ffefc5;
-    background-image: url("/src/img/background/clouds-overlay.png");
+    background-image: url("/src/img/background/woodgrain-overlay.png"), url("/src/img/background/clouds-overlay.png");
     background-repeat: repeat;
-    background-size:cover;
 }
 
 /*Edit Social Icons*/
@@ -173,7 +172,7 @@ header a{
 footer{
     background-image: linear-gradient(hsla(0, 93%, 43%, 0.10), hsla(53, 100%, 40%, 0.15), hsla(150, 100%, 20%, 0.15)),url(/src/img/hardwood-horizontal.jpg);
     color: white;
-    box-shadow: 2px 2px 8px 0 rgba(0,0,0,.2);
+    box-shadow: 0px -5px 8px 0 rgba(0,0,0,.55);
     padding-top:8px;  
     padding-bottom: 20px;
 }
@@ -257,7 +256,7 @@ footer .footer-nav ul.list a:hover { /*color:rgba(255,255,255,0.60);*/ text-deco
 header {
     background-image: linear-gradient(hsla(150, 100%, 20%, 0.25),hsla(53, 100%, 40%, 0.25),hsla(0, 93%, 43%, 0.20)),url(/src/img/hardwood-horizontal.jpg);
     background-position: center center;
-    box-shadow: 0px -9px 9px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px -5px 8px 0 rgba(0,0,0,.55);
     z-index:1010;
     position:relative;
     font-family: 'Roboto Mono', monospace;
