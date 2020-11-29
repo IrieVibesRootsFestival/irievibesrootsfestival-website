@@ -93,10 +93,9 @@ h1.page-header, .display-7{ /*display-7 for backward compat, deprecated*/
     font-size:3rem;
     text-align:center;
     padding: 25px 50px 25px 50px;
-    display: block;
+    display: table;
     background-image: url(/src/img/background/wood-1.jpg);
     background-size:cover;
-    width: fit-content;
     box-shadow: 5px 5px 6px 0px rgba(0,0,0,.15);
 }
 p.page-subtitle{
