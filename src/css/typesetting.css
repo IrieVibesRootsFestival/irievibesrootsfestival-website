@@ -77,7 +77,7 @@ a:hover{color: #bc0939;}
     padding: .65rem .9rem;
 }
 
-h1.page-header{
+h1.page-header, .display-7{ /*display-7 for backward compat, deprecated*/
     border:1px solid;
     border-image-slice:65 76 69 80;
     border-image-width:20px 20px 20px 20px;
