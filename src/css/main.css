@@ -168,25 +168,14 @@ header .nav-link{padding: .1rem;}
     zoom:1; /* hasLayout ie7 trigger */
 }
 
-.nav-pills{text-align:center;}
-
-/*Cast the shadow and image on the dropdown*/
-.navbar-nav .dropdown-menu{
-    box-shadow: 0 0px 12px 1px #1b1e21; 
-    background-image:url(/src/img/hardwood-horizontal.jpg);
-    z-index:100;
-}
 /*Change the color of the dropdown menus*/
 .navbar-nav > li > .dropdown-menu {
-    background-image:none;
-    background: transparent;
     padding-left: 12px;
     padding-right:12px;
     border: none;
     min-width: 3rem;
     white-space: nowrap;
-    box-shadow: none;
-}
+    box-shadow: 0 0px 12px 1px #1b1e21; }
 
 /*---Footer Config---*/
 footer{
