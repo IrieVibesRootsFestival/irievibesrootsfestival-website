@@ -154,8 +154,12 @@ header a{
 
 .nav-pills{text-align:center;}
 
-/*Cast the shadow on the dropdown*/
-.navbar-nav .dropdown-menu{box-shadow: 0 0px 12px 1px #1b1e21;}
+/*Cast the shadow and image on the dropdown*/
+.navbar-nav .dropdown-menu{
+    box-shadow: 0 0px 12px 1px #1b1e21; 
+    background-image:url(/src/img/hardwood-horizontal.jpg);
+    z-index:100;
+}
 /*Change the color of the dropdown menus*/
 .navbar-nav > li > .dropdown-menu {
     background-image:none;
