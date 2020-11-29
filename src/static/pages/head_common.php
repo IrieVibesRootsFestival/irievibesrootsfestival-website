@@ -30,13 +30,16 @@
 <meta property="og:site_name" content="Irie Vibes Roots Festival"/>
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="en_GB" />
+<meta property="og:locale" content="nl_BE" />
+<meta property="og:locale" content="fr_FR" />
 <meta property="og:updated_time" content="1554544974" />
-<meta name="theme-color" content="#1c1f22"/>
+<meta name="theme-color" content="#ffc526"/>
 <link rel="icon" type="image/png" href="/src/img/favicon.png"/> 
 <!-- Bootstrap style sheet -->
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 <!-- Load overwrite style sheet as last to enable overwriting Bootstrap features -->
 <link rel="stylesheet" href="/src/css/main.css">
+<link rel="stylesheet" href="/src/css/simplify.css">
 <!-- Cookie Consent styles -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.css">
 <script src="https://kit.fontawesome.com/62cb8cc953.js"></script>
