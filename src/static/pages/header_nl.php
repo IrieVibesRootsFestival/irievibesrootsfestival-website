@@ -17,7 +17,7 @@
         <a class="nav-link" href="/nl/">
             <img src="/src/img/banner-logo.svg" 
                  alt="Logo"
-                 height="115"
+                 height="120"
                  width="254"
                  style="margin-bottom:-10px;"/>
         </a>
