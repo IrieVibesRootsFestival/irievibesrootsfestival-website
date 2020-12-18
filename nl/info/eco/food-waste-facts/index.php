@@ -10,7 +10,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
         <div class="container content">         
             <h1 class="page-header">Food Waste Facts</h1>
-            <object data="/src/static/FOOD-WASTE-FACTS-WEB.pdf#toolbar=0&navpanes=0&scrollbar=0" type=”application/pdf” width=”100%” height=”100%”>
+            <object data="/src/static/FOOD-WASTE-FACTS-WEB.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="100%">
                 This browser does not support PDFs. Please <a href="/src/static/FOOD-WASTE-FACTS-WEB.pdf">download the PDF</a> to view it.
             </object>
         </div>
