@@ -83,7 +83,7 @@
                             <li class="m-2 h4 text-white">International</li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/sdg/"><i class="fas fa-exchange-alt"></i> <u>S</u>ustainable <u>D</u>evelopment <u>G</u>oals</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/trim-the-footprint/"><i class="fas fa-shoe-prints"></i> Trim The Footprint</a></li>
-                            <li><a class="nav-link drop-2" href="/en/info/eco/trim-the-footprint/food-waste-facts"><i class="fas fa-carrot"></i> Food Waste Facts</a><small>NL/FR</small></li>
+                            <li><a class="nav-link drop-2" href="/en/info/eco/food-waste-facts"><i class="fas fa-carrot"></i> Food Waste Facts</a><small>NL/FR</small></li>
                             <li><a class="nav-link drop-2" href="/en/info/eco/world-cleanup-day/"><i class="fas fa-globe"></i> World Cleanup Day</a></li>
                         </ul>
                     </li>
