@@ -5,7 +5,7 @@
 html {overflow-y: scroll!important;}
 body{
     background: url("/src/img/background/woodgrain-overlay.png"), url("/src/img/background/clouds-overlay.png"), #ffefc5;
-    background-size: auto, contain;
+    background-size: auto, cover;
     background-repeat: repeat, repeat-y;
 }
 
