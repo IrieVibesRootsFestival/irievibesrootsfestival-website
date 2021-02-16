@@ -19,12 +19,11 @@
             function printDirContent($dir) {
                 $files = scandir($dir);
                 sort($files); // this does the sorting
-                array_filter($files, "only_files");
                 echo ('<ul>');
                 foreach($files as $file){
                     echo'<li><a href="/directory/to/list/'.$file.'">'.$file.'</a></li>';
                 }
-                echo ('</ul>')
+                echo ('</ul>');
             }
 
             printDirContent($_SERVER['DOCUMENT_ROOT'].'/src/static/content/newsletter/');
