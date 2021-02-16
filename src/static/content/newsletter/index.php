@@ -16,7 +16,7 @@
                 sort($files); // this does the sorting
                 echo ('<ul>');
                 foreach($files as $file){
-                    if(!is_dir($file)){
+                    if(!is_dir($file) and $file!="index.php"){
                         echo'<li><a href="/src/static/content/newsletter/'.$file.'">'.$file.'</a></li>';
                     }  
                 }
