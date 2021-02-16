@@ -9,19 +9,16 @@
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
         <div class="content container">
+            <h1>Newsletter Archive / Nieuwsbriefarchief / Archives du Bulletin</h1>
             <?php
-            function only_files($dir_element) {
-                if (!is_dir($dir_element)) {
-                    return $dir_element;
-                }
-            }
-
             function printDirContent($dir) {
-                $files = scandir($dir);
+                $files = array_slice(scandir($dir), 2);
                 sort($files); // this does the sorting
                 echo ('<ul>');
                 foreach($files as $file){
-                    echo'<li><a href="/directory/to/list/'.$file.'">'.$file.'</a></li>';
+                    if(!is_dir($file)){
+                        echo'<li><a href="/src/static/content/newsletter/'.$file.'">'.$file.'</a></li>';
+                    }  
                 }
                 echo ('</ul>');
             }
