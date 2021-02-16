@@ -27,6 +27,7 @@
             echo "<pre>";
             var_dump($scanned_dir);
             echo "</pre>";
+            print ($_SERVER['DOCUMENT_ROOT'].'/src/static/content/newsletter/');
             ?>
 
         </div>
