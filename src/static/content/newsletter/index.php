@@ -16,18 +16,18 @@
                 }
             }
 
-            function givemefiles($dir) {
-                $scanned_dir = scandir($dir);
-                return array_filter($scanned_dir, "only_files");
+            function printDirContent($dir) {
+                $files = scandir($dir);
+                sort($files); // this does the sorting
+                array_filter($files, "only_files");
+                echo ('<ul>');
+                foreach($files as $file){
+                    echo'<li><a href="/directory/to/list/'.$file.'">'.$file.'</a></li>';
+                }
+                echo ('</ul>')
             }
 
-            $dir_path = $_SERVER['DOCUMENT_ROOT'].'/src/static/content/newsletter/';
-
-            givemefiles($dir_path);
-            echo "<pre>";
-            var_dump($scanned_dir);
-            echo "</pre>";
-            print ($_SERVER['DOCUMENT_ROOT'].'/src/static/content/newsletter/');
+            printDirContent($_SERVER['DOCUMENT_ROOT'].'/src/static/content/newsletter/');
             ?>
 
         </div>
