@@ -21,6 +21,10 @@ RewriteRule ^(.*)$ http://www.irievibes.be/nl/tickets/ [L]
 RewriteCond %{HTTP_HOST} ^(live)\.irievibes\.be
 RewriteRule ^(.*)$ http://www.irievibes.be/nl/lineup/livestream/ [L]
 
+# Redirect newsletters folder to the Mailchimp archive page
+RewriteCond %{HTTP_HOST} ^irievibes\.be\src\static\content\newsletter\ [NC]
+RewriteRule ^(.*)$ https://us8.campaign-archive.com/home/?u=d99c4a0da87cf14cbb7acb09c&id=ec0420bb34 [L,R]
+
 Redirect 301 /src/static/grondplan_camping.pdf /src/static/groundplan_backtotheroots.pdf 
 Redirect 301 /src/static/spotify/ https://open.spotify.com/playlist/2Wgmu4URI3nwnRRCGTi5dq
 
