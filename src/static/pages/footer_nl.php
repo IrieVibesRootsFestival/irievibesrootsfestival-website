@@ -13,6 +13,7 @@
                             <li><a href="/nl/info/faq/">FAQ</a></li>
                             <li><a href="/nl/info/crew/">Crew</a></li>
                             <li><a href="/nl/info/partners/">Partners</a></li>
+                            <li><a href="/src/static/content/newsletter/">Nieuwsbriefarchief</a></li>
                         </ul>
                     </div>
                     <div class="col-6">
