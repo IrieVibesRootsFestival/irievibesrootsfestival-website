@@ -16,15 +16,17 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <h1 class="page-header">Tickets</h1>
-                    <p class="text-center text-irie"><b>Juli 15-16-17 2021</b></p>
+                    <p class="text-center text-irie"><b>Nog aan te kondigen</b></p>
                 </div>
                 <div class="col-12 pb-2 rounded">
                     <div class="p-2 text-box-2 rounded">
-                        <div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div>
+                    <h3>Ticketverkoop is momenteel gestopt. Er worden geen tickets verkocht in de winkels, noch online.</h3>
+                        <!--<div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div>-->
                     </div>
                 </div>
                 <div id="tickets" class="col-12 col-md-6">
                     <h1>Voorverkoop-punten</h1>
+                    <h3>De ticketverkoop is momenteel gestopt.</h3>
                     <ul>
                         <li><b>Roeselare</b>: <a href="https://facebook.com/Mr-Steve-barbershop-Roeselare-267312400351270/">Barbier Steve</a></li>
                         <li><b>Handzame</b>: <a href="http://www.rojo.be/">Drankencenter Rojo</a></li>

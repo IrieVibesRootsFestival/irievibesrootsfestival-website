@@ -1,4 +1,5 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
@@ -15,15 +16,17 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <h1 class="page-header">Tickets</h1>
-                    <p class="text-center text-irie"><b>July 15-16-17 2021</b></p>
+                    <p class="text-center text-irie"><b>To be announced</b></p>
                 </div>
                 <div class="col-12 pb-2 rounded">
                     <div class="p-2 text-box-2 rounded">
-                        <div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div>
+                    <h3>Ticket sales are currently on hold. No tickets are sold at physical shop locations, nor online.</h3>
+                        <!--<div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div>-->
                     </div>
                 </div>
                 <div id="tickets" class="col-12 col-md-6">
                     <h1>Presale stores</h1>
+                    <h3>Ticket sales are currently halted.</h3>
                     <ul>
                         <li><b>Roeselare</b>: <a href="https://facebook.com/Mr-Steve-barbershop-Roeselare-267312400351270/">Barbier Steve</a></li>
                         <li><b>Handsam</b>: <a href="http://www.rojo.be/">Drankencenter Rojo</a></li>
@@ -31,7 +34,7 @@
                         <li><b>Diksmuide</b>: <a href="https://www.4ad.be/">4AD</a></li>
                         <li><b>Kortrijk</b>: <a href="https://www.facebook.com/Zimbakortrijk/">Zimba Shop</a></li>
                         <li><b>Torhout</b>: <a href="https://janeleenders.wixsite.com/mijnsite">RoseHeart Tattoo</a></li>
-                        <li class="text-disabled"><s><b>Bruges</b>: <a href="">Vrijplaats Zundag</a></s></li>
+                        <li><s><b>Bruges</b>: <a>Vrijplaats Zundag</a></s></li>
                     </ul>
                 </div>
                 <div class="col-12 col-md-6">
