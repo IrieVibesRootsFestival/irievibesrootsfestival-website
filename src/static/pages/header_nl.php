@@ -6,7 +6,7 @@
             <p class="text-success m-0"><i>#worldmarkets #ital #roots</i></p></div>
         <!--Main middle info-->
         <div class="col-12 col-lg-4">
-            <p class="text-warning text-uppercase m-0"><b> 15 - 16 - 17 Juli 2021 / Donderdag gratis inkom</b></p></div>
+            <p class="text-warning text-uppercase m-0"><b> 14 - 15 - 16 Juli 2022 / Donderdag gratis inkom</b></p></div>
         <!--Hashtag info-->
         <div class="col-12 col-lg-4 d-none d-lg-inline">
             <p class="text-danger m-0"><i>#kids #family #reggae #dub</i></p>

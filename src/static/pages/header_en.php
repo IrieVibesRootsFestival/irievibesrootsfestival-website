@@ -7,7 +7,7 @@
         </div>
         <!--Main middle info-->
         <div class="col-12 col-lg-4">
-            <p class="text-warning text-uppercase m-0"><b> 15 - 16 - 17 July 2021 / Thursday free entry</b></p>
+            <p class="text-warning text-uppercase m-0"><b> 14 - 15 - 16 July 2022 / Thursday free entry</b></p>
         </div>
         <!--Hashtag info-->
         <div class="col-12 col-lg-4 d-none d-lg-inline">

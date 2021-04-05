@@ -16,7 +16,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <h1 class="page-header">Tickets</h1>
-                    <p class="text-center text-irie"><b>To be announced</b></p>
+                    <p class="text-center text-irie"><b>14/15/16 July 2022</b></p>
                 </div>
                 <div class="col-12 pb-2 rounded">
                     <div class="p-2 text-box-2 rounded">
