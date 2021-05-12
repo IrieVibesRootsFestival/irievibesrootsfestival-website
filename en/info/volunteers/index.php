@@ -23,7 +23,7 @@
                 <div class="col-12 col-md-4">
                     <p class="text-box rounded">Volunteers construction</p>
                     <ul>
-                        <li>Volunteers that register for the construction are expected to register for the <b>entire construction period</b> <!--<i>(July 12 - July 15)</i>--> We expect you to arrive the Sunday <!--(July 11th)--> prior to the construction to set up your materials and tent (if required) in a timely manner.</li>
+                        <li>Volunteers that register for the construction are expected to register for the <b>entire construction period</b> (July 16 - July 22)</i>  We expect you to arrive one day prior to the construction to set up your materials and tent (if required) in a timely manner.</li>
                         <li>We will supply fresh drinks and warm meals.</li>
                         <li>At the end of the construction period, construction vulunteers receive their volunteer's t-shirt, a festival entry bracelet and drink coupons to use freely during the festival.</li>
                         <li>Costless use of the sanitary facilities.</li>

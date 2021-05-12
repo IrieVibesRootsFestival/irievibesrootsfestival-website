@@ -22,7 +22,7 @@
                 <div class="col-12 col-md-4">
                     <p class="text-box rounded">La construction</p>
                     <ul>
-                        <li>Les volontaires pour la construction sont priés de s’engager pour la durée complète de la construction <!--(du lundi 12 juillet au jeudi 15 juillet)-->. On vous attend le dimanche <!-- 11 juillet-->.</li>
+                        <li>Les volontaires pour la construction sont priés de s’engager pour la durée complète de la construction du juillet 16 au juillet 22. Nous vous attendons la veille.</li>
                         <li>Vous recevez des repas frais et des boissons fraîches.</li>
                         <li>Au bout de la construction, vous recevez un T-shirt exclusif, un ticket pour le week-end et 12 coupons-boissons.</li>
                     </ul>

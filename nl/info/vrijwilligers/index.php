@@ -21,7 +21,7 @@
                     Dit jaar keren wij met ons concept <i>Back to The Roots</i> terug naar onze origine. De vibes blijven hetzelfde, de omkadering wordt eenvoudiger.<br/>
                 </p>
                 <div class="bg-success rounded p-3">
-                <h3 class="text-white">Schrijf je ten laatste in voor 32 Mei 2022!</h3>
+                <h3 class="text-white">Schrijf je ten laatste in voor 31 Mei 2022!</h3>
             </div>
             <small class="ml-2"><i>laatste update: 12/05/2022</i></small>
             <hr/>
@@ -33,7 +33,7 @@
                 <ul class="list-group">
                     <li class="list-group-item text-uppercase font-weight-bold text-white">--> Medewerkers Opbouw</li>
                     <ul>
-                        <li>Vrijwilligers die zich inschrijven voor de opbouw, doen dit voor de <b>volledige opbouw</b> <i>(Maandag 15 Juli -Donderdag 18 Juli.)</i> Zij komen toe op <b>Zondag 14 juli.</b></li>
+                        <li>Vrijwilligers die zich inschrijven voor de opbouw worden verwacht aanwezig te zijn voor de <b>volledige opbouw</b> die loopt van <i> 16 Juli tot en met 22 Juli</i> Je wordt hier <b>de dag voordien</b> verwacht om zonodig je tent, slaapplaats en andere behoeften op te zetten.</li>
                         <li>We voorzien frisdranken en (warme) maaltijden.</li>
                         <li>Op het einde van de opbouw ontvang je je t-shirt, festivalbandje en 15 drankbonnen/li>
                     </ul>
