@@ -7,7 +7,7 @@
         </div>
         <!--Main middle info-->
         <div class="col-12 col-lg-4">
-            <p class="text-warning text-uppercase m-0"><b> 14 - 15 - 16 July 2022 / Thursday free entry</b></p>
+            <p class="text-warning text-uppercase m-0"><b> 22 - 23 - 24 July 2022 / Thursday free entry</b></p>
         </div>
         <!--Hashtag info-->
         <div class="col-12 col-lg-4 d-none d-lg-inline">
@@ -91,7 +91,7 @@
                         <a class="nav-link" href="#footer-anchor"><i class="fas fa-info-circle"></i> Info</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="http://shop.irievibes.be"><i class="fas fa-shopping-cart"></i> Webshop</a>
+                        <a class="nav-link text-warning" href="http://shop.irievibes.be"><i class="fas fa-shopping-cart"></i> Webshop</a>
                     </li>
                 </ul>
                 <!-- This is the language selector. -->                   

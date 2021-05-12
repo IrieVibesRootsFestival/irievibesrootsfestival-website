@@ -20,6 +20,11 @@
                     Ook dit jaar is VZW Greenforward op zoek naar een 150-tal vrijwilligers/medewerkers om Irie Vibes Roots Festival <i>(Back to The Roots)</i> in goede banen te helpen leiden. Vrijwilligers maken bij ons het verschil!<br/>
                     Dit jaar keren wij met ons concept <i>Back to The Roots</i> terug naar onze origine. De vibes blijven hetzelfde, de omkadering wordt eenvoudiger.<br/>
                 </p>
+                <div class="bg-success rounded p-3">
+                <h3 class="text-white">Schrijf je ten laatste in voor 32 Mei 2022!</h3>
+            </div>
+            <small class="ml-2"><i>laatste update: 12/05/2022</i></small>
+            <hr/>
                 <p>
                     Op elk punt is een verantwoordelijke aanwezig, die dit punt gedurende het hele festival zal opvolgen. Bij deze verantwoordelijke kan je voor alle praktische vragen en problemen <b>tijdens je shift</b> terecht. Voor alle andere vragen of opmerkingen kan je terecht bij <a href="mailto:volunteers@irievibes.be">Cindy Jonckheere</a> (hoofdverantwoordelijke medewerkers en vrijwilligers) of aan het infopunt op het festivalterrein.<br/>                
                 </p>                

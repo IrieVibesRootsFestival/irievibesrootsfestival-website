@@ -14,16 +14,16 @@
                 This year we are going back to our roots with "BACK TO THE ROOTS". Same vibes, Same love, but on a smaller scale. </p>
             <p>All shifts and positions will be supervised by a team leader who will be there during the whole festival. This is the person responsible for answering any questions you may have during your shift. For all other questions, please contact <a href="mailto:volunteers@irievibes.be">Cindy Jonckheere</a> (your head of volunteer staff) or ask for help at the info booth on the festival terrain.</p>
             <div class="bg-success rounded p-3">
-                <h3 class="text-white">Please register ultimately by the 31st of May 2021!</h3>
+                <h3 class="text-white">Please register ultimately by the 31st of May 2022!</h3>
             </div>
-            <small class="ml-2"><i>Last update: 2/01/2020</i></small>
+            <small class="ml-2"><i>Last update: 12/05/2022</i></small>
             <hr/>
             <h3 class="text-irie text-uppercase"><b>Our offers</b></h3>
             <div class="row">
                 <div class="col-12 col-md-4">
                     <p class="text-box rounded">Volunteers construction</p>
                     <ul>
-                        <li>Volunteers that register for the construction are expected to register for the <b>entire construction period</b> <i>(July 12 - July 15)</i> We expect you to arrive the Sunday (July 11th) prior to the construction to set up your materials and tent (if required) in a timely manner.</li>
+                        <li>Volunteers that register for the construction are expected to register for the <b>entire construction period</b> <!--<i>(July 12 - July 15)</i>--> We expect you to arrive the Sunday <!--(July 11th)--> prior to the construction to set up your materials and tent (if required) in a timely manner.</li>
                         <li>We will supply fresh drinks and warm meals.</li>
                         <li>At the end of the construction period, construction vulunteers receive their volunteer's t-shirt, a festival entry bracelet and drink coupons to use freely during the festival.</li>
                         <li>Costless use of the sanitary facilities.</li>
@@ -81,7 +81,7 @@
             <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZuujqpESwd2S5GaTzQMrUGbbRid12J8vzN5njCGKnf7KgjA/viewform?embedded=true" width="100%" height="550" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZuujqpESwd2S5GaTzQMrUGbbRid12J8vzN5njCGKnf7KgjA/viewform"><small>Click here to open the form in a new window.</small></a>
             <!--
-<div id="btn-volunteer-signup" class="text-center"><a alt="Volunteers Form 2021" class="btn btn-pill btn-irie" id="btn-volunteer-signup-inner" href="https://docs.google.com/forms/d/e/1FAIpQLSfcMSLUKs9FmjVoiC3hGoC0cwU-O133Xgobb0E35e0MWkJgoQ/viewform" role="button">Registration Form</a></div>
+<div id="btn-volunteer-signup" class="text-center"><a alt="Volunteers Form 2022" class="btn btn-pill btn-irie" id="btn-volunteer-signup-inner" href="https://docs.google.com/forms/d/e/1FAIpQLSfcMSLUKs9FmjVoiC3hGoC0cwU-O133Xgobb0E35e0MWkJgoQ/viewform" role="button">Registration Form</a></div>
 -->
         </div>
         <!-- Include Footer -->

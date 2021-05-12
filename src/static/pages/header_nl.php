@@ -6,7 +6,7 @@
             <p class="text-success m-0"><i>#worldmarkets #ital #roots</i></p></div>
         <!--Main middle info-->
         <div class="col-12 col-lg-4">
-            <p class="text-warning text-uppercase m-0"><b> 14 - 15 - 16 Juli 2022 / Donderdag gratis inkom</b></p></div>
+            <p class="text-warning text-uppercase m-0"><b> 22 - 23 - 24 Juli 2022 / Donderdag gratis inkom</b></p></div>
         <!--Hashtag info-->
         <div class="col-12 col-lg-4 d-none d-lg-inline">
             <p class="text-danger m-0"><i>#kids #family #reggae #dub</i></p>
@@ -89,7 +89,7 @@
                         <a class="nav-link" href="#footer-anchor"><i class="fas fa-info-circle"></i> Info</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="http://shop.irievibes.be"><i class="fas fa-shopping-cart"></i> Webshop</a>
+                        <a class="nav-link text-warning" href="http://shop.irievibes.be"><i class="fas fa-shopping-cart"></i> Webshop</a>
                     </li>
                 </ul>
                 <!-- This is the language selector. -->                   

@@ -17,8 +17,8 @@
             <div class="row"> 
                 <!-- Text block block (left) -->
                 <div class="col-12">
-                    <h3 class="text-irie text-uppercase">July 15th from 6 p.m.</h3>
-                    <a href="https://www.facebook.com/events/2326818524093825/">Kortemark Congé 2021 - Facebook Events</a>
+                    <h3 class="text-irie text-uppercase">July 22nd from 6 p.m.</h3>
+                    <a href="https://www.facebook.com/events/2326818524093825/">Kortemark Congé 2022 - Facebook Events</a>
                     <p>vzw Greenforward welcomes you to our FREE festival night “Kortemark Congé” at Irie Vibes Roots Festival</p>
                     <ul>
                         <li>

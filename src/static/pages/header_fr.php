@@ -7,7 +7,7 @@
             <p class="text-success m-0"><i>#worldmarkets #ital #roots</i></p></div>
         <!--Main middle info-->
         <div class="col-12 col-lg-4">
-            <p class="text-warning text-uppercase m-0"><b> 14 - 15 - 16 Juillet 2022 / Jeudi entrence gratuit</b></p>
+            <p class="text-warning text-uppercase m-0"><b> 22 - 23 - 24 Juillet 2022 / Jeudi entrence gratuit</b></p>
         </div>
         <!--Hashtag info-->
         <div class="col-12 col-lg-4 d-none d-lg-inline">
@@ -91,7 +91,7 @@
                         <a class="nav-link" href="#footer-anchor"><i class="fas fa-info-circle"></i>&nbsp;Info</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="http://shop.irievibes.be"><i class="fas fa-shopping-cart"></i>&nbsp;Webshop</a>
+                        <a class="nav-link text-warning" href="http://shop.irievibes.be"><i class="fas fa-shopping-cart"></i>&nbsp;Webshop</a>
                     </li> 
                 </ul>
                 <!-- This is the language selector. -->

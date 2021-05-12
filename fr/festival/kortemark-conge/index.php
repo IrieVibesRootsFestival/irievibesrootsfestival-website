@@ -15,8 +15,8 @@
             <div class="row"> 
                 <!-- Text block block (left) -->
                 <div class="col-12">
-                    <h3 class="text-irie text-uppercase">15 juillet 2021 à partir de 18u00</h3>
-                    <a href="https://www.facebook.com/events/2326818524093825/">Kortemark Congé 2021 - Facebook Events</a>
+                    <h3 class="text-irie text-uppercase">22 juillet 2022 à partir de 18u00</h3>
+                    <a href="https://www.facebook.com/events/2326818524093825/">Kortemark Congé 2022 - Facebook Events</a>
                     <p>vzw Greenforward vous souhaite la bienvenue à notre soirée festival GRATUITE “Kortemark Congé”</p>
                     <ul>
                         <li>

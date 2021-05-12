@@ -5,7 +5,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
         <title>Home - Irie Vibes</title>
         <meta property="og:title" content="Home"/>
-        <meta property="og:description" content="Back in time to where it all began, Irie Vibes invites you to their Back to The Roots edition during the heart of summer 2021 in Kortemark." />
+        <meta property="og:description" content="Back in time to where it all began, Irie Vibes invites you to their Back to The Roots edition during the heart of summer 2022 in Kortemark." />
     </head>
     <body>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
@@ -22,8 +22,8 @@
                     <div class="text-left text-success">
                         <h1 class="mt-md-3 mb-0 px-3 quote">back to the roots</h1>
                         <p class="text-justify">
-                            Irie Vibes is going back to where it all began. Irie Vibes 2021 will be 
-                            once again a kickback to our roots, memories and happenings. We invite you to join us and many others at <b>Irie Vibes back to the Roots Festival 2021</b>, where the mind and body come together in a beautiful feast of colours and sounds. Don't miss a single drum hit! Bookmark our <a class="text-success" href="/en/lineup/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>line-up page</a> to your home screen. Irie!
+                            Irie Vibes is going back to where it all began. Irie Vibes 2022 will be 
+                            once again a kickback to our roots, memories and happenings. We invite you to join us and many others at <b>Irie Vibes back to the Roots Festival 2022</b>, where the mind and body come together in a beautiful feast of colours and sounds. Don't miss a single drum hit! Bookmark our <a class="text-success" href="/en/lineup/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>line-up page</a> to your home screen. Irie!
                         </p>
                     </div>
                     <div class="text-md-right text-warning">
