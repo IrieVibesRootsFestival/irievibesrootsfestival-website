@@ -1,28 +1,26 @@
-
 <!-- The header contains everything that displays as or above the nav-bar -->
 <header>
-    <div class="text-center mx-0 mb-3 row" id="banner-date">
-        <!--Hashtag info-->
-        <div class="col-12 col-lg-4 d-none d-lg-inline">
-            <p class="text-success m-0"><i>#worldmarkets #ital #roots</i></p></div>
-        <!--Main middle info-->
-        <div class="col-12 col-lg-4">
-            <p class="text-warning text-uppercase m-0"><b> 22 - 23 - 24 Juillet 2022 / Jeudi entrence gratuit</b></p>
+    <div class="pageheader">
+        <div class="text-center mx-0 mb-3 row" id="banner-date">
+            <!--Hashtag info-->
+            <div class="col-12 col-lg-4 d-none d-lg-inline">
+                <p class="text-success m-0"><i>#worldmarkets #ital #roots</i></p>
+            </div>
+            <!--Main middle info-->
+            <div class="col-12 col-lg-4">
+                <p class="text-warning text-uppercase m-0"><b> 22 - 23 - 24 Juillet 2022 / Jeudi entrence gratuit</b></p>
+            </div>
+            <!--Hashtag info-->
+            <div class="col-12 col-lg-4 d-none d-lg-inline">
+                <p class="text-danger m-0"><i>#kids #family #reggae #dub</i></p>
+            </div>
         </div>
-        <!--Hashtag info-->
-        <div class="col-12 col-lg-4 d-none d-lg-inline">
-            <p class="text-danger m-0"><i>#kids #family #reggae #dub</i></p>
+        <!--HEADER IMAGE-->
+        <div id="banner">
+            <a class="nav-link" href="/fr/">
+                <img src="/src/img/banner-logo.svg" alt="Logo" height="120" width="254" style="margin-bottom:-10px;" />
+            </a>
         </div>
-    </div>
-    <!--HEADER IMAGE-->
-    <div id="banner">
-        <a class="nav-link" href="/fr/">
-        <img src="/src/img/banner-logo.svg" 
-             alt="Logo"
-             height="120"
-             width="254"
-             style="margin-bottom:-10px;"/>
-        </a>
     </div>
     <!--NAVIGATION-->
     <nav id="navbar" class="navbar sticky-top navbar-expand-xl">
@@ -32,7 +30,7 @@
                 <i class="fas fa-bars text-warning"></i>
             </button>
             <!-- This is the Navbar's "Content" -->
-            <a href="/nl/"><img alt=""  src="/src/img/nav-img.png"></a>
+            <a href="/nl/"><img alt="" src="/src/img/nav-img.png"></a>
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto d-lg-flex align-items-lg-center px-2 px-md-0">
                     <li class="nav-item">
@@ -56,7 +54,7 @@
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/fr/artists"><i class="fas fa-microphone-alt"></i> Artistes</a></li>
                             <li><a class="nav-link drop-2" href="/fr/lineup/"><i class="fas fa-record-vinyl"></i> Line-Up</a></li>
-                            <li><a class="nav-link drop-2" href="/fr/lineup/posters/"><i class="fas fa-scroll"></i> Posters</a></li>                            
+                            <li><a class="nav-link drop-2" href="/fr/lineup/posters/"><i class="fas fa-scroll"></i> Posters</a></li>
                             <li><a class="nav-link drop-2" href="/fr/lineup/livestream/"><i class="fas fa-video"></i> Livestream</a></li>
                         </ul>
                     </li>
@@ -92,7 +90,7 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-warning" href="http://shop.irievibes.be"><i class="fas fa-shopping-cart"></i>&nbsp;Webshop</a>
-                    </li> 
+                    </li>
                 </ul>
                 <!-- This is the language selector. -->
 

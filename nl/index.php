@@ -13,9 +13,9 @@
             <div class="row justify-content-center">
                <div id="home-text" class="col-12 col-md-8">
                     <picture>
-                        <source srcset="/src/img/irievibes-banner-2022.webp" type="image/webp">
-                        <source srcset="/src/img/irievibes-banner-2022.jpg" type="image/jpeg">
-                        <img alt="" class="img-fluid rounded" src="/src/img/irievibes-banner-2022.jpg"/>
+                        <source srcset="/src/img/promo/irievibes-banner-2022.webp" type="image/webp">
+                        <source srcset="/src/img/promo/irievibes-banner-2022.jpg" type="image/jpeg">
+                        <img alt="" class="img-fluid rounded" src="/src/img/promo/irievibes-banner-2022.jpg"/>
                     </picture>
                     <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Irie Vibes Roots Festival</h1><br/>
                     <div class="text-left text-success">

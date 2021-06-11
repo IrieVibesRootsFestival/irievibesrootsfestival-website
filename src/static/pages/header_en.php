@@ -1,28 +1,26 @@
 <!-- The header contains everything that displays as or above the nav-bar -->
 <header>
-    <div class="text-center mx-0 mb-3 row" id="banner-date">
-        <!--Hashtag info-->
-        <div class="col-12 col-lg-4 d-none d-lg-inline">
-            <p class="text-success m-0"><i>#worldmarkets #ital #roots</i></p>
+    <div class="pageheader">
+        <div class="text-center mx-0 mb-3 row" id="banner-date">
+            <!--Hashtag info-->
+            <div class="col-12 col-lg-4 d-none d-lg-inline">
+                <p class="text-success m-0"><i>#worldmarkets #ital #roots</i></p>
+            </div>
+            <!--Main middle info-->
+            <div class="col-12 col-lg-4">
+                <p class="text-warning text-uppercase m-0"><b> 22 - 23 - 24 July 2022 / Thursday free entry</b></p>
+            </div>
+            <!--Hashtag info-->
+            <div class="col-12 col-lg-4 d-none d-lg-inline">
+                <p class="text-danger m-0"><i>#kids #family #reggae #dub</i></p>
+            </div>
         </div>
-        <!--Main middle info-->
-        <div class="col-12 col-lg-4">
-            <p class="text-warning text-uppercase m-0"><b> 22 - 23 - 24 July 2022 / Thursday free entry</b></p>
+        <!--HEADER IMAGE-->
+        <div id="banner">
+            <a class="nav-link" href="/en/">
+                <img src="/src/img/banner-logo.svg" alt="Logo" height="120" width="254" style="margin-bottom:-10px;" />
+            </a>
         </div>
-        <!--Hashtag info-->
-        <div class="col-12 col-lg-4 d-none d-lg-inline">
-            <p class="text-danger m-0"><i>#kids #family #reggae #dub</i></p>
-        </div>
-    </div>
-    <!--HEADER IMAGE-->
-    <div id="banner">
-        <a class="nav-link" href="/en/">
-        <img src="/src/img/banner-logo.svg" 
-             alt="Logo"
-             height="120"
-             width="254"
-             style="margin-bottom:-10px;"/>
-        </a>
     </div>
     <!--NAVIGATION-->
     <nav id="navbar" class="navbar sticky-top navbar-expand-xl">
@@ -42,7 +40,7 @@
                         <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/en/location/"><i class="fas fa-location-arrow"></i> Location</a></li>
-                            <li><a class="nav-link drop-2" href="/en/festival/rules/"><i class="fas fa-hand-point-right"></i> Festival Rules</a></li>                            
+                            <li><a class="nav-link drop-2" href="/en/festival/rules/"><i class="fas fa-hand-point-right"></i> Festival Rules</a></li>
                             <li><a class="nav-link drop-2" href="/en/festival/camping/"><i class="fas fa-campground"></i> Camping & Parking</a></li>
                             <li><a class="nav-link drop-2" href="/en/festival/services/"><i class="fas fa-shower"></i> Services</a></li>
                             <li><a class="nav-link drop-2" href="/en/info/volunteers/"><i class="fas fa-hands-helping"></i> Volunteers</a></li>
@@ -94,7 +92,7 @@
                         <a class="nav-link text-warning" href="http://shop.irievibes.be"><i class="fas fa-shopping-cart"></i> Webshop</a>
                     </li>
                 </ul>
-                <!-- This is the language selector. -->                   
+                <!-- This is the language selector. -->
                 <ul class="navbar-nav ml-auto d-md-flex align-items-center">
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-language"></i><span class="d-lg-none"> Language</span><span class="dropdown-toggle"></span></a>
