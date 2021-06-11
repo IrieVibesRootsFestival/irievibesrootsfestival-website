@@ -21,21 +21,21 @@ header > .pageheader-img {
   text-align: center;
   padding-top: 15px;
   padding-bottom: 5px;
-}
-header > .pageheader-img img {
   filter: drop-shadow(10px 5px 2px rgba(10, 10, 10, 0.5));
 }
+
 .pageheader > .pageheader-scroll {
   height: 20px;
   text-align: center;
 }
-.pageheader > .pageheader-scroll p {
+/*.pageheader > .pageheader-scroll p {
   padding: 0;
   font-weight: bold;
   text-transform: uppercase;
   font-size: initial;
   color: var(--irie-yellow);
-}
+}*/
+
 header.pageheader {
   width: 100%;
  /*Bottom shadow*/
@@ -71,7 +71,7 @@ header .navbar .nav-link{
   z-index: 0;
   color: #fff;
   border: none;
-  background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), var(--irie-bg-hardwood);
+  background: linear-gradient( rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.55) ), linear-gradient( hsla(150, 100%, 20%, 0.25), hsla(53, 100%, 40%, 0.25), hsla(0, 93%, 43%, 0.2) ), radial-gradient( circle, rgba(221, 209, 196, 0.35) 0%, rgba(0, 0, 0, 0.45) 65% ), var(--irie-bg-hardwood);
   -webkit-box-shadow: 0px 0px 15px 2px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 0px 15px 2px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 0px 15px 2px rgba(0, 0, 0, 0.75);

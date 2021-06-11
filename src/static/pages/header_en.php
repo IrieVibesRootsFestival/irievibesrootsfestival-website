@@ -32,7 +32,7 @@
                 <i class="fas fa-bars text-warning"></i>
             </button>
             <!-- This is the Navbar's "Content" -->
-            <a href="/en/"><img alt="Navigation Brand" src="/src/img/nav-img.png"></a>
+            <a href="/en/"><img alt="Navigation Brand" src="/src/img/irie-heart-simple.svg"></a>
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto d-lg-flex align-items-lg-center px-2 px-md-0">
                     <li class="nav-item">
