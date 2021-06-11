@@ -1,31 +1,27 @@
 <!-- The header contains everything that displays as or above the nav-bar -->
 <header class="pageheader">
-    <div class="text-center mx-0 mb-3 row" id="banner-date">
-        <!--Hashtag info-->
-        <div class="col-12 col-lg-4 d-none d-lg-inline">
-            <p class="text-success m-0"><i>#worldmarkets #ital #roots</i></p>
+
+    <!--HEADER TOP INFO SCROLL-->
+    <div class="pageheader-scroll">
+        <div class="text-center mx-0 mb-3 row" id="banner-date">
+            <!--Hashtag info-->
+            <div class="col-12 col-lg-4 d-none d-lg-inline">
+                <p class="text-success m-0"><i>#worldmarkets #ital #roots</i></p>
+            </div>
+            <!--Main middle info-->
+            <div class="col-12 col-lg-4">
+                <p class="text-warning text-uppercase m-0"><b> 22 - 23 - 24 July 2022 / Thursday free entry</b></p>
+            </div>
+            <!--Hashtag info-->
+            <div class="col-12 col-lg-4 d-none d-lg-inline">
+                <p class="text-danger m-0"><i>#kids #family #reggae #dub</i></p>
+            </div>
         </div>
-        <!--Main middle info-->
-        <div class="col-12 col-lg-4">
-            <p class="text-warning text-uppercase m-0"><b> 22 - 23 - 24 July 2022 / Thursday free entry</b></p>
-        </div>
-        <!--Hashtag info-->
-        <div class="col-12 col-lg-4 d-none d-lg-inline">
-            <p class="text-danger m-0"><i>#kids #family #reggae #dub</i></p>
-        </div>
-    </div>
-    <!--HEADER IMAGE-->
-    <div id="banner">
-        <a class="nav-link" href="/en/">
-            <img src="/src/img/banner-logo.svg" alt="Logo" height="120" width="254" style="margin-bottom:-10px;" />
-        </a>
     </div>
 
-    <div class="pageheader-scroll">
-        <p>15 - 16 - 17 JULI 2021 / DONDERDAG GRATIS INGANG</p>
-    </div>
+    <!--HEADER IMAGE-->
     <div class="pageheader-img container-fluid">
-        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/banner-logo.svg" alt="Logo" height="100" />
+        <img src="/src/img/banner-logo.svg" alt="Logo" height="120" />
     </div>
 
     <!--NAVIGATION-->
@@ -119,28 +115,7 @@
                     </li>
                 </ul>
                 <!-- language menu -->
-                <div class="collapse navbar-collapse d-flexo" id="primaryNav">
-                    <ul class="navbar-nav mb-2 mb-lg-0">
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="Irie-Dropdown" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
-                            <ul class="dropdown-menu language-menu" aria-labelledby="Irie-Dropdown">
-                                <li>
-                                    <div class="btn-group-vertical" role="group" aria-label="Second group">
-                                        <a class="btn btn-link" href="/src/sys/change_lang.php?langset=nl" role="button">
-                                            <span class="flag-icon flag-icon-be"></span>
-                                        </a>
-                                        <a class="btn btn-link" href="/src/sys/change_lang.php?langset=fr" role="button">
-                                            <span class="flag-icon flag-icon-fr"></span>
-                                        </a>
-                                        <a class="btn btn-link" href="/src/sys/change_lang.php?langset=en" role="button">
-                                            <span class="flag-icon flag-icon-gb"></span>
-                                        </a>
-                                    </div>
-                                </li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div>
+                
             </div>
         </div>
     </nav>
