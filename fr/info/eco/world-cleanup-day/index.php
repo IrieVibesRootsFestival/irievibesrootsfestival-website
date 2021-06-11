@@ -16,7 +16,7 @@
                     <p>Vous savez que ...</p>
                     <p>Le 15 Septembre 2018, 18 million de volontaires de 157 pays ont uni leurs forces pour nettoyer la planète.  Aussi en Belgique, des centaines d’organisations et des millieres de bénévoles ont nettoyé notre pays. En 2019, le 21 septembre, plus de 330 action et 20 000 bénévole ont nettoyé la Belgique. Merci à tous!</p>
                 </div>
-                <div class="col-12 col-md-3"><img alt="" class="img-fluid rounded" src="/src/img/greenforward.png"/></div>
+                <div class="col-12 col-md-3"><img alt="" class="img-fluid rounded" src="/src/img/promo/greenforward.png"/></div>
             </div>
             <!-- Mooimakers Pictures -->
             <div class="row">

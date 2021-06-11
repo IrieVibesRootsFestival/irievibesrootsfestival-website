@@ -16,7 +16,7 @@
                     <p>Did you know that…</p>
                     <p>On the 15th of September 2018, 18 million volunteers over 157 countries joined forces to clean the world. In Belgium, hundreds of organisations and thousands of volunteers registered and cleaned the country. In 2019, on 21st of September, over 330 actions and 20 000 volunteers joined the World Clean Up Day in Belgium. Thanx!</p>
                 </div>
-                <div class="col-12 col-md-3"><img alt="" class="img-fluid rounded" src="/src/img/greenforward.png"/></div>
+                <div class="col-12 col-md-3"><img alt="" class="img-fluid rounded" src="/src/img/promo/greenforward.png"/></div>
             </div>
             <!-- Mooimakers Pictures -->
             <div class="row">
