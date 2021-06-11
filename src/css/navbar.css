@@ -83,10 +83,10 @@ header .language-menu {
 header .language-menu .dropdown-item {
   padding: 0;
 }
-header .language-menu .flag-icon {
- /*transform: scale(1.25);
- */
-}
+/*header .language-menu .flag-icon {
+ transform: scale(1.25);
+ 
+}*/
 .dropdown-item {
   color: rgba(255, 255, 255, 0.55);
 }
