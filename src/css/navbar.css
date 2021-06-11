@@ -42,7 +42,16 @@ header.pageheader {
   -webkit-box-shadow: 0px 5px 17px 0px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0px 5px 17px 0px rgba(0, 0, 0, 0.5);
   box-shadow: 0px 5px 17px 0px rgba(0, 0, 0, 0.5);
-  background: linear-gradient( rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.55) ), linear-gradient( hsla(150, 100%, 20%, 0.25), hsla(53, 100%, 40%, 0.25), hsla(0, 93%, 43%, 0.2) ), radial-gradient( circle, rgba(221, 209, 196, 0.35) 0%, rgba(0, 0, 0, 0.45) 65% ), var(--irie-bg-hardwood);
+  background: linear-gradient( /*Vertical darkening/tinting*/
+    rgba(0, 0, 0, 0.25), 
+  rgba(0, 0, 0, 0.15), 
+  rgba(0, 0, 0, 0.55) ), 
+  linear-gradient( /*Red-Green-Blue gradient*/
+    hsla(150, 100%, 20%, 0.25), 
+  hsla(53, 100%, 40%, 0.25), 
+  hsla(0, 93%, 43%, 0.2) ), 
+  radial-gradient( circle, rgba(221, 209, 196, 0.35) 0%,  rgba(0, 0, 0, 0.45) 65% ), /*Circle vignette*/
+  var(--irie-bg-hardwood);
   z-index: 1;
 }
 header .navbar a, li, ul {
