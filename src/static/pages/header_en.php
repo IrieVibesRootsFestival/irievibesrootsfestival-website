@@ -33,7 +33,7 @@
             </button>
             <!-- This is the Navbar's "Content" -->
             <a class="navbar-brand" href="/en/">
-                <img alt="Navigation Brand" src="/src/img/irie-heart-simple.svg">
+                <img alt="Navigation Brand" src="/src/img/irie-heart-simple.svg" height="auto">
             </a>
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto d-lg-flex align-items-lg-center px-2 px-md-0">
