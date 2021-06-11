@@ -142,6 +142,7 @@ header .nav-link{padding: .1rem;}
 
 /*-------Navbar Config-------*/
 /*Navbar color rules*/
+/*
 #navbar{    
     padding: .25rem;
     min-height:48px;
@@ -184,7 +185,7 @@ header .nav-link{padding: .1rem;}
     letter-spacing: 0.5px;
     content: "]";
 }
-
+*/
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {background-color: #4F0112;}
 .nav-pills > li {
     float:none;
@@ -193,7 +194,7 @@ header .nav-link{padding: .1rem;}
     zoom:1; /* hasLayout ie7 trigger */
 }
 
-/*Change the color of the dropdown menus*/
+/*Change the color of the dropdown menus
 .navbar-nav > li > .dropdown-menu {
     padding-left: 12px;
     padding-right:12px;
@@ -202,7 +203,7 @@ header .nav-link{padding: .1rem;}
     white-space: nowrap;
     box-shadow: 0 0px 12px 1px #1b1e21; 
     background-image:var(--irie-page-header);
-}
+}*/
 
 /*---Footer Config---*/
 footer{
