@@ -1,5 +1,6 @@
 /*External Style Sheets*/
 @import url('/src/css/typesetting.css'); /*Where fonts, sizing and styling for text is defined*/
+@import url('/src/css/navbar.css');
 /*--Variables--*/
 :root{
     /*General texture definitions*/
@@ -81,8 +82,6 @@ header .nav-link{padding: .1rem;}
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-@import url('/src/css/navbar.css');
 
 /*-----------------------------------------------------------------------------------------End header Markup*/
 
