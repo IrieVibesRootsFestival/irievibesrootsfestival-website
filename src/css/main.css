@@ -79,6 +79,8 @@ header .nav-link{padding: .1rem;}
     background-size: cover;
 }
 
+@import url("navbar.css");
+
 /*-----------------------------------------------------------------------------------------End header Markup*/
 
 
