@@ -40,7 +40,7 @@ RedirectMatch 301 /en/festival/kortemark_conge/ /en/festival/kortemark-conge/
 RedirectMatch 301 /nl/festival/kortemark_conge/ /nl/festival/kortemark-conge/
 RedirectMatch 301 /fr/festival/kortemark_conge/ /fr/festival/kortemark-conge/
 
-RedirectMatch 301 /src/img/hardwood-horizontal.jpg /src/img/background/wood1.jpg
+RedirectMatch 301 /src/img/hardwood-horizontal.jpg /src/img/background/wood1_.jpg
 
 <FilesMatch "\.(png|webp|jpg|woff2|svg|js|)$">
 Header set Cache-Control "public, max-age=7200"
