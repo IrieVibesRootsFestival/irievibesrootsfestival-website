@@ -25,7 +25,6 @@ RewriteRule ^(.*)$ http://www.irievibes.be/nl/lineup/livestream/ [L]
 RewriteCond %{HTTP_HOST} ^irievibes\.be\src\static\content\newsletter\ [NC]
 RewriteRule ^(.*)$ https://us8.campaign-archive.com/home/?u=d99c4a0da87cf14cbb7acb09c&id=ec0420bb34 [L,R]
 
-Redirect 301 /src/static/grondplan_camping.pdf /src/static/groundplan_backtotheroots.pdf 
 Redirect 301 /src/static/spotify/ https://open.spotify.com/playlist/2Wgmu4URI3nwnRRCGTi5dq
 
 Redirect 301 /en/info/trim_the_footprint/ /en/info/trim-the-footprint/
@@ -41,6 +40,8 @@ RedirectMatch 301 /nl/festival/kortemark_conge/ /nl/festival/kortemark-conge/
 RedirectMatch 301 /fr/festival/kortemark_conge/ /fr/festival/kortemark-conge/
 
 RedirectMatch 301 /src/img/hardwood-horizontal.jpg /src/img/background/wood1_.jpg
+
+RedirectMatch 302 /nieuwsbrief https://us8.campaign-archive.com/home/?u=d99c4a0da87cf14cbb7acb09c&id=ec0420bb34
 
 <FilesMatch "\.(png|webp|jpg|woff2|svg|js|)$">
 Header set Cache-Control "public, max-age=7200"
