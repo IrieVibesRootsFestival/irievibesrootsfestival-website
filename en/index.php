@@ -66,9 +66,9 @@
                 <div class="col p-2 m-0 mb-1 border border-lg border-success rounded bg-img">
                     <a href="https://tickets.irievibes.be" class="p-0">
                         <picture>
-                            <source srcset="src/img/promo/irie-vibes-2022-alt.webp" type="image/webp">
-                            <source srcset="src/img/promo/irie-vibes-2022-alt.jpg" type="image/jpeg">
-                            <img alt="" class="img-fluid rounded" src="src/img/promo/irie-vibes-2022-alt.jpg" />
+                            <source srcset="/src/img/promo/irie-vibes-2022-alt.webp" type="image/webp">
+                            <source srcset="/src/img/promo/irie-vibes-2022-alt.jpg" type="image/jpeg">
+                            <img alt="" class="img-fluid rounded" src="/src/img/promo/irie-vibes-2022-alt.jpg" />
                         </picture>
                     </a>
                 </div>
