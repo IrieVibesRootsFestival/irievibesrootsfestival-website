@@ -22,6 +22,11 @@
   --irie-yellow: ;
   --irie-green: ;
   --irie-red: ;
+
+  /*BS Overrides*/
+  --border-irie-yellow: ;
+  --border-irie-green: ;
+  --border-irie-red: ;
 }
 
 /*--Basic Stuff--*/
@@ -55,51 +60,7 @@ body {
   /*color:#cf7553;*/
   color: #f2f2f2;
 }
-/*-----------------------------------------------------------------------------------------Header markup*/
 
-header a {
-  padding-left: 8px;
-  padding-right: 8px;
-  content: "";
-}
-
-header {
-  background-image: linear-gradient(
-      hsla(150, 100%, 20%, 0.25),
-      hsla(53, 100%, 40%, 0.25),
-      hsla(0, 93%, 43%, 0.2)
-    ),
-    var(--irie-page-header);
-  background-position: center center;
-  box-shadow: 0px 5px 8px 0 rgba(0, 0, 0, 0.55);
-  z-index: 1010;
-  /*position:relative;
-    font-family: 'Roboto Mono', monospace;*/
-}
-
-/* Fix  menu items getting collapsed needlessly on display sizes rarely used*/
-
-header a.nav-link {
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-/*More tightly align dropdown items*/
-header .nav-link {
-  padding: 0.1rem;
-}
-.dropdown-toggle {
-  padding-left: 2px;
-}
-
-#banner {
-  text-align: center;
-  background-image: url(/src/img/banner_bg_top.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
 /*-----------------------------------------------------------------------------------------End header Markup*/
 
