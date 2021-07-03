@@ -1,6 +1,8 @@
 <!-- The header contains everything that displays as or above the nav-bar -->
-<header>
-    <div class="pageheader">
+<header class="pageheader">
+
+    <!--HEADER TOP INFO SCROLL-->
+    <div class="pageheader-scroll">
         <div class="text-center mx-0 mb-3 row" id="banner-date">
             <!--Hashtag info-->
             <div class="col-12 col-lg-4 d-none d-lg-inline">
@@ -15,25 +17,27 @@
                 <p class="text-danger m-0"><i>#kids #family #reggae #dub</i></p>
             </div>
         </div>
-        <!--HEADER IMAGE-->
-        <div id="banner">
-            <a class="nav-link" href="/fr/">
-                <img src="/src/img/banner-logo.svg" alt="Logo" height="120" width="254" style="margin-bottom:-10px;" />
-            </a>
-        </div>
     </div>
+
+    <!--HEADER IMAGE-->
+    <div class="pageheader-img container-fluid">
+        <img src="/src/img/banner-logo.svg" alt="Logo" height="120" />
+    </div>
+
     <!--NAVIGATION-->
     <nav id="navbar" class="navbar sticky-top navbar-expand-xl">
         <div class="container">
             <!-- This allows the Navbar to become smaller on a smaller mobile device. -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-                <i class="fas fa-bars text-warning"></i>
+                <i class="bi bi-bars text-warning"></i>
             </button>
             <!-- This is the Navbar's "Content" -->
-            <a href="/nl/"><img alt="" src="/src/img/nav-img.png"></a>
+            <a class="navbar-brand" href="/fr/">
+                <img alt="Navigation Brand" src="/src/img/irie-heart-simple.svg" height="auto">
+            </a>
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto d-lg-flex align-items-lg-center px-2 px-md-0">
-                    <li class="nav-item">
+                <li class="nav-item">
                         <a class="nav-link" href="/fr/"><i class="fas fa-home"></i><span class="d-lg-none">&nbsp;Home</span><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item dropdown">
@@ -93,26 +97,32 @@
                     </li>
                 </ul>
                 <!-- This is the language selector. -->
+                <ul class="navbar-nav mb-2 mb-lg-0">
 
-                <ul class="navbar-nav ml-auto d-md-flex align-items-center">
-                    <li class="nav-item dropdown">
-                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-language"></i><span class="d-lg-none"> Langue</span><span class="dropdown-toggle"></span></a>
-                        <ul class="dropdown-menu dropdown-menu-right">
-                            <!-- NL -->
-                            <li class="nav-item">
-                                <a class="nav-link"><span href="nl" class="my-1 flag flag-be select-lang" alt="Belgium"></span></a>
-                            </li>
-                            <!-- FR (current) -->
-                            <li class="nav-item">
-                                <a class="nav-link"><span href="fr" class="my-1 flag flag-fr" alt="France"></span></a>
-                            </li>
-                            <!-- EN -->
-                            <li class="nav-item">
-                                <a class="nav-link"><span href="en" class="my-1 flag flag-gb select-lang" alt="England"></span></a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="Irie-Dropdown" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-translate"></i></a>
+						<ul class="dropdown-menu language-menu" aria-labelledby="Irie-Dropdown">
+							<li>
+
+								<div class="btn-group-vertical" role="group" aria-label="Second group">
+									<a class="btn btn-link" href="change_lang.php?langset=nl" role="button">
+										<span class="flag-icon flag-icon-be"></span>
+									</a>
+									<a class="btn btn-link" href="change_lang.php?langset=fr" role="button">
+										<span class="flag-icon flag-icon-fr"></span>
+									</a>
+									<a class="btn btn-link" href="change_lang.php?langset=en" role="button">
+										<span class="flag-icon flag-icon-gb"></span>
+									</a>
+								</div>
+
+							</li>
+
+						</ul>
+					</li>
+				</ul>
+                <!-- language menu -->
+
             </div>
         </div>
     </nav>

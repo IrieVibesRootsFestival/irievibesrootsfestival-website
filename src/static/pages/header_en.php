@@ -105,13 +105,13 @@
 							<li>
 
 								<div class="btn-group-vertical" role="group" aria-label="Second group">
-									<a class="btn btn-link" href="/src/sys/change_lang.php?langset=nl" role="button">
+									<a class="btn btn-link" href="change_lang.php?langset=nl" role="button">
 										<span class="flag-icon flag-icon-be"></span>
 									</a>
-									<a class="btn btn-link" href="/src/sys/change_lang.php?langset=fr" role="button">
+									<a class="btn btn-link" href="change_lang.php?langset=fr" role="button">
 										<span class="flag-icon flag-icon-fr"></span>
 									</a>
-									<a class="btn btn-link" href="/src/sys/change_lang.php?langset=en" role="button">
+									<a class="btn btn-link" href="change_lang.php?langset=en" role="button">
 										<span class="flag-icon flag-icon-gb"></span>
 									</a>
 								</div>
