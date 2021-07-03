@@ -23,20 +23,24 @@ footer#footer_main {
     ),
     /*Circle vignette*/ var(--irie-bg-hardwood);
   z-index: 1;
-  padding-top: 8px;
-  padding-bottom: 8px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+footer#footer_pre {
+  background-image: var(--irie-bg-paper3);
 }
 
-footer #volunteer_signup .btn {
+footer#footer_volunteer .btn {
   background-color: #f2f2f2;
   font-weight: bold;
   color: #1c1f22;
 }
 
-footer #btn_social {
+footer#footer_social {
   padding: 8px 0px 8px 0px;
   letter-spacing: -4px;
 }
+
 footer a,
 footer p {
   font-style: normal;

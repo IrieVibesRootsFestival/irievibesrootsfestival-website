@@ -1,7 +1,17 @@
 <!--Footer-->
-<footer id="footer_main">   
+<footer id="footer_wrapper">
     <div class="container">
-        <div class="row">
+        <div id="footer_pre" class="row">
+            <!-- Volunteer sign up section -->
+            <div id="footer_volunteer" class="col-12 col-md-9">
+                <a href="/en/info/volunteers" class="btn">Become volunteer</a>
+            </div>
+            <!-- Social buttons -->
+            <div id="footer_social" class="col-12 col-md-3">
+                yes
+            </div>
+        </div>
+        <div id="footer_main" class="row">
             <div class="col-12 col-md-3 footer-brand animated fadeInLeft text-center">
                 <img src="/src/img/promo/greenforward.webp" class="img-fluid p-3 rounded-circle" alt="Greenforward Logo">
             </div>
@@ -52,10 +62,10 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-3 text-center">
-                <a href="/en/info/volunteers" class="btn btn-volunteer">Become Volunteer</a>
+
+            <div class="col-md-6 m-auto text-center d-none d-md-block">
+                <p>Copyright &copy; - vzw GreenForward 2001-2021</p>
             </div>
-            <div class="col-md-6 m-auto text-center d-none d-md-block"><p>Copyright &copy; - vzw GreenForward 2001-2021</p></div>
             <div class="col-md-3">
                 <div id="btn-social" class="text-center">
                     <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook fa-3x social"></i></a>
@@ -66,10 +76,12 @@
                 </div>
             </div>
             <!-- Redundant for Mobile Compatibility-->
-            <div class="col-md-6 text-center d-block d-md-none"><p>Copyright &copy; - vzw GreenForward 2001-2021</p></div>
+            <div class="col-md-6 text-center d-block d-md-none">
+                <p>Copyright &copy; - vzw GreenForward 2001-2021</p>
+            </div>
         </div>
     </div>
-     <!-- START Bootstrap-Cookie-Alert -->
+    <!-- START Bootstrap-Cookie-Alert -->
     <div class="alert text-center cookiealert" role="alert">
         <p class="d-inline">We use cookies to ensure you have the best possible experience on our website</p>
         <button type="button" class="btn btn-primary btn-sm acceptcookies" aria-label="Close">
