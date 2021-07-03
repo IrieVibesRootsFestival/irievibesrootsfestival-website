@@ -88,8 +88,8 @@ header .navbar .nav-link{
   -webkit-box-shadow: 0px 0px 15px 2px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 0px 15px 2px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 0px 15px 2px rgba(0, 0, 0, 0.75);
-  padding-left: 8px;
-  padding-right: 8px;
+  padding-left: 6px;
+  padding-right: 6px;
 }
 header .language-menu {
   min-width: 0rem;
@@ -123,5 +123,17 @@ header .language-menu .dropdown-item {
       -webkit-box-shadow: inset 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
       -moz-box-shadow: inset 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
       box-shadow: inset 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
+      padding-left: 3px;
  }
+}
+
+
+/* Fix  menu items getting collapsed needlessly on display sizes rarely used*/
+
+/*More tightly align dropdown items*/
+header .nav-link {
+  padding: 0.35rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
