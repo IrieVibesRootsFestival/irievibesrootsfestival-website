@@ -70,12 +70,12 @@
                     <p>Copyright &copy; - vzw GreenForward 2001-2021</p>
                 </div>
                 <div class="col-md-3">
-                    <div id="btn-social" class="text-center">
-                        <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="fab fa-facebook fa-3x social"></i></a>
-                        <a href="https://www.instagram.com/irievibesroots/"><i class="fab fa-instagram fa-3x social"></i></a>
-                        <a href="/src/static/snapchat/"><i class="fab fa-snapchat fa-3x social"></i></a>
-                        <a href="/src/static/spotify/"><i class="fab fa-spotify fa-3x social"></i></a>
-                        <a href="https://www.youtube.com/channel/UCCWpbW7WkOyS0ycQdkqRhww"><i class="fab fa-youtube fa-3x social"></i></a>
+                    <div id="footer_social-button" class="text-center">
+                        <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="bi bi-facebook"></i></a>
+                        <a href="https://www.instagram.com/irievibesroots/"><i class="bi bi-instagram"></i></a>
+                        <a href="/src/static/snapchat/"><i class="bi bi-snapchat"></i></a>
+                        <a href="/src/static/spotify/"><i class="bi bi-spotify"></i></a>
+                        <a href="https://www.youtube.com/channel/UCCWpbW7WkOyS0ycQdkqRhww"><i class="bi bi-youtube"></i></a>
                     </div>
                 </div>
                 <!-- Redundant for Mobile Compatibility-->
