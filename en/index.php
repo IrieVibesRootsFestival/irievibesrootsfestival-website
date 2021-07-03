@@ -40,11 +40,7 @@
                     </p>
 
                 </div>
-                <picture>
-                    <source srcset="/src/img/promo/irievibes-banner-2022.webp" type="image/webp">
-                    <source srcset="/src/img/promo/irievibes-banner-2022.jpg" type="image/jpeg">
-                    <img alt="" class="img-fluid rounded" src="/src/img/promo/irievibes-banner-2022.jpg" />
-                </picture>
+                
                 <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Irie Vibes Roots Festival</h1><br />
                 <div id="home_invite-text">
                     <div class="text-left text-success">
@@ -67,6 +63,15 @@
                 </div>
             </div>
             <div class="col-12 col-md-4" id="lineup">
+            <div class="row p-2 m-0 mb-1 border border-lg border-warning rounded bg-img">
+                    <a href="https://tickets.irievibes.be" class="p-0">
+                        <picture>
+                            <source srcset="src\img\promo\irie-vibes-2022-alt.webp" type="image/webp">
+                            <source srcset="src\img\promo\irie-vibes-2022-alt.jpg" type="image/jpeg">
+                            <img alt="" class="img-fluid rounded" src="src\img\promo\irie-vibes-2022-alt.jpg" />
+                        </picture>
+                    </a>
+                </div>
                 <div class="row p-2 m-0 mb-1 border border-lg border-warning rounded bg-img">
                     <a href="https://shop.irievibes.be" class="p-0">
                         <picture>
