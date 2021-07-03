@@ -1,4 +1,4 @@
-footer {
+footer #footer_main {
   width: 100%;
   /*Bottom shadow*/
   -webkit-box-shadow: 0px 5px 17px 0px rgba(0, 0, 0, 0.5);
@@ -24,5 +24,42 @@ footer {
     /*Circle vignette*/ var(--irie-bg-hardwood);
   z-index: 1;
   padding-top: 8px;
-  padding-bottom: 20px;
+  padding-bottom: 8px;
+}
+
+footer #volunteer_signup .btn {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  color: #1c1f22;
+}
+
+footer #btn_social {
+  padding: 8px 0px 8px 0px;
+  letter-spacing: -4px;
+}
+footer a,
+footer p {
+  font-style: normal;
+  color: white;
+}
+footer #footer_nav ul.pages {
+  list-style: none;
+  padding: 0px;
+}
+footer #footer_nav ul.pages li {
+  padding: 5px 0px;
+}
+/*footer .footer-nav ul.pages a { color:rgba(255,255,255,1.00); letter-spacing: 1px; text-transform:uppercase;}
+  footer .footer-nav ul.pages a:hover { color:rgba(255,255,255,0.80); text-decoration:none;}*/
+footer #footer_nav ul.list {
+  list-style: none;
+  padding: 0px;
+}
+footer #footer_nav ul.list li {
+  padding: 5px 0px;
+}
+/*footer .footer-nav ul.list a { color:rgba(255,255,255,0.80); }*/
+footer .footer-nav ul.list a:hover {
+  /*color:rgba(255,255,255,0.60);*/
+  text-decoration: none;
 }
