@@ -56,14 +56,17 @@ footer div#footer_social {
   letter-spacing: -4px;
 }
 
-footer div#footer_social-button i.bi::before {
-  color: linear-gradient(
-    hsla(150, 100%, 20%, 0.25),
-    hsla(53, 100%, 40%, 0.25),
-    hsla(0, 93%, 43%, 0.2)
-  );
+footer div#footer_social-button i.bi.bi-instagram::before {
+  color:var(--irie-red);
   font-size:36px;
-
+}
+footer div#footer_social-button i.bi.bi-facebook::before {
+  color:var(--irie-yellow);
+  font-size:36px;
+}
+footer div#footer_social-button i.bi.bi-youtube::before {
+  color:var(--irie-green);
+  font-size:36px;
 }
 
 footer a,
