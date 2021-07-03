@@ -15,17 +15,19 @@
         <div class="row justify-content-center">
             <div id="home-text" class="col-12 col-md-8 ">
                 <div>
-                    <h1 class="text-center">Warning! Scam alert!</h1>
+                    <h1 class="text-center text-danger">Warning! Scam alert!</h1>
                     <p>
-                        In the light of recently appearing events on facebook depicting "Irie Vibes Roots Festival 2021", we would like to make a clear statement that <b><i>Irie Vibes Roots Festival 2021 is cancelled</i></b>. Due to pandemic restrictions, there will be no festival this year. The next edition in 2022 is planned, and remains planned until further notice regarding public health concerns.
+                        In the light of recently appearing events on facebook depicting "Irie Vibes Roots Festival 2021", we would like to make a clear statement that</p>
+                    <p class="text-warning">
+                        <b><u>Irie Vibes Roots Festival 2021 is cancelled</u></b>.</p>
+                    <p>
+                        Due to pandemic restrictions, there will be no festival this year. The next edition in 2022 is planned, and remains planned until further notice regarding public health concerns.
                     </p>
                     <h3>Here are our other events you can attend:</h3>
                     <p>
                     <ul>
                         <li><b>July 16th, 17th & 18th × </b><a href="https://www.facebook.com/events/199580122096394/">Positivity Weekend #3</a> <small>[Summer Bar]</small></li>
-                        <li>
-                            <hr />
-                        </li>
+                        <hr />
                         <li><b>July 31st & August 1st × </b><a href="https://www.facebook.com/events/499653724640330/">West Vlaamse Vibes @ Zwanzibar</a> <small>[Summer Bar]</small></li>
                         <li><b>August 21st & 22nd × </b><a href="https://www.facebook.com/events/224091835982781/">Rock'n'Roll @ Zwanzibar</a> <small>[Summer Bar]</small></li>
                         <li><b>September 11th & 12th × </b><a href="https://www.facebook.com/events/1199852113799184/">Woodstock @ Zwanzibar </a> <small>[Summer Bar]</small></li>

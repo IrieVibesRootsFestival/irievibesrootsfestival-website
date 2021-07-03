@@ -290,12 +290,12 @@ footer .footer-nav ul.list a:hover { /*color:rgba(255,255,255,0.60);*/ text-deco
     padding-top:0.2rem;
 }
 
-/* Links get fancy icons */ 
+/* Links get fancy icons  
 
 .content a[href*="facebook.com/"] {
     background:url(https://www.facebook.com/favicon.ico) no-repeat left center;
     padding-left:19px;
-}
+}*/
 
 
 /* what the fuck */
