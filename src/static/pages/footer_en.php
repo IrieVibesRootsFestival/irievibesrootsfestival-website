@@ -1,7 +1,7 @@
 <!--Footer-->
 <footer id="footer_wrapper">
     <div id="footer_pre">
-        <div class="row">
+        <div class="row container">
             <!-- Volunteer sign up section -->
             <div id="footer_volunteer" class="col-12 col-md-9">
                 <a href="/en/info/volunteers" class="btn">Become volunteer</a>
