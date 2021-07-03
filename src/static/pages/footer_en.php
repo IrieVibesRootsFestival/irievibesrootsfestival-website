@@ -1,17 +1,17 @@
 <!--Footer-->
 <footer id="footer_wrapper">
-    <div class="container">
-        <div id="footer_pre" class="row">
-            <!-- Volunteer sign up section -->
-            <div id="footer_volunteer" class="col-12 col-md-9">
-                <a href="/en/info/volunteers" class="btn">Become volunteer</a>
-            </div>
-            <!-- Social buttons -->
-            <div id="footer_social" class="col-12 col-md-3">
-                yes
-            </div>
+    <div id="footer_pre" class="row">
+        <!-- Volunteer sign up section -->
+        <div id="footer_volunteer" class="col-12 col-md-9">
+            <a href="/en/info/volunteers" class="btn">Become volunteer</a>
         </div>
-        <div id="footer_main" class="row">
+        <!-- Social buttons -->
+        <div id="footer_social" class="col-12 col-md-3">
+            yes
+        </div>
+    </div>
+    <div id="footer_main" class="container">
+        <div class="row">
             <div class="col-12 col-md-3 footer-brand animated fadeInLeft text-center">
                 <img src="/src/img/promo/greenforward.webp" class="img-fluid p-3 rounded-circle" alt="Greenforward Logo">
             </div>

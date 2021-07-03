@@ -1,9 +1,15 @@
-footer#footer_main {
+footer#footer_main,
+footer#footer_wrapper {
   width: 100%;
   /*Bottom shadow*/
   -webkit-box-shadow: 0px 5px 17px 0px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0px 5px 17px 0px rgba(0, 0, 0, 0.5);
   box-shadow: 0px 5px 17px 0px rgba(0, 0, 0, 0.5);
+
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+footer#footer_main {
   background: 
   /*Verticfal vignette*/ linear-gradient(
       rgba(0, 0, 0, 0.25),
@@ -16,16 +22,16 @@ footer#footer_main {
         hsla(53, 100%, 40%, 0.25),
         hsla(0, 93%, 43%, 0.2)
       ),
-    radial-gradient(
-      circle,
-      rgba(221, 209, 196, 0.35) 0%,
-      rgba(0, 0, 0, 0.45) 65%
-    ),
-    /*Circle vignette*/ var(--irie-bg-hardwood);
+    /*Circle vignette*/
+      radial-gradient(
+        circle,
+        rgba(221, 209, 196, 0.35) 0%,
+        rgba(0, 0, 0, 0.45) 65%
+      ),
+    var(--irie-bg-hardwood);
   z-index: 1;
-  padding-top: 15px;
-  padding-bottom: 15px;
 }
+
 footer#footer_pre {
   background-image: var(--irie-bg-paper3);
 }
