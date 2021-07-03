@@ -162,18 +162,7 @@ body {
 }*/
 
 /*---Footer Config---*/
-footer {
-  background-image: linear-gradient(
-      hsla(0, 93%, 43%, 0.1),
-      hsla(53, 100%, 40%, 0.15),
-      hsla(150, 100%, 20%, 0.15)
-    ),
-    var(--irie-page-header);
-  color: white;
-  box-shadow: 0px -5px 8px 0 rgba(0, 0, 0, 0.55);
-  padding-top: 8px;
-  padding-bottom: 20px;
-}
+
 
 .btn-volunteer {
   background-color: #f2f2f2;
