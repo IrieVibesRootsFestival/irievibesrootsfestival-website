@@ -1,12 +1,12 @@
 <!--Footer-->
-<footer id="footer-anchor">   
-    <div class="container pt-2">
+<footer id="footer_main">   
+    <div class="container">
         <div class="row">
             <div class="col-12 col-md-3 footer-brand animated fadeInLeft text-center">
                 <img src="/src/img/promo/greenforward.webp" class="img-fluid p-3 rounded-circle" alt="Greenforward Logo">
             </div>
-            <div class="col-12 col-md-6 footer-nav animated fadeInUp">
-                <h4>— <i class="fas fa-info-circle"></i> Info —</h4>
+            <div id="footer_nav" class="col-12 col-md-6">
+                <h4>— <i class="bi bi-info-circle-fill"></i> Info —</h4>
                 <div class="row">
                     <div class="col-6">
                         <ul class="pages">
@@ -26,14 +26,14 @@
                 </div>
             </div>
             <div class="col-12 col-md-3">
-                <h4>— <i class="fas fa-newspaper"></i> Newsletter —</h4>
+                <h4>— <i class="bi bi-newspaper"></i> Newsletter —</h4>
                 <p class="py-1">Subscribe to our newsletter</p>
                 <span>
                     <!-- Begin Mailchimp Signup Form -->
                     <div id="mc_embed_signup">
                         <form action="https://irievibes.us8.list-manage.com/subscribe/post?u=d99c4a0da87cf14cbb7acb09c&amp;id=ec0420bb34" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                             <div id="mc_embed_signup_scroll">
-                                <div class="form-group w-100">
+                                <div class="form-group">
                                     <label class="sr-only" for="subscribe-email">Email address</label>
                                     <input type="text" value="" name="EMAIL" placeholder="Enter your email..." class="subscribe-email form-control required email" id="mce-EMAIL">
                                 </div>
