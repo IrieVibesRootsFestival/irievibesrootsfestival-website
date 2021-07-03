@@ -1,16 +1,16 @@
 /*External Style Sheets*/
-@import url('/src/css/_root.css');
+@import url("/src/css/_root.css");
 @import url("/src/css/typesetting.css"); /*Where fonts, sizing and styling for text is defined*/
 @import url("/src/css/navbar.css");
-@import url('/src/css/footer.css');
+@import url("/src/css/footer.css");
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
 
-
-
+:root {
+  --irie-page-header: var(--irie-bg-hardwood);
+  --irie-page-background: var(--irie-bg-birchwood);
+}
 /*--Variables--*/
 /*Specific definitions for major blocks*/
---irie-page-header: var(--irie-bg-hardwood);
---irie-page-background: var(--irie-bg-birchwood);
 
 /*--Basic Stuff--*/
 html {
@@ -282,8 +282,8 @@ footer .footer-nav ul.list a:hover {
 }
 
 #home_sidebar-right .box {
-    padding:5px;
-    border-radius:2px;
+  padding: 5px;
+  border-radius: 2px;
 }
 
 /*Font-awesome alignment*/
