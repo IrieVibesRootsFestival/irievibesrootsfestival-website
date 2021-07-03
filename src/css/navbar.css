@@ -54,7 +54,9 @@ header.pageheader {
   var(--irie-bg-hardwood);
   z-index: 1;
 }
-header .navbar a, li, ul {
+header .navbar a, 
+header .navbar li,
+header .navbar ul {
   font-size: 12px;
 }
 header .navbar svg{

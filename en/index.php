@@ -17,11 +17,13 @@
                 <div>
                     <h1 class="text-center text-danger">Warning! Scam alert!</h1>
                     <p>
-                        In the light of recently appearing events on facebook depicting "Irie Vibes Roots Festival 2021", we would like to make a clear statement that</p>
+                        In the light of recently appearing events on facebook depicting "Irie Vibes Roots Festival 2021", we would like to make a clear statement that
+                    </p>
                     <span class="text-danger">
                         <b><u>Irie Vibes Roots Festival 2021 is cancelled</u></b>.</p>
                     </span>
-                    Any events claiming to be Irie Vibes Roots Festival 2021 are <b>fraudulent</b> and <b>not organised or maintained by GreenForward</b>. Please be mindful to not engage with these fraudulent posts and events. Irie Vibes Roots Festival will always announce changes to scheduling and plans on <a href="https://www.facebook.com/irievibesrootsfesitval">its own facebook page</a>. 
+                    <p>
+                        Any events claiming to be Irie Vibes Roots Festival 2021 are <b>fraudulent</b> and <b>not organised or maintained by GreenForward</b>. Please be mindful to not engage with these fraudulent posts and events. Irie Vibes Roots Festival will always announce changes to scheduling and plans on <a href="https://www.facebook.com/irievibesrootsfesitval">its own facebook page</a>.
                     </p>
                     <p>
                         Due to pandemic restrictions, there will be <b>no festival this year</b>. The next edition in 2022 is planned, and remains planned until further notice regarding public health concerns.
