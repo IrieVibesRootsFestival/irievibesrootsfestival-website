@@ -284,6 +284,19 @@ footer .footer-nav ul.list a:hover { /*color:rgba(255,255,255,0.60);*/ text-deco
     color: #e6b82e!important;
 }
 
+#home_sidebar-right .box{
+    background-image: linear-gradient(
+        hsla(150, 100%, 20%, 0.25),
+        hsla(53, 100%, 40%, 0.25),
+        hsla(0, 93%, 43%, 0.20)
+        ),
+        rgba(0,0,0,0.2);
+}
+
+#home_sidebar-right .box.box-wood{
+    background-image: var(--irie-bg-hardwood);
+}
+
 /*Font-awesome alignment*/
 .fa-shopping-cart,
 .fa-home{
