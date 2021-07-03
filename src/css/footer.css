@@ -1,4 +1,4 @@
-footer#footer_main,
+footer div#footer_main,
 footer#footer_wrapper {
   width: 100%;
   /*Bottom shadow*/
@@ -9,7 +9,7 @@ footer#footer_wrapper {
   padding-top: 15px;
   padding-bottom: 15px;
 }
-footer#footer_main {
+footer div#footer_main {
   background: 
   /*Verticfal vignette*/ linear-gradient(
       rgba(0, 0, 0, 0.25),
@@ -32,17 +32,17 @@ footer#footer_main {
   z-index: 1;
 }
 
-footer#footer_pre {
+footer div#footer_pre {
   background-image: var(--irie-bg-paper3);
 }
 
-footer#footer_volunteer .btn {
+footer div#footer_volunteer .btn {
   background-color: #f2f2f2;
   font-weight: bold;
   color: #1c1f22;
 }
 
-footer#footer_social {
+footer div#footer_social {
   padding: 8px 0px 8px 0px;
   letter-spacing: -4px;
 }
