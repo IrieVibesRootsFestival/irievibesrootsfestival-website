@@ -60,6 +60,23 @@ body {
   /*color:#cf7553;*/
   color: #f2f2f2;
 }
+/*-----------------------------------------------------------------------------------------Header markup*/
+
+/* Fix  menu items getting collapsed needlessly on display sizes rarely used*/
+
+header a.nav-link {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/*More tightly align dropdown items*/
+header .nav-link {
+  padding: 0.1rem;
+}
+.dropdown-toggle {
+  padding-left: 2px;
+}
 
 
 /*-----------------------------------------------------------------------------------------End header Markup*/
