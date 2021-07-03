@@ -1,14 +1,18 @@
-footer div#footer_main,
 footer#footer_wrapper {
   width: 100%;
+  background-image: var(--irie-bg-hardwood);
+}
+
+footer div#footer_main,
+footer div#footer_pre {
+  padding-top: 15px;
+  padding-bottom: 15px;
   /*Bottom shadow*/
   -webkit-box-shadow: 0px 5px 17px 0px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0px 5px 17px 0px rgba(0, 0, 0, 0.5);
   box-shadow: 0px 5px 17px 0px rgba(0, 0, 0, 0.5);
-
-  padding-top: 15px;
-  padding-bottom: 15px;
 }
+
 footer div#footer_main {
   background: 
   /*Verticfal vignette*/ linear-gradient(
@@ -27,8 +31,7 @@ footer div#footer_main {
         circle,
         rgba(221, 209, 196, 0.35) 0%,
         rgba(0, 0, 0, 0.45) 65%
-      ),
-    var(--irie-bg-hardwood);
+      );
   z-index: 1;
 }
 
