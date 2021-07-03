@@ -36,7 +36,13 @@ footer div#footer_main {
 }
 
 footer div#footer_pre {
-  background-image: var(--irie-bg-whitewood);
+  background: 
+  /*Verticfal vignette*/ linear-gradient(
+      rgba(0, 0, 0, 0.55),
+      rgba(0, 0, 0, 0.35),
+      rgba(0, 0, 0, 0.55)
+    ),
+    var(--irie-bg-whitewood);
 }
 
 footer div#footer_volunteer .btn {
