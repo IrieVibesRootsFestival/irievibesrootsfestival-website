@@ -63,7 +63,7 @@
                 </div>
             </div>
             <div class="col-12 col-md-4" id="home_sidebar-right">
-                <div class="box-wood border-lg border-irie-yellow">
+                <div class="box-wood border border-lg border-irie-yellow">
                     <a href="https://tickets.irievibes.be">
                         <picture>
                             <source srcset="/src/img/promo/irie-vibes-2022-alt.webp" type="image/webp">

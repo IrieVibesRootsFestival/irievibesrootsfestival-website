@@ -1,33 +1,16 @@
 /*External Style Sheets*/
+@import url('/src/css/_root.css');
 @import url("/src/css/typesetting.css"); /*Where fonts, sizing and styling for text is defined*/
 @import url("/src/css/navbar.css");
+@import url('/src/css/footer.css');
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
 
+
+
 /*--Variables--*/
-:root {
-  /*General texture definitions*/
-  --irie-bg-hardwood: url("/src/img/background/wood1.jpg");
-  --irie-bg-whitewood: url("/src/img/background/wood2.jpg");
-  --irie-bg-birchwood: url("/src/img/background/wood3.jpg");
-
-  --irie-bg-paper1: url("/src/img/background/paper1.jpg");
-  --irie-bg-paper2: url("/src/img/background/paper2.jpg");
-  --irie-bg-paper3: url("/src/img/background/paper3.jpg");
-
-  /*Specific definitions for major blocks*/
-  --irie-page-header: var(--irie-bg-hardwood);
-  --irie-page-background: var(--irie-bg-birchwood);
-
-  /*Colors*/
-  --irie-yellow: ;
-  --irie-green: ;
-  --irie-red: ;
-
-  /*BS Overrides*/
-  --border-irie-yellow: ;
-  --border-irie-green: ;
-  --border-irie-red: ;
-}
+/*Specific definitions for major blocks*/
+--irie-page-header: var(--irie-bg-hardwood);
+--irie-page-background: var(--irie-bg-birchwood);
 
 /*--Basic Stuff--*/
 html {
@@ -158,7 +141,7 @@ body {
 */
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  background-color: #4f0112;
+  background-color: var(--irie-primary);
 }
 .nav-pills > li {
   float: none;

@@ -1,0 +1,35 @@
+/*
+All root variables go here
+Think of colour definitions, textures, etcetera.
+Assigning those colours to items happens in typesetting.css.
+*/
+
+:root {
+    /*General texture definitions*/
+    --irie-bg-hardwood: url("/src/img/background/wood1.jpg");
+    --irie-bg-whitewood: url("/src/img/background/wood2.jpg");
+    --irie-bg-birchwood: url("/src/img/background/wood3.jpg");
+  
+    --irie-bg-paper1: url("/src/img/background/paper1.jpg");
+    --irie-bg-paper2: url("/src/img/background/paper2.jpg");
+    --irie-bg-paper3: url("/src/img/background/paper3.jpg");
+  
+    
+  
+    /*Colors*/
+    --irie-yellow: #ffcc33;
+    --irie-green: #669933;
+    --irie-red: #cc3300;
+
+    --irie-primary:#4F0112;
+    --irie-secondary:#d1bf87;
+
+    /*Variations of colors*/
+    --irie-red-hover: #ffdb70;
+    --irie-green-hover: #94b870;
+    --irie-yellow-hover: #db704d;
+
+    --irie-primary-hover: #844d59;
+    --irie-secondary-hover:#dfd2ab;
+    
+  }
