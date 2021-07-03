@@ -56,12 +56,14 @@ footer div#footer_social {
   letter-spacing: -4px;
 }
 
-footer div#footer_social-button .fa {
+footer div#footer_social-button .bi {
   background: linear-gradient(
     hsla(150, 100%, 20%, 0.25),
     hsla(53, 100%, 40%, 0.25),
     hsla(0, 93%, 43%, 0.2)
   );
+  font-size:24px;
+  
 }
 
 footer a,
