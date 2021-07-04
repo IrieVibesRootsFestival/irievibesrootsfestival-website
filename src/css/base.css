@@ -163,7 +163,7 @@ body {
     
     padding-bottom:5px;
   }
-#home_text.card{
+#home_text .card{
     border:none;
     background-image: var(--irie-bg-paper3);
     background-size: cover;
