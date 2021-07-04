@@ -31,11 +31,11 @@
                     <h1 class="text-irie-green">Here are our other events you can attend:</h1>
                     <div class="row row-cols-1 row-cols-md-2 g-2">
                         <div class="col">
-                            <div class="card h-100 border border-irie-red">
+                            <div class="card h-100 border border-4 border-irie-red">
                                 <img src="/src/img/news/positivity_weekend_3.jpg" class="card-img-top" alt="Positivity Weekend 3">
                                 <div class="card-body">
-                                    <h5 class="card-title">Positivity Dub #3<p class="badge bg-irie-red">Dub event</p>
-                                    </h5>
+                                    <h4 class="card-title">Positivity Dub #3</h4>
+                                    <div class="card-text badge bg-irie-red">Dub event</div>
                                     <p class="card-text">A weekend filled with music, family & positive irie vibes! Private & exclusive session of Positivity Dub on Saturday!</p>
                                     <a href="https://www.facebook.com/events/199580122096394/" class="btn btn-irie-red">Tickets & info</a>
                                 </div>
@@ -45,10 +45,10 @@
                             </div>
                         </div>
                         <div class="col">
-                            <div class="card h-100 border border-irie-red">
+                            <div class="card h-100 border border-4 border-irie-red">
                                 <img src="/src/img/news/west_vlaamse_vibes_zwanzibar.jpg" class="card-img-top" alt="West Vlaamse Vibes at Zwanzibar">
                                 <div class="card-body">
-                                    <h5 class="card-title">West Vlaamse Vibes @ Zwanzibar</h5>
+                                    <h4 class="card-title">West Vlaamse Vibes @ Zwanzibar</h4>
                                     <div class="card-text badge bg-irie-red">Summer bar</div>
                                     <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
                                     <a href="https://www.facebook.com/events/499653724640330/" class="btn btn-irie-red">Programme & info</a>
@@ -60,11 +60,11 @@
                             </div>
                         </div>
                         <div class="col">
-                            <div class="card h-100 border border-irie-yellow">
+                            <div class="card h-100 border border-4 border-irie-yellow">
                                 <img src="/src/img/news/rock_n_roll_zwanzibar.jpg" class="card-img-top" alt="Rock'n'Roll at Zwanzibar">
                                 <div class="card-body">
-                                    <h5 class="card-title">Rock'n'Roll @ Zwanzibar<p class="badge bg-irie-yellow">Summer bar</p>
-                                    </h5>
+                                    <h4 class="card-title">Rock'n'Roll @ Zwanzibar</h4>
+                                    <div class="card-text badge bg-irie-yellow">Summer bar</div>
                                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
                                     <a href="https://www.facebook.com/events/224091835982781/" class="btn btn-irie-yellow">Programme & info</a>
                                 </div>
@@ -74,11 +74,11 @@
                             </div>
                         </div>
                         <div class="col">
-                            <div class="card h-100 border border-irie-green">
+                            <div class="card h-100 border border-4 border-irie-green">
                                 <img src="/src/img/news/woodstock_zwanzibar.jpg" class="card-img-top" alt="Woodstock at Zwanzibar">
                                 <div class="card-body">
-                                    <h5 class="card-title">Woodstock @ Zwanzibar<p class="badge bg-irie-green">Summer bar</p>
-                                    </h5>
+                                    <h4 class="card-title">Woodstock @ Zwanzibar</h4>
+                                    <div class="card-text badge bg-irie-green">Summer bar</div>
                                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
                                     <a href="https://www.facebook.com/events/1199852113799184/" class="btn btn-irie-green">Programme & info</a>
                                 </div>

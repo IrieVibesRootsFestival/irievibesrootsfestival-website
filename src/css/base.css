@@ -164,8 +164,7 @@ body {
 }
 .card {
   border: none;
-  background-image: var(--irie-bg-paper3);
-  background-size: 180%;
+  background-image: url("/src/img/background/grey-paper-texture.jpg");
   background-attachment: scroll;
   background-position: center;
 }
