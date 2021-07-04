@@ -91,13 +91,13 @@
                             </div>
                         </div>
                         <div class="col">
-                            <div class="card h-100 border border-4 border-irie-red">
+                            <div class="card h-100 border border-4 border-irie-yellow">
                                 <img src="/src/img/news/positivity_dub_3.jpg" class="card-img-top" alt="Positivity Dub 3">
                                 <div class="card-body">
                                     <h4 class="card-title">Positivity Dub #3</h4>
                                     <h5 class="card-text badge bg-irie-red">Dub event</h5>
                                     <p class="card-text">A day filled with music, heartical vibes and a chance to reconnect with one another. Come and enjoy 12 hours of non stop music at a beautifull location.</p>
-                                    <a href="https://www.facebook.com/events/1238629326598101" class="btn btn-irie-red">Tickets & info</a>
+                                    <a href="https://www.facebook.com/events/1238629326598101" class="btn btn-irie-yellow">Tickets & info</a>
                                 </div>
                                 <div class="card-footer">
                                     <p class="card-text"><small class="text-muted">July 17th</small></p>
