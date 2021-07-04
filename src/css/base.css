@@ -130,12 +130,12 @@ body {
     rgba(0, 0, 0, 0.2);
 
   border-radius: 3px;
-  margin-bottom: 3em;
+  margin-bottom: 1em;
 }
 
 .box.border {
   padding: 0px;
-  border: 5px solid grey;
+  border: 5px solid grey!important;
 }
 
 .box.box-wood {
