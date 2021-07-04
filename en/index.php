@@ -29,43 +29,62 @@
                         Due to pandemic restrictions, there will be <b>no festival this year</b>. The next edition in 2022 is planned, and remains planned until further notice regarding public health concerns.
                     </p>
                     <h1 class="text-irie-green">Here are our other events you can attend:</h1>
-                    <div class="card-group">
-                        <div class="card border-irie-red">
-                            <img src="/src/img/news/positivity_weekend_3.jpg" class="card-img-top" alt="Positivity Weekend 3">
-                            <div class="card-body">
-                                <h5 class="card-title">Positivity Dub #3<p class="badge bg-irie-red">Dub event</p></h5>
-                                <p class="card-text">A weekend filled with music, family & positive irie vibes! Private & exclusive session of Positivity Dub on Saturday!</p>
-                                <a href="https://www.facebook.com/events/199580122096394/" class="btn btn-irie-red">Tickets & info</a>
-                                <p class="card-text"><small class="text-muted">July 16th, 17th & 18th</small></p>
+                    <div class="row row-cols-1 row-cols-md-4 g-4">
+                        <div class="col">
+                            <div class="card h-100 border border-irie-red">
+                                <img src="/src/img/news/positivity_weekend_3.jpg" class="card-img-top" alt="Positivity Weekend 3">
+                                <div class="card-body">
+                                    <h5 class="card-title">Positivity Dub #3<p class="badge bg-irie-red">Dub event</p>
+                                    </h5>
+                                    <p class="card-text">A weekend filled with music, family & positive irie vibes! Private & exclusive session of Positivity Dub on Saturday!</p>
+                                    <a href="https://www.facebook.com/events/199580122096394/" class="btn btn-irie-red">Tickets & info</a>
+                                </div>
+                                <div class="card-footer">
+                                    <p class="card-text"><small class="text-muted">July 16th, 17th & 18th</small></p>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                        <div class="card-group">
-                        <div class="card border-irie-red">
-                            <img src="/src/img/news/west_vlaamse_vibes_zwanzibar.jpg" class="card-img-top" alt="West Vlaamse Vibes at Zwanzibar">
-                            <div class="card-body">
-                                <h5 class="card-title">West Vlaamse Vibes @ Zwanzibar<p class="badge bg-irie-red">Summer bar</p></h5>
-                                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                                <a href="https://www.facebook.com/events/499653724640330/" class="btn btn-irie-red">Programme & info</a>
-                                <p class="card-text"><small class="text-muted">July 31st & August 1st</small></p>
+                        <div class="col">
+                            <div class="card h-100 border border-irie-red">
+                                <img src="/src/img/news/west_vlaamse_vibes_zwanzibar.jpg" class="card-img-top" alt="West Vlaamse Vibes at Zwanzibar">
+                                <div class="card-body">
+                                    <h5 class="card-title">West Vlaamse Vibes @ Zwanzibar</h5>
+                                    <div class="card-text badge bg-irie-red">Summer bar</div>
+                                    <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                                    <a href="https://www.facebook.com/events/499653724640330/" class="btn btn-irie-red">Programme & info</a>
+
+                                </div>
+                                <div class="card-footer">
+                                    <p class="card-text"><small class="text-muted">July 31st & August 1st</small></p>
+                                </div>
                             </div>
                         </div>
-                        <div class="card border-irie-yellow">
-                            <img src="/src/img/news/rock_n_roll_zwanzibar.jpg" class="card-img-top" alt="Rock'n'Roll at Zwanzibar">
-                            <div class="card-body">
-                                <h5 class="card-title">Rock'n'Roll @ Zwanzibar<p class="badge bg-irie-yellow">Summer bar</p></h5>
-                                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                                <a href="https://www.facebook.com/events/224091835982781/" class="btn btn-irie-yellow">Programme & info</a>
-                                <p class="card-text"><small class="text-muted">August 21st & 22nd</small></p>
+                        <div class="col">
+                            <div class="card h-100 border border-irie-yellow">
+                                <img src="/src/img/news/rock_n_roll_zwanzibar.jpg" class="card-img-top" alt="Rock'n'Roll at Zwanzibar">
+                                <div class="card-body">
+                                    <h5 class="card-title">Rock'n'Roll @ Zwanzibar<p class="badge bg-irie-yellow">Summer bar</p>
+                                    </h5>
+                                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                                    <a href="https://www.facebook.com/events/224091835982781/" class="btn btn-irie-yellow">Programme & info</a>
+                                </div>
+                                <div class="card-footer">
+                                    <p class="card-text"><small class="text-muted">August 21st & 22nd</small></p>
+                                </div>
                             </div>
                         </div>
-                        <div class="card border-irie-green">
-                            <img src="/src/img/news/woodstock_zwanzibar.jpg" class="card-img-top" alt="Woodstock at Zwanzibar">
-                            <div class="card-body">
-                                <h5 class="card-title">Woodstock @ Zwanzibar<p class="badge bg-irie-green">Summer bar</p></h5>
-                                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                                <a href="https://www.facebook.com/events/1199852113799184/" class="btn btn-irie-green">Programme & info</a>
-                                <p class="card-text"><small class="text-muted">September 11th & 12th</small></p>
+                        <div class="col">
+                            <div class="card h-100 border border-irie-green">
+                                <img src="/src/img/news/woodstock_zwanzibar.jpg" class="card-img-top" alt="Woodstock at Zwanzibar">
+                                <div class="card-body">
+                                    <h5 class="card-title">Woodstock @ Zwanzibar<p class="badge bg-irie-green">Summer bar</p>
+                                    </h5>
+                                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                                    <a href="https://www.facebook.com/events/1199852113799184/" class="btn btn-irie-green">Programme & info</a>
+                                </div>
+                                <div class="card-footer">
+                                    <p class="card-text"><small class="text-muted">September 11th & 12th</small></p>
+                                </div>
                             </div>
                         </div>
                     </div>
