@@ -159,6 +159,11 @@ body {
       padding-left:19px;
   }*/
 
-  .card{
+  .card-group{
     background-image: var(--irie-bg-paper3);
+    background-size: cover;
+    padding-bottom:5px;
   }
+#home_text.card{
+    border:none;
+}
