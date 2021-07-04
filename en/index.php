@@ -39,6 +39,8 @@
                                 <p class="card-text"><small class="text-muted">July 16th, 17th & 18th</small></p>
                             </div>
                         </div>
+                    </div>
+                        <div class="card-group">
                         <div class="card">
                             <img src="/src/img/news/west_vlaamse_vibes_zwanzibar.jpg" class="card-img-top" alt="West Vlaamse Vibes at Zwanzibar">
                             <div class="card-body">
