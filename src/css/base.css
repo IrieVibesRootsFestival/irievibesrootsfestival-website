@@ -143,7 +143,7 @@ body {
   border-image-source: url("/src/img/border/header.jpg") !important;
   padding: 20px !important;
   background-color: #2a1e0f;
-  border: 0px solid;
+  border: 0px solid!important;
 }
 
 /* Links get fancy icons  
