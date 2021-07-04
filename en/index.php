@@ -29,21 +29,8 @@
                         Due to pandemic restrictions, there will be <b>no festival this year</b>. The next edition in 2022 is planned, and remains planned until further notice regarding public health concerns.
                     </p>
                     <h1 class="text-irie-green">Here are our other events you can attend:</h1>
-                    <div class="row row-cols-1 row-cols-md-2 g-2">
-                        <div class="col">
-                            <div class="card h-100 border border-4 border-irie-red">
-                                <img src="/src/img/news/positivity_weekend_3.jpg" class="card-img-top" alt="Positivity Weekend 3">
-                                <div class="card-body">
-                                    <h4 class="card-title">Positivity Dub #3</h4>
-                                    <div class="card-text badge bg-irie-red">Dub event</div>
-                                    <p class="card-text">A weekend filled with music, family & positive irie vibes! Private & exclusive session of Positivity Dub on Saturday!</p>
-                                    <a href="https://www.facebook.com/events/199580122096394/" class="btn btn-irie-red">Tickets & info</a>
-                                </div>
-                                <div class="card-footer">
-                                    <p class="card-text"><small class="text-muted">July 16th, 17th & 18th</small></p>
-                                </div>
-                            </div>
-                        </div>
+
+                    <div class="row row-cols-1 row-cols-md-3 g-3">
                         <div class="col">
                             <div class="card h-100 border border-4 border-irie-red">
                                 <img src="/src/img/news/west_vlaamse_vibes_zwanzibar.jpg" class="card-img-top" alt="West Vlaamse Vibes at Zwanzibar">
@@ -88,7 +75,22 @@
                             </div>
                         </div>
                     </div>
-
+                    <div class="row row-cols-1 row-cols-md-3 g-3">
+                        <div class="col">
+                            <div class="card h-100 border border-4 border-irie-red">
+                                <img src="/src/img/news/positivity_weekend_3.jpg" class="card-img-top" alt="Positivity Weekend 3">
+                                <div class="card-body">
+                                    <h4 class="card-title">Positivity Dub #3</h4>
+                                    <div class="card-text badge bg-irie-red">Dub event</div>
+                                    <p class="card-text">A weekend filled with music, family & positive irie vibes! Private & exclusive session of Positivity Dub on Saturday!</p>
+                                    <a href="https://www.facebook.com/events/199580122096394/" class="btn btn-irie-red">Tickets & info</a>
+                                </div>
+                                <div class="card-footer">
+                                    <p class="card-text"><small class="text-muted">July 16th, 17th & 18th</small></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Irie Vibes Roots Festival</h1><br />
