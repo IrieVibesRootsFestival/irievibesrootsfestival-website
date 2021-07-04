@@ -99,28 +99,28 @@
                 <!-- This is the language selector. -->
                 <ul class="navbar-nav mb-2 mb-lg-0">
 
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="Irie-Dropdown" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-translate"></i></a>
-						<ul class="dropdown-menu language-menu" aria-labelledby="Irie-Dropdown">
-							<li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="Irie-Dropdown" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-translate"></i></a>
+                        <ul class="dropdown-menu language-menu" aria-labelledby="Irie-Dropdown">
+                            <li>
 
-								<div class="btn-group-vertical" role="group" aria-label="Second group">
-									<a class="btn btn-link" href="change_lang.php?langset=nl" role="button">
-										<span class="flag-icon flag-icon-be"></span>
-									</a>
-									<a class="btn btn-link" href="change_lang.php?langset=fr" role="button">
-										<span class="flag-icon flag-icon-fr"></span>
-									</a>
-									<a class="btn btn-link" href="change_lang.php?langset=en" role="button">
-										<span class="flag-icon flag-icon-gb"></span>
-									</a>
-								</div>
+                                <div class="btn-group-vertical" role="group" aria-label="Second group">
+                                    <a class="btn btn-link" href="change_lang.php?langset=nl" role="button">
+                                        <span class="flag-icon flag-icon-be"></span>
+                                    </a>
+                                    <a class="btn btn-link" href="change_lang.php?langset=fr" role="button">
+                                        <span class="flag-icon flag-icon-fr"></span>
+                                    </a>
+                                    <a class="btn btn-link" href="change_lang.php?langset=en" role="button">
+                                        <span class="flag-icon flag-icon-gb"></span>
+                                    </a>
+                                </div>
 
-							</li>
+                            </li>
 
-						</ul>
-					</li>
-				</ul>
+                        </ul>
+                    </li>
+                </ul>
                 <!-- language menu -->
 
             </div>
