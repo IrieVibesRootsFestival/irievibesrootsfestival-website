@@ -33,7 +33,7 @@
                         <div class="card border-irie-red">
                             <img src="/src/img/news/positivity_weekend_3.jpg" class="card-img-top" alt="Positivity Weekend 3">
                             <div class="card-body">
-                                <h5 class="card-title">Positivity Weekend #3<p class="badge bg-irie-red">Dub event</p></h5>
+                                <h5 class="card-title">Positivity Dub #3<p class="badge bg-irie-red">Dub event</p></h5>
                                 <p class="card-text">A weekend filled with music, family & positive irie vibes! Private & exclusive session of Positivity Dub on Saturday!</p>
                                 <a href="https://www.facebook.com/events/199580122096394/" class="btn btn-irie-red">Tickets & info</a>
                                 <p class="card-text"><small class="text-muted">July 16th, 17th & 18th</small></p>
