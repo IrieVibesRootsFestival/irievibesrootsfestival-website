@@ -90,7 +90,7 @@
                         </picture>
                     </a>
                 </div>
-                <div class="border border-3 border-irie-green">
+                <div class="border border-3 border-wood">
                     <a href="https://shop.irievibes.be" class="p-0">
                         <picture>
                             <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie-small.webp" type="image/webp">

@@ -94,7 +94,7 @@ h1.page-header, .display-7{ /*display-7 for backward compat, deprecated*/
     text-align:center;
     padding: 25px 50px 25px 50px;
     display: table;
-    background-image: var(--irie-bg-hardwood);
+    background-image: var(--irie-bg-whitewood);
     background-size:cover;
     box-shadow: 5px 5px 6px 0px rgba(0,0,0,.15);
 }

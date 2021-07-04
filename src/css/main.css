@@ -176,36 +176,11 @@ body {
   background-image: url("/src/img/paper-texture.jpg");
   background-size: contain;
 }
-#TrimTheFootprint-tab .bg-img {
-  background-image: url(https://www.sketchuptextureclub.com/public/texture_m/0027-old-wood-board-texture-seamless.jpg);
-}
 
 #slider-wrapper {
   background-image: var(--irie-page-header);
   box-shadow: 3px 3px 16px 0px rgba(42, 42, 42, 0.8);
   background-position: center;
-}
-
-/*flash the target object when you navigate to it*/
-.anchor:target {
-  animation-name: blink;
-  animation-direction: normal;
-  animation-duration: 0.5s;
-  animation-iteration-count: 2;
-  animation-timing-function: ease;
-}
-@keyframes blink {
-  0% {
-    color: rgba(0, 0, 0, 0.9);
-  }
-  100% {
-    color: rgba(0, 0, 0, 0);
-  }
-}
-
-.text-box-2 {
-  background-image: url("/src/img/hardwood-horizontal.jpg");
-  padding: 0.5rem;
 }
 
 .w-80 {
@@ -215,6 +190,7 @@ body {
 #home-text .text-warning {
   color: #e6b82e !important;
 }
+
 .box {
   background-image: linear-gradient(
       hsla(150, 100%, 20%, 0.25),
@@ -222,10 +198,20 @@ body {
       hsla(0, 93%, 43%, 0.2)
     ),
     rgba(0, 0, 0, 0.2);
+    padding:5px;
+    border-radius: 3px;
 }
 
 .box.box-wood {
   background-image: var(--irie-bg-hardwood);
+}
+.box.border-wood{
+    border:1px solid;
+    border-image-slice:65 76 69 80;
+    border-image-width:20px 20px 20px 20px;
+    border-image-outset:0px 0px 0px 0px;
+    border-image-repeat:stretch stretch;
+    border-image-source: url(/src/img/border/header.jpg);
 }
 
 #home_sidebar-right .box {
