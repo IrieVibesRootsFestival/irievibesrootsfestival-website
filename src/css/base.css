@@ -165,6 +165,7 @@ body {
 .card {
   border: none;
   background-image: var(--irie-bg-paper3);
-  background-size: cover;
-  background-attachment: fixed;
+  background-size: 180%;
+  background-attachment: scroll;
+  background-position: center;
 }
