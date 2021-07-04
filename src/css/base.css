@@ -122,20 +122,20 @@ body {
 }
 
 #home_sidebar-right .box {
-  background-image: linear-gradient(
+  background: linear-gradient(
       hsla(150, 100%, 20%, 0.25),
       hsla(53, 100%, 40%, 0.25),
       hsla(0, 93%, 43%, 0.2)
     ),
     rgba(0, 0, 0, 0.2);
-  padding: 5px;
+
   border-radius: 3px;
   margin-bottom: 3em;
 }
 
 .box.border {
   padding: 0px;
-  border: 3px solid grey;
+  border: 5px solid grey;
 }
 
 .box.box-wood {
