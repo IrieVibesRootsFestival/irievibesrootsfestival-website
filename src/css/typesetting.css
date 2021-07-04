@@ -36,31 +36,31 @@ a:hover{color: #bc0939;}
 
 .text-irie-secondary{color: var(--irie-secondary);}
 .bg-iriesecondary{background-color: var(--irie-secondary)!important;}
-.border-irie-secondary{border-color: var(--irie-secondary)!important;}
+.border.border-irie-secondary{border-color: var(--irie-secondary)!important;}
 .btn-irie-secondary{color: #fff;background-color:var(--irie-secondary);border-color:var(--irie-secondary);}
 .btn-irie-secondary:hover{color:white;background-color:var(--irie-secondary-hover); border-color:var(--irie-secondary-hover);}
 
 .text-irie-green{color: var(--irie-green)!important;}
 .bg-irie-green{background-color: var(--irie-green)!important;}
-.border-irie-green{border-color: var(--irie-green)!important;}
+.border.border-irie-green{border-color: var(--irie-green)!important;}
 .btn-irie-green{color: #fff;background-color:var(--irie-green);border-color: var(--irie-green);}
 .btn-irie-green:hover{color:white;background-color:var(--irie-green-hover); border-color:var(--irie-green-hover);} 
 
 .text-irie-irie{color: var(--irie-primary);}
 .bg-irie-irie{background-color:var(--irie-primary);}
-.border-irie-irie{border-color:var(--irie-primary)!important;}
+.border.border-irie-irie{border-color:var(--irie-primary)!important;}
 .btn-irie-irie{color:white;background-color:var(--irie-primary); border-color:var(--irie-primary);}
 .btn-irie-irie:hover{color:white;background-color: var(--irie-primary-hover); border-color:var(--irie-primary-hover);}
 
 .text-irie-red{color:var(--irie-red)!important;}
 .bg-irie-red{background-color:var(--irie-red)!important;}
-.border-irie-red{border-color:var(--irie-red)!important;}
+.border.border-irie-red{border-color:var(--irie-red)!important;}
 .btn-irie-red{color: #fff;background-color: var(--irie-red);border-color: var(--irie-red);}
 .btn-irie-red:hover{color: #fff;background-color: var(--irie-red-hover);border-color: var(--irie-red-hover);}
 
 .text-irie-yellow{color:var(--irie-yellow)!important;}
 .bg-irie-yellow{background-color:var(--irie-yellow)!important;}
-.border-irie-yellow{border-color:var(--irie-yellow)!important;}
+.border.border-irie-yellow{border-color:var(--irie-yellow)!important;}
 .btn-irie-yellow{color:white;background-color:var(--irie-yellow); border-color:var(--irie-yellow);}
 .btn-irie-yellow:hover{color: white;background-color: var(--irie-yellow-hover);border-color:var(--irie-yellow-hover);}
 
