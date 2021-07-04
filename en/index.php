@@ -68,25 +68,25 @@
                         <picture>
                             <source srcset="/src/img/promo/irie-vibes-2022-alt.webp" type="image/webp">
                             <source srcset="/src/img/promo/irie-vibes-2022-alt.jpg" type="image/jpeg">
-                            <img alt="" class="img-fluid rounded" src="/src/img/promo/irie-vibes-2022-alt.jpg" />
+                            <img alt="" class="img-fluid" src="/src/img/promo/irie-vibes-2022-alt.jpg" />
                         </picture>
                     </a>
                 </div>
                 <div class="border border-4 border-irie-red rounded mb-2">
-                <a href="">
+                    <a href="">
                         <picture>
                             <source srcset="" type="image/webp">
                             <source srcset="/src/img/kortemark-conge/kortemark_conge.jpg" type="image/jpeg">
-                            <img alt="" class="img-fluid rounded" src="/src/img/kortemark-conge/kortemark_conge.jpg" />
+                            <img alt="" class="img-fluid" src="/src/img/kortemark-conge/kortemark_conge.jpg" />
                         </picture>
                     </a>
                 </div>
                 <div class="border border-4 border-irie-yellow rounded mb-2">
-                <a href="./kids/">
+                    <a href="./kids/">
                         <picture>
                             <source srcset="" type="image/webp">
                             <source srcset="\src\img\little-lion-banner.png" type="image/jpeg">
-                            <img alt="" class="img-fluid rounded" src="\src\img\little-lion-banner.png" />
+                            <img alt="" class="img-fluid" src="\src\img\little-lion-banner.png" />
                         </picture>
                     </a>
                 </div>
@@ -95,25 +95,25 @@
                         <picture>
                             <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie.webp" type="image/webp">
                             <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie.jpg" type="image/jpeg">
-                            <img alt="" class="img-fluid rounded" src="/src/img/news/irie-vibes-trui-webshop-advertentie.jpg" />
+                            <img alt="" class="img-fluid" src="/src/img/news/irie-vibes-trui-webshop-advertentie.jpg" />
                         </picture>
                     </a>
                 </div>
-                
+                <!--
                 <div class="row py-2 m-0 border border-lg border-success rounded bg-img">
                     <div class="col-12">
                         <p class="text-center bg-success rounded text-white">Lion's Den</p>
                     </div>
                     <div class="col-12">
                         <div class="text-white bg-dark px-1 rounded h4">TEASER</div>
-                        <!--
-<div class="facebook-responsive">
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwatch%2F%3Fv%3D1062072777464176&width=500&show_text=false&height=280&appId" width="" height="" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
-</div>
-<a class="d-block text-center pt-2" href="https://www.facebook.com/Spellbreakersband">Spellbreakers</a>
--->
+                        
+                    <div class="facebook-responsive">
+                    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwatch%2F%3Fv%3D1062072777464176&width=500&show_text=false&height=280&appId" width="" height="" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
                     </div>
-                </div>
+                    <a class="d-block text-center pt-2" href="https://www.facebook.com/Spellbreakersband">Spellbreakers</a>
+
+                    </div>
+                </div>-->
                 <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Kijk eens</h1>
                 <div id="slider-wrapper" class="p-2 mb-2 rounded">
                     <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/content/slider.php'); ?>
