@@ -1,6 +1,7 @@
 footer#footer_wrapper {
   width: 100%;
   background-image: var(--irie-bg-hardwood);
+  color:white;
 }
 
 footer div#footer_main,
