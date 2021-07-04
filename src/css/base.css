@@ -128,13 +128,14 @@ body {
 
 .box.border {
   padding: 0px;
-  border: 5px solid!important;
+  border: 5px solid !important;
 }
 
 .box.box-wood {
   background-image: var(--irie-bg-hardwood);
 }
 .box.border-wood {
+  border: 0px solid #2a1e0f !important;
   border-image-slice: 65 76 69 80 !important;
   border-image-width: 20px 20px 20px 20px !important;
   border-image-outset: 0px 0px 0px 0px !important;
@@ -142,7 +143,6 @@ body {
   border-image-source: url("/src/img/border/header.jpg") !important;
   padding: 20px !important;
   background-color: #2a1e0f;
-  border: 0.1px solid #2a1e0f!important;
 }
 
 /* Links get fancy icons  
