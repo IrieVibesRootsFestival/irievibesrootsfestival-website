@@ -1,0 +1,160 @@
+:root {
+  --irie-page-header: var(--irie-bg-hardwood);
+  --irie-page-background: var(--irie-bg-birchwood);
+}
+
+/*--Basic Stuff--*/
+html {
+  overflow-y: scroll !important;
+}
+body {
+  background: var(--irie-bg-paper1);
+  background-size: auto, cover;
+  background-repeat: repeat, repeat-y;
+  overflow-x: hidden;
+}
+
+/*Edit Social Icons*/
+.social:hover {
+  transform: scale(0.9);
+  -webkit-transform: scale(0.9);
+  -moz-transform: scale(0.9);
+  -o-transform: scale(0.9);
+}
+.social {
+  transform: scale(0.75);
+  transition-duration: 0.3s;
+  /* Browser Variations: */
+  -webkit-transform: scale(0.75);
+  -moz-transform: scale(0.75);
+  -o-transform: scale(0.75);
+  -webkit-transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  /*color:#cf7553;*/
+  color: #f2f2f2;
+}
+
+/*-----------------------------------------------------------------------------------------End header Markup*/
+
+/*Responsive Location Map*/
+.map-responsive {
+  border-radius: 10px;
+  overflow: hidden;
+  padding-bottom: 50%;
+  position: relative;
+  height: 0;
+  margin-bottom: 25px;
+}
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+/*Responsive Facebook Video*/
+.facebook-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.facebook-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.container.content .row {
+  margin-bottom: 25px;
+}
+
+/*Leave some space between the content and the navbar+footer*/
+.content {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  background-color: var(--irie-primary);
+}
+.nav-pills > li {
+  float: none;
+  display: inline-block;
+  *display: inline; /* ie7 fix */
+  zoom: 1; /* hasLayout ie7 trigger */
+}
+
+.highlight-black {
+  background-color: #1b1e21;
+  box-shadow: 4px 4px 5px 0px rgba(0, 0, 0, 0.55);
+  color: white;
+  padding: 5px;
+  border-radius: 0.35rem;
+  text-align: center;
+}
+
+/*MEDIA QUERRIES*/
+
+.popover {
+  background-image: url("/src/img/paper-texture.jpg");
+  background-size: contain;
+}
+
+#slider-wrapper {
+  background-image: var(--irie-page-header);
+  box-shadow: 3px 3px 16px 0px rgba(42, 42, 42, 0.8);
+  background-position: center;
+}
+
+.w-80 {
+  width: 80% !important;
+}
+
+#home-text .text-warning {
+  color: #e6b82e !important;
+}
+
+#home_sidebar-right .box {
+  background-image: linear-gradient(
+      hsla(150, 100%, 20%, 0.25),
+      hsla(53, 100%, 40%, 0.25),
+      hsla(0, 93%, 43%, 0.2)
+    ),
+    rgba(0, 0, 0, 0.2);
+  padding: 5px;
+  border-radius: 3px;
+  margin-bottom: 3em;
+}
+
+.box.border {
+  padding: 0px;
+  border: 3px solid grey;
+}
+
+.box.box-wood {
+  background-image: var(--irie-bg-hardwood);
+}
+.box.border-wood {
+  border: 1px solid transparent !important;
+  border-image-slice: 65 76 69 80;
+  border-image-width: 20px 20px 20px 20px;
+  border-image-outset: 0px 0px 0px 0px;
+  border-image-repeat: stretch stretch;
+  border-image-source: url(/src/img/border/header.jpg);
+  padding: 15px;
+  border-radius: none;
+}
+
+/* Links get fancy icons  
+  
+  .content a[href*="facebook.com/"] {
+      background:url(https://www.facebook.com/favicon.ico) no-repeat left center;
+      padding-left:19px;
+  }*/
