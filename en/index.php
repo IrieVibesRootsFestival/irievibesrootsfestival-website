@@ -28,16 +28,45 @@
                     <p>
                         Due to pandemic restrictions, there will be <b>no festival this year</b>. The next edition in 2022 is planned, and remains planned until further notice regarding public health concerns.
                     </p>
-                    <h2 class="text-irie-green">Here are our other events you can attend:</h2>
-                    <p>
-                    <ul>
-                        <li><b>July 16th, 17th & 18th × </b><a href="https://www.facebook.com/events/199580122096394/">Positivity Weekend #3</a> <small>[Dub & Soundsystem]</small></li>
-                        <hr />
-                        <li><b>July 31st & August 1st × </b><a href="https://www.facebook.com/events/499653724640330/">West Vlaamse Vibes @ Zwanzibar</a> <small>[Summer Bar]</small></li>
-                        <li><b>August 21st & 22nd × </b><a href="https://www.facebook.com/events/224091835982781/">Rock'n'Roll @ Zwanzibar</a> <small>[Summer Bar]</small></li>
-                        <li><b>September 11th & 12th × </b><a href="https://www.facebook.com/events/1199852113799184/">Woodstock @ Zwanzibar</a> <small>[Summer Bar]</small></li>
-                    </ul>
-                    </p>
+                    <h1 class="text-irie-green">Here are our other events you can attend:</h1>
+                    <div class="card-group">
+                        <div class="card">
+                            <img src="/src/img/news/positivity_weekend_3.jpg" class="card-img-top" alt="Positivity Weekend 3">
+                            <div class="card-body">
+                                <h5 class="card-title">Positivity Weekend #3<span class="badge bg-irie-red">Dub event</span></h5>
+                                <p class="card-text">A weekend filled with music, family & positive irie vibes! Private & exclusive session of Positivity Dub on Saturday!</p>
+                                <a href="https://www.facebook.com/events/199580122096394/" class="btn btn-irie-red">Tickets & info</a>
+                                <p class="card-text"><small class="text-muted">July 16th, 17th & 18th</small></p>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <img src="/src/img/news/west_vlaamse_vibes_zwanzibar.jpg" class="card-img-top" alt="West Vlaamse Vibes at Zwanzibar">
+                            <div class="card-body">
+                                <h5 class="card-title">West Vlaamse Vibes @ Zwanzibar<span class="badge bg-irie-yellow">Summer bar</span></h5>
+                                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                                <a href="https://www.facebook.com/events/499653724640330/" class="btn btn-irie-yellow">Programme & info</a>
+                                <p class="card-text"><small class="text-muted">July 31st & August 1st</small></p>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <img src="/src/img/news/rock_n_roll_zwanzibar.jpg" class="card-img-top" alt="Rock'n'Roll at Zwanzibar">
+                            <div class="card-body">
+                                <h5 class="card-title">Rock'n'Roll @ Zwanzibar<span class="badge bg-irie-green">Summer bar</span></h5>
+                                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                                <a href="https://www.facebook.com/events/224091835982781/" class="btn btn-irie-green">Programme & info</a>
+                                <p class="card-text"><small class="text-muted">August 21st & 22nd</small></p>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <img src="/src/img/news/woodstock_zwanzibar.jpg" class="card-img-top" alt="Woodstock at Zwanzibar">
+                            <div class="card-body">
+                                <h5 class="card-title">Woodstock @ Zwanzibar<span class="badge bg-irie-red">Summer bar</span></h5>
+                                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                                <a href="https://www.facebook.com/events/1199852113799184/" class="btn btn-irie-red">Programme & info</a>
+                                <p class="card-text"><small class="text-muted">September 11th & 12th</small></p>
+                            </div>
+                        </div>
+                    </div>
 
                 </div>
 
@@ -47,15 +76,19 @@
                         <h1 class="mt-md-3 mb-0 px-3 quote">back to the roots</h1>
                         <p class="text-justify">
                             Irie Vibes is sticking to its roots once again. We heard your voices! Our roots are truly the best way to build up this community. Therefor, Irie Vibes Roots Festival 2022 will once a again be a "Back to the roots" edition. Keep it simple, keep it irie.
-                            We invite you to join us and many others at <b>Irie Vibes back to the Roots Festival 2022</b>, where the mind and body come together in a beautiful feast of colours, sounds, and spiritual bonding. Curious to see what's on the menu? Check out our <a class="text-irie-green text-bold" href="/en/lineup/"><i class="bi bi-link-45deg"></i>line-up page</a> <br/>
-                            Still hungry for more? Bookmark our pages! Find more info in the footer, or click <a href="#footer_main"><i class="bi bi-info-circle"></i>here</a>.
+                        </p>
+                        <p class="text-justify-right">
+                            We invite you to join us and many others at <b>Irie Vibes back to the Roots Festival 2022</b>, where the mind and body come together in a beautiful feast of colours, sounds, and spiritual bonding. Curious to see what's on the menu? Check out our <a class="text-irie-green" href="/en/lineup/"><i class="bi bi-link-45deg"></i><b>line-up page</b></a> <br />
+                        </p>
+                        <p>
+                            Still hungry for more? Bookmark our pages! Find more info in the footer, or click <a class="text-irie-success" href="#footer_main"><i class="bi bi-info-circle"></i><b>here</b></a>.
                         </p>
                     </div>
                     <div class="text-md-right text-irie-yellow">
                         <h1 class="mt-3 mb-0 px-3 quote">one love</h1>
                         <p class="text-justify text-md-right">
-                        Irie Vibes has always been about family. Through coming together, sharing experiences and enjoying our mutual love for Reggae & Dub, a strong bond is inevitable. Year after year, this bond becomes stronger, more powerful, and more united. True I-nity!<br/>
-                        We rely on the good hearts of our volunteers to build up the festival every year. Besides our crew, we are always looking for volunteers to help us out. Are you interested in becoming a volunteer? Check out our <a class="text-irie-yellow text-bold" href="/en/lineup/"><i class="bi bi-link-45deg"></i>volunteers page</a> and, sign up if you wish?      
+                            Irie Vibes has always been about family. Through coming together, sharing experiences and enjoying our mutual love for Reggae & Dub, a strong bond is inevitable. Year after year, this bond becomes stronger, more powerful, and more united. True I-nity!<br />
+                            We rely on the good hearts of our volunteers to build up the festival every year. Besides our crew, we are always looking for volunteers to help us out. Are you interested in becoming a volunteer? Check out our <a class="text-irie-yellow text-bold" href="/en/lineup/"><i class="bi bi-link-45deg"></i><b>volunteers page</b></a> and, sign up if you wish?
                     </div>
                     <div class="text-left text-irie-red">
                         <h1 class="mt-3 mb-0 px-3 quote ">be with us</h1>
