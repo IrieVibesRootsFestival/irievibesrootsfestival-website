@@ -63,7 +63,7 @@
                 </div>
             </div>
             <div class="col-12 col-md-4" id="home_sidebar-right">
-                <div class="border border-3 border-dark">
+                <div class="border border-4 border-dark rounded mb-2">
                     <a href="https://tickets.irievibes.be">
                         <picture>
                             <source srcset="/src/img/promo/irie-vibes-2022-alt.webp" type="image/webp">
@@ -72,7 +72,7 @@
                         </picture>
                     </a>
                 </div>
-                <div class="border border-3 border-irie-red">
+                <div class="border border-4 border-irie-red rounded mb-2">
                 <a href="">
                         <picture>
                             <source srcset="" type="image/webp">
@@ -81,7 +81,7 @@
                         </picture>
                     </a>
                 </div>
-                <div class="border border-3 border-irie-yellow">
+                <div class="border border-4 border-irie-yellow rounded mb-2">
                 <a href="./kids/">
                         <picture>
                             <source srcset="" type="image/webp">
