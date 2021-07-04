@@ -93,9 +93,9 @@
                 <div class="border border-3 border-irie-green">
                     <a href="https://shop.irievibes.be" class="p-0">
                         <picture>
-                            <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie.webp" type="image/webp">
-                            <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie.jpg" type="image/jpeg">
-                            <img alt="" class="img-fluid" src="/src/img/news/irie-vibes-trui-webshop-advertentie.jpg" />
+                            <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie-small.webp" type="image/webp">
+                            <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie-small.jpg" type="image/jpeg">
+                            <img alt="" class="img-fluid" src="/src/img/news/irie-vibes-trui-webshop-advertentie-small.jpg" />
                         </picture>
                     </a>
                 </div>
