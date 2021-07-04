@@ -191,7 +191,7 @@ body {
   color: #e6b82e !important;
 }
 
-.box {
+#home_sidebar-right .box {
   background-image: linear-gradient(
       hsla(150, 100%, 20%, 0.25),
       hsla(53, 100%, 40%, 0.25),
@@ -203,23 +203,23 @@ body {
     margin-bottom:3em;
 }
 
+#home_sidebar-right .box.border{padding:0px;}
+
 .box.box-wood {
   background-image: var(--irie-bg-hardwood);
 }
 .box.border-wood{
-    border:1px solid!important;
+    border:1px solid transparent!important;
     border-image-slice:65 76 69 80;
     border-image-width:20px 20px 20px 20px;
     border-image-outset:0px 0px 0px 0px;
     border-image-repeat:stretch stretch;
     border-image-source: url(/src/img/border/header.jpg);
     padding: 15px;
+    border-radius: none;
 }
 
-#home_sidebar-right .box {
-  padding: 5px;
-  border-radius: 2px;
-}
+
 
 /*Font-awesome alignment*/
 .fa-shopping-cart,
