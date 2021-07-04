@@ -15,17 +15,18 @@
                             <label class="sr-only" for="subscribe-email">Email address</label>
                             <input type="text" value="" name="EMAIL" placeholder="Enter your email..." class="subscribe-email form-control required email" id="mce-EMAIL">
                             <button type="submit" value="Subscribe" id="mc-embedded-subscribe" class="btn btn-volunteer mt-0"><a>Subscribe</a></button>
-                            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                            <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                                <input type="text" name="b_81c9b73355e0e402d5618756c_8b879d422a" tabindex="-1" value="">
-                            </div>
+
                         </div>
                     </div>
                 </form>
                 <!--End mc_embed_signup-->
                 <div class="input-group mb-3">
-                    <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="button-addon2">
-                    <button class="btn btn-outline-secondary" type="button" id="button-addon2">Button</button>
+                    <input type="text" class="form-control" placeholder="Email" aria-label="Email" aria-describedby="button-addon2">
+                    <button class="btn btn-outline-secondary btn-irie-red" type="submit" id="button-addon2" action="https://irievibes.us8.list-manage.com/subscribe/post?u=d99c4a0da87cf14cbb7acb09c&amp;id=ec0420bb34" method="post" id="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>Subscribe</button>
+                </div>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                    <input type="text" name="b_81c9b73355e0e402d5618756c_8b879d422a" tabindex="-1" value="">
                 </div>
             </div>
         </div>
