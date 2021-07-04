@@ -19,7 +19,7 @@
                     <p>
                         In the light of recently appearing events on facebook depicting "Irie Vibes Roots Festival 2021", we would like to make a clear statement that
                     </p>
-                    <span class="text-danger">
+                    <span class="text-irie-red">
                         <b><u>Irie Vibes Roots Festival 2021 is cancelled</u></b>.</p>
                     </span>
                     <p>
@@ -28,7 +28,7 @@
                     <p>
                         Due to pandemic restrictions, there will be <b>no festival this year</b>. The next edition in 2022 is planned, and remains planned until further notice regarding public health concerns.
                     </p>
-                    <h3>Here are our other events you can attend:</h3>
+                    <h2 class="text-irie-green">Here are our other events you can attend:</h2>
                     <p>
                     <ul>
                         <li><b>July 16th, 17th & 18th × </b><a href="https://www.facebook.com/events/199580122096394/">Positivity Weekend #3</a> <small>[Dub & Soundsystem]</small></li>
@@ -43,18 +43,21 @@
 
                 <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Irie Vibes Roots Festival</h1><br />
                 <div id="home_invite-text">
-                    <div class="text-left text-success">
+                    <div class="text-left text-irie-green">
                         <h1 class="mt-md-3 mb-0 px-3 quote">back to the roots</h1>
                         <p class="text-justify">
-                            Irie Vibes is going back to where it all began. Irie Vibes 2022 will be
-                            once again a kickback to our roots, memories and happenings. We invite you to join us and many others at <b>Irie Vibes back to the Roots Festival 2022</b>, where the mind and body come together in a beautiful feast of colours and sounds. Don't miss a single drum hit! Bookmark our <a class="text-success" href="/en/lineup/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>line-up page</a> to your home screen. Irie!
+                            Irie Vibes is sticking to its roots once again. We heard your voices! Our roots are truly the best way to build up this community. Therefor, Irie Vibes Roots Festival 2022 will once a again be a "Back to the roots" edition. Keep it simple, keep it irie.
+                            We invite you to join us and many others at <b>Irie Vibes back to the Roots Festival 2022</b>, where the mind and body come together in a beautiful feast of colours, sounds, and spiritual bonding. Curious to see what's on the menu? Check out our <a class="text-irie-green text-bold" href="/en/lineup/"><i class="bi bi-link-45deg"></i>line-up page</a> <br/>
+                            Still hungry for more? Bookmark our pages! Find more info in the footer, or click <a href="#footer_main"><i class="bi bi-info-circle"></i>here</a>.
                         </p>
                     </div>
-                    <div class="text-md-right text-warning">
+                    <div class="text-md-right text-irie-yellow">
                         <h1 class="mt-3 mb-0 px-3 quote">one love</h1>
-                        <p class="text-justify text-md-right">Here at Irie Vibes, family is important. We're a big family building towards an even bigger future. Without help from people like you, we wouldn't be able to fulfill this dream. Mash down! Visit the <a class="text-warning" href="/en/info/volunteers/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>volunteers page</a> to see if you're up for a sweet family thing.</p>
+                        <p class="text-justify text-md-right">
+                        Irie Vibes has always been about family. Through coming together, sharing experiences and enjoying our mutual love for Reggae & Dub, a strong bond is inevitable. Year after year, this bond becomes stronger, more powerful, and more united. True I-nity!<br/>
+                        We rely on the good hearts of our volunteers to build up the festival every year. Besides our crew, we are always looking for volunteers to help us out. Are you interested in becoming a volunteer? Check out our <a class="text-irie-yellow text-bold" href="/en/lineup/"><i class="bi bi-link-45deg"></i>volunteers page</a> and, sign up if you wish?      
                     </div>
-                    <div class="text-left text-danger">
+                    <div class="text-left text-irie-red">
                         <h1 class="mt-3 mb-0 px-3 quote ">be with us</h1>
                         <p class="text-justify">
                             Looking for Tickets? Buy them now! A camping ticket guarantees you a spot on our camping too. Tickets and pricing available <a class="text-danger" href="/en/tickets/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>here</a>. Why wait?
