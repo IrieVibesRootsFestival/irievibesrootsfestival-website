@@ -37,7 +37,7 @@
                                 <div class="card-body">
                                     <h4 class="card-title">West Vlaamse Vibes @ Zwanzibar</h4>
                                     <h5 class="card-text badge bg-irie-red">Summer bar</h5>
-                                    <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                                    <p class="card-text">Een kleinschalige, gezellige, kindvriendelijke zomerbar op een unieke locatie in het centrum van Kortemark. Inkom gratis.</p>
                                     <a href="https://www.facebook.com/events/499653724640330/" class="btn btn-irie-red">Programme & info</a>
 
                                 </div>
@@ -52,7 +52,7 @@
                                 <div class="card-body">
                                     <h4 class="card-title">Rock'n'Roll @ Zwanzibar</h4>
                                     <h5 class="card-text badge bg-irie-yellow">Summer bar</h5>
-                                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                                    <p class="card-text">Een kleinschalige, gezellige, kindvriendelijke zomerbar op een unieke locatie in het centrum van Kortemark. Inkom gratis.</p>
                                     <a href="https://www.facebook.com/events/224091835982781/" class="btn btn-irie-yellow">Programme & info</a>
                                 </div>
                                 <div class="card-footer">
@@ -66,7 +66,7 @@
                                 <div class="card-body">
                                     <h4 class="card-title">Woodstock @ Zwanzibar</h4>
                                     <h5 class="card-text badge bg-irie-green">Summer bar</h5>
-                                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                                    <p class="card-text">Een kleinschalige, gezellige, kindvriendelijke zomerbar op een unieke locatie in het centrum van Kortemark. Inkom gratis.</p>
                                     <a href="https://www.facebook.com/events/1199852113799184/" class="btn btn-irie-green">Programme & info</a>
                                 </div>
                                 <div class="card-footer">
