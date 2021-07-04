@@ -122,13 +122,6 @@ body {
 }
 
 #home_sidebar-right .box {
-  background: linear-gradient(
-      hsla(150, 100%, 20%, 0.25),
-      hsla(53, 100%, 40%, 0.25),
-      hsla(0, 93%, 43%, 0.2)
-    ),
-    rgba(0, 0, 0, 0.2);
-
   border-radius: 3px;
   margin-bottom: 1em;
 }
@@ -150,6 +143,7 @@ body {
   border-image-source: url("/src/img/border/header.jpg") !important;
   padding: 20px !important;
   background-color: #2a1e0f;
+  border: 0px solid;
 }
 
 /* Links get fancy icons  
