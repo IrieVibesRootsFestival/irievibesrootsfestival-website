@@ -172,10 +172,6 @@ body {
 
 /*MEDIA QUERRIES*/
 
-.border-lg {
-  border-width: 4px !important;
-}
-
 .popover {
   background-image: url("/src/img/paper-texture.jpg");
   background-size: contain;

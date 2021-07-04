@@ -63,7 +63,7 @@
                 </div>
             </div>
             <div class="col-12 col-md-4" id="home_sidebar-right">
-                <div class="box-wood border border-lg border-irie-yellow">
+                <div class="border border-3 border-dark">
                     <a href="https://tickets.irievibes.be">
                         <picture>
                             <source srcset="/src/img/promo/irie-vibes-2022-alt.webp" type="image/webp">
@@ -72,10 +72,25 @@
                         </picture>
                     </a>
                 </div>
-                <div class="col p-2 m-0 mb-1 border border-lg border-success rounded bg-img">
-
+                <div class="border border-3 border-irie-red">
+                <a href="">
+                        <picture>
+                            <source srcset="" type="image/webp">
+                            <source srcset="/src/img/kortemark-conge/kortemark_conge.jpg" type="image/jpeg">
+                            <img alt="" class="img-fluid rounded" src="/src/img/kortemark-conge/kortemark_conge.jpg" />
+                        </picture>
+                    </a>
                 </div>
-                <div class="row p-2 m-0 mb-1 border border-lg border-warning rounded bg-img">
+                <div class="border border-3 border-irie-yellow">
+                <a href="./kids/">
+                        <picture>
+                            <source srcset="" type="image/webp">
+                            <source srcset="\src\img\little-lion-banner.png" type="image/jpeg">
+                            <img alt="" class="img-fluid rounded" src="\src\img\little-lion-banner.png" />
+                        </picture>
+                    </a>
+                </div>
+                <div class="border border-3 border-irie-green">
                     <a href="https://shop.irievibes.be" class="p-0">
                         <picture>
                             <source srcset="/src/img/news/irie-vibes-trui-webshop-advertentie.webp" type="image/webp">
@@ -84,6 +99,7 @@
                         </picture>
                     </a>
                 </div>
+                
                 <div class="row py-2 m-0 border border-lg border-success rounded bg-img">
                     <div class="col-12">
                         <p class="text-center bg-success rounded text-white">Lion's Den</p>
