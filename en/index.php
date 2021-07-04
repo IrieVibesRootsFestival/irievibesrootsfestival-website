@@ -29,7 +29,7 @@
                         Due to pandemic restrictions, there will be <b>no festival this year</b>. The next edition in 2022 is planned, and remains planned until further notice regarding public health concerns.
                     </p>
                     <h1 class="text-irie-green">Here are our other events you can attend:</h1>
-                    <div class="row row-cols-1 row-cols-md-4 g-4">
+                    <div class="row row-cols-1 row-cols-md-2 g-2">
                         <div class="col">
                             <div class="card h-100 border border-irie-red">
                                 <img src="/src/img/news/positivity_weekend_3.jpg" class="card-img-top" alt="Positivity Weekend 3">
