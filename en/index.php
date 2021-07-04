@@ -75,7 +75,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row row-cols-1 row-cols-md-3 g-3">
+                    <div class="row row-cols-1 row-cols-md-2 g-2">
                         <div class="col">
                             <div class="card h-100 border border-4 border-irie-red">
                                 <img src="/src/img/news/positivity_weekend_3.jpg" class="card-img-top" alt="Positivity Weekend 3">
