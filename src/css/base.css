@@ -132,26 +132,15 @@ body {
   margin-bottom: 1em;
 }
 
-#home_invite-text div.text-irie-yellow h1{ 
-  text-shadow: 2px 3px 0px rgba(94,74,0,75%);
- }
- #home_invite-text div.text-irie-green h1{ 
-  text-shadow: 2px 3px 0px rgba(74,94,0,75%);
- }
- #home_invite-text div.text-irie-red h1{ 
-  text-shadow: 2px 3px 0px rgba(94,24,0,75%);
- }
- #home_invite-text div p{
-   text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
-   font-size: 18px;
- }
+
 
 #home_invite-text div{
   background-image: url("/src/img/border/single_piece.png");
   padding: 2px 60px 20px 65px;
   margin-left:-5px;
   background-size: cover;
-  text-shadow: 2px 2px 20px rgb(94 74 0 / 95%), 1px 2px 1px rgb(94 74 0);
+  text-shadow: 2px 2px 3px rgb(122 122 122 / 75%);
+  font-size: 18px;
 }
 #home_invite-text div#home_invite-first{
   background-image: url("/src/img/border/tape_field.png");
@@ -163,6 +152,16 @@ body {
 #home_invite-text div#home_invite-third{
   background-image: url("/src/img/border/single_piece2.png");
 }
+
+#home_invite-text div.text-irie-yellow h1{ 
+  text-shadow: 2px 3px 0px rgba(94,74,0,75%);
+ }
+ #home_invite-text div.text-irie-green h1{ 
+  text-shadow: 2px 3px 0px rgba(74,94,0,75%);
+ }
+ #home_invite-text div.text-irie-red h1{ 
+  text-shadow: 2px 3px 0px rgba(94,24,0,75%);
+ }
 
 .box.border {
   padding: 0px;
