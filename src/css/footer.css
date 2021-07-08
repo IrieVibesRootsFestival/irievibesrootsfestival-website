@@ -54,7 +54,7 @@ footer div#footer_volunteer .btn {
 
 footer div#footer_social {
   padding: 8px 0px 8px 0px;
-  letter-spacing: -4px;
+  /*letter-spacing: -4px;*/
 }
 
 footer div#footer_social-button i.bi.bi-instagram::before {
