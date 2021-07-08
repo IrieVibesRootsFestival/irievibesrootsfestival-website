@@ -118,7 +118,7 @@
                     </div>
                     <div class="col">
                         <h3 class="text-irie"><b>Realtime updates</b></h3>
-                        <div class="fb-page rounded" data-href="https://www.facebook.com/IrieVibesRootsFesitval" data-tabs="timeline" data-width="" data-height="350" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
+                        <div class="fb-page rounded" data-href="https://www.facebook.com/IrieVibesRootsFesitval" data-tabs="timeline" data-width="auto" data-height="450" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
                     </div>
                 </div>
             </div>
