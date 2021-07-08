@@ -145,9 +145,9 @@
                             Still hungry for more? Bookmark our pages! Find more info in the footer, or click <a class="text-irie-success" href="#footer_main"><i class="bi bi-info-circle"></i><b>here</b></a>.
                         </p>
                     </div>
-                    <div class="text-md-right text-irie-yellow">
+                    <div id="home_invite-second" class="text-md-right text-irie-yellow">
                         <h1 class="mt-3 mb-0 px-3 quote">one love</h1>
-                        <p class="text-justify text-md-right">
+                        <p class="text-justify">
                             Irie Vibes has always been about family. Through coming together, sharing experiences and enjoying our mutual love for Reggae & Dub, a strong bond is inevitable. Year after year, this bond becomes stronger, more powerful, and more united. True I-nity!<br />
                             We rely on the good hearts of our volunteers to build up the festival every year. Besides our crew, we are always looking for volunteers to help us out. Are you interested in becoming a volunteer? Check out our <a class="text-irie-yellow text-bold" href="/en/lineup/"><i class="bi bi-link-45deg"></i><b>volunteers page</b></a> and, sign up if you wish?
                     </div>

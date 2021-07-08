@@ -132,6 +132,24 @@ body {
   margin-bottom: 1em;
 }
 
+#home_invite-text div.text-irie-yellow{ 
+  text-shadow: 2px 3px 0px rgba(94,74,0,75%);
+ }
+ #home_invite-text div.text-irie-green{ 
+  text-shadow: 2px 3px 0px rgba(74,94,0,75%);
+ }
+ #home_invite-text div.text-irie-red{ 
+  text-shadow: 2px 3px 0px rgba(94,24,0,75%);
+ }
+
+#home_invite-second{
+  background-image: url("/src/img/border/single_piece.png");
+  padding: 20px 60px 20px 60px;
+  background-size: cover;
+  text-shadow: 1px 1px 20px rgb(94 74 0 / 95%), 1px 2px 1px rgb(94 74 0);
+  font-size: 18px;
+}
+
 .box.border {
   padding: 0px;
   border: 5px solid !important;
