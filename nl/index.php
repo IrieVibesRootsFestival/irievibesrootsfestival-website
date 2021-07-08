@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -16,15 +15,16 @@
         <div class="row justify-content-center">
             <div id="home-text" class="col-12 col-md-8 ">
 
+
                 <h1 class="text-center text-danger">Warning! Scam alert!</h1>
                 <p>
-                    In the light of recently appearing events on facebook depicting "Irie Vibes Roots Festival 2021", we would like to make a clear statement that
+                    Betreffende opduikende evenementen op facebook, zouden wij als vzw nog eens duidelijk willen maken dat
                 </p>
                 <span class="text-irie-red">
-                    <b><u>Irie Vibes Roots Festival 2021 is cancelled</u></b>.</p>
+                    <b><u>Irie Vibes 2021 afgelast werd.</u></b>.</p>
                 </span>
                 <p>
-                    Any events claiming to be Irie Vibes Roots Festival 2021 are <b>fraudulent</b> and <b>not organised or maintained by GreenForward</b>. Please be mindful to not engage with these fraudulent posts and events. Irie Vibes Roots Festival will always announce changes to scheduling and plans on <a href="https://www.facebook.com/irievibesrootsfesitval">its own facebook page</a>.
+                    Desbetreffende evenementenpagina's zijn <b>frauduleus</b>, en hebben <b>niets</b> met de <b>officiële werking van de vzw</b> te maken.
                 </p>
                 <p>
                     Due to pandemic restrictions, there will be <b>no festival this year</b>. The next edition in 2022 is planned, and remains planned until further notice regarding public health concerns.
@@ -125,7 +125,9 @@
                                 <div class="fb-page rounded border border-2 border-irie-green" data-href="https://www.facebook.com/IrieVibesRootsFesitval" data-width="500" data-height="450" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
                             </div>
                             <div class="card-footer">
-                                <a href="https://www.facebook.com/IrieVibesRootsFesitval"><p class="card-text"><small class="text-muted">Facebook updates</small></p></a>
+                                <a href="https://www.facebook.com/IrieVibesRootsFesitval">
+                                    <p class="card-text"><small class="text-muted">Facebook updates</small></p>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -137,23 +139,24 @@
                     <div id="home_invite-first" class="text-end text-irie-green pe-md-4">
                         <h1 class="mt-md-3 mb-0 px-3 quote">back to the roots</h1>
                         <b>
-                        <p class="text-justify-right">
+                            <p class="text-justify-right">
                             <p class="text-justify">
-                            Irie Vibes gaat terug naar waar het allemaal begon. Irie Vibes 2022 zal opnieuw een terugblik zijn naar onze roots, herinneringen en gebeurend. We nodigen je uit om deel uit te maken van het <b>Irie Vibes back to the Roots Festival 2022</b>, waar hoofd, hart en lichaam samen komen in een fantastisch spektakel van kleur en geluid. Mis geen enkele drumslag! Plaats een bookmark van onze
-                            <a class="text-irie-green" href="/en/lineup/"><i class="bi bi-link-45deg"></i><b>line-up pagina</b></a> op je startscherm. Irie!
-                        </p>
-                        </p>
-                        <p>
-                            Nog steeds een drang voor meer? Plaats een bookmark op onze paginas! Je kan meer info vinden in de footer, of <a class="text-irie-success" href="#footer_main"><i class="bi bi-info-circle"></i><b>hier</b></a> klikken.
-                        </p>
+                                Irie Vibes gaat terug naar waar het allemaal begon. Irie Vibes 2022 zal opnieuw een terugblik zijn naar onze roots, herinneringen en gebeurend. We nodigen je uit om deel uit te maken van het <b>Irie Vibes back to the Roots Festival 2022</b>, waar hoofd, hart en lichaam samen komen in een fantastisch spektakel van kleur en geluid. Mis geen enkele drumslag! Plaats een bookmark van onze
+                                <a class="text-irie-green" href="/en/lineup/"><i class="bi bi-link-45deg"></i><b>line-up pagina</b></a> op je startscherm. Irie!
+                            </p>
+                            </p>
+                            <p>
+                                Nog steeds een drang voor meer? Plaats een bookmark op onze paginas! Je kan meer info vinden in de footer, of <a class="text-irie-success" href="#footer_main"><i class="bi bi-info-circle"></i><b>hier</b></a> klikken.
+                            </p>
                         </b>
                     </div>
                     <div id="home_invite-second" class="text-left text-irie-yellow">
                         <h1 class="mt-3 mb-0 px-3 quote">one love</h1>
-                        
-                    
+
+
                         <p class="text-justify">
-                        Hier bij Irie Vibes is familie belangrijk. Als een grote familie die bouwt naar een nóg grotere toekomst. Zonder hulp van mensen zoals jij zou het onmogelijk zijn om deze droom waar te maken. Mash down! Ga naar de <a class="text-warning" href="/nl/info/volunteers/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>vrijwilligers pagina</a> om te kijken als het iets voor jou is. Family thing!</div>
+                            Hier bij Irie Vibes is familie belangrijk. Als een grote familie die bouwt naar een nóg grotere toekomst. Zonder hulp van mensen zoals jij zou het onmogelijk zijn om deze droom waar te maken. Mash down! Ga naar de <a class="text-warning" href="/nl/info/volunteers/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>vrijwilligers pagina</a> om te kijken als het iets voor jou is. Family thing!
+                    </div>
                     <div id="home_invite-third" class="text-end text-irie-red pe-md-4">
                         <h1 class="mt-3 mb-0 px-3 quote ">Wees erbij</h1>
                         <p class="text-justify">
