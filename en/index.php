@@ -117,9 +117,8 @@
                         </div>
                     </div>
                     <div class="col">
-                        <h3 class="text-irie"><b>News & Praises</b></h3>
-                        <!--Inserted elements here -->
-                        <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/content/news-links.php'); ?>
+                        <h3 class="text-irie"><b>Realtime updates</b></h3>
+                        <div class="fb-page rounded" data-href="https://www.facebook.com/IrieVibesRootsFesitval" data-tabs="timeline" data-width="" data-height="350" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
                     </div>
                 </div>
             </div>
@@ -237,8 +236,11 @@
             </div>
 
             <div class="col-12 col-md-4">
-                <h3 class="text-irie"><b>Realtime updates</b></h3>
-                <div class="fb-page rounded" data-href="https://www.facebook.com/IrieVibesRootsFesitval" data-tabs="timeline" data-width="" data-height="350" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
+            <div class="col">
+                        <h3 class="text-irie"><b>News & Praises</b></h3>
+                        <!--Inserted elements here -->
+                        <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/content/news-links.php'); ?>
+                    </div>
             </div>
         </div>
     </div>
