@@ -160,7 +160,7 @@ body {
       padding-left:19px;
   }*/
 
-.content a[href*="https"]::before{
+/*.content a[href*="https"]::before{
   content: "\f470";
   display: inline-block;
     font-family: bootstrap-icons !important;
@@ -186,7 +186,7 @@ body {
     vertical-align: -.125em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-}
+}*/
 
 .card-group {
   padding-bottom: 5px;
