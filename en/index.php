@@ -50,7 +50,7 @@
                                 <h4 class="card-title">West Vlaamse Vibes @ Zwanzibar</h4>
                                 <h5 class="card-text badge bg-irie-red">Summer bar</h5>
                                 <p class="card-text">Een kleinschalige, gezellige, kindvriendelijke zomerbar op een unieke locatie in het centrum van Kortemark. Inkom gratis.</p>
-                                <a href="https://www.facebook.com/events/499653724640330/" class="btn btn-irie-red">Programme & info</a>
+                                <a href="https://www.facebook.com/events/499653724640330/" class="btn btn-irie-red">Program & info</a>
 
                             </div>
                             <div class="card-footer">
@@ -65,7 +65,7 @@
                                 <h4 class="card-title">Rock'n'Roll @ Zwanzibar</h4>
                                 <h5 class="card-text badge bg-irie-yellow">Summer bar</h5>
                                 <p class="card-text">Een kleinschalige, gezellige, kindvriendelijke zomerbar op een unieke locatie in het centrum van Kortemark. Inkom gratis.</p>
-                                <a href="https://www.facebook.com/events/224091835982781/" class="btn btn-irie-yellow">Programme & info</a>
+                                <a href="https://www.facebook.com/events/224091835982781/" class="btn btn-irie-yellow">Program & info</a>
                             </div>
                             <div class="card-footer">
                                 <p class="card-text"><small class="text-muted">August 21st & 22nd</small></p>
@@ -79,7 +79,7 @@
                                 <h4 class="card-title">Woodstock @ Zwanzibar</h4>
                                 <h5 class="card-text badge bg-irie-green">Summer bar</h5>
                                 <p class="card-text">Een kleinschalige, gezellige, kindvriendelijke zomerbar op een unieke locatie in het centrum van Kortemark. Inkom gratis.</p>
-                                <a href="https://www.facebook.com/events/1199852113799184/" class="btn btn-irie-green">Programme & info</a>
+                                <a href="https://www.facebook.com/events/1199852113799184/" class="btn btn-irie-green">Program & info</a>
                             </div>
                             <div class="card-footer">
                                 <p class="card-text"><small class="text-muted">September 11th & 12th</small></p>
