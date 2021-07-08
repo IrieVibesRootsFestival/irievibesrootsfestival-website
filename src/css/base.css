@@ -134,14 +134,17 @@ body {
 
 
 
-#home_invite-text div{
+#home_invite-text div#home_invite-second{
   background-image: url("/src/img/border/single_piece.png");
   padding: 2px 60px 20px 65px;
   margin-left:-5px;
   background-size: cover;
   text-shadow: 2px 2px 3px rgb(122 122 122 / 75%);
   font-size: 18px;
+  margin-top: 5px;
+  margin-bottom:5px;
 }
+/*
 #home_invite-text div#home_invite-first{
   background-image: url("/src/img/border/tape_field.png");
   padding: 5px 95px 20px 130px;
@@ -151,7 +154,7 @@ body {
 }
 #home_invite-text div#home_invite-third{
   background-image: url("/src/img/border/single_piece2.png");
-}
+}*/
 
 #home_invite-text div.text-irie-yellow h1{ 
   text-shadow: 2px 3px 0px rgba(94,74,0,75%);
