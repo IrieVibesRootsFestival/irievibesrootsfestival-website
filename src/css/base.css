@@ -139,7 +139,8 @@ body {
   padding: 2px 60px 20px 65px;
   margin-left:-5px;
   background-size: cover;
-  text-shadow: 2px 2px 3px rgb(122 122 122 / 75%);
+  text-shadow: 1px 1px 0px rgb(94 74 0 / 75%);
+  font-weight:bold;
   font-size: 18px;
   margin-top: 5px;
   margin-bottom:5px;
