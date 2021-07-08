@@ -146,13 +146,21 @@ body {
    font-size: 18px;
  }
 
-#home_invite-second{
+#home_invite-text div{
   background-image: url("/src/img/border/single_piece.png");
   padding: 2px 60px 20px 65px;
   margin-left:-5px;
   background-size: cover;
   text-shadow: 1px 1px 20px rgb(94 74 0 / 95%), 1px 2px 1px rgb(94 74 0);
-  
+}
+#home_invite-text div#home_invite-first{
+  background-image: url("/src/img/border/tape_field.png");
+}
+#home_invite-text div#home_invite-second{
+  background-image: url("/src/img/border/single_piece.png");
+}
+#home_invite-text div#home_invite-third{
+  background-image: url("/src/img/border/single_piece2.png");
 }
 
 .box.border {
