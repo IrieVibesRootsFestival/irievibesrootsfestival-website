@@ -136,10 +136,9 @@ body {
 
 #home_invite-text div#home_invite-second{
   background-image: url("/src/img/border/single_piece.png");
-  padding: 2px 60px 20px 65px;
-  margin-left:-5px;
+  padding: 2px 60px 20px 68px;
   background-size: cover;
-  text-shadow: 1px 1px 0px rgb(94 74 0 / 75%);
+  text-shadow: 2px 2px 0px rgba(94,74,0,75%);
   font-weight:bold;
   font-size: 18px;
   margin-top: 5px;
