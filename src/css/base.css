@@ -133,14 +133,15 @@ body {
 }
 
 
-
+#home_invite-text p{
+  font-size:18px;
+  font-weight: bold;
+}
 #home_invite-text div#home_invite-second{
   background-image: url("/src/img/border/single_piece.png");
   padding: 2px 60px 20px 68px;
   background-size: cover;
   text-shadow: 2px 2px 0px rgba(94,74,0,75%);
-  font-weight:bold;
-  font-size: 18px;
   margin-top: 5px;
   margin-bottom:5px;
 }
