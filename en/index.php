@@ -121,10 +121,10 @@
                             <div class="card-body">
                                 <h4 class="card-title">Realtime updates</h4>
                                 <h5 class="card-text badge bg-irie-green">News</h5>
-                                <div class="fb-page" data-href="https://www.facebook.com/IrieVibesRootsFesitval" data-width="500" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
+                                <div class="fb-page rounded border border-2 border-irie-green" data-href="https://www.facebook.com/IrieVibesRootsFesitval" data-width="500" data-height="450" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
                             </div>
                             <div class="card-footer">
-                                <p class="card-text"><small class="text-muted">Facebook updates</small></p>
+                                <a href="https://www.facebook.com/IrieVibesRootsFesitval"><p class="card-text"><small class="text-muted">Facebook updates</small></p></a>
                             </div>
                         </div>
                     </div>

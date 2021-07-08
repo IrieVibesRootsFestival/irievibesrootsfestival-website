@@ -71,7 +71,11 @@ body {
 }
 
 .fb-page{
+  
+}
+.fb_iframe_widget{
   box-shadow: 0px 0px 15px 2px white;
+  overflow:hidden;
 }
 
 .container.content .row {
@@ -155,6 +159,8 @@ body {
       background:url(https://www.facebook.com/favicon.ico) no-repeat left center;
       padding-left:19px;
   }*/
+
+
 
 .card-group {
   padding-bottom: 5px;
