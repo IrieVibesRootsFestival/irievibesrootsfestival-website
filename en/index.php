@@ -117,8 +117,15 @@
                         </div>
                     </div>
                     <div class="col">
-                        <h3 class="text-irie"><b>Realtime updates</b></h3>
-                        <div class="fb-page rounded" data-href="https://www.facebook.com/IrieVibesRootsFesitval" data-tabs="timeline" data-width="auto" data-height="450" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
+                        <div class="card h-100 border border-4 border-irie-green">
+                            <div class="card-body">
+                                <h4 class="card-title">Realtime updates</h4>
+                                <div class="fb-page" data-href="https://www.facebook.com/IrieVibesRootsFesitval" data-width="500" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
+                            </div>
+                            <div class="card-footer">
+                                <p class="card-text"><small class="text-muted">Facebook updates</small></p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -236,11 +243,11 @@
             </div>
 
             <div class="col-12 col-md-4">
-            <div class="col">
-                        <h3 class="text-irie"><b>News & Praises</b></h3>
-                        <!--Inserted elements here -->
-                        <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/content/news-links.php'); ?>
-                    </div>
+                <div class="col">
+                    <h3 class="text-irie"><b>News & Praises</b></h3>
+                    <!--Inserted elements here -->
+                    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/content/news-links.php'); ?>
+                </div>
             </div>
         </div>
     </div>
