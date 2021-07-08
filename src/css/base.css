@@ -132,14 +132,17 @@ body {
   margin-bottom: 1em;
 }
 
-#home_invite-text div.text-irie-yellow{ 
+#home_invite-text div.text-irie-yellow h1{ 
   text-shadow: 2px 3px 0px rgba(94,74,0,75%);
  }
- #home_invite-text div.text-irie-green{ 
+ #home_invite-text div.text-irie-green h1{ 
   text-shadow: 2px 3px 0px rgba(74,94,0,75%);
  }
- #home_invite-text div.text-irie-red{ 
+ #home_invite-text div.text-irie-red h1{ 
   text-shadow: 2px 3px 0px rgba(94,24,0,75%);
+ }
+ #home_invite-text div p{
+   text-shadow: 1px 1px 0px rgba(0,0,0,0.5);
  }
 
 #home_invite-second{
