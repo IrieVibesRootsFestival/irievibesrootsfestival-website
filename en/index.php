@@ -156,7 +156,7 @@
                     <div id="home_invite-third" class="text-end text-irie-red pe-md-4">
                         <h1 class="mt-3 mb-0 px-3 quote ">be with us</h1>
                         <p class="text-justify">
-                            Looking for Tickets? Buy them now! A camping ticket guarantees you a spot on our camping too. Tickets and pricing available <a class="text-danger" href="/en/tickets/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>here</a>. Why wait?
+                            Looking for Tickets? Buy them now! A camping ticket guarantees you a spot on our camping too. Tickets and pricing available <a class="text-danger" href="/en/tickets/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>here</a>. Why wait? Early birds can even score a discounted ticket! 
                         </p>
                     </div>
                 </div>
@@ -213,7 +213,7 @@
 
                     </div>
                 </div>-->
-                <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Kijk eens</h1>
+                <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Look!</h1>
                 <div id="slider-wrapper" class="p-2 mb-2 rounded">
                     <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/content/slider.php'); ?>
                 </div>
