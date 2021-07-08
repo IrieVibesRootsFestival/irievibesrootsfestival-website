@@ -17,17 +17,18 @@ Assigning those colours to items happens in typesetting.css.
     
   
     /*Colors*/
+    --irie-red: #cc3300;
     --irie-yellow: #ffcc33;
     --irie-green: #669933;
-    --irie-red: #cc3300;
 
     --irie-primary:#4F0112;
     --irie-secondary:#d1bf87;
 
     /*Variations of colors*/
     --irie-red-hover: #ffdb70;
-    --irie-green-hover: #94b870;
     --irie-yellow-hover: #db704d;
+    --irie-green-hover: #94b870;
+    
 
     --irie-primary-hover: #844d59;
     --irie-secondary-hover:#dfd2ab;
