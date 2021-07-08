@@ -226,7 +226,7 @@ body {
 }
 .card {
   border: none;
-  background-image: url("/src/img/background/grey-paper-texture.jpg");
+  background-image: url("/src/img/background/paper1.jpg");
   background-attachment: scroll;
   background-position: center;
 }
