@@ -155,6 +155,7 @@ body {
 }
 #home_invite-text div#home_invite-first{
   background-image: url("/src/img/border/tape_field.png");
+  padding: 5px 95px 20px 130px;
 }
 #home_invite-text div#home_invite-second{
   background-image: url("/src/img/border/single_piece.png");
