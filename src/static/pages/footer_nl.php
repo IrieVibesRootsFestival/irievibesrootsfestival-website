@@ -1,5 +1,56 @@
 <!--Footer-->
-<footer id="footer_main">
+<footer id="footer_wrapper">
+    <div id="footer_pre">
+        <div class="row container">
+            <!-- Volunteer sign up section -->
+            <div id="footer_volunteer" class="col-12 col-md-9">
+                <a href="/en/info/volunteers" class="btn">Become volunteer</a>
+            </div>
+            <!-- Social buttons -->
+            <div id="footer_social" class="col-12 col-md-3">
+                <!-- Begin Mailchimp Signup Form -->
+                <form action="https://irievibes.us8.list-manage.com/subscribe/post?u=d99c4a0da87cf14cbb7acb09c&amp;id=ec0420bb34" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                    <div id="mc_embed_signup">
+                        <div id="mc_embed_signup_scroll" class="input-group mb-3">
+                            <label class="sr-only" for="subscribe-email">Email address</label>
+                            <input type="text" value="" name="EMAIL" placeholder="Enter your email..." class="subscribe-email form-control required email" id="mce-EMAIL">
+                            <button type="submit" value="Subscribe" id="mc-embedded-subscribe" class="btn btn-volunteer mt-0"><a>Subscribe</a></button>
+
+                        </div>
+                    </div>
+                </form>
+                <!--End mc_embed_signup-->
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" placeholder="Email" aria-label="Email" aria-describedby="button-addon2">
+                    <button class="btn btn-outline-secondary btn-irie-red" type="submit" id="button-addon2" action="https://irievibes.us8.list-manage.com/subscribe/post?u=d99c4a0da87cf14cbb7acb09c&amp;id=ec0420bb34" method="post" id="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>Subscribe</button>
+                </div>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                    <input type="text" name="b_81c9b73355e0e402d5618756c_8b879d422a" tabindex="-1" value="">
+                </div>
+                <!-- old form -->
+                <!-- Begin Mailchimp Signup Form -->
+                <div id="mc_embed_signup">
+                    <form action="https://irievibes.us8.list-manage.com/subscribe/post?u=d99c4a0da87cf14cbb7acb09c&amp;id=ec0420bb34" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                        <div id="mc_embed_signup_scroll">
+                            <div class="form-group">
+                                <label class="sr-only" for="subscribe-email">Email address</label>
+                                <input type="text" value="" name="EMAIL" placeholder="Enter your email..." class="subscribe-email form-control required email" id="mce-EMAIL">
+                            </div>
+                            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                            <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                                <input type="text" name="b_81c9b73355e0e402d5618756c_8b879d422a" tabindex="-1" value="">
+                            </div>
+                            <div class="text-center">
+                                <button type="submit" value="Subscribe" id="mc-embedded-subscribe" class="btn btn-volunteer mt-0"><a>Subscribe</a></button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <!--End mc_embed_signup-->
+            </div>
+        </div>
+    </div>
     <div id="footer_main">
         <div class="container">
             <div class="row">
@@ -35,7 +86,7 @@
                             <form action="https://irievibes.us8.list-manage.com/subscribe/post?u=d99c4a0da87cf14cbb7acb09c&amp;id=ec0420bb34" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                                 <div id="mc_embed_signup_scroll">
                                     <div class="form-group">
-                                        <label class="sr-only" for="subscribe-email">Emailadres</label>
+                                        <label class="sr-only" for="subscribe-email">Email address</label>
                                         <input type="text" value="" name="EMAIL" placeholder="Enter your email..." class="subscribe-email form-control required email" id="mce-EMAIL">
                                     </div>
                                     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
@@ -43,7 +94,7 @@
                                         <input type="text" name="b_81c9b73355e0e402d5618756c_8b879d422a" tabindex="-1" value="">
                                     </div>
                                     <div class="text-center">
-                                        <button type="submit" value="Subscribe" id="mc-embedded-subscribe" class="btn btn-volunteer mt-0"><a>Abonneer</a></button>
+                                        <button type="submit" value="Subscribe" id="mc-embedded-subscribe" class="btn btn-volunteer mt-0"><a>Subscribe</a></button>
                                     </div>
                                 </div>
                             </form>
