@@ -133,7 +133,7 @@
             <div id="home-text" class="col-12 col-md-8 ">
                 <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Irie Vibes Roots Festival</h1><br />
                 <div id="home_invite-text">
-                    <div id="home_invite-first" class="text-end text-irie-green p-r-md-3">
+                    <div id="home_invite-first" class="text-end text-irie-green pe-md-3">
                         <h1 class="mt-md-3 mb-0 px-3 quote">back to the roots</h1>
                         <b>
                         <p class="text-justify">
@@ -153,7 +153,7 @@
                             Irie Vibes has always been about family. Through coming together, sharing experiences and enjoying our mutual love for Reggae & Dub, a strong bond is inevitable. Year after year, this bond becomes stronger, more powerful, and more united. True I-nity!<br />
                             We rely on the good hearts of our volunteers to build up the festival every year. Besides our crew, we are always looking for volunteers to help us out. Are you interested in becoming a volunteer? Check out our <a class="text-irie-yellow text-bold" href="/en/lineup/"><i class="bi bi-link-45deg"></i><b>volunteers page</b></a> and, sign up if you wish?
                     </div>
-                    <div id="home_invite-third" class="text-end text-irie-red p-r-md-3">
+                    <div id="home_invite-third" class="text-end text-irie-red pe-md-3">
                         <h1 class="mt-3 mb-0 px-3 quote ">be with us</h1>
                         <p class="text-justify">
                             Looking for Tickets? Buy them now! A camping ticket guarantees you a spot on our camping too. Tickets and pricing available <a class="text-danger" href="/en/tickets/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>here</a>. Why wait?
