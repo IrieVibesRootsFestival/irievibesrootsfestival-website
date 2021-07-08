@@ -133,8 +133,8 @@
             <div id="home-text" class="col-12 col-md-8 ">
                 <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Irie Vibes Roots Festival</h1><br />
                 <div id="home_invite-text">
-                    <div id="home_invite-first" class="text-left text-irie-green">
-                        <h1 class="mt-md-3 mb-0 px-3 quote">back to the roots</h1>
+                    <div id="home_invite-first" class="text-left ">
+                        <h1 class="mt-md-3 mb-0 px-3 quote text-irie-green">back to the roots</h1>
                         <p class="text-justify">
                             Irie Vibes is sticking to its roots once again. We heard your voices! Our roots are truly the best way to build up this community. Therefor, Irie Vibes Roots Festival 2022 will once a again be a "Back to the roots" edition. Keep it simple, keep it irie.
                         </p>
