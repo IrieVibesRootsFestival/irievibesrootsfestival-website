@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/header_en.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/header_nl.php'); ?>
     <div class="container content">
         <div class="row justify-content-center">
             <div id="home-text" class="col-12 col-md-8 ">
