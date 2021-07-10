@@ -96,6 +96,15 @@
                         <a class="nav-link text-warning" href="http://shop.irievibes.be"><i class="bi bi-shopping-cart"></i> Webshop</a>
                     </li>
                 </ul>
+                <div class="btn-group" role="group">
+                    <button id="btnGroupDrop1" type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                        <i class="bi bi-translate"></i><span class="flag-icon flag-icon-be"></span>
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+                        <li><a class="dropdown-item" href="#">Dropdown link</a></li>
+                        <li><a class="dropdown-item" href="#">Dropdown link</a></li>
+                    </ul>
+                </div>
                 <!-- This is the language selector. -->
                 <ul class="navbar-nav mb-2 mb-lg-0">
 
@@ -103,7 +112,6 @@
                         <a class="nav-link dropdown-toggle" href="#" id="Irie-Dropdown" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-translate"></i></a>
                         <ul class="dropdown-menu language-menu" aria-labelledby="Irie-Dropdown">
                             <li>
-
                                 <div class="btn-group-vertical" role="group" aria-label="Second group">
                                     <a class="btn btn-link" href="change_lang.php?langset=nl" role="button">
                                         <span class="flag-icon flag-icon-be"></span>
@@ -115,7 +123,6 @@
                                         <span class="flag-icon flag-icon-gb"></span>
                                     </a>
                                 </div>
-
                             </li>
 
                         </ul>
