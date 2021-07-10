@@ -35,6 +35,7 @@
 <meta property="og:updated_time" content="1554544974" />
 <meta name="theme-color" content="#ffc526"/>
 <link rel="icon" type="image/png" href="/src/img/favicon.png"/> 
+<meta property="og:updated_time" content="<?=time()?>" />
 <!-- Bootstrap style sheet -->
 <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous"> -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" integrity="undefined" crossorigin="anonymous">
