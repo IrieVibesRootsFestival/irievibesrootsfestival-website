@@ -96,8 +96,8 @@
                         <a class="nav-link text-warning" href="http://shop.irievibes.be"><i class="bi bi-shopping-cart"></i> Webshop</a>
                     </li>
                     <!-- Language Menu -->
-                    <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects</a>
+                    <li id="nav-lang-menu" class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-language"></i><span class="d-lg-none"> Language</span></a>
                         <ul class="dropdown-menu">
                             <!-- NL -->
                             <li class="nav-item">

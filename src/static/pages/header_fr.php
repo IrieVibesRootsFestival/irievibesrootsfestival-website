@@ -40,7 +40,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/fr/"><i class="fas fa-home"></i><span class="d-lg-none">&nbsp;Home</span><span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item dropdown">
                         <a href="#" alt="/en/festival/" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival</a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/fr/location/"><i class="fas fa-location-arrow"></i> Emplacement</a></li>
@@ -53,7 +53,7 @@
                             <li><a class="nav-link drop-2" href="/fr/festival/safety/"><i class="fas fa-shield-alt"></i> Sécurité</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-lg-none">&nbsp;</i>Programme</a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/fr/artists"><i class="fas fa-microphone-alt"></i> Artistes</a></li>
@@ -71,7 +71,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/fr/festival/kortemark-conge/">Kortemark Congé</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects</a>
                         <ul class="dropdown-menu">
                             <li class="m-2 h4 text-white">Sur le festival</li>
@@ -97,29 +97,25 @@
                     </li>
                 </ul>
                 <!-- This is the language selector. -->
-                <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="Irie-Dropdown" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-translate"></i></a>
-                        <ul class="navbar-nav ml-auto d-md-flex align-items-center">
-                            <li class="nav-item dropdown">
-                                <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-language"></i><span class="d-lg-none"> Langue</span><span class="dropdown-toggle"></span></a>
-                                <ul class="dropdown-menu dropdown-menu-right">
-                                    <!-- NL -->
-                                    <li class="nav-item">
-                                        <a class="nav-link"><span href="nl" class="my-1 flag flag-be select-lang" alt="Belgium"></span></a>
-                                    </li>
-                                    <!-- FR (current) -->
-                                    <li class="nav-item">
-                                        <a class="nav-link"><span href="fr" class="my-1 flag flag-fr" alt="France"></span></a>
-                                    </li>
-                                    <!-- EN -->
-                                    <li class="nav-item">
-                                        <a class="nav-link"><span href="en" class="my-1 flag flag-gb select-lang" alt="England"></span></a>
-                                    </li>
-                                </ul>
+                <!-- Language Menu -->
+                <li id="nav-lang-menu" class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-language"></i><span class="d-lg-none"> Langue</span></a>
+                        <ul class="dropdown-menu">
+                            <!-- NL -->
+                            <li class="nav-item">
+                                <a class="nav-link"><span href="nl" class="my-1 flag flag-be select-lang" alt="Belgium"></span></a>
+                            </li>
+                            <!-- FR (current) -->
+                            <li class="nav-item">
+                                <a class="nav-link"><span href="fr" class="my-1 flag flag-fr" alt="France"></span></a>
+                            </li>
+                            <!-- EN -->
+                            <li class="nav-item">
+                                <a class="nav-link"><span href="en" class="my-1 flag flag-gb select-lang" alt="England"></span></a>
                             </li>
                         </ul>
                     </li>
-                <!-- language menu -->
+                <!-- END language menu -->
 
             </div>
         </div>

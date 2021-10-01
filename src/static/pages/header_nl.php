@@ -40,7 +40,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/nl/"><i class="fas fa-home"></i><span class="d-lg-none">&nbsp;Home</span><span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item dropdown">
                         <a href="#" alt="/en/festival/" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival</a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/nl/location/"><i class="fas fa-location-arrow"></i> Locatie</a></li>
@@ -53,7 +53,7 @@
                             <li><a class="nav-link drop-2" href="/nl/festival/safety/"><i class="fas fa-shield-alt"></i> Veiligheid</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-lg-none">&nbsp;</i>Programma</a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/nl/artists"><i class="fas fa-microphone-alt"></i> Artiesten</a></li>
@@ -71,7 +71,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/nl/festival/kortemark-conge/">Kortemark Congé</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects</a>
                         <ul class="dropdown-menu">
                             <li class="m-2 h4 text-white">Op het festival</li>
@@ -96,10 +96,10 @@
                         <a class="nav-link text-warning" href="http://shop.irievibes.be"><i class="fas fa-shopping-cart"></i> Webshop</a>
                     </li>
                 </ul>
-                <!-- This is the language selector. -->
-                <li class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-language"></i><span class="d-lg-none"> Langue</span><span class="dropdown-toggle"></span></a>
-                    <ul class="dropdown-menu dropdown-menu-right">
+                <!-- Language Menu -->
+                <li id="nav-lang-menu" class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-language"></i><span class="d-lg-none"> Taal</span></a>
+                    <ul class="dropdown-menu">
                         <!-- NL -->
                         <li class="nav-item">
                             <a class="nav-link"><span href="nl" class="my-1 flag flag-be select-lang" alt="Belgium"></span></a>
@@ -114,7 +114,7 @@
                         </li>
                     </ul>
                 </li>
-                <!-- language menu -->
+                <!-- END language menu -->
 
             </div>
         </div>
