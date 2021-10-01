@@ -37,11 +37,9 @@
 <link rel="icon" type="image/png" href="/src/img/favicon.png"/> 
 <meta property="og:updated_time" content="<?=time()?>" />
 <!-- Bootstrap style sheet -->
-<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous"> -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" integrity="undefined" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
 <!-- Load overwrite style sheet as last to enable overwriting Bootstrap features -->
 <link rel="stylesheet" href="/src/css/main.css">
 <link rel="stylesheet" href="/src/css/simplify.css">
 <!-- Cookie Consent styles -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.css">
-<script src="https://kit.fontawesome.com/62cb8cc953.js"></script>
