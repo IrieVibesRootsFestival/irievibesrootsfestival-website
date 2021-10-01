@@ -40,8 +40,8 @@
                 <li class="nav-item">
                         <a class="nav-link" href="/fr/"><i class="fas fa-home"></i><span class="d-lg-none">&nbsp;Home</span><span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="nav-item dropdown-toggle">
-                        <a href="#" alt="/en/festival/" class=" nav-link" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival</a>
+                    <li class="nav-item">
+                        <a href="#" alt="/en/festival/" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival</a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/fr/location/"><i class="fas fa-location-arrow"></i> Emplacement</a></li>
                             <li><a class="nav-link drop-2" href="/fr/festival/rules/"><i class="fas fa-hand-point-right"></i> Règles</a></li>
@@ -53,8 +53,8 @@
                             <li><a class="nav-link drop-2" href="/fr/festival/safety/"><i class="fas fa-shield-alt"></i> Sécurité</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown-toggle">
-                        <a href="#" class=" nav-link" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-lg-none">&nbsp;</i>Programme</a>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-lg-none">&nbsp;</i>Programme</a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/fr/artists"><i class="fas fa-microphone-alt"></i> Artistes</a></li>
                             <li><a class="nav-link drop-2" href="/fr/lineup/"><i class="fas fa-record-vinyl"></i> Line-Up</a></li>
@@ -71,8 +71,8 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/fr/festival/kortemark-conge/">Kortemark Congé</a>
                     </li>
-                    <li class="nav-item dropdown-toggle">
-                        <a href="#" class=" nav-link" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects</a>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects</a>
                         <ul class="dropdown-menu">
                             <li class="m-2 h4 text-white">Sur le festival</li>
                             <li><a class="nav-link drop-2" href="/fr/info/eco/upcycling/"><i class="fas fa-recycle"></i> Upcycling</a></li>
@@ -99,7 +99,7 @@
                 <!-- This is the language selector. -->
                 <ul class="navbar-nav mb-2 mb-lg-0">
 
-					<li class="nav-item dropdown-toggle">
+					<li class="nav-item">
 						<a class="nav-link dropdown-toggle" href="#" id="Irie-Dropdown" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-translate"></i></a>
 						<ul class="dropdown-menu language-menu" aria-labelledby="Irie-Dropdown">
 							<li>
