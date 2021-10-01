@@ -106,7 +106,7 @@
                         </li>
                         <!-- FR (current) -->
                         <li class="nav-item">
-                            <a class="nav-link"><span href="fr" class="my-1 flag flag-fr" alt="France"></span></a>
+                            <a class="nav-link"><span href="fr" class="my-1 flag flag-fr select-lang" alt="France"></span></a>
                         </li>
                         <!-- EN -->
                         <li class="nav-item">
