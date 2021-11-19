@@ -9,6 +9,7 @@
 body{
     font-family: 'Roboto Mono', monospace;
     letter-spacing: -0.042rem;
+    font-size: 105%;
 }
 
 h1, h2, h3, h4, h5, h6{font-family: 'Dosis'; letter-spacing: 0.2px;}
