@@ -37,7 +37,7 @@
 <link rel="icon" type="image/png" href="/src/img/favicon.png"/> 
 <meta property="og:updated_time" content="<?=time()?>" />
 <!-- Bootstrap style sheet -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <!-- Load overwrite style sheet as last to enable overwriting Bootstrap features -->
 <link rel="stylesheet" href="/src/css/main.css">
 <link rel="stylesheet" href="/src/css/simplify.css">
