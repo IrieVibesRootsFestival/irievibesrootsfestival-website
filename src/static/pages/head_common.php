@@ -42,4 +42,3 @@
 <link rel="stylesheet" href="/src/css/simplify.css">
 <!-- Cookie Consent styles -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.css">
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.js"></script>

@@ -64,34 +64,41 @@
             </div>
 
             <div class="row" id="ttf-map">
-                <!-- map & logos -->
-                <div class="col-12 col-md-3 mb-3">
-                    <a href="https://www.laconditionpublique.com/">
-                        <img alt="" class="img-fluid rounded" src="/src/img/partners/lacondition.jpg" alt="La Condition Publique">
-                    </a>
+                <!-- logos -->
+                <div class="col-12 col-md-6" id="ttf-map_col-left">
+                    <div class="col-12 col-md-3 mb-3">
+                        <a href="https://www.laconditionpublique.com/">
+                            <img alt="" class="img-fluid rounded" src="/src/img/partners/lacondition.jpg" alt="La Condition Publique">
+                        </a>
+                    </div>
+                    <div class="col-12 col-md-3 mb-3">
+                        <a href="https://www.esperanzah.be/engagement/trim-the-footprint/">
+                            <img alt="" class="img-fluid rounded" src="/src/img/partners/esperanzah.jpg" alt="Esperanzah! festival">
+                        </a>
+                    </div>
+                    <div class="col-12 col-md-3 mb-3">
+                        <img alt="" class="img-fluid rounded" src="/src/img/irievibesrootsfestival-4-3.jpg" alt="Irie Vibes Roots Festival">
+                    </div>
+                    <div class="col-12 col-md-3 mb-3">
+                        <a href="https://www.interreg-fwvl.eu/nl/">
+                            <img alt="" class="img-fluid rounded" src="/src/img/partners/interreg.jpg" alt="Interreg - France Flanders Wallonie">
+                        </a>
+                    </div>
                 </div>
-                <div class="col-12 col-md-3 mb-3">
-                    <a href="https://www.esperanzah.be/engagement/trim-the-footprint/">
-                        <img alt="" class="img-fluid rounded" src="/src/img/partners/esperanzah.jpg" alt="Esperanzah! festival">
-                    </a>
+                <!-- Map -->
+                <div class="col-12 col-md-6" id="ttf-map_col-right">
+                    <div class="com-12 col-md-6 mb-md-2">
+                        <a href="/src/img/eco/trim-the-footprint/map.png">
+                            <picture>
+                                <source srcset="/src/img/eco/trim-the-footprint/map.webp" type="image/webp">
+                                <source srcset="/src/img/eco/trim-the-footprint/map.png" type="image/png">
+                                <img alt="" class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/map.png" alt="Trim The Footprint Map W-VL">
+                            </picture>
+                        </a>
+                    </div>
                 </div>
-                <div class="col-12 col-md-3 mb-3">
-                    <img alt="" class="img-fluid rounded" src="/src/img/irievibesrootsfestival-4-3.jpg" alt="Irie Vibes Roots Festival">
-                </div>
-                <div class="col-12 col-md-3 mb-3">
-                    <a href="https://www.interreg-fwvl.eu/nl/">
-                        <img alt="" class="img-fluid rounded" src="/src/img/partners/interreg.jpg" alt="Interreg - France Flanders Wallonie">
-                    </a>
-                </div>
-                <div class="com-12 col-md-6 mb-md-2">
-                    <a href="/src/img/eco/trim-the-footprint/map.png">
-                        <picture>
-                            <source srcset="/src/img/eco/trim-the-footprint/map.webp" type="image/webp">
-                            <source srcset="/src/img/eco/trim-the-footprint/map.png" type="image/png">
-                            <img alt="" class="img-fluid rounded" src="/src/img/eco/trim-the-footprint/map.png" alt="Trim The Footprint Map W-VL">
-                        </picture>
-                    </a>
-                </div>
+
+
             </div>
         </div>
         </div>
