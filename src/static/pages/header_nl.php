@@ -98,10 +98,10 @@
                 </ul>
                 <!-- This is the language selector. -->
                 <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="Irie-Dropdown" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-translate"></i></a>
+                        <a class="nav-link dropdown-toggle" href="#" id="Irie-Dropdown" data-bs-toggle="dropdown" aria-expanded="false"></a>
                         <ul class="navbar-nav ml-auto d-md-flex align-items-center">
                             <li class="nav-item dropdown">
-                                <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-language"></i><span class="d-lg-none"> Langue</span><span class="dropdown-toggle"></span></a>
+                                <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-translate"></i><span class="d-lg-none"> Langue</span><span class="dropdown-toggle"></span></a>
                                 <ul class="dropdown-menu dropdown-menu-right">
                                     <!-- NL -->
                                     <li class="nav-item">
