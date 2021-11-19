@@ -40,8 +40,8 @@
                 <li class="nav-item">
                         <a class="nav-link" href="/nl/"><i class="fas fa-home"></i><span class="d-lg-none">&nbsp;Home</span><span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a href="#" alt="/en/festival/" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival<span class="dropdown-toggle"></span></a>
+                    <li class="nav-item">
+                        <a href="#" alt="/en/festival/" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival</a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/nl/location/"><i class="fas fa-location-arrow"></i> Locatie</a></li>
                             <li><a class="nav-link drop-2" href="/nl/festival/rules/"><i class="fas fa-hand-point-right"></i> Festivalregels</a></li>
@@ -53,8 +53,8 @@
                             <li><a class="nav-link drop-2" href="/nl/festival/safety/"><i class="fas fa-shield-alt"></i> Veiligheid</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-lg-none">&nbsp;</i>Programma<span class="dropdown-toggle"></span></a>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-lg-none">&nbsp;</i>Programma</a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/nl/artists"><i class="fas fa-microphone-alt"></i> Artiesten</a></li>
                             <li><a class="nav-link drop-2" href="/nl/lineup/"><i class="fas fa-record-vinyl"></i> Line-Up</a></li>
@@ -71,8 +71,8 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/nl/festival/kortemark-conge/">Kortemark Congé</a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects<span class="dropdown-toggle"></span></a>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects</a>
                         <ul class="dropdown-menu">
                             <li class="m-2 h4 text-white">Op het festival</li>
                             <li><a class="nav-link drop-2" href="/nl/info/eco/upcycling/"><i class="fas fa-recycle"></i> Upcycling</a></li>
@@ -97,30 +97,28 @@
                     </li>
                 </ul>
                 <!-- This is the language selector. -->
-                <ul class="navbar-nav mb-2 mb-lg-0">
-
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="Irie-Dropdown" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-translate"></i></a>
-						<ul class="dropdown-menu language-menu" aria-labelledby="Irie-Dropdown">
-							<li>
-
-								<div class="btn-group-vertical" role="group" aria-label="Second group">
-									<a class="btn btn-link" href="change_lang.php?langset=nl" role="button">
-										<span class="flag-icon flag-icon-be"></span>
-									</a>
-									<a class="btn btn-link" href="change_lang.php?langset=fr" role="button">
-										<span class="flag-icon flag-icon-fr"></span>
-									</a>
-									<a class="btn btn-link" href="change_lang.php?langset=en" role="button">
-										<span class="flag-icon flag-icon-gb"></span>
-									</a>
-								</div>
-
-							</li>
-
-						</ul>
-					</li>
-				</ul>
+                <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="Irie-Dropdown" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-translate"></i></a>
+                        <ul class="navbar-nav ml-auto d-md-flex align-items-center">
+                            <li class="nav-item dropdown">
+                                <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-language"></i><span class="d-lg-none"> Langue</span><span class="dropdown-toggle"></span></a>
+                                <ul class="dropdown-menu dropdown-menu-right">
+                                    <!-- NL -->
+                                    <li class="nav-item">
+                                        <a class="nav-link"><span href="nl" class="my-1 flag flag-be select-lang" alt="Belgium"></span></a>
+                                    </li>
+                                    <!-- FR (current) -->
+                                    <li class="nav-item">
+                                        <a class="nav-link"><span href="fr" class="my-1 flag flag-fr" alt="France"></span></a>
+                                    </li>
+                                    <!-- EN -->
+                                    <li class="nav-item">
+                                        <a class="nav-link"><span href="en" class="my-1 flag flag-gb select-lang" alt="England"></span></a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
                 <!-- language menu -->
 
             </div>
