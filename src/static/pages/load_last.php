@@ -6,9 +6,10 @@
 <!-- Automatically add 'Active' class to Navbar -->
 <script>
     // get current URL path and assign 'active' class
-    document.addEventListener('DOMContentLoaded', function() {
+    $(document).ready(function() {
+        // get current URL path and assign 'active' class
         var pathname = window.location.pathname;
-        $('nav li > a[href="' + pathname + '"]').parent().addClass('active');
+        $('nav li > a[href="'+pathname+'"]').parent().addClass('active');
     })
     //Language location changer
     "use strict";
