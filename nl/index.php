@@ -13,6 +13,13 @@
     <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/header_nl.php'); ?>
     <div class="container content">
         <div class="row justify-content-center">
+        <div class="col-12 col-md-8" id="home_sidebar-left">
+        <picture>
+                    <source srcset="/src/img/promo/irievibes-banner-2022.webp" type="image/webp">
+                    <source srcset="/src/img/promo/irievibes-banner-2022.jpg" type="image/jpeg">
+                    <img alt="" class="img-fluid rounded" src="/src/img/promo/irievibes-banner-2022.jpg" />
+                </picture>
+        </div>
             <div class="col-12 col-md-4" id="home_sidebar-right">
                 <div class="box border border-irie-green">
                     <a href="https://shop.irievibes.be" class="p-0">
@@ -22,97 +29,6 @@
                             <img alt="" class="img-fluid" src="/src/img/news/irie-vibes-trui-webshop-advertentie-small.jpg" />
                         </picture>
                     </a>
-                </div>
-            </div>
-            <div class="col-12">
-                <div class="row row-cols-1 row-cols-md-3 g-3">
-                    <div class="col">
-                        <div class="card h-100 border border-4 border-irie-red">
-                            <img src="/src/img/news/west_vlaamse_vibes_zwanzibar.jpg" class="card-img-top" alt="West Vlaamse Vibes at Zwanzibar">
-                            <div class="card-body">
-                                <h4 class="card-title">West Vlaamse Vibes @ Zwanzibar</h4>
-                                <h5 class="card-text badge bg-irie-red">Summer bar</h5>
-                                <p class="card-text">Een kleinschalige, gezellige, kindvriendelijke zomerbar op een unieke locatie in het centrum van Kortemark. Inkom gratis.</p>
-                                <a href="https://www.facebook.com/events/499653724640330/" class="btn btn-irie-red">Program & info</a>
-
-                            </div>
-                            <div class="card-footer">
-                                <p class="card-text"><small class="text-muted">31 & 1 juli-augustus</small></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100 border border-4 border-irie-yellow">
-                            <img src="/src/img/news/rock_n_roll_zwanzibar.jpg" class="card-img-top" alt="Rock'n'Roll at Zwanzibar">
-                            <div class="card-body">
-                                <h4 class="card-title">Rock'n'Roll @ Zwanzibar</h4>
-                                <h5 class="card-text badge bg-irie-yellow">Summer bar</h5>
-                                <p class="card-text">Een kleinschalige, gezellige, kindvriendelijke zomerbar op een unieke locatie in het centrum van Kortemark. Inkom gratis.</p>
-                                <a href="https://www.facebook.com/events/224091835982781/" class="btn btn-irie-yellow">Program & info</a>
-                            </div>
-                            <div class="card-footer">
-                                <p class="card-text"><small class="text-muted">21 & 22 augustus</small></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100 border border-4 border-irie-green">
-                            <img src="/src/img/news/woodstock_zwanzibar.jpg" class="card-img-top" alt="Woodstock at Zwanzibar">
-                            <div class="card-body">
-                                <h4 class="card-title">Woodstock @ Zwanzibar</h4>
-                                <h5 class="card-text badge bg-irie-green">Summer bar</h5>
-                                <p class="card-text">Een kleinschalige, gezellige, kindvriendelijke zomerbar op een unieke locatie in het centrum van Kortemark. Inkom gratis.</p>
-                                <a href="https://www.facebook.com/events/1199852113799184/" class="btn btn-irie-green">Program & info</a>
-                            </div>
-                            <div class="card-footer">
-                                <p class="card-text"><small class="text-muted">11 & 12 september</small></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row row-cols-1 row-cols-md-3 g-3">
-                    <div class="col">
-                        <div class="card h-100 border border-4 border-irie-red">
-                            <img src="/src/img/news/positivity_weekend_3.jpg" class="card-img-top" alt="Positivity Weekend 3">
-                            <div class="card-body">
-                                <h4 class="card-title">Positivity Weekend #3</h4>
-                                <h5 class="card-text badge bg-irie-red">Weekend evenement</h5>
-                                <p class="card-text">Een weekend gevuld met muziek, familie en positieve vibes! Privé & exclusieve Positivity Dub sessie op Zaterdag inbegrepen!</p>
-                                <a href="https://www.facebook.com/events/199580122096394/" class="btn btn-irie-red">Tickets & info</a>
-                            </div>
-                            <div class="card-footer">
-                                <p class="card-text"><small class="text-muted">16, 17 en 18 juli</small></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100 border border-4 border-irie-yellow">
-                            <img src="/src/img/news/positivity_dub_3.jpg" class="card-img-top" alt="Positivity Dub 3">
-                            <div class="card-body">
-                                <h4 class="card-title">Positivity Dub #3</h4>
-                                <h5 class="card-text badge bg-irie-yellow">Dub evenement</h5>
-                                <p class="card-text">Een dag gevuld met muziek, roots vibes en een ideale kans om elkaar terug te zien! Kom en geniet van 12 uur non-stop dub & roots muziek op één van West-Vlaanderen's prachtigste locaties.</p>
-                                <a href="https://www.facebook.com/events/1238629326598101" class="btn btn-irie-yellow">Tickets & info</a>
-                            </div>
-                            <div class="card-footer">
-                                <p class="card-text"><small class="text-muted">17 juli</small></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100 border border-4 border-irie-green">
-                            <div class="card-body">
-                                <h4 class="card-title">Realtime updates</h4>
-                                <h5 class="card-text badge bg-irie-green">News</h5>
-                                <div class="fb-page rounded border border-2 border-irie-green" data-href="https://www.facebook.com/IrieVibesRootsFesitval" data-width="500" data-height="450" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
-                            </div>
-                            <div class="card-footer">
-                                <a href="https://www.facebook.com/IrieVibesRootsFesitval">
-                                    <p class="card-text"><small class="text-muted">Facebook updates</small></p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
             <div id="home-text" class="col-12 col-md-8 ">
