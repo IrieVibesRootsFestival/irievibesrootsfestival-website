@@ -40,8 +40,8 @@
                 <li class="nav-item">
                         <a class="nav-link" href="/fr/"><i class="fas fa-home"></i><span class="d-lg-none">&nbsp;Home</span><span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="nav-item dropdown-toggle">
-                        <a href="#" alt="/en/festival/" class=" nav-link" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival</a>
+                    <li class="nav-item dropdown">
+                        <a href="#" alt="/en/festival/" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/fr/location/"><i class="fas fa-location-arrow"></i> Emplacement</a></li>
                             <li><a class="nav-link drop-2" href="/fr/festival/rules/"><i class="fas fa-hand-point-right"></i> Règles</a></li>
@@ -53,8 +53,8 @@
                             <li><a class="nav-link drop-2" href="/fr/festival/safety/"><i class="fas fa-shield-alt"></i> Sécurité</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown-toggle">
-                        <a href="#" class=" nav-link" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-lg-none">&nbsp;</i>Programme</a>
+                    <li class="nav-item dropdown">
+                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-lg-none">&nbsp;</i>Programme<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link drop-2" href="/fr/artists"><i class="fas fa-microphone-alt"></i> Artistes</a></li>
                             <li><a class="nav-link drop-2" href="/fr/lineup/"><i class="fas fa-record-vinyl"></i> Line-Up</a></li>
@@ -71,8 +71,8 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/fr/festival/kortemark-conge/">Kortemark Congé</a>
                     </li>
-                    <li class="nav-item dropdown-toggle">
-                        <a href="#" class=" nav-link" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects</a>
+                    <li class="nav-item dropdown">
+                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li class="m-2 h4 text-white">Sur le festival</li>
                             <li><a class="nav-link drop-2" href="/fr/info/eco/upcycling/"><i class="fas fa-recycle"></i> Upcycling</a></li>
@@ -97,23 +97,32 @@
                     </li>
                 </ul>
                 <!-- This is the language selector. -->
-                <li class="nav-item dropdown">
-                    <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-translate"></i><span class="d-lg-none"> Taal</span><span class="dropdown-toggle"></span></a>
-                    <ul class="dropdown-menu dropdown-menu-right">
-                        <!-- NL -->
-                        <li class="nav-item">
-                            <a class="nav-link"><span href="nl" class="my-1 flag flag-be select-lang" alt="Belgium"></span></a>
-                        </li>
-                        <!-- FR (current) -->
-                        <li class="nav-item">
-                            <a class="nav-link"><span href="fr" class="my-1 flag flag-fr" alt="France"></span></a>
-                        </li>
-                        <!-- EN -->
-                        <li class="nav-item">
-                            <a class="nav-link"><span href="en" class="my-1 flag flag-gb select-lang" alt="England"></span></a>
-                        </li>
-                    </ul>
-                </li>
+                <ul class="navbar-nav mb-2 mb-lg-0">
+
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="Irie-Dropdown" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-translate"></i></a>
+						<ul class="dropdown-menu language-menu" aria-labelledby="Irie-Dropdown">
+							<li>
+
+								<div class="btn-group-vertical" role="group" aria-label="Second group">
+									<a class="btn btn-link" href="change_lang.php?langset=nl" role="button">
+										<span class="flag-icon flag-icon-be"></span>
+									</a>
+									<a class="btn btn-link" href="change_lang.php?langset=fr" role="button">
+										<span class="flag-icon flag-icon-fr"></span>
+									</a>
+									<a class="btn btn-link" href="change_lang.php?langset=en" role="button">
+										<span class="flag-icon flag-icon-gb"></span>
+									</a>
+								</div>
+
+							</li>
+
+						</ul>
+					</li>
+				</ul>
+                <!-- language menu -->
+
             </div>
         </div>
     </nav>
