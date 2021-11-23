@@ -106,11 +106,11 @@
                         </li>
                         <!-- FR -->
                         <li class="nav-item">
-                            <a class="nav-link"><span href="fr" class="my-1 flag flag-fr select-lang"></span></a>
+                            <a class="nav-link"><span href="fr" class="my-1 flag flag-fr "></span></a>
                         </li>
                         <!-- EN (current) -->
                         <li class="nav-item">
-                            <a class="nav-link"><span href="en" class="my-1 flag flag-gb"></span></a>
+                            <a class="nav-link"><span href="en" class="my-1 flag flag-gb select-lang"></span></a>
                         </li>
                     </ul>
                 </li>

@@ -102,7 +102,7 @@
                     <ul class="dropdown-menu dropdown-menu-right text-center">
                         <!-- NL -->
                         <li class="nav-item">
-                            <a class="nav-link"><span href="nl" class="my-1 flag flag-be select-lang"></span></a>
+                            <a class="nav-link"><span href="nl" class="my-1 flag flag-be"></span></a>
                         </li>
                         <!-- FR -->
                         <li class="nav-item">
@@ -110,7 +110,7 @@
                         </li>
                         <!-- EN (current) -->
                         <li class="nav-item">
-                            <a class="nav-link"><span href="en" class="my-1 flag flag-gb"></span></a>
+                            <a class="nav-link"><span href="en" class="my-1 flag flag-gb select-lang"></span></a>
                         </li>
                     </ul>
                 </li>
