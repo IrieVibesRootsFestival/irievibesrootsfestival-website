@@ -37,7 +37,7 @@
             </a>
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto d-lg-flex align-items-lg-center px-2 px-md-0">
-                <li class="nav-item">
+                    <li class="nav-item">
                         <a class="nav-link" href="/nl/"><i class="fas fa-home"></i><span class="d-lg-none">&nbsp;Home</span><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item dropdown">
@@ -97,32 +97,23 @@
                     </li>
                 </ul>
                 <!-- This is the language selector. -->
-                <ul class="navbar-nav mb-2 mb-lg-0">
-
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="Irie-Dropdown" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-translate"></i></a>
-						<ul class="dropdown-menu language-menu" aria-labelledby="Irie-Dropdown">
-							<li>
-
-								<div class="btn-group-vertical" role="group" aria-label="Second group">
-									<a class="btn btn-link" href="change_lang.php?langset=nl" role="button">
-										<span class="flag-icon flag-icon-be"></span>
-									</a>
-									<a class="btn btn-link" href="change_lang.php?langset=fr" role="button">
-										<span class="flag-icon flag-icon-fr"></span>
-									</a>
-									<a class="btn btn-link" href="change_lang.php?langset=en" role="button">
-										<span class="flag-icon flag-icon-gb"></span>
-									</a>
-								</div>
-
-							</li>
-
-						</ul>
-					</li>
-				</ul>
-                <!-- language menu -->
-
+                <li class="nav-item dropdown">
+                    <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-language"></i><span class="d-lg-none"> Language</span><span class="dropdown-toggle"></span></a>
+                    <ul class="dropdown-menu dropdown-menu-right text-center">
+                        <!-- NL -->
+                        <li class="nav-item">
+                            <a class="nav-link"><span href="nl" class="my-1 flag flag-be select-lang"></span></a>
+                        </li>
+                        <!-- FR -->
+                        <li class="nav-item">
+                            <a class="nav-link"><span href="fr" class="my-1 flag flag-fr select-lang"></span></a>
+                        </li>
+                        <!-- EN (current) -->
+                        <li class="nav-item">
+                            <a class="nav-link"><span href="en" class="my-1 flag flag-gb"></span></a>
+                        </li>
+                    </ul>
+                </li>
             </div>
         </div>
     </nav>
