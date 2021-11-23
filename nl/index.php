@@ -13,24 +13,6 @@
     <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/header_nl.php'); ?>
     <div class="container content">
         <div class="row justify-content-center">
-            <div id="home-text" class="col-12 col-md-8 ">
-
-
-                <h1 class="text-center text-danger">Warning! Scam alert!</h1>
-                <p>
-                    Betreffende opduikende evenementen op facebook, zouden wij als vzw nog eens duidelijk willen maken dat
-                </p>
-                <span class="text-irie-red">
-                    <b><u>Irie Vibes 2021 afgelast werd.</u></b>.</p>
-                </span>
-                <p>
-                    Desbetreffende evenementenpagina's zijn <b>frauduleus</b>, en hebben <b>niets</b> met de <b>officiële werking van de vzw</b> te maken.
-                </p>
-                <p>
-                    Due to pandemic restrictions, there will be <b>no festival this year</b>. The next edition in 2022 is planned, and remains planned until further notice regarding public health concerns.
-                </p>
-                <h1 class="text-irie-green">Here are our other events you can attend:</h1>
-            </div>
             <div class="col-12 col-md-4" id="home_sidebar-right">
                 <div class="box border border-irie-green">
                     <a href="https://shop.irievibes.be" class="p-0">
