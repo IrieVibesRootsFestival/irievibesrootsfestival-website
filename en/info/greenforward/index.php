@@ -15,7 +15,7 @@
             <p>This page is still under construction.</p>
         </div>
          <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT']."/en/page_parts/footer_en.php");?>
         <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
         <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
     </body>
