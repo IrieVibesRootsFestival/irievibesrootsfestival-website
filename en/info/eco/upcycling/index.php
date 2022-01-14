@@ -1,13 +1,13 @@
 <!DOCTYPE html><html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Upcycling - Irie Vibes</title>
         <meta property="og:title" content="Upcycling, an art of its own!"/>
         <meta property="og:description" content="Upcycling has the power to reduce waste and create a fantastic decoration scheme." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
         <div class="container content">         
             <h1 class="page-header">Upcycling</h1>
             <div class="row">

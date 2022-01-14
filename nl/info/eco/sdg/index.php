@@ -2,7 +2,7 @@
 <html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Sustainable Development Goals - Irie Vibes</title>
         <meta property="og:title" content="De ‘Sustainable Development Goals’"/>
         <meta property="og:description" content="De ‘Sustainable Development Goals’ (SDG’s) of ‘Duurzame Ontwikkelingsdoelstellingen” zijn 17 doelstellingen, 169 subdoelstellingen en 229 indicatoren die tegen 2030 bereikt moeten worden." />

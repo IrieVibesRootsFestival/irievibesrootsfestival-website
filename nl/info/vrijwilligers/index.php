@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Vrijwilligers - Irie Vibes</title>
         <meta property="og:title" content="Word vrijwilliger bij Irie Vibes."/>
         <meta property="og:description" content="Wil jij ons helpen om onze roots op te zoeken? Kom ons helpen op Irie Vibes Roots Festival, tijdens de zomer van 2019 in Kortemark." />

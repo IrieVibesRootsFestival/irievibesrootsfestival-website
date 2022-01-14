@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Food Waste Facts - Irie Vibes</title>
         <meta property="og:title" content="Food Waste Facts"/>
         <meta property="og:description" content="Le gaspillage alimentaire est un problème international. Irie Vibes, Esperanzah et La Condition Publique ont créé un cours interactif pour en savoir plus sur les produits alimentaires couramment gaspillés et comment les réutiliser." />

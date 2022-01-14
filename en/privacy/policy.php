@@ -3,13 +3,13 @@
 <!DOCTYPE html><html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Rules - Irie Vibes</title>
         <meta property="og:title" content="Festival Rules"/>
         <meta property="og:description" content="What can and can't you bring to or do on the festival(terrain)?" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
         <div id="privacy-policy" class="container content">
             <h1 class="page-header">Privacy Policy</h1>
             <h1>Welcome to our Privacy Policy</h1>

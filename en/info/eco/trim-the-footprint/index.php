@@ -2,13 +2,13 @@
 <html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Trim The Footprint - Irie Vibes</title>
         <meta property="og:title" content="Trim The Footprint"/>
         <meta property="og:description" content="Trim The Footprint is Greenforward's project towards educating groups about a greener world. Learn more about what we do on our Trim The Footprint pages." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
         <!-- This is the container that allows the slider to be wider --> 
         <div class="container content">
             <?php include($_SERVER['DOCUMENT_ROOT'].'/en/info/eco/trim-the-footprint/core.php');?>

@@ -3,7 +3,7 @@
 
 <head>
     <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/head_common.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/page_parts/head_common.php'); ?>
     <title>Home - Irie Vibes</title>
     <meta property="og:title" content="Home" />
     <meta property="og:description" content="Back in time to where it all began, Irie Vibes invites you to their Back to The Roots edition during the heart of summer 2022 in Kortemark." />

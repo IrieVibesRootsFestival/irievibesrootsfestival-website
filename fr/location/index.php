@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Location - Irie Vibes</title>
         <meta property="og:title" content="Location de festival"/>
         <meta property="og:description" content="Ils se trouve ici le location de terrain festival" />

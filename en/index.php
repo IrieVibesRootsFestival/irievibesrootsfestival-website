@@ -1,25 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/head_common.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php'); ?>
     <title>Home - Irie Vibes</title>
     <meta property="og:title" content="Home" />
     <meta property="og:description" content="Back in time to where it all began, Irie Vibes invites you to their Back to The Roots edition during the heart of summer 2022 in Kortemark." />
 </head>
 
 <body>
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/header_en.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/en/page_parts/header_en.php'); ?>
     <div class="container content">
         <div class="row justify-content-center">
-        <div class="col-12 col-md-8" id="home_sidebar-left">
-        <picture>
+            <div class="col-12 col-md-8" id="home_sidebar-left">
+                <picture>
                     <source srcset="/src/img/promo/irievibes-banner-2022.webp" type="image/webp">
                     <source srcset="/src/img/promo/irievibes-banner-2022.jpg" type="image/jpeg">
                     <img alt="" class="img-fluid rounded" src="/src/img/promo/irievibes-banner-2022.jpg" />
                 </picture>
-        </div>
+            </div>
             <div class="col-12 col-md-4" id="home_sidebar-right">
                 <div class="box border border-irie-green">
                     <a href="https://shop.irievibes.be" class="p-0">

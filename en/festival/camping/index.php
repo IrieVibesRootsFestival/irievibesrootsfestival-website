@@ -1,13 +1,13 @@
 <!DOCTYPE html><html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Camping & Parking - Irie Vibes</title>
         <meta property="og:title" content="Camping and Parking info"/>
         <meta property="og:description" content="Find everything you need to know when you're coming with your tent & tat." /> 
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
         <div class="content container">
             <br/>
             <div id="accomodation" class="container">

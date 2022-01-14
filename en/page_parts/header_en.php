@@ -56,20 +56,27 @@
                     <li class="nav-item dropdown">
                         <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-list-alt d-lg-none">&nbsp;</i>Program<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a class="nav-link drop-2" href="/en/artists"><i class="bi bi-microphone-alt"></i> Artists</a></li>
-                            <li><a class="nav-link drop-2" href="/en/lineup/"><i class="bi bi-record-vinyl"></i> Line-Up</a></li>
+                           <!-- <li><a class="nav-link drop-2" href="/en/artists/"><i class="bi bi-microphone-alt"></i> Artists</a></li> -->
+                           <li><a class="nav-link drop-2" href="/en/lineup/"><i class="bi bi-search"></i> Quick view</a></li>
+                           <div class="dropdown-divider"></div>
+                            <li><a class="nav-link drop-2" href="/en/lineup/"><i class="bi bi-calendar-range"></i> Line-Up</a></li>                            
                             <li><a class="nav-link drop-2" href="/en/lineup/posters/"><i class="bi bi-scroll"></i> Posters</a></li>
                             <li><a class="nav-link drop-2" href="/en/lineup/livestream/"><i class="bi bi-video"></i> Livestream</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/en/tickets/"><i class="bi bi-ticket-alt d-lg-none">&nbsp;</i>Tickets</a>
+                    <li class="nav-item dropdown">
+                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-ticket-alt d-lg-none">&nbsp;</i> Tickets<span class="dropdown-toggle"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a class="nav-link drop-2" href="https://irie-vibes.eventsquare.co/nl/twkjzziqfhhu/9eicer23c4cx"><i class="bi bi-ticket"></i> Buy online</a></li>
+                            <li><a class="nav-link drop-2" href="/en/tickets/presale/"><i class="bi bi-ticket"></i> Points of sale</a></li>
+                            <li><a class="nav-link drop-2" href="/en/tickets/guest-tickets/"><i class="bi bi-ticket"></i> Redeeming guest tickets</a></li>
+                        </ul>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/en/kids/">Little Lion</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/en/festival/kortemark-conge/">Kortemark Congé</a>
+                        <a class="nav-link text-warning" href="/en/festival/kortemark-conge/" alt="Free evening for cultural growth">Kortemark Congé</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects<span class="dropdown-toggle"></span></a>

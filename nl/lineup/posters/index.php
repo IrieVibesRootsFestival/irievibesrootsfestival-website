@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Posters - Irie Vibes</title>
         <meta property="og:title" content="De geschiedenis van onze affiches"/>
         <meta property="og:description" content="De geschiedenis van onze advertentieposters maakt deel uit van wat Irie Vibes zo divers maakt. Ontdek hier hoe onze eerdere posters eruit zagen." />

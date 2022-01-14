@@ -2,13 +2,13 @@
 <html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Sustainable Development Goals - Irie Vibes</title>
         <meta property="og:title" content="The ‘Sustainable Development Goals’"/>
         <meta property="og:description" content="The Sustainable Development Goals (SDGs) are 17 goals, 169 sub-goals and 229 indicators to be achieved by 2030." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
         <div class="container content">         
             <h1 class="page-header">Sustainable Development Goals</h1>
             <div class="row">

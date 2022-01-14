@@ -1,14 +1,14 @@
 <!DOCTYPE html><html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Kids' Village - Irie Vibes</title>
         <meta property="og:title" content="Kids' Village & Irie Vibes For Kids"/>
         <meta property="og:description" content="Children are welcome to play in our Kids' Village" /> 
         <meta property="og:image" content="https://www.irievibes.be/src/img/little-lion-banner.png" /> 
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container content">
             <h1 class="page-header">Little Lion</h1>

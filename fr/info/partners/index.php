@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Partners - Irie Vibes</title>
         <meta property="og:title" content="Partners & Cooperations"/>
         <meta property="og:description" content="View our partners and cooperations. Click an image to discover." />

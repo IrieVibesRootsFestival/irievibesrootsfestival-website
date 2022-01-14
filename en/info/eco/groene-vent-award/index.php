@@ -1,13 +1,13 @@
 <!DOCTYPE html><html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Groene Vent Award - Irie Vibes</title>
         <meta property="og:title" content="Groene Vent Award"/>
         <meta property="og:description" content="We recently won the Groene Vent Award, an award for environmentally responsible events. What does this mean?" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
         <div class="container content">         
             <h1 class="page-header">Groene Vent Award</h1>
             <div class="row">

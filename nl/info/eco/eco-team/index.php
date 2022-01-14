@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Eco Team - Irie Vibes</title>
         <meta property="og:title" content="Het Eco Team op Irie Vibes"/>
         <meta property="og:description" content="Wij geven om het milieu! Maar wat doen we eigenlijk? Ontdek het hier!" />

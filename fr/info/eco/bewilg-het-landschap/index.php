@@ -2,7 +2,7 @@
 <html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Bewilg Het Landschap - Irie Vibes</title>
         <meta property="og:title" content="Saules sur le site du festival"/>
         <meta property="og:description" content="Depuis 2020, il y a des saules sur le terrain du festival pour retenir le sol, fournir de l'ombre et créer un écosystème." />

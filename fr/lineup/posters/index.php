@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Posters - Irie Vibes</title>
         <meta property="og:title" content="L'histoire de nos affiches"/>
         <meta property="og:description" content="L'histoire de nos affiches publicitaires fait partie de la diversité d'Irie Vibes. Découvrez ici à quoi ressemblaient nos affiches passées.

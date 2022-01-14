@@ -2,13 +2,13 @@
 <html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Artiesten - Irie Vibes</title>
         <meta property="og:title" content="Artists"/>
         <meta property="og:description" content="Who's playing on Irie Vibes this year? Find out here!" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
         <div id="artists" class="container content">
             <h1 class="page-header">Artists</h1>
             <div class="row">

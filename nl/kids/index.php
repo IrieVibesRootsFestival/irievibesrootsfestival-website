@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Kids' Village - Irie Vibes</title>
         <meta property="og:title" content="Kids' Village & Irie Vibes For Kids"/>
         <meta property="og:description" content="Children are welcome to play in our Kids' Village" /> 

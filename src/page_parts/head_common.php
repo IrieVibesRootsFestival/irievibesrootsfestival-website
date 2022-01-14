@@ -40,5 +40,3 @@
 <!-- Load overwrite style sheet as last to enable overwriting Bootstrap features -->
 <link rel="stylesheet" href="/src/css/main.css">
 <link rel="stylesheet" href="/src/css/simplify.css">
-<!-- Cookie Consent styles -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.css">

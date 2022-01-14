@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Crew - Irie Vibes</title>
         <meta property="og:title" content="De Irie Vibes Crew"/>
         <meta property="og:description" content="Onze crew is de basis van het bestaan van Irie Vibes Roots Festival."/>

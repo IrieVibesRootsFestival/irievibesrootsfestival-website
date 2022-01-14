@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Waterrecyclage - Irie Vibes</title>
         <meta property="og:title" content="Wij recycleren water!"/>
         <meta property="og:description" content="Proper water is vitaal voor de natuur. Wij helpen ook een handje!" />

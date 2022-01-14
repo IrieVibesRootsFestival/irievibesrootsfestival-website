@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Gobelets réutilisables - Irie Vibes</title>
         <meta property="og:title" content="Gobelets réutilisables"/>
         <meta property="og:description" content="Chez Irie Vibes, nous utilisons uniquement des gobelets réutilisables. Voulez-vous également des gobelets réutilisables pour votre événement?" />

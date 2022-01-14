@@ -1,13 +1,13 @@
 <!DOCTYPE html><html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Food Waste Facts - Irie Vibes</title>
         <meta property="og:title" content="Food Waste Facts"/>
         <meta property="og:description" content="Food waste is an international problem. Irie Vibes, Esperanzah and La Condition Publique have created an interactive course to learn about commonly wasted food products, and how to reuse them." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
         <div class="container content">         
             <h1 class="page-header">Food Waste Facts</h1>
             <object data="/src/static/FOOD-WASTE-FACTS-WEB.pdf#toolbar=0&navpanes=0&scrollbar=0" type=”application/pdf” width=”100%” height=”100%”>

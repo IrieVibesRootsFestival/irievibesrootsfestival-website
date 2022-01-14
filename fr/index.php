@@ -3,7 +3,7 @@
 
 <head>
     <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/head_common.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/page_parts/head_common.php'); ?>
     <title>Home - Irie Vibes</title>
     <meta property="og:title" content="Irie Vibes Roots Festival 2022 - Découvrez le monde du festival Irie Vibes Roots" />
     <meta property="og:description" content="De retour à l'endroit où tout a commencé: Irie Vibes vous invite à l'édition Back to The Roots du festival Irie Vibes Roots en plein été 2022 à Kortemark." />

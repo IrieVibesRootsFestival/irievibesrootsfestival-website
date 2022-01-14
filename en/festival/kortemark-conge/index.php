@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Kortemark Congé - Irie Vibes</title>
         <meta property="og:title" content="Kortemark Congé"/>
         <meta property="og:description" content="Thursday Free Entry! Discounts for Kortemark Citizens on Fri/Sat. Are you coming? - Kortemark Congé promotes cultural development in Kortemark by hosting events by local and nationwide initiatives - Sustainable Development Goals - Noord-Zuid" />
@@ -10,7 +10,7 @@
         <meta property="og:image" content="https://www.irievibes.be/src/img/eco/sdg/intro/SDG.jpg" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
         <!-- Main Content --> 
         <div class="container content">
             <h1 class="page-header">Kortemark Conge</h1>
