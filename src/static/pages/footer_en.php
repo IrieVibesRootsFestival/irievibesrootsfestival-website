@@ -105,10 +105,10 @@
         </div>
     </div>
     <!-- START Bootstrap-Cookie-Alert -->
-    <div class="alert text-center cookiealert" role="alert">
-        <p class="d-inline">We use cookies to ensure you have the best possible experience on our website</p>
-        <button type="button" class="btn btn-primary btn-sm acceptcookies" aria-label="Close">
-            Okay
+    <div id="cookie-alert" class="alert text-center" role="alert">
+        <p class="d-inline">We use cookies to ensure you have the best possible experience on our website.</p>
+        <button type="button" class="btn btn-danger" aria-label="Close">
+            Okay, I agree!
         </button>
     </div>
     <!-- END Bootstrap-Cookie-Alert -->
