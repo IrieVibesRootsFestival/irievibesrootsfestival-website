@@ -34,3 +34,8 @@ Assigning those colours to items happens in typesetting.css.
     --irie-secondary-hover:#dfd2ab;
     
   }
+
+  /* Enhance the rendering of fonts */
+* {
+    text-shadow: transparent 0px 0px 0px, rgb(0 0 0 / 68%) 0px 0px 0px !important;
+}
