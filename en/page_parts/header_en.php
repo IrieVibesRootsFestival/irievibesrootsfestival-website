@@ -82,18 +82,18 @@
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li class="m-2 h4 text-white">On the festival</li>
-                            <li><a class="nav-link" href="/en/info/eco/upcycling/"><i class="bi bi-recycle"></i> Upcycling</a></li>
-                            <li><a class="nav-link" href="/en/info/eco/eco-team/"><i class="bi bi-leaf"></i> Eco team</a></li>
-                            <li><a class="nav-link" href="/en/info/eco/reusable-cups/"><i class="bi bi-glass-whiskey"></i> Reusable cups</a></li>
-                            <li><a class="nav-link" href="/en/info/eco/groene-vent-award/"><i><i class="bi bi-award"></i> Groene Vent</i></a></li>
-                            <li><a class="nav-link" href="/en/info/eco/clean-water/"><i class="bi bi-hand-holding-water"></i> Clean water</a></li>
-                            <li><a class="nav-link" href="/en/info/eco/bewilg-het-landschap/"><i class="bi bi-tree"></i> Bewilg Het Landschap</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/upcycling/"><i class="bi bi-recycle"></i> Upcycling</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/eco-team/"><i class="bi bi-leaf"></i> Eco team</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/reusable-cups/"><i class="bi bi-glass-whiskey"></i> Reusable cups</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/groene-vent-award/"><i><i class="bi bi-award"></i> Groene Vent</i></a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/clean-water/"><i class="bi bi-hand-holding-water"></i> Clean water</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/bewilg-het-landschap/"><i class="bi bi-tree"></i> Bewilg Het Landschap</a></li>
                             <div class="dropdown-divider"></div>
                             <li class="m-2 h4 text-white">International</li>
-                            <li><a class="nav-link" href="/en/info/eco/sdg/"><i class="bi bi-exchange-alt"></i> <u>S</u>ustainable <u>D</u>evelopment <u>G</u>oals</a></li>
-                            <li><a class="nav-link" href="/en/info/eco/trim-the-footprint/"><i class="bi bi-shoe-prints"></i> Trim The Footprint</a></li>
-                            <li><a class="nav-link" href="/en/info/eco/food-waste-facts"><i class="bi bi-carrot"></i> Food Waste Facts</a><small>NL/FR</small></li>
-                            <li><a class="nav-link" href="/en/info/eco/world-cleanup-day/"><i class="bi bi-globe"></i> World Cleanup Day</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/sdg/"><i class="bi bi-exchange-alt"></i> <u>S</u>ustainable <u>D</u>evelopment <u>G</u>oals</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/trim-the-footprint/"><i class="bi bi-shoe-prints"></i> Trim The Footprint</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/food-waste-facts"><i class="bi bi-carrot"></i> Food Waste Facts</a><small>NL/FR</small></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/world-cleanup-day/"><i class="bi bi-globe"></i> World Cleanup Day</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">

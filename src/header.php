@@ -30,19 +30,11 @@
                             <li class="nav-item dropdown">
                                 <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Info<span class="dropdown-toggle"></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="nav-link" href="/en/info/greenforward/">Green Forward</a></li>
-                                    <li><a class="nav-link" href="/en/info/volunteers/">Volunteers</a></li>
-                                    <li><a class="nav-link" href="/en/info/motivation/">Motivation</a></li>
+                                    <li><a class="dropdown-item" href="/en/info/greenforward/">Green Forward</a></li>
+                                    <li><a class="dropdown-item" href="/en/info/volunteers/">Volunteers</a></li>
+                                    <li><a class="dropdown-item" href="/en/info/motivation/">Motivation</a></li>
                                 </ul>
                             </li>
-                            <!--
-<li class="nav-item dropdown">
-<a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Album<span class="dropdown-toggle"></span></a>
-<ul class="dropdown-menu">
-<li><a class="nav-link" href="/en/album/#2017">2017</a></li>
-</ul>
-</li>
-//-->
                             <li class="nav-item">
                                 <a class="nav-link" href="/en/location/">Location</a>
                             </li>

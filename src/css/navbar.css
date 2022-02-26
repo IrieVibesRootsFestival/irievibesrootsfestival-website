@@ -53,7 +53,8 @@ color: var(--irie-yellow);
     filter: drop-shadow(4px 4px 2px rgba(10, 10, 10, 0.5));
     height: 36px;
 }
-#pageheader .navbar .nav-item .nav-link {
+#pageheader .navbar .nav-item .nav-link,
+#pageheader .navbar .dropdown-item {
     color: white;
     font-family: var(--bs-font-monospace);
     font-style: normal;
@@ -95,7 +96,8 @@ color: var(--irie-yellow);
 }
 
 /* Align nav items a little tighter together */
-#pageheader .navbar .nav-link {
+#pageheader .navbar .nav-link,
+#pageheader .navbar .dropdown-item {
     padding: 0.35rem;
     white-space: nowrap;
     overflow: hidden;
