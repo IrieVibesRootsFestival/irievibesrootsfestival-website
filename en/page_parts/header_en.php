@@ -68,8 +68,8 @@
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-ticket-perforated">&nbsp;</i>Tickets</a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="https://irie-vibes.eventsquare.co/nl/twkjzziqfhhu/9eicer23c4cx"><i class="bi bi-ticket">&nbsp;</i>Buy online</a></li>
-                            <li><a class="dropdown-item" href="/en/tickets/presale/"><i class="bi bi-ticket">&nbsp;</i>Points of sale</a></li>
-                            <li><a class="dropdown-item" href="/en/tickets/guest-tickets/"><i class="bi bi-ticket">&nbsp;</i>Redeeming guest tickets</a></li>
+                            <li><a class="dropdown-item" href="/en/tickets/presale/"><i class="fa-solid fa-store">&nbsp;</i>Points of sale</a></li>
+                            <li><a class="dropdown-item" href="/en/tickets/guest-tickets/"><i class="fa-solid fa-user-check">&nbsp;</i>Redeeming guest tickets</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -82,25 +82,25 @@
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira">&nbsp;</i>Projects<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li class="m-2 h4 text-white">On the festival</li>
-                            <li><a class="dropdown-item" href="/en/info/eco/upcycling/"><i class="bi bi-recycle">&nbsp;</i>Upcycling</a></li>
-                            <li><a class="dropdown-item" href="/en/info/eco/eco-team/"><i class="bi bi-leaf">&nbsp;</i>Eco team</a></li>
-                            <li><a class="dropdown-item" href="/en/info/eco/reusable-cups/"><i class="bi bi-glass-whiskey">&nbsp;</i>Reusable cups</a></li>
-                            <li><a class="dropdown-item" href="/en/info/eco/groene-vent-award/"><i><i class="bi bi-award">&nbsp;</i>Groene Vent</i></a></li>
-                            <li><a class="dropdown-item" href="/en/info/eco/clean-water/"><i class="bi bi-hand-holding-water">&nbsp;</i>Clean water</a></li>
-                            <li><a class="dropdown-item" href="/en/info/eco/bewilg-het-landschap/"><i class="bi bi-tree">&nbsp;</i>Bewilg Het Landschap</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/upcycling/"><i class="fa-solid fa-recycle">&nbsp;</i>Upcycling</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/eco-team/"><i class="fa-solid fa-leaf-heart">&nbsp;</i>Eco team</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/reusable-cups/"><i class="fa-solid fa-glass-whiskey">&nbsp;</i>Reusable cups</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/groene-vent-award/"><i><i class="fa-solid fa-award">&nbsp;</i>Groene Vent</i></a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/clean-water/"><i class="fa-solid fa-hand-holding-water">&nbsp;</i>Clean water</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/bewilg-het-landschap/"><i class="fa-solid fa-tree">&nbsp;</i>Bewilg Het Landschap</a></li>
                             <div class="dropdown-divider"></div>
                             <li class="m-2 h4 text-white">International</li>
-                            <li><a class="dropdown-item" href="/en/info/eco/sdg/"><i class="bi bi-exchange-alt"></i> <u>S</u>ustainable <u>D</u>evelopment <u>G</u>oals</a></li>
-                            <li><a class="dropdown-item" href="/en/info/eco/trim-the-footprint/"><i class="bi bi-shoe-prints"></i> Trim The Footprint</a></li>
-                            <li><a class="dropdown-item" href="/en/info/eco/food-waste-facts"><i class="bi bi-carrot"></i> Food Waste Facts</a><small>NL/FR</small></li>
-                            <li><a class="dropdown-item" href="/en/info/eco/world-cleanup-day/"><i class="bi bi-globe"></i> World Cleanup Day</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/sdg/"><i class="fa-solid fa-exchange-alt">&nbsp;</i><u>S</u>ustainable <u>D</u>evelopment <u>G</u>oals</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/trim-the-footprint/"><i class="fa-solid fa-shoe-prints">&nbsp;</i>Trim The Footprint</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/food-waste-facts"><i class="fa-solid fa-carrot">&nbsp;</i>Food Waste Facts</a><small>NL/FR</small></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/world-cleanup-day/"><i class="fa-solid fa-globe">&nbsp;</i>World Cleanup Day</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#footer_main"><i class="bi bi-info-circle"></i> Info</a>
+                        <a class="nav-link" href="#footer_main"><i class="fa-solid fa-circle-info">&nbsp;</i>Info</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-warning" href="http://shop.irievibes.be"><i class="bi bi-shopping-cart"></i> Webshop</a>
+                        <a class="nav-link text-warning" href="http://shop.irievibes.be"><i class="fa-solid fa-bag-shopping">&nbsp;</i>Webshop</a>
                     </li>
                     <!-- This is the language selector. -->
                     <li class="nav-item dropdown" role="menu">
