@@ -7,7 +7,7 @@
     "use strict";
 
     var cookieAlert = document.querySelector("#cookie-alert");
-    var acceptCookies = cookieAlert.querySelectorAll(".btn");
+    var acceptCookies = cookieAlert.querySelector("button");
 
     if (!cookieAlert) {
        return;
