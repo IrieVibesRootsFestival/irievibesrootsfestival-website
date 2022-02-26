@@ -54,7 +54,7 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-list-alt d-lg-none">&nbsp;</i>Program</a>
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-calendar2-week">&nbsp;</i>Program</a>
                         <ul class="dropdown-menu">
                             <!-- <li><a class="nav-link" href="/en/artists/"><i class="bi bi-microphone-alt"></i> Artists</a></li> -->
                             <li><a class="dropdown-item" href="/en/lineup/"><i class="bi bi-search"></i> Quick view</a></li>
@@ -65,11 +65,11 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-ticket-alt d-lg-none">&nbsp;</i> Tickets</a>
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-ticket-perforated">&nbsp;</i>Tickets</a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="https://irie-vibes.eventsquare.co/nl/twkjzziqfhhu/9eicer23c4cx"><i class="bi bi-ticket"></i> Buy online</a></li>
-                            <li><a class="dropdown-item" href="/en/tickets/presale/"><i class="bi bi-ticket"></i> Points of sale</a></li>
-                            <li><a class="dropdown-item" href="/en/tickets/guest-tickets/"><i class="bi bi-ticket"></i> Redeeming guest tickets</a></li>
+                            <li><a class="dropdown-item" href="https://irie-vibes.eventsquare.co/nl/twkjzziqfhhu/9eicer23c4cx"><i class="bi bi-ticket">&nbsp;</i>Buy online</a></li>
+                            <li><a class="dropdown-item" href="/en/tickets/presale/"><i class="bi bi-ticket">&nbsp;</i>Points of sale</a></li>
+                            <li><a class="dropdown-item" href="/en/tickets/guest-tickets/"><i class="bi bi-ticket">&nbsp;</i>Redeeming guest tickets</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -79,15 +79,15 @@
                         <a class="nav-link text-warning" href="/en/festival/kortemark-conge/" alt="Free evening for cultural growth">Kortemark Congé</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects<span class="dropdown-toggle"></span></a>
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira">&nbsp;</i>Projects<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li class="m-2 h4 text-white">On the festival</li>
-                            <li><a class="dropdown-item" href="/en/info/eco/upcycling/"><i class="bi bi-recycle"></i> Upcycling</a></li>
-                            <li><a class="dropdown-item" href="/en/info/eco/eco-team/"><i class="bi bi-leaf"></i> Eco team</a></li>
-                            <li><a class="dropdown-item" href="/en/info/eco/reusable-cups/"><i class="bi bi-glass-whiskey"></i> Reusable cups</a></li>
-                            <li><a class="dropdown-item" href="/en/info/eco/groene-vent-award/"><i><i class="bi bi-award"></i> Groene Vent</i></a></li>
-                            <li><a class="dropdown-item" href="/en/info/eco/clean-water/"><i class="bi bi-hand-holding-water"></i> Clean water</a></li>
-                            <li><a class="dropdown-item" href="/en/info/eco/bewilg-het-landschap/"><i class="bi bi-tree"></i> Bewilg Het Landschap</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/upcycling/"><i class="bi bi-recycle">&nbsp;</i>Upcycling</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/eco-team/"><i class="bi bi-leaf">&nbsp;</i>Eco team</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/reusable-cups/"><i class="bi bi-glass-whiskey">&nbsp;</i>Reusable cups</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/groene-vent-award/"><i><i class="bi bi-award">&nbsp;</i>Groene Vent</i></a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/clean-water/"><i class="bi bi-hand-holding-water">&nbsp;</i>Clean water</a></li>
+                            <li><a class="dropdown-item" href="/en/info/eco/bewilg-het-landschap/"><i class="bi bi-tree">&nbsp;</i>Bewilg Het Landschap</a></li>
                             <div class="dropdown-divider"></div>
                             <li class="m-2 h4 text-white">International</li>
                             <li><a class="dropdown-item" href="/en/info/eco/sdg/"><i class="bi bi-exchange-alt"></i> <u>S</u>ustainable <u>D</u>evelopment <u>G</u>oals</a></li>
