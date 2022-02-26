@@ -29,7 +29,7 @@
         <div class="container">
             <!-- This allows the Navbar to become smaller on a smaller mobile device. -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-                <i class="bi bi-bars text-warning"></i>
+                <i class="bi bi-menu-down"></i>
             </button>
             <!-- This is the Navbar's "Content" -->
             <a class="navbar-brand" href="/fr/">

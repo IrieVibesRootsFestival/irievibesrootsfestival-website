@@ -29,7 +29,7 @@
         <div class="container">
             <!-- This allows the Navbar to become smaller on a smaller mobile device. -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-                <i class="bi bi-bars text-warning"></i>
+                <i class="bi bi-menu-down"></i>
             </button>
             <!-- This is the Navbar's "Content" -->
             <a class="navbar-brand" href="/en/">
@@ -56,10 +56,10 @@
                     <li class="nav-item dropdown">
                         <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-list-alt d-lg-none">&nbsp;</i>Program<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
-                           <!-- <li><a class="nav-link drop-2" href="/en/artists/"><i class="bi bi-microphone-alt"></i> Artists</a></li> -->
-                           <li><a class="nav-link drop-2" href="/en/lineup/"><i class="bi bi-search"></i> Quick view</a></li>
-                           <div class="dropdown-divider"></div>
-                            <li><a class="nav-link drop-2" href="/en/lineup/"><i class="bi bi-calendar-range"></i> Line-Up</a></li>                            
+                            <!-- <li><a class="nav-link drop-2" href="/en/artists/"><i class="bi bi-microphone-alt"></i> Artists</a></li> -->
+                            <li><a class="nav-link drop-2" href="/en/lineup/"><i class="bi bi-search"></i> Quick view</a></li>
+                            <div class="dropdown-divider"></div>
+                            <li><a class="nav-link drop-2" href="/en/lineup/"><i class="bi bi-calendar-range"></i> Line-Up</a></li>
                             <li><a class="nav-link drop-2" href="/en/lineup/posters/"><i class="bi bi-scroll"></i> Posters</a></li>
                             <li><a class="nav-link drop-2" href="/en/lineup/livestream/"><i class="bi bi-video"></i> Livestream</a></li>
                         </ul>
