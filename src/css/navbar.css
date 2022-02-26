@@ -54,11 +54,15 @@ color: var(--irie-yellow);
     height: 36px;
 }
 
-#pageheader .navbar .nav-item .nav-link,
+#pageheader .navbar .nav-link,
 #pageheader .navbar .dropdown-item {
-    color: white;
+    color: #FFF;
     font-family: var(--bs-font-monospace);
     font-style: normal;
+    padding: 0.35rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 #pageheader .navbar .nav-item ul.dropdown-menu {
@@ -97,14 +101,7 @@ color: var(--irie-yellow);
     color: #ffa03f;
 }
 
-/* Align nav items a little tighter together */
-#pageheader .navbar .nav-link,
-#pageheader .navbar .dropdown-item {
-    padding: 0.35rem;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
+
 
 /* Bootstrap Breakpoint MD / MEDIUM */
 @media(max-width: 768px) {
