@@ -10,7 +10,7 @@
             </div>
             <!--Main middle info-->
             <div class="col-12 col-lg-4">
-                <p class="text-warning text-uppercase m-0"><b> 22 - 23 - 24 Juillet 2022 / Jeudi entrence gratuit</b></p>
+                <p class="text-warning text-uppercase m-0"><b> 21 - 22 - 23 Juillet 2022 / Jeudi entrence gratuit</b></p>
             </div>
             <!--Hashtag info-->
             <div class="col-12 col-lg-4 d-none d-lg-inline">
