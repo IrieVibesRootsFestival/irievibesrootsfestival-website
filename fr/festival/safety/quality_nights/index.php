@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Plan D'evacuation - Irie Vibes</title>
         <meta property="og:title" content="Plan D'evacuation"/>
         <meta property="og:description" content="Comment puis-je évacuer le terrain en toute sécurité? Ceci est pour la sécurité." />

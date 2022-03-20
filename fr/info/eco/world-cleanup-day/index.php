@@ -2,7 +2,7 @@
 <html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>World Cleanup Day - Irie Vibes</title>
         <meta property="og:title" content="Notre participation à la Journée mondiale du nettoyage"/>
         <meta property="og:description" content="Nous avons participé à la journée mondiale de nettoyage le 21 septembre" />

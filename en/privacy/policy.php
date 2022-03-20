@@ -3,13 +3,13 @@
 <!DOCTYPE html><html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Rules - Irie Vibes</title>
         <meta property="og:title" content="Festival Rules"/>
         <meta property="og:description" content="What can and can't you bring to or do on the festival(terrain)?" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
         <div id="privacy-policy" class="container content">
             <h1 class="page-header">Privacy Policy</h1>
             <h1>Welcome to our Privacy Policy</h1>
@@ -61,7 +61,7 @@
             <p>This privacy policy was created at <a style="color:inherit;text-decoration:none;" href="https://termsandconditionstemplate.com/privacy-policy-generator/" title="Privacy policy template generator" target="_blank">termsandconditionstemplate.com</a>. If you have any questions about this Privacy Policy, please contact us via <a href="mailto:info@irievibes.be">email</a> or <a href="tel:0491000000">phone</a>.</p>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_en.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT']."/en/page_parts/footer_en.php");?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

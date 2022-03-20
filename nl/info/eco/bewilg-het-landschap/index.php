@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Bewilg Het Landschap - Irie Vibes</title>
         <meta property="og:title" content="Wilgen op het festivalterrein"/>
         <meta property="og:description" content="Sinds 2020 staan er wilgen op het festivalterein om de bodem vast te houden, schaduw te geven en ecosysteem te creeëren." />

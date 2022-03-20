@@ -2,7 +2,7 @@
 <html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
         <title>Objectifs de développement durable - Irie Vibes</title>
         <meta property="og:title" content="Les ‘Objectifs de développement durable’"/>
         <meta property="og:description" content="Les Objectifs de développement durable s'agit de 17 objectifs, 169 sous-objectifs et 229 indicateurs à atteindre d'ici 2030." />

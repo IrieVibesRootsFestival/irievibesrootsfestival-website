@@ -129,10 +129,10 @@
         </div>
     </div>
     <!-- START Bootstrap-Cookie-Alert -->
-    <div class="alert text-center cookiealert" role="alert">
-        We gebruiken cookies om ervoor te zorgen dat jouw ervaring exact is hoe het hoort.
-        <button type="button" class="btn btn-primary btn-sm acceptcookies" aria-label="Close">
-            Oké
+    <div id="cookie-alert" class="alert text-center" role="alert">
+        <p class="d-inline">We gebruiken cookies om ervoor te zorgen dat jouw ervaring exact is hoe het hoort.</p>
+        <button type="button" class="btn btn-danger" aria-label="Close">
+            Oké, akkoord!
         </button>
     </div>
     <!-- END Bootstrap-Cookie-Alert -->

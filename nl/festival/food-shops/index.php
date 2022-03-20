@@ -36,14 +36,14 @@
                             <li class="nav-item dropdown active">
                                 <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival<span class="dropdown-toggle"></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="nav-link drop-2" href="/en/location/">Location</a></li>
-                                    <li><a class="nav-link drop-2" href="/en/festival/rules/">Festival Rules</a></li>
-                                    <li><a class="nav-link drop-2" alt="Camping, parking and other places to stay" href="/en//festival/accomodation/">Accomodation</a></li>
-                                    <li><a class="nav-link drop-2" href="/en/festival/merchandise/">Merchandise</a></li>
-                                    <li><a class="nav-link drop-2" href="/https://irievibes.be/nl/info/volunteers/">Volunteers</a></li>
-                                    <li><a class="nav-link drop-2" href="/en/festival/food-shops/">(non)Food Shops</a></li>
-                                    <li><a class="nav-link drop-2" href="/en/festival/transport/">Transport</a></li>
-                                    <li><a class="nav-link drop-2" href="/en/festival/safety/">Safety First</a></li>  
+                                    <li><a class="nav-link" href="/en/location/">Location</a></li>
+                                    <li><a class="nav-link" href="/en/festival/rules/">Festival Rules</a></li>
+                                    <li><a class="nav-link" alt="Camping, parking and other places to stay" href="/en//festival/accomodation/">Accomodation</a></li>
+                                    <li><a class="nav-link" href="/en/festival/merchandise/">Merchandise</a></li>
+                                    <li><a class="nav-link" href="/https://irievibes.be/nl/info/volunteers/">Volunteers</a></li>
+                                    <li><a class="nav-link" href="/en/festival/food-shops/">(non)Food Shops</a></li>
+                                    <li><a class="nav-link" href="/en/festival/transport/">Transport</a></li>
+                                    <li><a class="nav-link" href="/en/festival/safety/">Safety First</a></li>  
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -52,9 +52,9 @@
                             <li class="nav-item dropdown">
                                 <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Program<span class="dropdown-toggle"></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="nav-link drop-2" href="/en/artists">Artists</a></li>
-                                    <li><a class="nav-link drop-2" href="/en/lineup/">Line-Up</a></li>
-                                    <li><a class="nav-link drop-2" alt="Clashfinder" href="#">Overview</a></li>
+                                    <li><a class="nav-link" href="/en/artists">Artists</a></li>
+                                    <li><a class="nav-link" href="/en/lineup/">Line-Up</a></li>
+                                    <li><a class="nav-link" alt="Clashfinder" href="#">Overview</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -63,10 +63,10 @@
                             <li class="nav-item dropdown">
                                 <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Info<span class="dropdown-toggle"></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="nav-link drop-2" href="/en/contact/">Contact</a></li>
-                                    <li><a class="nav-link drop-2" href="/en/info/about/">About Us</a></li>
-                                    <li><a class="nav-link drop-2" href="/en/crew">Crew</a></li>
-                                    <li><a class="nav-link drop-2" href="/en/info/we_support/">We Support</a></li>
+                                    <li><a class="nav-link" href="/en/contact/">Contact</a></li>
+                                    <li><a class="nav-link" href="/en/info/about/">About Us</a></li>
+                                    <li><a class="nav-link" href="/en/crew">Crew</a></li>
+                                    <li><a class="nav-link" href="/en/info/we_support/">We Support</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item">
