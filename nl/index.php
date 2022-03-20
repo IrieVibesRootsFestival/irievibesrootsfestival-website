@@ -1,12 +1,5 @@
-<?php
-header("Location: https://www.irievibes.be/en/"); /* Redirect browser */
-
-/* Make sure that code below does not get executed when we redirect. */
-exit;
-?>
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
     <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/page_parts/head_common.php'); ?>
@@ -16,7 +9,7 @@ exit;
 </head>
 
 <body>
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/header_nl.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/nl/_page_parts/header_nl.php'); ?>
     <div class="container content">
         <div class="row justify-content-center">
         <div class="col-12 col-md-8" id="home_sidebar-left">
