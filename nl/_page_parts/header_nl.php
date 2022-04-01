@@ -20,12 +20,12 @@
     </div>
 
     <!--HEADER IMAGE-->
-    <div class="pageheader-img container-fluid">
+    <div id="pageheader-banner" class="container-fluid">
         <img src="/src/img/banner-logo.svg" alt="Logo" height="120" />
     </div>
 
     <!--NAVIGATION-->
-    <nav id="navbar" class="navbar sticky-top navbar-expand-xl">
+    <nav id="navbar" class="navbar navbar-expand-xl">
         <div class="container">
             <!-- This allows the Navbar to become smaller on a smaller mobile device. -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">

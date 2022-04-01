@@ -11,10 +11,10 @@
     var(--irie-bg-hardwood);
 
 }
-
-#pageheader #pageheader-banner {
-    text-align: center;
-    padding-top: 15px;
+ 
+#pageheader #pageheader-banner{
+    display:inline-block;
+    margin: 0 auto 0 auto;padding-top: 15px;
     padding-bottom: 5px;
     filter: drop-shadow(10px 5px 2px rgba(10, 10, 10, 0.5));
 }
@@ -107,7 +107,6 @@
     font-size: 2.5rem;
     color: #ffa03f;
 }
-
 
 /* Bootstrap Breakpoint MD / MEDIUM */
 @media(max-width: 768px) {
