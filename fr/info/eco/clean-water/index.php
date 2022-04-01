@@ -7,7 +7,7 @@
         <meta property="og:description" content="Une eau propre est vitale pour la nature. Nous donnons également un coup de main avec l'eau recyclée!" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <div class="container content">         
             <h1 class="page-header">Eau propre</h1>
             <br/>

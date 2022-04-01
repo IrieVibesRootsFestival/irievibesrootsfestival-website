@@ -7,7 +7,7 @@
         <meta property="og:description" content="Nous avons récemment remporté le Groene Vent Award. Qu'est-ce que cela signifie réellement?" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <div class="container content">         
             <h1 class="page-header">Groene Vent Award</h1>
             <br/>

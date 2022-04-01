@@ -8,7 +8,7 @@
         <meta property="og:description" content="Les Objectifs de développement durable s'agit de 17 objectifs, 169 sous-objectifs et 229 indicateurs à atteindre d'ici 2030." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <div class="container content">         
             <h1 class="page-header">Objectifs de développement durable</h1>
             <div class="row">

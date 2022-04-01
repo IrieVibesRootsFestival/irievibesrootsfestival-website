@@ -7,7 +7,7 @@
         <meta property="og:description" content="Vind je ideale manier om van en naar Irie Vibes te gaan" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div class="container content">
             <h1 class="page-header">Transport</h1> 
             <h3 class="text-irie"><b>Openbaar veroer</b></h3>

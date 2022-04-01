@@ -12,7 +12,7 @@
 
 <body>
     <header>
-        <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/header_nl.php'); ?>
+        <?php include($_SERVER['DOCUMENT_ROOT'] . '/nl/_page_parts/header_nl.php'); ?>
     </header>
     <main>
         <div class="container content">
@@ -20,10 +20,6 @@
                 <h1 class="col-auto page-header">Trim The Footprint</h1>
                 <div class="col-12 col-md-12">
                     <h3 class="text-irie text-uppercase "><b>Voorwoord</b></h3>
-                    <picture>
-                        <source srcset="/src/img/eco/trim-the-footprint/trimthefootprint.png" type="image/png">
-                        <img alt="" class="img-fluid rounded float-end w-25" src="/src/img/eco/trim-the-footprint/trimthefootprint.png" alt="TTF Logo">
-                    </picture>
                     <p>
                         Klimaatverandering vereist oplossingen op (inter)nationaal, lokaal en persoonlijk niveau … Maar om echt een impact te hebben, is het wereldwijd belangrijk om het economische en sociale model te veranderen. Om dit te bereiken, moeten we samenwerken buiten onze eigen cirkel, beyond borders.
                     </p>
@@ -97,10 +93,7 @@
                         </a>
                     </div>
                 </div>
-
-
             </div>
-        </div>
         </div>
     </main>
     <footer>

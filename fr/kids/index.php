@@ -7,7 +7,7 @@
         <meta property="og:description" content="Les enfants sont welcome à jouer dans la village d'enfants" /> 
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container content">
             <h1 class="page-header">Little Lion</h1>

@@ -8,7 +8,7 @@
         <meta property="og:description" content="De ‘Sustainable Development Goals’ (SDG’s) of ‘Duurzame Ontwikkelingsdoelstellingen” zijn 17 doelstellingen, 169 subdoelstellingen en 229 indicatoren die tegen 2030 bereikt moeten worden." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div class="container content">         
             <h1 class="page-header">Duurzame Ontwikkelingsdoelstellingen</h1>
             <div class="row">

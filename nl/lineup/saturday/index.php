@@ -6,7 +6,7 @@
         <meta property="og:title" content="Kortemark Congé Line-up"/>
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <h1 class="page-header">Zaterdag</h1>
         <div id="line-up" class="container">

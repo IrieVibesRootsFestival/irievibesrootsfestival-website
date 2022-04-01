@@ -7,7 +7,7 @@
         <meta property="og:description" content="Upcycling heeft de kracht om afval te verminderen én fantastische decoratie op poten te zetten." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div class="container content">         
             <h1 class="page-header">Upcycling</h1>
             <div class="row">

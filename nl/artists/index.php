@@ -7,7 +7,7 @@
         <meta property="og:description" content="Wie speelt op Irie Vibes dit jaar? Je vindt het hier!" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div id="artists" class="container content">
             <h1 class="page-header">Artiesten</h1>
             <div class="row">

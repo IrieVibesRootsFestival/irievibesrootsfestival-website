@@ -7,7 +7,7 @@
         <meta property="og:description" content="Notre équipe est le fléau de l'existence d'Irie Vibes Roots Festival." /> 
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <div class="content container">
             <h1 class="page-header">Crew</h1>
             <p>Notre équipage est incroyablement précieux pour nous. Avec cette page de remerciements et de louanges, nous remercions tous les membres de l’équipe qui ont rendu possible la création d’Irie Vibes, qui a travaillé toute l’année pour offrir un grand spectacle, encore et encore.</p>

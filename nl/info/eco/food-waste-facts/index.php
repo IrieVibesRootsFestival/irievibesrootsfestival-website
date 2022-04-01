@@ -7,7 +7,7 @@
         <meta property="og:description" content="Voedselverspilling is een internationaal probleem. Irie Vibes, Esperanzah en La Condition Publique hebben een interactieve cursus gecreëerd om te leren over vaak verspilde voedselproducten en hoe ze opnieuw kunnen worden gebruikt." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div class="container content">         
             <h1 class="page-header">Food Waste Facts</h1>
             <object data="/src/static/FOOD-WASTE-FACTS-WEB.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="100%">

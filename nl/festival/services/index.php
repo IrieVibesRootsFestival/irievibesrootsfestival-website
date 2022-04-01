@@ -7,7 +7,7 @@
         <meta property="og:description" content="Irie Vibes heeft tal van voorzieningen om te zorgen dat hun festivalgangers veilig en gelukkig zijn." /> 
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container content">
             <h3 class="text-white"><b>Voorzieningen</b></h3>
