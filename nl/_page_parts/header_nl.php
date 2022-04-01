@@ -71,7 +71,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/nl/festival/kortemark-conge/">Kortemark Congé</a>
                     </li>
-                    <li class="nav-item dropdown">
+                    <li class="nav-item dropdown bg-md-dark">
                         <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
                             <li class="m-2 h4 text-white">Op het festival</li>
