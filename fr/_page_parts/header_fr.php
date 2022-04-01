@@ -73,7 +73,7 @@
                     </li>
                     <li class="nav-item dropdown">
                         <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects<span class="dropdown-toggle"></span></a>
-                        <ul class="dropdown-menu">
+                        <ul class="dropdown-menu bg-md-dark">
                             <li class="m-2 h4 text-white">Sur le festival</li>
                             <li><a class="nav-link" href="/fr/info/eco/upcycling/"><i class="fas fa-recycle"></i> Upcycling</a></li>
                             <li><a class="nav-link" href="/fr/info/eco/eco-team/"><i class="fas fa-leaf"></i> Équipe éco</a></li>

@@ -104,7 +104,7 @@
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                             aria-expanded="false"><i class="fab fa-envira">&nbsp;</i>Projects<span
                                 class="dropdown-toggle"></span></a>
-                        <ul class="dropdown-menu">
+                        <ul class="dropdown-menu bg-md-dark">
                             <li class="m-2 h4 text-white">On the festival</li>
                             <li><a class="dropdown-item" href="/en/info/eco/upcycling/"><i
                                         class="fa-solid fa-recycle">&nbsp;</i>Upcycling</a></li>
