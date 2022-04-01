@@ -7,7 +7,7 @@
         <meta property="og:description" content="De geschiedenis van onze advertentieposters maakt deel uit van wat Irie Vibes zo divers maakt. Ontdek hier hoe onze eerdere posters eruit zagen." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div class="container content">         
             <h1 class="page-header">Poster archive</h1>
             <div class="row">

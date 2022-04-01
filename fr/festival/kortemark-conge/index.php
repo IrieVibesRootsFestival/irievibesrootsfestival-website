@@ -8,7 +8,7 @@
         <meta property="og:description" content="Tous ce que tu veux savoir sur Kortemark Congé" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <!-- Main Content --> 
         <div class="container content">
             <h1 class="page-header">Kortemark Conge</h1>

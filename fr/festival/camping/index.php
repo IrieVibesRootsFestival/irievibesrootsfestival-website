@@ -7,7 +7,7 @@
         <meta property="og:description" content="Trouvez tout ce que vous devez savoir lorsque vous venez avec votre tente et votre tat." /> 
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <div class="content container">
             <br/>
             <div id="accomodation" class="container">

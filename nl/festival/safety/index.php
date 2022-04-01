@@ -7,7 +7,7 @@
         <meta property="og:description" content="Er zijn een aantal veiligheidsmaatregelen op het terrein. Bekijk ze hier." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div class="container text-center">
             <div class="row text-center pt-4">
                 <div class="col-12 col-md-6">

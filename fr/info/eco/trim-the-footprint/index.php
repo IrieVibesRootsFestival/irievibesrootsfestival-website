@@ -7,7 +7,7 @@
         <meta property="og:description" content="Qu'est-ce que Trim The Footprint?" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <!-- This is the container that allows the slider to be wider --> 
         <div class="container content">
             <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/info/eco/trim-the-footprint/core.php');?>

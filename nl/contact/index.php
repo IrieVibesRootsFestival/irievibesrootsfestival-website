@@ -7,7 +7,7 @@
         <meta property="og:description" content="Contact Irie Vibes" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div class="content container">
             <h1 class="page-header">Contact</h1>
             <br/>

@@ -8,7 +8,7 @@
         <meta property="og:description" content="Over het Irie Vibes Roots Festival" />
     </head> 
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div class="container content">
 
         </div>

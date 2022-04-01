@@ -7,7 +7,7 @@
         <meta property="og:description" content="Op Irie Vibes vind je alleen herbruikbare bekers. Heb jij bekers nodig voor jouw evenement? Vind ze hier!" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div class="container content">         
             <h1 class="page-header">Herbruikbare bekers</h1>
             <div class="row">

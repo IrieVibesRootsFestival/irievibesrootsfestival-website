@@ -7,7 +7,7 @@
         <meta property="og:description" content="Nous nous soucions de l'environnement! Mais que faisons-nous réellement? Découvrez ici!" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <div class="container content">         
             <h1 class="page-header">Le Team Eco</h1>
             <br/>

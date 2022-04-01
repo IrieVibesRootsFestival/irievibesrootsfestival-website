@@ -7,7 +7,7 @@
         <meta property="og:description" content="What does the camping cost? Where do I park my car and where do I stay? Find out here!" /> 
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div class="content container">
             <br/>
             <div id="accomodation" class="container">

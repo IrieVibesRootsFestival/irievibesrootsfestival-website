@@ -7,7 +7,7 @@
         <meta property="og:description" content="Ils se trouve ici le location de terrain festival" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div id="location" class="container text-center content">
             <br/>

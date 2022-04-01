@@ -7,7 +7,7 @@
         <meta property="og:description" content="Chez Irie Vibes, nous utilisons uniquement des gobelets réutilisables. Voulez-vous également des gobelets réutilisables pour votre événement?" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <div class="container content">         
             <h1 class="page-header">Gobelets reutilisables</h1>
             <div class="row">

@@ -7,7 +7,7 @@
         <meta property="og:description" content="Wij geven om het milieu! Maar wat doen we eigenlijk? Ontdek het hier!" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div class="container content">         
             <h1 class="page-header">Eco Team</h1>
             <div class="row">

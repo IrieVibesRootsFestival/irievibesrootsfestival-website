@@ -7,7 +7,7 @@
         <meta property="og:description" content="Comment puis-je évacuer le terrain en toute sécurité? Ceci est pour la sécurité." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <div class="container text-center"> 
             <div class="col-12">   
                 <a href="http://www.qualitynights.be/">

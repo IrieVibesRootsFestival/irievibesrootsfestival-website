@@ -7,7 +7,7 @@
         <meta property="og:description" content="De retour à l'endroit où tout a commencé: Irie Vibes vous invite à l'édition Back to The Roots du festival Irie Vibes Roots en plein été 2022 à Kortemark." />
     </head> 
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <div class="container content">         
             <h1 class="page-header">Devenez volontaire</h1>
             <p>Pour l’édition suivante de Irie Vibes Roots Festival, nous sommes à la recherche de volontaires pour rendre le festival un succès inoubliable. Ce sont les volontaires qui font la différence! Cette année, c’est un retour à l’essentiel: la même atmosphère, mais le même cauchemar logistique!</p>

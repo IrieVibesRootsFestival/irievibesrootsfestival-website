@@ -7,7 +7,7 @@
         <meta property="og:description" content="View our partners and cooperations. Click an image to discover." />
     </head> 
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container content">
             <br/>
