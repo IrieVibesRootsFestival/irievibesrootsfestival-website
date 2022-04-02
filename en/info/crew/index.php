@@ -7,7 +7,7 @@
         <meta property="og:description" content="Our crew is the bane of Irie Vibes Roots Festival's existence." /> 
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <div class="content container">
             <h1 class="page-header">Crew</h1> 
             <p>Our crew is incredibly valuable to us. With this thanks & praises page, we would like to thank everyone in the crew that makes Irie Vibes possible, working throughout the whole year to put up a big show -- time after time again.</p>

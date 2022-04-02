@@ -9,7 +9,7 @@
         <meta property="og:description" content="What can and can't you bring to or do on the festival(terrain)?" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <div id="privacy-policy" class="container content">
             <h1 class="page-header">Privacy Policy</h1>
             <h1>Welcome to our Privacy Policy</h1>

@@ -7,7 +7,7 @@
         <meta property="og:description" content="Services available at Irie Vibes, from Camping & Parking to Food & Shelter" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <div id="services" class="container content">
             <h1 class="page-header">Services</h1>
             <br/>

@@ -7,7 +7,7 @@
         <meta property="og:title" content="Line-up Index"/>
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div id="lineup-home" class="container content">
             <h1 class="page-header">Line up Index</h1>

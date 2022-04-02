@@ -7,7 +7,7 @@
         <meta property="og:description" content="We care about the environment! But what do we actually do? Find out here!" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <div class="container content">         
             <h1 class="page-header">Eco Team</h1>
             <div class="row">

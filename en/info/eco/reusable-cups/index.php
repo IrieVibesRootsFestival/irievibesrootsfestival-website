@@ -7,7 +7,7 @@
         <meta property="og:description" content="We only use reusable cups on Irie Vibes. Do you need reusable cups for your event? Find them here!" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <div class="container content">         
             <h1 class="page-header">Reusable cups</h1>
             <div class="row">

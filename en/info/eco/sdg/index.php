@@ -8,7 +8,7 @@
         <meta property="og:description" content="The Sustainable Development Goals (SDGs) are 17 goals, 169 sub-goals and 229 indicators to be achieved by 2030." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <div class="container content">         
             <h1 class="page-header">Sustainable Development Goals</h1>
             <div class="row">

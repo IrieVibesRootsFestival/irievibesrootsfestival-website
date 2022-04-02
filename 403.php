@@ -7,7 +7,7 @@
         <meta property="og:description" content="Information about Irie Vibes Roots Festival and its parent GreenForward" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <div class="container content">
             <div class="d-flex flex-row align-items-center">
                 <div class="container">

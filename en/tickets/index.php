@@ -8,7 +8,7 @@
         <meta property="og:description" content="The Early Bird ticket sale has started, and lasts until January 5th. Be quick! Supply is limited and the prices are hot!" /> 
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <!-- EventSquare requires loading before the DOM -->
         <script src="/src/js/eventsquare-embed.js" rel="external" type="text/javascript"></script>
         <!-- This is the main container that encapsulates everything content related. -->

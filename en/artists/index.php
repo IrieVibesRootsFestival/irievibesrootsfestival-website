@@ -8,7 +8,7 @@
         <meta property="og:description" content="Who's playing on Irie Vibes this year? Find out here!" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <div id="artists" class="container content">
             <h1 class="page-header">Artists</h1>
             <div class="row">

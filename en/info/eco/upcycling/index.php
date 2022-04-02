@@ -7,7 +7,7 @@
         <meta property="og:description" content="Upcycling has the power to reduce waste and create a fantastic decoration scheme." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <div class="container content">         
             <h1 class="page-header">Upcycling</h1>
             <div class="row">

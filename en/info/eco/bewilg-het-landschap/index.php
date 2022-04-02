@@ -8,7 +8,7 @@
         <meta property="og:description" content="Since 2020, there are willows on the festival grounds to hold the soil, provide shade and create ecosystem." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <div class="container content">         
             <h1 class="page-header">Bewilg Het Landschap</h1>
             <div class="row">

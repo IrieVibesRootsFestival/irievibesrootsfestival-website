@@ -8,7 +8,7 @@
         <meta property="og:description" content="We participated in the World Cleanup day on September 21st" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <div class="container content">         
             <h1 class="page-header">World Cleanup Day</h1>
             <div class="row">

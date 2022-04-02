@@ -7,7 +7,7 @@
         <meta property="og:description" content="Clean water is important for our environment. We certainly take it seriously!" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <div class="container content">         
             <h1 class="page-header">Recycled water</h1>
             <div class="row">

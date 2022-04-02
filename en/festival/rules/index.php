@@ -7,7 +7,7 @@
         <meta property="og:description" content="What are the rules on the festival? What are you allowed to bring to the festival and what is forbidden?" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <div id="rules" class="container content">
             <h1 class="page-header">Festival Rules</h1>
             <div class="row">

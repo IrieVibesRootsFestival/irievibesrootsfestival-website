@@ -10,7 +10,7 @@
         <meta property="og:image" content="https://www.irievibes.be/src/img/eco/sdg/intro/SDG.jpg" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <!-- Main Content --> 
         <div class="container content">
             <h1 class="page-header">Kortemark Conge</h1>

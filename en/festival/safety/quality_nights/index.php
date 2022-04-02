@@ -7,7 +7,7 @@
         <meta property="og:description" content="What is Irie Vibes doing to help me have a good and safe time at Irie Vibes?" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <div class="container">
             <div class="row text-center">
                 <div class="col-12">
