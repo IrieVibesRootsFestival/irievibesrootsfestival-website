@@ -15,36 +15,13 @@
         <div class="container content">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h1 class="page-header">Billets</h1>
-                    <p class="text-center text-irie"><b>22/23/24 Juillet 2022</b></p>
-                </div>
-                <div class="col-12 pb-2 rounded">
-                    <div class="p-2 text-box-2 rounded">
-                    <h3>Les ventes de billets sont actuellement suspendues. Aucun billet n'est vendu dans les magasins physiques, ni en ligne.</h3>
-                        <!--<div class="rounded" id="eventsquare-store" alt="Eventsquare Store"></div>-->        
-                </div>
-                </div>
-                <div id="tickets" class="col-12 col-md-6">
-                    <h1>Preventes</h1>
-                    <h3>les ventes de billets sont actuellement interrompues.</h3>
-                    <ul>
-                        <li><b>Roulers</b>: <a href="https://facebook.com/Mr-Steve-barbershop-Roeselare-267312400351270/">Barbier Steve</a></li>
-                        <li><b>Handzame</b>: <a href="http://www.rojo.be/">Drankencenter Rojo</a></li>
-                        <li><b>Werken</b>: <a href="https://www.facebook.com/Jeugdhuisdezunne/">Jeugdhuis De Zunne</a></li>
-                        <li><b>Dixmude</b>: <a href="https://www.4ad.be/">4AD</a></li>
-                        <li><b>Courtrai</b>: <a href="https://www.facebook.com/Zimbakortrijk/">Zimba Shop</a></li>
-                        <li><b>Torhout</b>: <a href="https://janeleenders.wixsite.com/mijnsite">RoseHeart Tattoo</a></li>
-                        <li><s><b>Bruges</b>: <a>Vrijplaats Zundag</a></s></li>
-                    </ul>
+                    <h1 class="page-header">Infos billet</h1>
                 </div>
                 <div class="col-12 col-md-6">
                     <h1>Remises</h1>
-                    <ul>
-                    <li>Êtes-vous un résident de Kortemark? 
-                        Obtenez vos billets à 10 € par jour sur présentation de votre identifiant.</li>
-                        <li>Entrée gratuite lors de l'utilisation de votre carte Vrijetijdspas ou Cultuur Kortemark</li>
-                    </ul>
-                    <p>Pour plus d'informations: <a href="mailto:inf@irievibes.be">info@irievibes.be</a></p>
+                    <p>Êtes-vous un résident de Kortemark? Obtenez vos billets à 10 € par jour sur présentation de votre identifiant.</p>
+                    <p>Entrée gratuite lors de l'utilisation de votre carte <b>Vrijetijdspas</b> ou <b>Cultuur Kortemark</b></p>
+                    <p>Pour plus d'informations: <a href="mailto:info@irievibes.be">info@irievibes.be</a></p>
                     <div class="row">
                         <div class="col-6">
                             <picture>
@@ -69,11 +46,4 @@
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
-    <!-- override Class Active in nav -->
-    <script>
-        $(document).ready(function() {
-            // get current URL path and assign 'active' class
-            var pathname = window.location.pathname;
-            $('nav li > a[href="/fr/tickets/"]').parent().addClass('active');
-        })</script>
 </html>
