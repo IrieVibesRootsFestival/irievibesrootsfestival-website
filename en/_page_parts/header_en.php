@@ -84,13 +84,11 @@
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                             aria-expanded="false"><i class="bi bi-ticket-perforated">&nbsp;</i>Tickets</a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item"
+                            <li><a class="dropdown-item text-danger"
                                     href="https://irie-vibes.eventsquare.co/nl/twkjzziqfhhu/9eicer23c4cx"><i
-                                        class="bi bi-ticket">&nbsp;</i>Buy online</a></li>
-                            <li><a class="dropdown-item" href="/en/tickets/presale/"><i
-                                        class="fa-solid fa-store">&nbsp;</i>Points of sale</a></li>
-                            <li><a class="dropdown-item" href="/en/tickets/guest-tickets/"><i
-                                        class="fa-solid fa-user-check">&nbsp;</i>Redeeming guest tickets</a></li>
+                                        class="bi bi-ticket">&nbsp;</i><strong>Buy online</strong></a></li>
+                            <li><a class="dropdown-item disabled" href="/en/tickets/guest-tickets/"><i
+                                        class="fa-solid fa-user-check">&nbsp;</i>Guest tickets</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
