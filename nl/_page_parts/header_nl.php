@@ -104,21 +104,17 @@
                         <a class="nav-link text-warning" href="http://shop.irievibes.be"><i class="fas fa-shopping-cart"></i> Webshop</a>
                     </li>
                     <!-- This is the language selector. -->
-                    <li class="nav-item dropdown">
-                        <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-language"></i><span class="d-lg-none"> Language</span><span class="dropdown-toggle"></span></a>
-                        <ul class="dropdown-menu dropdown-menu-right text-center">
-                            <!-- NL -->
-                            <li class="nav-item">
-                                <a class="nav-link"><span href="nl" class="my-1 flag flag-be"></span></a>
-                            </li>
-                            <!-- FR -->
-                            <li class="nav-item">
-                                <a class="nav-link"><span href="fr" class="my-1 flag flag-fr select-lang"></span></a>
-                            </li>
-                            <!-- EN (current) -->
-                            <li class="nav-item">
-                                <a class="nav-link"><span href="en" class="my-1 flag flag-gb select-lang"></span></a>
-                            </li>
+                    <li class="nav-item dropdown" role="menu">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                            aria-expanded="false">
+                            <i class="bi bi-translate"></i>
+                            <span class="d-lg-none"> Taal</span>
+                        </a>
+                        <ul id="lang-select-menu" class="dropdown-menu">
+                            <li class="dropdown-item"><span href="nl" class="my-1 flag flag-be"></span></li>
+                            <li class="dropdown-item"><span href="fr" class="my-1 flag flag-fr select-lang"></span></li>
+                            <li class="dropdown-item"><span href="en" class="my-1 flag flag-gb select-lang"></span></li>
+                            <!-- The .select-lang class denotes which items are selectable. This is not a great way to solve this issue. -->
                         </ul>
                     </li>
                 </ul>
