@@ -25,7 +25,7 @@
     </div>
 
     <!--NAVIGATION-->
-    <nav id="navbar" class="navbar navbar-expand-xl">
+    <nav id="navbar" class="navbar navbar-expand-lg">
         <div class="container">
             <!-- This allows the Navbar to become smaller on a smaller mobile device. -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -36,7 +36,7 @@
                 <img alt="Navigation Brand" src="/src/img/irie-heart-simple.svg" height="auto">
             </a>
             <div class="collapse navbar-collapse" id="navbarText">
-                <ul class="navbar-nav mr-auto d-lg-flex align-items-lg-center px-2 px-md-0">
+                <ul class="navbar-nav mr-auto d-lg-flex align-items-lg-center px-2 px-lg-0">
                     <li class="nav-item">
                         <a class="nav-link" href="/nl/"><i class="fas fa-home"></i><span class="d-lg-none">&nbsp;Home</span><span class="sr-only">(current)</span></a>
                     </li>

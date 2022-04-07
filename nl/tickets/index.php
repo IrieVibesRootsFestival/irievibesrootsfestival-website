@@ -8,7 +8,7 @@
         <meta property="og:description" content="De Early Bird ticketverkoop is gestart en duurt tot 5 januari 2021. Wees snel! Het aanbod is beperkt en de prijzen zijn hot!" /> 
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/nl/_page_parts/header_nl.php'); ?>
         <!-- This is the main container that encapsulates everything content related. -->
         <script src="/src/js/eventsquare-embed.js" rel="external" type="text/javascript"></script>
         <!-- This is the main container that encapsulates everything content related. -->
