@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <?php include($_SERVER['DOCUMENT_ROOT'] . /en/_page_parts/header_en.php); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . "/en/_page_parts/header_en.php"); ?>
     <div class="container content">
         <div class="row justify-content-center">
             <div class="col-12 col-md-8" id="home_sidebar-left">
