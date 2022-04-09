@@ -15,9 +15,9 @@ RewriteRule ^(.*)$ http://www.irievibes.be/$1 [L]
 
 # Redirect tickets subdomain to tickets page
 RewriteCond %{HTTP_HOST} ^(tickets)\.irievibes\.be
-RewriteRule ^(.*)$ http://www.irievibes.be/nl/tickets/ [L]
+RewriteRule ^(.*)$ https://irie-vibes.eventsquare.co/nl/twkjzziqfhhu/9eicer23c4cx [L]
 
-# Redirect tickets subdomain to tickets page
+# Redirect live subdomain to live page
 RewriteCond %{HTTP_HOST} ^(live)\.irievibes\.be
 RewriteRule ^(.*)$ http://www.irievibes.be/nl/lineup/livestream/ [L]
 
