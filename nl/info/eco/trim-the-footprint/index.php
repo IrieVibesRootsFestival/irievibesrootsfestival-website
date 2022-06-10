@@ -3,7 +3,7 @@
 
 <head>
     <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/page_parts/head_common.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/_page_parts/head_common.php'); ?>
     <title>Trim The Footprint - Irie Vibes</title>
     <meta property="og:title" content="Trim The Footprint" />
     <meta property="og:description" content="Waar gaat Trim The Footprint over?" />
@@ -12,7 +12,7 @@
 
 <body>
     <header>
-        <?php include($_SERVER['DOCUMENT_ROOT'] . '/nl/_page_parts/header_nl.php'); ?>
+        <?php include($_SERVER['DOCUMENT_ROOT'] . './_page_parts/header_nl.php'); ?>
     </header>
     <main>
         <div class="container content">
@@ -144,7 +144,7 @@
         </div>
     </main>
     <footer>
-        <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/footer_nl.php'); ?>
+        <?php include($_SERVER['DOCUMENT_ROOT'] . './_page_parts/footer_nl.php'); ?>
     </footer>
 </body>
 <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->

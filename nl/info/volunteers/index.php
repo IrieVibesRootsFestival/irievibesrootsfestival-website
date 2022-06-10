@@ -1,13 +1,13 @@
 <!DOCTYPE html><html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Vrijwilligers - Irie Vibes</title>
         <meta property="og:title" content="Word vrijwilliger bij Irie Vibes."/>
         <meta property="og:description" content="Wil jij ons helpen om onze roots op te zoeken? Kom ons helpen op Irie Vibes Roots Festival, tijdens de zomer van 2019 in Kortemark." />
     </head> 
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_nl.php');?>
         <div class="container content">         
             <h1 class="page-header">Word vrijwilliger</h1>
             <p>Voor de volgende editie van het Irie Vibes Roots Festival is vzw Greenforward op zoek naar een 150-tal vrijwilligers/medewerkers. Vrijwilligers maken bij ons het verschil!<br/>
@@ -82,7 +82,7 @@
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZuujqpESwd2S5GaTzQMrUGbbRid12J8vzN5njCGKnf7KgjA/viewform"><small>Klik hier om het formulier in een nieuw venster te openen</small></a>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_nl.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

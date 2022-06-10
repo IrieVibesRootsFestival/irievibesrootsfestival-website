@@ -1,13 +1,13 @@
 <!DOCTYPE html><html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Quality Nights - Irie Vibes</title>
         <meta property="og:title" content="Quality Nights at Irie Vibes"/>
         <meta property="og:description" content="What is Irie Vibes doing to help me have a good and safe time at Irie Vibes?" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_en.php');?>
         <div class="container">
             <div class="row text-center">
                 <div class="col-12">
@@ -58,7 +58,7 @@
             </div>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_nl.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

@@ -1,13 +1,13 @@
 <!DOCTYPE html><html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Page not found - Irie Vibes</title>
         <meta property="og:title" content="About Irie Vibes" />
         <meta property="og:description" content="Information about Irie Vibes Roots Festival and its parent GreenForward" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_en.php');?>
         <div class="container content">
             <div class="d-flex flex-row align-items-center">
                 <div class="container">
@@ -24,7 +24,7 @@
             </div>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT']."/en/page_parts/footer_en.php");?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_en.php');?>
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

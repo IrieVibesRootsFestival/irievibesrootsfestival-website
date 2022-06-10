@@ -1,13 +1,13 @@
 <!DOCTYPE html><html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Voorzieningen - Irie Vibes</title>
         <meta property="og:title" content="Voorzieningen"/>
         <meta property="og:description" content="Irie Vibes heeft tal van voorzieningen om te zorgen dat hun festivalgangers veilig en gelukkig zijn." /> 
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_nl.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container content">
             <h3 class="text-white"><b>Voorzieningen</b></h3>
@@ -22,7 +22,7 @@
             </ul>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_nl.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
