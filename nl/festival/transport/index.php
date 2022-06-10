@@ -7,7 +7,7 @@
         <meta property="og:description" content="Vind je ideale manier om van en naar Irie Vibes te gaan" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div class="container content">
             <h1 class="page-header">Transport</h1> 
             <h3 class="text-irie"><b>Openbaar veroer</b></h3>
@@ -33,7 +33,7 @@
             <p>Je kan ons circulatieplan (verkeersregeling) <a href="/src/static/circulation_plan.jpg">hier</a> bekijken.</p>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_nl.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

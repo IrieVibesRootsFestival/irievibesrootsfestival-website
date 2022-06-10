@@ -7,7 +7,7 @@
         <meta property="og:description" content="Bekijk onze partners & samenwerkingen" />
     </head> 
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container content">
             <br/>
@@ -18,7 +18,7 @@
         <p class="mt-2 mb-2 text-center"><span class="text-danger">De sponsorlijst is <u>niet</u> compleet!</span> Verwachte datum van completering is eind April.</p>
         </div>
     <!-- Include Footer -->
-    <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_nl.php');?>        
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/footer_nl.php');?>        
     </body>
 <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
 <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
