@@ -62,16 +62,8 @@
                             <li><a class="nav-link" href="/nl/lineup/livestream/"><i class="fas fa-video"></i> Livestream</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-                            aria-expanded="false"><i class="bi bi-ticket-perforated">&nbsp;</i>Tickets</a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item text-danger"
-                                    href="https://irie-vibes.eventsquare.co/nl/twkjzziqfhhu/9eicer23c4cx"><i
-                                        class="bi bi-ticket">&nbsp;</i><strong>Online kopen</strong></a></li>
-                            <li><a class="dropdown-item disabled" href="/nl/tickets/guest-tickets/"><i
-                                        class="fa-solid fa-user-check">&nbsp;</i>Gastentickets</a></li>
-                        </ul>
+                    <li class="nav-item">
+                        <a class="nav-link text-danger" href="https://tickets.irievibes.be"><i class="bi bi-ticket">&nbsp;</i>Tickets</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/nl/kids/">Little Lion</a>
