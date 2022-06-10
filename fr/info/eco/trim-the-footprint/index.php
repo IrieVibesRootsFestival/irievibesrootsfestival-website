@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_fr.php');?>
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
     <!-- This is the container that allows the slider to be wider -->
     <div class="container content">
         <div class="row">
@@ -204,7 +204,7 @@
     </div>
     <!-- Include Footer -->
     <footer>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/footer_fr.php');?>
     </footer>
 </body>
 <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->

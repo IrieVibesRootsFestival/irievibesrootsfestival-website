@@ -7,7 +7,7 @@
         <meta property="og:description" content="We have implemented some security features to ensure your safety. View them here." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
         <div class="container text-center">
             <div class="row text-center pt-4">
                 <div class="col-12 col-md-6">
@@ -25,7 +25,7 @@
             </div>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_en.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/footer_en.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

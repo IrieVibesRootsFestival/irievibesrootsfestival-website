@@ -7,7 +7,7 @@
         <meta property="og:description" content="De geschiedenis van onze advertentieposters maakt deel uit van wat Irie Vibes zo divers maakt. Ontdek hier hoe onze eerdere posters eruit zagen." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div class="container content">         
             <h1 class="page-header">Poster archive</h1>
             <div class="row">
@@ -98,7 +98,7 @@
             </div>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_nl.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

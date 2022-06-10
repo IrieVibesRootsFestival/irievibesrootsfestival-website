@@ -8,7 +8,7 @@
         <meta property="og:description" content="Kijk naar de Livestream wanneer er evenementen worden gestreamd! - Twitch" />
     </head> 
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div class="container-fluid content">
             <div class="row">
                 <div class="col-12">
@@ -25,7 +25,7 @@
             </div>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_nl.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

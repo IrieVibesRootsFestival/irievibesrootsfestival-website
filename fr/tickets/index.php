@@ -8,7 +8,7 @@
         <meta property="og:description" content="Achetez vos billets de Irie Vibes en prévente avant qu'il ne soit trop tard! C'est l'endroit où tout commence. Irie Vibes vous invite à l'édition de Back to The Roots au cœur de l'été 2021 à Kortemark." /> 
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <script src="/src/js/eventsquare-embed.js" rel="external" type="text/javascript"></script>
         <!-- This is the main container that encapsulates everything content related. -->
@@ -42,7 +42,7 @@
             </div>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_fr.php');?>     
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/footer_fr.php');?>     
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
