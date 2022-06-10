@@ -1,13 +1,13 @@
 <!DOCTYPE html><html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Camping - Irie Vibes</title>
         <meta property="og:title" content="Camping info"/>
         <meta property="og:description" content="Trouvez tout ce que vous devez savoir lorsque vous venez avec votre tente et votre tat." /> 
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_fr.php');?>
         <div class="content container">
             <br/>
             <div id="accomodation" class="container">
@@ -156,7 +156,7 @@
             </div>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_fr.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

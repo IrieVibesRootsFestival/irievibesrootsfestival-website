@@ -1,13 +1,13 @@
 <!DOCTYPE html><html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Team Eco - Irie Vibes</title>
         <meta property="og:title" content="Le Team Eco au Irie Vibes"/>
         <meta property="og:description" content="Nous nous soucions de l'environnement! Mais que faisons-nous réellement? Découvrez ici!" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_fr.php');?>
         <div class="container content">         
             <h1 class="page-header">Le Team Eco</h1>
             <br/>
@@ -95,7 +95,7 @@
             </div>
         </div>   
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_fr.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

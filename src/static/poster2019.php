@@ -1,7 +1,7 @@
 <html>
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Poster - Irie Vibes</title>
         <meta property="og:title" content="Poster"/>
         <meta property="og:description" content="Use this image to print your own posters or share it on social media!" /> 

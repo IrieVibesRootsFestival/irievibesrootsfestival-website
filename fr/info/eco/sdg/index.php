@@ -2,13 +2,13 @@
 <html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Objectifs de développement durable - Irie Vibes</title>
         <meta property="og:title" content="Les ‘Objectifs de développement durable’"/>
         <meta property="og:description" content="Les Objectifs de développement durable s'agit de 17 objectifs, 169 sous-objectifs et 229 indicateurs à atteindre d'ici 2030." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_fr.php');?>
         <div class="container content">         
             <h1 class="page-header">Objectifs de développement durable</h1>
             <div class="row">
@@ -423,7 +423,7 @@
             </div>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_fr.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

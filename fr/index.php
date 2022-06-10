@@ -3,14 +3,14 @@
 
 <head>
     <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/page_parts/head_common.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/_page_parts/head_common.php'); ?>
     <title>Home - Irie Vibes</title>
     <meta property="og:title" content="Irie Vibes Roots Festival 2022 - Découvrez le monde du festival Irie Vibes Roots" />
     <meta property="og:description" content="De retour à l'endroit où tout a commencé: Irie Vibes vous invite à l'édition Back to The Roots du festival Irie Vibes Roots en plein été 2022 à Kortemark." />
 </head>
 
 <body>
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/fr/_page_parts/header_fr.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . './_page_parts/header_fr.php'); ?>
     <div class="container content">
         <div class="row justify-content-center">
             <div class="col-12 col-md-8" id="home_sidebar-left">
@@ -132,7 +132,7 @@
         </div>
     </div>
     <!-- Include Footer -->
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/footer_fr.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . './_page_parts/footer_fr.php'); ?>
 </body>
 <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/load_last.php'); ?>

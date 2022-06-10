@@ -1,13 +1,13 @@
 <!DOCTYPE html><html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Kids' Village - Irie Vibes</title>
         <meta property="og:title" content="Kids' Village & Irie Vibes pour enfants"/>
         <meta property="og:description" content="Les enfants sont welcome à jouer dans la village d'enfants" /> 
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_fr.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container content">
             <h1 class="page-header">Little Lion</h1>
@@ -51,7 +51,7 @@
             </div>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_fr.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
