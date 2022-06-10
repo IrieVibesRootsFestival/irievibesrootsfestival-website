@@ -55,15 +55,15 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-calendar2-week">&nbsp;</i>Program</a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="./lineup/quick/"><i class="fas fa-search"></i> Quick view</a></li>
+                            <li><a class="dropdown-item" href="./lineup/summary/"><i class="fas fa-search">&nbsp;</i>Quick view</a></li>
                             <div class="dropdown-divider"></div>
-                            <li><a class="dropdown-item" href="./lineup/"><i class="fas fa-record-vinyl"></i>Line-Up</a></li>
-                            <li><a class="dropdown-item" href="./lineup/posters/"><i class="fas fa-scroll"></i>Posters</a></li>
-                            <li><a class="dropdown-item" href="./lineup/livestream/"><i class="fas fa-video"></i>Livestream</a></li>
+                            <li><a class="dropdown-item" href="./lineup/"><i class="fas fa-record-vinyl">&nbsp;</i>Line-Up</a></li>
+                            <li><a class="dropdown-item" href="./lineup/posters/"><i class="fas fa-scroll">&nbsp;</i>Posters</a></li>
+                            <li><a class="dropdown-item" href="./lineup/livestream/"><i class="fas fa-video">&nbsp;</i>Livestream</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-danger" href="https://tickets.irievibes.be"><i class="bi bi-ticket">&nbsp;</i>Tickets</a>
+                        <a class="nav-link text-danger" href="https://tickets.irievibes.be"><i class="fas fa-ticket">&nbsp;</i>Tickets</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./kids/">Little Lion</a>
@@ -97,8 +97,7 @@
                     <!-- This is the language selector. -->
                     <li class="nav-item dropdown" role="menu">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                            <i class="bi bi-translate"></i>
-                            <span class="d-lg-none"> Language</span>
+                            <i class="bi bi-translate">&nbsp;</i><span class="d-lg-none">Language</span>
                         </a>
                         <ul id="lang-select-menu" class="dropdown-menu">
                             <li class="dropdown-item"><span href="nl" class="my-1 flag flag-be select-lang"></span></li>
