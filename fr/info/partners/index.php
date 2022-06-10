@@ -1,27 +1,43 @@
-<!DOCTYPE html><html lang="fr">
-    <head>
-        <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
-        <title>Partners - Irie Vibes</title>
-        <meta property="og:title" content="Partners & Cooperations"/>
-        <meta property="og:description" content="View our partners and cooperations. Click an image to discover." />
-    </head> 
-    <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
-        <!-- This is the main container that encapsulates everything content related. -->
-        <div class="container content">
-            <br/>
-            <h1 class="page-header">Parternaires</h1>
-            <div class="row"><?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/content/partners.php');?></div>
-            <h1 class="page-header">Coopérations</h1>
-            <div class="row"><?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/content/cooperations.php');?></div>
-            <p class="mt-2 mb-2 text-center">
-                <span class="text-danger">La liste des sponsors n'est <u>pas</u> complète! </span>La date d'achèvement prévue est avril.
-            </p>
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/_page_parts/head_common.php'); ?>
+    <title>Partenaires - Irie Vibes</title>
+    <meta property="og:title" content="Partenaires" />
+    <meta property="og:description" content="Voir nos partenaires de cette année" />
+</head>
+
+<body>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . "/fr/_page_parts/header_fr.php"); ?>
+    <div class="container content">
+        <div class="row justify-content-center">
+            <div class="col-12 text-center">
+                <h1 class="page-header">Partenaires</h1>
+            </div>
+            <?php
+            $dir_name = $_SERVER['DOCUMENT_ROOT'] . '/src/img/partners/';
+            $images = glob($dir_name . "*.jpg");
+            foreach ($images as $image) {
+                $image_url = 'https://' . $_SERVER['HTTP_HOST'] . '/src/img/partners/' . basename($image, '.jpg');
+                echo ('
+                    <div class="col-3 col-sm-3 my-2">
+                        <picture>
+                            <source srcset="' . $image_url . '.webp" type="image/webp">
+                            <img alt="' . basename($image, '.jpg') . '" class="img-fluid rounded" src="' . $image_url . '.jpg" type="image/jpeg">
+                        </picture>
+                    </div>
+                    ');
+            }
+            ?>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/footer_fr.php');?>        
-    </body>
-    <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
-    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'] . '/fr/_page_parts/footer_fr.php'); ?>
+    </div>
+</body>
+<!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/load_last.php'); ?>
+</script>
+
 </html>
