@@ -8,7 +8,7 @@
         <meta property="og:description" content="Depuis 2020, il y a des saules sur le terrain du festival pour retenir le sol, fournir de l'ombre et créer un écosystème." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_fr.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/header_fr.php');?>
         <div class="container content">         
             <h1 class="page-header">Bewilg Het Landschap</h1>
             <br/>
@@ -37,7 +37,7 @@
             </div>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_fr.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/footer_fr.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

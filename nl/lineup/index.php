@@ -7,7 +7,7 @@
         <meta property="og:title" content="Line-up Index"/>
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div id="lineup-home" class="container content">
             <h1 class="page-header">Line up Index</h1>
@@ -62,7 +62,7 @@
             </div>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_nl.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

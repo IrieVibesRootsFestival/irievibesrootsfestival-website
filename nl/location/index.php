@@ -7,7 +7,7 @@
         <meta property="og:description" content="Hier vind je de locatie van het festivalterrein." />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div id="location" class="container text-center content">
             <br/>
@@ -17,7 +17,7 @@
             <h2>Koekelarestraat 16, 8610 Kortemark</h2><br/>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_nl.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
