@@ -5,7 +5,7 @@ on:
 name: 🚀 Deploy website on push
 jobs:
   web-deploy:
-    name: 🎉 Deploy
+    name: 🎉 Deploy Production (release)
     runs-on: ubuntu-latest
     steps:
     - name: 🚚 Get latest code
@@ -15,7 +15,13 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
         server: ftp.irievibes.be
-        server-dir: /home/deb109085/public_html/
+        server-dir: /domains/irievibes.be/public_html/
         username: web@irievibes.be
         password: ${{ secrets.ftp_password }}
+        exclude: |
+          **/.git*
+          **/.git*/**
+          **/node_modules/**
+          **/shop/**
+          
         
