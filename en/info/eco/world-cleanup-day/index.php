@@ -2,13 +2,13 @@
 <html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>World Cleanup Day - Irie Vibes</title>
         <meta property="og:title" content="Our participation in the World Cleanup Day"/>
         <meta property="og:description" content="We participated in the World Cleanup day on September 21st" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_en.php');?>
         <div class="container content">         
             <h1 class="page-header">World Cleanup Day</h1>
             <div class="row">
@@ -101,7 +101,7 @@
             </div>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT']."/en/page_parts/footer_en.php");?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_en.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

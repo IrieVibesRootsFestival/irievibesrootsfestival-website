@@ -1,13 +1,13 @@
 <!DOCTYPE html><html lang="en">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Transport - Irie Vibes</title>
         <meta property="og:title" content="Transport"/>
         <meta property="og:description" content="Find your commute for Irie Vibes Roots Festival" />
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/header_en.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_en.php');?>
         <!-- This is the main container that encapsulates everything content related. -->
         <div class="container content">
             <h1 class="page-header">Transport</h1> 
@@ -34,7 +34,7 @@
             <p>A PDF of our circulation plan is available <a href="/src/static/circulation_plan.jpg">here</a>.</p>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT']."/en/page_parts/footer_en.php");?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_en.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>

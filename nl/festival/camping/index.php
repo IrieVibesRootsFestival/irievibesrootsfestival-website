@@ -1,13 +1,13 @@
 <!DOCTYPE html><html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Camping & Parking</title>
         <meta property="og:title" content="Camping & Parking"/>
         <meta property="og:description" content="What does the camping cost? Where do I park my car and where do I stay? Find out here!" /> 
     </head>
     <body>
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/header_nl.php');?>
         <div class="content container">
             <br/>
             <div id="accomodation" class="container">
@@ -156,7 +156,7 @@
             </div>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_nl.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'./_page_parts/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
     <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
