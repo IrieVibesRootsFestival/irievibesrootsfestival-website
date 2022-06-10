@@ -43,28 +43,28 @@
                     <li class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival</a>
                         <ul class="dropdown-menu">
-                            <li><a class="nav-link" href="./location/"><i class="fas fa-location-arrow"></i> Emplacement</a></li>
-                            <li><a class="nav-link" href="./festival/rules/"><i class="fas fa-hand-point-right"></i> Règles</a></li>
-                            <li><a class="nav-link" href="./festival/camping/"><i class="fas fa-campground"></i> Camping et Parking</a></li>
-                            <li><a class="nav-link" href="./festival/services/"><i class="fas fa-shower"></i> Les services</a></li>
-                            <li><a class="nav-link" href="./info/vokunteers/"><i class="fas fa-hands-helping"></i> Bénévoles</a></li>
-                            <li><a class="nav-link" href="./festival/food-shops/"><i class="fas fa-utensils"></i> (non)Food Shops</a></li>
-                            <li><a class="nav-link" href="./festival/transport/"><i class="fas fa-car"></i> Transport</a></li>
-                            <li><a class="nav-link" href="./festival/safety/"><i class="fas fa-shield-alt"></i> Sécurité</a></li>
+                            <li><a class="nav-link" href="./location/"><i class="fas fa-location-arrow">&nbsp;</i>Emplacement</a></li>
+                            <li><a class="nav-link" href="./festival/rules/"><i class="fas fa-hand-point-right">&nbsp;</i>Règles</a></li>
+                            <li><a class="nav-link" href="./festival/camping/"><i class="fas fa-campground">&nbsp;</i>Camping et Parking</a></li>
+                            <li><a class="nav-link" href="./festival/services/"><i class="fas fa-shower">&nbsp;</i>Les services</a></li>
+                            <li><a class="nav-link" href="./info/vokunteers/"><i class="fas fa-hands-helping">&nbsp;</i>Bénévoles</a></li>
+                            <li><a class="nav-link" href="./festival/food-shops/"><i class="fas fa-utensils">&nbsp;</i>(non)Food Shops</a></li>
+                            <li><a class="nav-link" href="./festival/transport/"><i class="fas fa-car">&nbsp;</i>Transport</a></li>
+                            <li><a class="nav-link" href="./festival/safety/"><i class="fas fa-shield-alt">&nbsp;</i>Sécurité</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-list-alt d-lg-none">&nbsp;</i>Programme<span class="dropdown-toggle"></span></a>
+                        <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-calendar2-week">&nbsp;</i>Programme<span class="dropdown-toggle"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="/en/lineup/quick/"><i class="fas fa-search"></i> Quick view</a></li>
+                            <li><a class="dropdown-item" href="./lineup/summary/"><i class="fas fa-search">&nbsp;</i>Summary</a></li>
                             <div class="dropdown-divider"></div>
-                            <li><a class="nav-link" href="./lineup/"><i class="fas fa-record-vinyl"></i> Line-Up</a></li>
-                            <li><a class="nav-link" href="./lineup/posters/"><i class="fas fa-scroll"></i> Posters</a></li>
-                            <li><a class="nav-link" href="./lineup/livestream/"><i class="fas fa-video"></i> Livestream</a></li>
+                            <li><a class="nav-link" href="./lineup/"><i class="fas fa-record-vinyl">&nbsp;</i>Line-Up</a></li>
+                            <li><a class="nav-link" href="./lineup/posters/"><i class="fas fa-scroll">&nbsp;</i>Posters</a></li>
+                            <li><a class="nav-link" href="./lineup/livestream/"><i class="fas fa-video">&nbsp;</i>Livestream</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-danger" href="https://tickets.irievibes.be"><i class="bi bi-ticket">&nbsp;</i>Tickets</a>
+                        <a class="nav-link text-danger" href="https://tickets.irievibes.be"><i class="fas fa-ticket">&nbsp;</i>Tickets</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./kids/">Little Lion</a>
