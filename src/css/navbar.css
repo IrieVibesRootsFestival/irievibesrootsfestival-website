@@ -75,7 +75,6 @@
   color: white;
   font-family: var(--bs-font-monospace);
   font-style: normal;
-  padding: 0.35rem 1rem;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -83,6 +82,7 @@
 
 #pageheader .navbar .nav-item ul.dropdown-menu {
   background: transparent;
+  padding: 0.35rem;
 }
 
 #pageheader .navbar .dropdown-item.active,
