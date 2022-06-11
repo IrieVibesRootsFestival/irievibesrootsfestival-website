@@ -66,16 +66,16 @@
                     <div class="row">
                         <div class="col-6">
                             <ul class="pages">
-                                <li><a href="/fr/info/faq/">FAQ</a></li>
+                                <!-- <li><a href="/fr/info/faq/">FAQ</a></li> -->
                                 <li><a href="/fr/info/crew/">Crew</a></li>
+                                <!-- <li><a href="/fr/info/about/">à Propos de Nous</a></li> -->
                                 <li><a href="/fr/info/partners/">Partenaires</a></li>
-                                <li><a href="/src/static/content/newsletter/">Archives Bulletin</a></li>
+                                <!-- <li><a href="/src/static/content/newsletter/">Archives Bulletin</a></li> -->
                             </ul>
                         </div>
                         <div class="col-6">
                             <ul class="list">
-                                <li><a href="/fr/contact/">Contact</a></li>
-                                <li><a href="/fr/info/about/">à Propos de Nous</a></li>
+                                <li><a href="/fr/contact/">Contactez nous</a></li>
                                 <li><a href="/fr/info/trooper/"><img alt="" src="https://www.trooper.be/favicon.png" style="margin-top:-6px;"> Trooper</a></li>
                             </ul>
                         </div>
