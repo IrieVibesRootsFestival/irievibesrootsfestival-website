@@ -40,7 +40,8 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/en/"><i class="bi bi-house-door"></i><span class="d-lg-none">&nbsp;Home</span></a>
                     </li>
-                    <li class="nav-item dropdown"><a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival</a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="/en/location/"><i class="bi bi-pin-map"></i>&nbsp;Location</a></li>
                             <li><a class="dropdown-item" href="/en/festival/rules/"><i class="bi bi-megaphone"></i>&nbsp;Festival Rules</a></li>
@@ -71,9 +72,12 @@
                     <li class="nav-item">
                         <a class="nav-link text-warning" href="/en/festival/kortemark-conge/" alt="Free evening for cultural growth">Kortemark Congé</a>
                     </li>
-                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects</a>
-                        <ul class="dropdown-menu bg-md-dark">
-                            <li class="m-2 h4 text-white">On the festival</li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            <i class="fab fa-envira"></i>&nbsp;Projects
+                        </a>
+                        <ul class="dropdown-menu">
+                            <div class="m-2 h3 text-white">On the festival</div>
                             <li><a class="dropdown-item" href="/en/info/eco/upcycling/"><i class="fa-solid fa-recycle"></i>&nbsp;Upcycling</a></li>
                             <li><a class="dropdown-item" href="/en/info/eco/eco-team/"><i class="fa-solid fa-leaf-heart"></i>&nbsp;Eco team</a></li>
                             <li><a class="dropdown-item" href="/en/info/eco/reusable-cups/"><i class="fa-solid fa-glass-whiskey"></i>&nbsp;Reusable cups</a></li>
@@ -81,7 +85,7 @@
                             <li><a class="dropdown-item" href="/en/info/eco/clean-water/"><i class="fa-solid fa-hand-holding-water"></i>&nbsp;Clean water</a></li>
                             <li><a class="dropdown-item" href="/en/info/eco/bewilg-het-landschap/"><i class="fa-solid fa-tree"></i>&nbsp;Bewilg Het Landschap</a></li>
                             <div class="dropdown-divider"></div>
-                            <li class="m-2 h4 text-white">International</li>
+                            <div class="m-2 h3 text-white">International</div>
                             <li><a class="dropdown-item" href="/en/info/eco/sdg/"><i class="fa-solid fa-exchange-alt"></i>&nbsp;<u>S</u>ustainable <u>D</u>evelopment <u>G</u>oals</a></li>
                             <li><a class="dropdown-item" href="/en/info/eco/trim-the-footprint/"><i class="fa-solid fa-shoe-prints"></i>&nbsp;Trim The Footprint</a></li>
                             <li><a class="dropdown-item" href="/en/info/eco/food-waste-facts"><i class="fa-solid fa-carrot"></i>&nbsp;Food Waste Facts</a><small>NL/FR</small></li>
