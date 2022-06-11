@@ -58,7 +58,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
-    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
+    <?php include($_SERVER['DOCUMENT_ROOT'].'_page_parts/load_last.php');?>
     <div id="fb-root"></div>
     <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
 </html>
