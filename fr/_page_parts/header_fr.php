@@ -99,7 +99,7 @@
                     <!-- This is the language selector. -->
                     <li class="nav-item dropdown" role="menu">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                            <i class="bi bi-translate"></i>&nbsp;<span class="d-lg-none">Langue</span>
+                            <i class="bi bi-translate"></i><span class="d-lg-none">&nbsp;Langue</span>
                         </a>
                         <ul id="lang-select-menu" class="dropdown-menu">
                             <li class="dropdown-item"><span href="nl" class="my-1 flag flag-be select-lang"></span></li>
