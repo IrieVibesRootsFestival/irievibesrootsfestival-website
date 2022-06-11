@@ -26,7 +26,7 @@
                 <table class="table table-striped table-bordered table-sm">
                     <thead>
                         <tr>
-                            <th scope="row" colspan="5" class="table-light h3">Thursday</th>
+                            <th scope="row" colspan="5" class="table-dark bg-success h3">Thursday</th>
                         </tr>
                         <tr>
                             <th scope="col"><i class="fa-regular fa-clock"></i></th>
@@ -85,7 +85,7 @@
                 <table class="table table-striped table-bordered table-sm">
                     <thead>
                         <tr>
-                            <th scope="row" colspan="4" class="table-light h3">Friday</th>
+                            <th scope="row" colspan="4" class="table-dark bg-warning h3">Friday</th>
                         </tr>
                         <tr>
                             <th scope="col"><i class="fa-regular fa-clock"></i></td>
@@ -114,7 +114,7 @@
                 <table class="table table-striped table-bordered table-sm">
                     <thead>
                         <tr>
-                            <th scope="row" colspan="4" class="table-light h3">Saturday</th>
+                            <th scope="row" colspan="4" class="table-dark bg-danger h3 text-center">Saturday</th>
                         </tr>
                         <tr>
                             <th scope="col"><i class="fa-regular fa-clock"></i></th>
