@@ -12,7 +12,7 @@
 
 <body>
     <header>
-        <?php include($_SERVER['DOCUMENT_ROOT'] . './_page_parts/header_nl.php'); ?>
+        <?php include($_SERVER['DOCUMENT_ROOT'] . '/nl/_page_parts/header_nl.php'); ?>
     </header>
     <main>
         <div class="container content">
