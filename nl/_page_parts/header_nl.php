@@ -41,7 +41,7 @@
                         <a class="nav-link" href="./"><i class="fas fa-home"></i><span class="d-lg-none">&nbsp;Home</span><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a href="#" alt="./festival/" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival<span class="dropdown-toggle"></span></a>
+                        <a href="#" alt="./festival/" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival</a>
                         <ul class="dropdown-menu">
                             <li><a class="nav-link" href="./location/"><i class="fas fa-location-arrow">&nbsp;</i>Locatie</a></li>
                             <li><a class="nav-link" href="./festival/rules/"><i class="fas fa-hand-point-right">&nbsp;</i>Festivalregels</a></li>
@@ -54,7 +54,7 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-calendar2-week">&nbsp;</i>Programma<span class="dropdown-toggle"></span></a>
+                        <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-calendar2-week">&nbsp;</i>Programma</a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item " href="./lineup/summary/"><i class="fas fa-search">&nbsp;</i>Summary</a></li>
                             <div class="dropdown-divider"></div>
@@ -73,7 +73,7 @@
                         <a class="nav-link" href="./festival/kortemark-conge/">Kortemark Congé</a>
                     </li>
                     <li class="nav-item dropdown bg-md-dark">
-                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects<span class="dropdown-toggle"></span></a>
+                        <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects</a>
                         <ul class="dropdown-menu">
                             <li class="m-2 h4 text-white">Op het festival</li>
                             <li><a class="nav-link" href="./info/eco/upcycling/"><i class="fas fa-recycle">&nbsp;</i>Upcycling</a></li>
