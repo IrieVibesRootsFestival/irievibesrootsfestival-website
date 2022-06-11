@@ -71,7 +71,7 @@
                     <li class="nav-item">
                         <a class="nav-link text-warning" href="./festival/kortemark-conge/" alt="Free evening for cultural growth">Kortemark Congé</a>
                     </li>
-                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira">&nbsp;</i>Projects<span class="dropdown-toggle"></span></a>
+                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira">&nbsp;</i>Projects</a>
                         <ul class="dropdown-menu bg-md-dark">
                             <li class="m-2 h4 text-white">On the festival</li>
                             <li><a class="dropdown-item" href="./info/eco/upcycling/"><i class="fa-solid fa-recycle">&nbsp;</i>Upcycling</a></li>
