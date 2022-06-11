@@ -14,7 +14,8 @@
     <div class="container content">
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <h1 class="page-header">Line-Up</h1>
+                <h1 class="page-header">Partners</h1>
+                <p class="text-muted">Sponsors and cooperations</p>
             </div>
             <?php
             $dir_name = $_SERVER['DOCUMENT_ROOT'] . '/src/img/partners/';
