@@ -22,7 +22,7 @@
             foreach ($images as $image) {
                 $image_url = 'https://' . $_SERVER['HTTP_HOST'] . '/src/img/partners/' . basename($image, '.jpg');
                 echo ('
-                    <div class="col-3 col-sm-3 my-2">
+                    <div class="col-4 col-sm-2 my-1">
                         <picture>
                             <source srcset="' . $image_url . '.webp" type="image/webp">
                             <img alt="' . basename($image, '.jpg') . '" class="img-fluid rounded" src="' . $image_url . '.jpg" type="image/jpeg">
