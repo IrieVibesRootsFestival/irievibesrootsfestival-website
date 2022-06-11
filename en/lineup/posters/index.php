@@ -101,5 +101,5 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/en/_page_parts/footer_en.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
-    <?php include($_SERVER['DOCUMENT_ROOT'].'_page_parts/load_last.php');?>
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/load_last.php');?>
 </html>
