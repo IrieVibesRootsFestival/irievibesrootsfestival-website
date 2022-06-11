@@ -21,7 +21,7 @@
             $dir_name = $_SERVER['DOCUMENT_ROOT'] . '/src/img/partners/';
             $images = glob($dir_name . "*.jpg");
             foreach ($images as $image) {
-                $image_url = 'https://' . $_SERVER['HTTP_HOST'] . '/src/img/partners/' . basename($image, '.jpg');
+                $image_url = '/src/img/partners/' . basename($image, '.jpg');
                 echo ('
                     <div class="col-4 col-sm-2 my-1">
                         <picture>
@@ -33,9 +33,9 @@
             }
             ?>
         </div>
-        <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'] . '/en/_page_parts/footer_en.php'); ?>
     </div>
+    <!-- Include Footer -->
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/en/_page_parts/footer_en.php'); ?>
 </body>
 <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/_page_parts/load_last.php'); ?>
