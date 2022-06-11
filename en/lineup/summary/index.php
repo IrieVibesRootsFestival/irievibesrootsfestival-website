@@ -15,12 +15,18 @@
         <div class="row justify-content-center">
             <div class="col-12 text-center">
                 <h1 class="page-header">Line-Up</h1>
+                <div class="alert alert-warning alert-dismissible fade show d-md-none" role="alert">
+                    <strong><i class="fa-solid fa-mobile-screen"></i><i class="fa-solid fa-rotate"></i></strong> Consider rotating your device to view these tables
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
             </div>
-            <div class="col-12">
-                <table class="table table-striped table-bordered table-responsive table-sm">
+            <div class="col-12 table-responsive">
+                <table class="table table-striped table-bordered table-sm">
                     <thead>
                         <tr>
-                            <th scope="row" colspan="5">Thursday</th>
+                            <th scope="row" colspan="5" class="table-light h3">Thursday</th>
                         </tr>
                         <tr>
                             <th scope="col"><i class="fa-regular fa-clock"></i></th>
@@ -29,7 +35,7 @@
                             <th scope="col">Little Lion</th>
                         </tr>
                     </thead>
-                    <tbody>
+                    <tbody class="table-group-divider">
                         <tr>
                             <th scope="row">18:30</td>
                             <td></td>
@@ -75,11 +81,11 @@
                     </tbody>
                 </table>
             </div>
-            <div class="col-12">
-                <table class="table table-striped table-bordered table-responsive table-sm">
+            <div class="col-12 table-responsive">
+                <table class="table table-striped table-bordered table-sm">
                     <thead>
                         <tr>
-                            <th scope="row" colspan="4">Friday</th>
+                            <th scope="row" colspan="4" class="table-light h3">Friday</th>
                         </tr>
                         <tr>
                             <th scope="col"><i class="fa-regular fa-clock"></i></td>
@@ -88,7 +94,7 @@
                             <th scope="col">Camping</td>
                         </tr>
                     </thead>
-                    <tbody>
+                    <tbody class="table-group-divider">
                         <tr>
                             <th scope="row">12:00</td>
                             <td></td>
@@ -104,11 +110,11 @@
                     </tbody>
                 </table>
             </div>
-            <div class="col-12">
-                <table class="table table-striped table-bordered table-responsive table-sm">
+            <div class="col-12 table-responsive">
+                <table class="table table-striped table-bordered table-sm">
                     <thead>
                         <tr>
-                            <th scope="row" colspan="4">Saturday</th>
+                            <th scope="row" colspan="4" class="table-light h3">Saturday</th>
                         </tr>
                         <tr>
                             <th scope="col"><i class="fa-regular fa-clock"></i></th>
@@ -116,7 +122,7 @@
                             <th scope="col">Inner Circle</th>
                         </tr>
                     </thead>
-                    <tbody>
+                    <tbody class="table-group-divider">
                         <tr>
                             <th scope="row">12:00</td>
                             <td></td>
