@@ -8,7 +8,7 @@
         <meta property="og:description" content="Kom meer te weten over de ticketverkoop voor Irie Vibes Roots Festival" /> 
     </head>
     <body>
-    <?php include($_SERVER['DOCUMENT_ROOT'] . './_page_parts/header_nl.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/nl/_page_parts/header_nl.php'); ?>
         <!-- This is the main container that encapsulates everything content related. -->
         <script src="/src/js/eventsquare-embed.js" rel="external" type="text/javascript"></script>
         <!-- This is the main container that encapsulates everything content related. -->
