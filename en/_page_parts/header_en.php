@@ -42,28 +42,28 @@
                     </li>
                     <li class="nav-item dropdown"><a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival</a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="./location/"><i class="bi bi-pin-map">&nbsp;</i>Location</a></li>
-                            <li><a class="dropdown-item" href="./festival/rules/"><i class="bi bi-megaphone">&nbsp;</i>Festival Rules</a></li>
-                            <li><a class="dropdown-item" href="./festival/camping/"><i class="bi bi-campground">&nbsp;</i>Camping & Parking</a></li>
-                            <li><a class="dropdown-item" href="./festival/services/"><i class="bi bi-shower">&nbsp;</i>Services</a></li>
-                            <li><a class="dropdown-item" href="./info/volunteers/"><i class="bi bi-hands-helping">&nbsp;</i>Volunteers</a></li>
-                            <li><a class="dropdown-item" href="./festival/food-shops/"><i class="bi bi-utensils">&nbsp;</i>(non)Food Shops</a></li>
-                            <li><a class="dropdown-item" href="./festival/transport/"><i class="bi bi-car">&nbsp;</i>Transport</a></li>
-                            <li><a class="dropdown-item" href="./festival/safety/"><i class="bi bi-shield-alt">&nbsp;</i>Safety</a></li>
+                            <li><a class="dropdown-item" href="./location/"><i class="bi bi-pin-map"></i>&nbsp;Location</a></li>
+                            <li><a class="dropdown-item" href="./festival/rules/"><i class="bi bi-megaphone"></i>&nbsp;Festival Rules</a></li>
+                            <li><a class="dropdown-item" href="./festival/camping/"><i class="bi bi-campground"></i>&nbsp;Camping & Parking</a></li>
+                            <li><a class="dropdown-item" href="./festival/services/"><i class="bi bi-shower"></i>&nbsp;Services</a></li>
+                            <li><a class="dropdown-item" href="./info/volunteers/"><i class="bi bi-hands-helping"></i>&nbsp;Volunteers</a></li>
+                            <li><a class="dropdown-item" href="./festival/food-shops/"><i class="bi bi-utensils"></i>&nbsp;(non)Food Shops</a></li>
+                            <li><a class="dropdown-item" href="./festival/transport/"><i class="bi bi-car"></i>&nbsp;Transport</a></li>
+                            <li><a class="dropdown-item" href="./festival/safety/"><i class="bi bi-shield-alt"></i>&nbsp;Safety</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-calendar2-week">&nbsp;</i>Program</a>
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-calendar2-week"></i>&nbsp;Program</a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="./lineup/summary/"><i class="fas fa-search">&nbsp;</i>Quick view</a></li>
+                            <li><a class="dropdown-item" href="./lineup/summary/"><i class="fas fa-search"></i>&nbsp;Quick view</a></li>
                             <div class="dropdown-divider"></div>
-                            <li><a class="dropdown-item" href="./lineup/"><i class="fas fa-record-vinyl">&nbsp;</i>Line-Up</a></li>
-                            <li><a class="dropdown-item" href="./lineup/posters/"><i class="fas fa-scroll">&nbsp;</i>Posters</a></li>
-                            <li><a class="dropdown-item" href="./lineup/livestream/"><i class="fas fa-video">&nbsp;</i>Livestream</a></li>
+                            <li><a class="dropdown-item" href="./lineup/"><i class="fas fa-record-vinyl"></i>&nbsp;Line-Up</a></li>
+                            <li><a class="dropdown-item" href="./lineup/posters/"><i class="fas fa-scroll"></i>&nbsp;Posters</a></li>
+                            <li><a class="dropdown-item" href="./lineup/livestream/"><i class="fas fa-video"></i>&nbsp;Livestream</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-danger" href="https://tickets.irievibes.be"><i class="fas fa-ticket">&nbsp;</i>Tickets</a>
+                        <a class="nav-link text-danger" href="https://tickets.irievibes.be"><i class="fas fa-ticket"></i>&nbsp;Tickets</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./kids/">Little Lion</a>
@@ -71,33 +71,33 @@
                     <li class="nav-item">
                         <a class="nav-link text-warning" href="./festival/kortemark-conge/" alt="Free evening for cultural growth">Kortemark Congé</a>
                     </li>
-                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira">&nbsp;</i>Projects</a>
+                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects</a>
                         <ul class="dropdown-menu bg-md-dark">
                             <li class="m-2 h4 text-white">On the festival</li>
-                            <li><a class="dropdown-item" href="./info/eco/upcycling/"><i class="fa-solid fa-recycle">&nbsp;</i>Upcycling</a></li>
-                            <li><a class="dropdown-item" href="./info/eco/eco-team/"><i class="fa-solid fa-leaf-heart">&nbsp;</i>Eco team</a></li>
-                            <li><a class="dropdown-item" href="./info/eco/reusable-cups/"><i class="fa-solid fa-glass-whiskey">&nbsp;</i>Reusable cups</a></li>
-                            <li><a class="dropdown-item" href="./info/eco/groene-vent-award/"><i><i class="fa-solid fa-award">&nbsp;</i>Groene Vent</i></a></li>
-                            <li><a class="dropdown-item" href="./info/eco/clean-water/"><i class="fa-solid fa-hand-holding-water">&nbsp;</i>Clean water</a></li>
-                            <li><a class="dropdown-item" href="./info/eco/bewilg-het-landschap/"><i class="fa-solid fa-tree">&nbsp;</i>Bewilg Het Landschap</a></li>
+                            <li><a class="dropdown-item" href="./info/eco/upcycling/"><i class="fa-solid fa-recycle"></i>&nbsp;Upcycling</a></li>
+                            <li><a class="dropdown-item" href="./info/eco/eco-team/"><i class="fa-solid fa-leaf-heart"></i>&nbsp;Eco team</a></li>
+                            <li><a class="dropdown-item" href="./info/eco/reusable-cups/"><i class="fa-solid fa-glass-whiskey"></i>&nbsp;Reusable cups</a></li>
+                            <li><a class="dropdown-item" href="./info/eco/groene-vent-award/"><i><i class="fa-solid fa-award"></i>&nbsp;Groene Vent</i></a></li>
+                            <li><a class="dropdown-item" href="./info/eco/clean-water/"><i class="fa-solid fa-hand-holding-water"></i>&nbsp;Clean water</a></li>
+                            <li><a class="dropdown-item" href="./info/eco/bewilg-het-landschap/"><i class="fa-solid fa-tree"></i>&nbsp;Bewilg Het Landschap</a></li>
                             <div class="dropdown-divider"></div>
                             <li class="m-2 h4 text-white">International</li>
-                            <li><a class="dropdown-item" href="./info/eco/sdg/"><i class="fa-solid fa-exchange-alt">&nbsp;</i><u>S</u>ustainable <u>D</u>evelopment <u>G</u>oals</a></li>
-                            <li><a class="dropdown-item" href="./info/eco/trim-the-footprint/"><i class="fa-solid fa-shoe-prints">&nbsp;</i>Trim The Footprint</a></li>
-                            <li><a class="dropdown-item" href="./info/eco/food-waste-facts"><i class="fa-solid fa-carrot">&nbsp;</i>Food Waste Facts</a><small>NL/FR</small></li>
-                            <li><a class="dropdown-item" href="./info/eco/world-cleanup-day/"><i class="fa-solid fa-globe">&nbsp;</i>World Cleanup Day</a></li>
+                            <li><a class="dropdown-item" href="./info/eco/sdg/"><i class="fa-solid fa-exchange-alt"></i>&nbsp;<u>S</u>ustainable <u>D</u>evelopment <u>G</u>oals</a></li>
+                            <li><a class="dropdown-item" href="./info/eco/trim-the-footprint/"><i class="fa-solid fa-shoe-prints"></i>&nbsp;Trim The Footprint</a></li>
+                            <li><a class="dropdown-item" href="./info/eco/food-waste-facts"><i class="fa-solid fa-carrot"></i>&nbsp;Food Waste Facts</a><small>NL/FR</small></li>
+                            <li><a class="dropdown-item" href="./info/eco/world-cleanup-day/"><i class="fa-solid fa-globe"></i>&nbsp;World Cleanup Day</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#footer_main"><i class="fa-solid fa-circle-info">&nbsp;</i>Info</a>
+                        <a class="nav-link" href="#footer_main"><i class="fa-solid fa-circle-info"></i>&nbsp;Info</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-warning" href="http://shop.irievibes.be"><i class="fa-solid fa-bag-shopping">&nbsp;</i>Webshop</a>
+                        <a class="nav-link text-warning" href="http://shop.irievibes.be"><i class="fa-solid fa-bag-shopping"></i>&nbsp;Webshop</a>
                     </li>
                     <!-- This is the language selector. -->
                     <li class="nav-item dropdown" role="menu">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                            <i class="bi bi-translate">&nbsp;</i><span class="d-lg-none">Language</span>
+                            <i class="bi bi-translate"></i>&nbsp;<span class="d-lg-none">Language</span>
                         </a>
                         <ul id="lang-select-menu" class="dropdown-menu">
                             <li class="dropdown-item"><span href="nl" class="my-1 flag flag-be select-lang"></span></li>
