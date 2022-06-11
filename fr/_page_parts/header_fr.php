@@ -32,62 +32,62 @@
                 <i class="bi bi-list"></i>
             </button>
             <!-- This is the Navbar's "Content" -->
-            <a class="navbar-brand" href="./">
+            <a class="navbar-brand" href="/fr/">
                 <img alt="Navigation Brand" src="/src/img/irie-heart-simple.svg" height="auto">
             </a>
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto d-lg-flex align-items-lg-center px-2 px-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="./"><i class="fas fa-home"></i><span class="d-lg-none">&nbsp;Home</span><span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="/fr/"><i class="fas fa-home"></i><span class="d-lg-none">&nbsp;Home</span><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival</a>
                         <ul class="dropdown-menu">
-                            <li><a class="nav-link" href="./location/"><i class="fas fa-location-arrow"></i>&nbsp;Emplacement</a></li>
-                            <li><a class="nav-link" href="./festival/rules/"><i class="fas fa-hand-point-right"></i>&nbsp;Règles</a></li>
-                            <li><a class="nav-link" href="./festival/camping/"><i class="fas fa-campground"></i>&nbsp;Camping et Parking</a></li>
-                            <li><a class="nav-link" href="./festival/services/"><i class="fas fa-shower"></i>&nbsp;Les services</a></li>
-                            <li><a class="nav-link" href="./info/vokunteers/"><i class="fas fa-hands-helping"></i>&nbsp;Bénévoles</a></li>
-                            <li><a class="nav-link" href="./festival/food-shops/"><i class="fas fa-utensils"></i>&nbsp;(non)Food Shops</a></li>
-                            <li><a class="nav-link" href="./festival/transport/"><i class="fas fa-car"></i>&nbsp;Transport</a></li>
-                            <li><a class="nav-link" href="./festival/safety/"><i class="fas fa-shield-alt"></i>&nbsp;Sécurité</a></li>
+                            <li><a class="nav-link" href="/fr/location/"><i class="fas fa-location-arrow"></i>&nbsp;Emplacement</a></li>
+                            <li><a class="nav-link" href="/fr/festival/rules/"><i class="fas fa-hand-point-right"></i>&nbsp;Règles</a></li>
+                            <li><a class="nav-link" href="/fr/festival/camping/"><i class="fas fa-campground"></i>&nbsp;Camping et Parking</a></li>
+                            <li><a class="nav-link" href="/fr/festival/services/"><i class="fas fa-shower"></i>&nbsp;Les services</a></li>
+                            <li><a class="nav-link" href="/fr/info/vokunteers/"><i class="fas fa-hands-helping"></i>&nbsp;Bénévoles</a></li>
+                            <li><a class="nav-link" href="/fr/festival/food-shops/"><i class="fas fa-utensils"></i>&nbsp;(non)Food Shops</a></li>
+                            <li><a class="nav-link" href="/fr/festival/transport/"><i class="fas fa-car"></i>&nbsp;Transport</a></li>
+                            <li><a class="nav-link" href="/fr/festival/safety/"><i class="fas fa-shield-alt"></i>&nbsp;Sécurité</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-calendar2-week"></i>&nbsp;Programme</a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="./lineup/summary/"><i class="fas fa-search"></i>&nbsp;Summary</a></li>
+                            <li><a class="dropdown-item" href="/fr/lineup/summary/"><i class="fas fa-search"></i>&nbsp;Summary</a></li>
                             <div class="dropdown-divider"></div>
-                            <li><a class="nav-link" href="./lineup/"><i class="fas fa-record-vinyl"></i>&nbsp;Line-Up</a></li>
-                            <li><a class="nav-link" href="./lineup/posters/"><i class="fas fa-scroll"></i>&nbsp;Posters</a></li>
-                            <li><a class="nav-link" href="./lineup/livestream/"><i class="fas fa-video"></i>&nbsp;Livestream</a></li>
+                            <li><a class="nav-link" href="/fr/lineup/"><i class="fas fa-record-vinyl"></i>&nbsp;Line-Up</a></li>
+                            <li><a class="nav-link" href="/fr/lineup/posters/"><i class="fas fa-scroll"></i>&nbsp;Posters</a></li>
+                            <li><a class="nav-link" href="/fr/lineup/livestream/"><i class="fas fa-video"></i>&nbsp;Livestream</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-danger" href="https://tickets.irievibes.be"><i class="fas fa-ticket"></i>&nbsp;Tickets</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./kids/">Little Lion</a>
+                        <a class="nav-link" href="/fr/kids/">Little Lion</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./festival/kortemark-conge/">Kortemark Congé</a>
+                        <a class="nav-link" href="/fr/festival/kortemark-conge/">Kortemark Congé</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a href="#" class=" nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects</a>
                         <ul class="dropdown-menu bg-md-dark">
                             <li class="m-2 h4 text-white">Sur le festival</li>
-                            <li><a class="nav-link" href="./info/eco/upcycling/"><i class="fas fa-recycle"></i>&nbsp;Upcycling</a></li>
-                            <li><a class="nav-link" href="./info/eco/eco-team/"><i class="fas fa-leaf"></i>&nbsp;Équipe éco</a></li>
-                            <li><a class="nav-link" href="./info/eco/reusable-cups/"><i class="fas fa-glass-whiskey"></i>&nbsp;Gobelets réutilisables</a></li>
-                            <li><a class="nav-link" href="./info/eco/groene-vent-award/"><i><i class="fas fa-award"></i>&nbsp;Groene Vent</i></a></li>
-                            <li><a class="nav-link" href="./info/eco/clean-water/"><i class="fas fa-hand-holding-water"></i>&nbsp;Eau propre</a></li>
-                            <li><a class="nav-link" href="./info/eco/bewilg-het-landschap/"><i class="fas fa-tree"></i>&nbsp;Bewilg Het Landschap</a></li>
+                            <li><a class="nav-link" href="/fr/info/eco/upcycling/"><i class="fas fa-recycle"></i>&nbsp;Upcycling</a></li>
+                            <li><a class="nav-link" href="/fr/info/eco/eco-team/"><i class="fas fa-leaf"></i>&nbsp;Équipe éco</a></li>
+                            <li><a class="nav-link" href="/fr/info/eco/reusable-cups/"><i class="fas fa-glass-whiskey"></i>&nbsp;Gobelets réutilisables</a></li>
+                            <li><a class="nav-link" href="/fr/info/eco/groene-vent-award/"><i><i class="fas fa-award"></i>&nbsp;Groene Vent</i></a></li>
+                            <li><a class="nav-link" href="/fr/info/eco/clean-water/"><i class="fas fa-hand-holding-water"></i>&nbsp;Eau propre</a></li>
+                            <li><a class="nav-link" href="/fr/info/eco/bewilg-het-landschap/"><i class="fas fa-tree"></i>&nbsp;Bewilg Het Landschap</a></li>
                             <div class="dropdown-divider"></div>
                             <li class="m-2 h4 text-white">International</li>
-                            <li><a class="nav-link" href="./info/eco/sdg/"><i class="fas fa-exchange-alt"></i>&nbsp;<u>S</u>ustainable <u>D</u>evelopment <u>G</u>oals</a></li>
-                            <li><a class="nav-link" href="./info/eco/trim-the-footprint/"><i class="fas fa-shoe-prints"></i>&nbsp;Trim The Footprint</a></li>
-                            <li><a class="nav-link" href="./info/eco/food-waste-facts"><i class="fas fa-carrot"></i>&nbsp;Food Waste Facts</a></li>
-                            <li><a class="nav-link" href="./info/eco/world-cleanup-day/"><i class="fas fa-globe"></i>&nbsp;World Cleanup Day</a></li>
+                            <li><a class="nav-link" href="/fr/info/eco/sdg/"><i class="fas fa-exchange-alt"></i>&nbsp;<u>S</u>ustainable <u>D</u>evelopment <u>G</u>oals</a></li>
+                            <li><a class="nav-link" href="/fr/info/eco/trim-the-footprint/"><i class="fas fa-shoe-prints"></i>&nbsp;Trim The Footprint</a></li>
+                            <li><a class="nav-link" href="/fr/info/eco/food-waste-facts"><i class="fas fa-carrot"></i>&nbsp;Food Waste Facts</a></li>
+                            <li><a class="nav-link" href="/fr/info/eco/world-cleanup-day/"><i class="fas fa-globe"></i>&nbsp;World Cleanup Day</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
