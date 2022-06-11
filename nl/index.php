@@ -66,7 +66,7 @@
                 <div class="box border border-irie-red">
                     <a href="./festival/kortemark-conge/">
                         <picture>
-                            <source srcset="" type="image/webp">
+                            <source srcset="/src/img/kortemark-conge/kortemark_conge.webp" type="image/webp">
                             <source srcset="/src/img/kortemark-conge/kortemark_conge.jpg" type="image/jpeg">
                             <img alt="" class="img-fluid" src="/src/img/kortemark-conge/kortemark_conge.jpg" />
                         </picture>
@@ -92,12 +92,15 @@
                 </div>
             </div>
         </div>
-
-        <div class="col-12 col-md-4" id="home_sidebar-right">
+        <!-- Picture Slider -->
+        <div class="col-12 col-md-6">
             <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Ontdek</h1>
             <div id="slider-wrapper" class="p-2 mb-2 rounded">
                 <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/content/slider.php'); ?>
             </div>
+        </div>
+        <!-- Aftermovie -->
+        <div class="col-12 col-md-6">
             <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Aftermovie</h1>
             <div id="slider-wrapper" class="rounded p-2 mb-1">
                 <style>
@@ -136,10 +139,10 @@
     </div>
     </div>
     <!-- Include Footer -->
-    <?php include($_SERVER['DOCUMENT_ROOT'] . './_page_parts/footer_nl.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/nl/_page_parts/footer_nl.php'); ?>
 </body>
 <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
-<?php include($_SERVER['DOCUMENT_ROOT'] . '_page_parts/load_last.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/_page_parts/load_last.php'); ?>
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/nl_BE/sdk.js#xfbml=1&version=v6.0">
 </script>

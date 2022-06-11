@@ -39,7 +39,7 @@
                         Vous cherchez des billets? Achetez-les maintenant! Un ticket de camping vous garantit une place
                         au camping. Les billets et les prix peuvent être trouvés <a class="text-danger" href="/fr/tickets/"><i class="fas fa-link fa-xs" style="font-size: 0.6rem;"></i>ici</a>.
                     </p>
-                </div> 
+                </div>
             </div>
             <div class="col-12 col-md-4" id="home_sidebar-right">
                 <div class="box border border-dark">
@@ -54,7 +54,7 @@
                 <div class="box border border-irie-red">
                     <a href="./festival/kortemark-conge/">
                         <picture>
-                            <source srcset="" type="image/webp">
+                            <source srcset="/src/img/kortemark-conge/kortemark_conge.webp" type="image/webp">
                             <source srcset="/src/img/kortemark-conge/kortemark_conge.jpg" type="image/jpeg">
                             <img alt="" class="img-fluid" src="/src/img/kortemark-conge/kortemark_conge.jpg" />
                         </picture>
@@ -79,13 +79,15 @@
                     </a>
                 </div>
             </div>
-
-            <div id="lineup" class="col-12 col-md-4">
-                <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Regarde</h1>
-                <div id="slider-wrapper" class="p-2 mb-2 rounded">
-                    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/content/slider.php'); ?>
-                </div>
-                <!-- Aftermovie -->
+            <!-- Picture Slider -->
+            <div class="col-12 col-md-6">
+            <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Regarde</h1>
+            <div id="slider-wrapper" class="p-2 mb-2 rounded">
+                <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/content/slider.php'); ?>
+            </div>
+            </div>
+            <!-- Aftermovie -->
+            <div class="col-12 col-md-6">
                 <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Aftermovie</h1>
                 <div id="slider-wrapper" class="rounded p-2 mb-1">
                     <style>
@@ -110,13 +112,6 @@
                     <div class='embed-container'><iframe src='https://player.vimeo.com/video/371957649?autoplay=1&portrait=false&muted=true' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
                 </div>
             </div>
-            <!-- Slider -->
-            <div class="col-12 m-md-3 d-none">
-                <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Regarde</h1>
-                <div id="slider-wrapper" class="p-2 mb-2 rounded">
-                    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/content/slider.php'); ?>
-                </div>
-            </div>
             <div class="col-12">
                 <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">music unites</h1><br />
             </div>
@@ -132,10 +127,10 @@
         </div>
     </div>
     <!-- Include Footer -->
-    <?php include($_SERVER['DOCUMENT_ROOT'] . './_page_parts/footer_fr.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/fr/_page_parts/footer_fr.php'); ?>
 </body>
 <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
-<?php include($_SERVER['DOCUMENT_ROOT'] . '_page_parts/load_last.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/_page_parts/load_last.php'); ?>
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v6.0">
 </script>
