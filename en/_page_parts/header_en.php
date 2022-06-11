@@ -38,19 +38,19 @@
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto d-lg-flex align-items-lg-center px-2 px-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="/en/"><i class="bi bi-house-door"></i><span class="d-lg-none">&nbsp;Home</span></a>
+                        <a class="nav-link" href="/en/"><i class="fas fa-home"></i><span class="d-lg-none">&nbsp;Home</span></a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival</a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="/en/location/"><i class="bi bi-pin-map"></i>&nbsp;Location</a></li>
-                            <li><a class="dropdown-item" href="/en/festival/rules/"><i class="bi bi-megaphone"></i>&nbsp;Festival Rules</a></li>
-                            <li><a class="dropdown-item" href="/en/festival/camping/"><i class="bi bi-campground"></i>&nbsp;Camping & Parking</a></li>
-                            <li><a class="dropdown-item" href="/en/festival/services/"><i class="bi bi-shower"></i>&nbsp;Services</a></li>
-                            <li><a class="dropdown-item" href="/en/info/volunteers/"><i class="bi bi-hands-helping"></i>&nbsp;Volunteers</a></li>
-                            <li><a class="dropdown-item" href="/en/festival/food-shops/"><i class="bi bi-utensils"></i>&nbsp;(non)Food Shops</a></li>
-                            <li><a class="dropdown-item" href="/en/festival/transport/"><i class="bi bi-car"></i>&nbsp;Transport</a></li>
-                            <li><a class="dropdown-item" href="/en/festival/safety/"><i class="bi bi-shield-alt"></i>&nbsp;Safety</a></li>
+                            <li><a class="dropdown-item" href="/en/location/"><i class="fas fa-location-arrow"></i>&nbsp;Location</a></li>
+                            <li><a class="dropdown-item" href="/en/festival/rules/"><i class="fas fa-hand-point-right"></i>&nbsp;Festival Rules</a></li>
+                            <li><a class="dropdown-item" href="/en/festival/camping/"><i class="fas fa-campground"></i>&nbsp;Camping & Parking</a></li>
+                            <li><a class="dropdown-item" href="/en/festival/services/"><i class="fas fa-shower"></i>&nbsp;Services</a></li>
+                            <li><a class="dropdown-item" href="/en/info/volunteers/"><i class="fas fa-hands-helping"></i>&nbsp;Volunteers</a></li>
+                            <li><a class="dropdown-item" href="/en/festival/food-shops/"><i class="fas fa-utensils"></i>&nbsp;(non)Food Shops</a></li>
+                            <li><a class="dropdown-item" href="/en/festival/transport/"><i class="fas fa-car"></i>&nbsp;Transport</a></li>
+                            <li><a class="dropdown-item" href="/en/festival/safety/"><i class="fas fa-shield-alt"></i>&nbsp;Safety</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
