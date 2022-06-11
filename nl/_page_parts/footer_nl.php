@@ -30,28 +30,28 @@
                 </div>
                 <!-- old form -->
                 <h4>— <i class="bi bi-newspaper"></i> Nieuwsbrief —</h4>
-                    <p class="py-1">Abonneer op onze nieuwsbrief</p>
-                    <span>
-                        <!-- Begin Mailchimp Signup Form -->
-                        <div id="mc_embed_signup">
-                            <form action="https://irievibes.us8.list-manage.com/subscribe/post?u=d99c4a0da87cf14cbb7acb09c&amp;id=ec0420bb34" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                                <div id="mc_embed_signup_scroll">
-                                    <div class="form-group">
-                                        <label class="sr-only" for="subscribe-email">Email address</label>
-                                        <input type="text" value="" name="EMAIL" placeholder="Enter your email..." class="subscribe-email form-control required email" id="mce-EMAIL">
-                                    </div>
-                                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                                    <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                                        <input type="text" name="b_81c9b73355e0e402d5618756c_8b879d422a" tabindex="-1" value="">
-                                    </div>
-                                    <div class="text-center">
-                                        <button type="submit" value="Subscribe" id="mc-embedded-subscribe" class="btn btn-volunteer mt-0"><a>Subscribe</a></button>
-                                    </div>
+                <p class="py-1">Abonneer op onze nieuwsbrief</p>
+                <span>
+                    <!-- Begin Mailchimp Signup Form -->
+                    <div id="mc_embed_signup">
+                        <form action="https://irievibes.us8.list-manage.com/subscribe/post?u=d99c4a0da87cf14cbb7acb09c&amp;id=ec0420bb34" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                            <div id="mc_embed_signup_scroll">
+                                <div class="form-group">
+                                    <label class="sr-only" for="subscribe-email">Email address</label>
+                                    <input type="text" value="" name="EMAIL" placeholder="Enter your email..." class="subscribe-email form-control required email" id="mce-EMAIL">
                                 </div>
-                            </form>
-                        </div>
-                        <!--End mc_embed_signup-->
-                    </span>
+                                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                                    <input type="text" name="b_81c9b73355e0e402d5618756c_8b879d422a" tabindex="-1" value="">
+                                </div>
+                                <div class="text-center">
+                                    <button type="submit" value="Subscribe" id="mc-embedded-subscribe" class="btn btn-volunteer mt-0"><a>Subscribe</a></button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <!--End mc_embed_signup-->
+                </span>
             </div>
         </div>
     </div>
@@ -66,16 +66,16 @@
                     <div class="row">
                         <div class="col-6">
                             <ul class="pages">
-                                <li><a href="/nl/info/faq/">FAQ</a></li>
+                                <!-- <li><a href="/nl/info/faq/">FAQ</a></li> -->
                                 <li><a href="/nl/info/crew/">Crew</a></li>
+                                <!-- <li><a href="/nl/info/about/">Over Ons</a></li> -->
                                 <li><a href="/nl/info/partners/">Partners</a></li>
-                                <li><a href="/src/static/content/newsletter/">Nieuwsbriefarchief</a></li>
+                                <!-- <li><a href="/src/static/content/newsletter/">Nieuwsbriefarchief</a></li> -->
                             </ul>
                         </div>
                         <div class="col-6">
                             <ul class="list">
-                                <li><a href="/nl/contact/">Contact</a></li>
-                                <li><a href="/nl/info/about/">Over Ons</a></li>
+                                <li><a href="/nl/contact/">Contacteer ons</a></li>
                                 <li><a href="/nl/info/trooper/"><img alt="" src="https://www.trooper.be/favicon.png" style="margin-top:-6px;"> Trooper</a></li>
                             </ul>
                         </div>
