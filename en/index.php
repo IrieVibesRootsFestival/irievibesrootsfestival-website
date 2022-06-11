@@ -8,7 +8,7 @@
     <meta property="og:description" content="Back in time to where it all began, Irie Vibes invites you to their Back to The Roots edition during the heart of summer 2022 in Kortemark." />
 </head>
 <body>
-    include($_SERVER['DOCUMENT_ROOT'] . "/en/_page_parts/header_en.php"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . "/en/_page_parts/header_en.php"); ?>
     <div class="container content">
         <div class="row justify-content-center">
             <div class="col-12 col-md-8" id="home_sidebar-left">
