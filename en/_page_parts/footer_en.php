@@ -88,8 +88,6 @@
                     <div id="footer_social-button" class="text-center">
                         <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="bi bi-facebook"></i></a>
                         <a href="https://www.instagram.com/irievibesroots/"><i class="bi bi-instagram"></i></a>
-                        <a href="/src/static/snapchat/"><i class="bi bi-snapchat"></i></a>
-                        <a href="/src/static/spotify/"><i class="bi bi-spotify"></i></a>
                         <a href="https://www.youtube.com/channel/UCCWpbW7WkOyS0ycQdkqRhww"><i class="bi bi-youtube"></i></a>
                     </div>
                 </div>
