@@ -81,10 +81,10 @@
             </div>
             <!-- Picture Slider -->
             <div class="col-12 col-md-6">
-            <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Regarde</h1>
-            <div id="slider-wrapper" class="p-2 mb-2 rounded">
-                <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/content/slider.php'); ?>
-            </div>
+                <h1 class="mb-md-3 mt-2 mt-md-0 text-center quote">Regarde</h1>
+                <div id="slider-wrapper" class="p-2 mb-2 rounded">
+                    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/content/slider.php'); ?>
+                </div>
             </div>
             <!-- Aftermovie -->
             <div class="col-12 col-md-6">
