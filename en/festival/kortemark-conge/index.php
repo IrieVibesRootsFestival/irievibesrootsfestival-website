@@ -3,7 +3,7 @@
 
 <head>
     <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/page_parts/head_common.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/_page_parts/head_common.php'); ?>
     <title>Kortemark Congé - Irie Vibes</title>
     <meta property="og:title" content="Kortemark Congé" />
     <meta property="og:description" content="Thursday Free Entry! Discounts for Kortemark Citizens on Fri/Sat. Are you coming? - Kortemark Congé promotes cultural development in Kortemark by hosting events by local and nationwide initiatives - Sustainable Development Goals - Noord-Zuid" />
