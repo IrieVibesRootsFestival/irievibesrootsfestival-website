@@ -4,7 +4,7 @@
 <head>
     <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
     <?php include($_SERVER['DOCUMENT_ROOT'] . '/_page_parts/head_common.php'); ?>
-    <title>Line-Up - Irie Vibes</title>
+    <title>Summary - Irie Vibes</title>
     <meta property="og:title" content="Partenaires" />
     <meta property="og:description" content="Voir nos partenaires de cette année" />
 </head>
@@ -14,7 +14,7 @@
     <div class="container content">
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <h1 class="page-header">Line-Up</h1>
+                <h1 class="page-header">Summary</h1>
                 <div class="alert alert-warning alert-dismissible fade show d-md-none" role="alert">
                     <strong><i class="fa-solid fa-mobile-screen"></i><i class="fa-solid fa-rotate"></i></strong> Consider rotating your device to view these tables
                     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
@@ -26,7 +26,7 @@
                 <table class="table table-striped table-bordered table-sm">
                     <thead>
                         <tr>
-                            <th scope="row" colspan="5" class="table-dark bg-success h3">Thursday</th>
+                            <th scope="row" colspan="5" class="table-dark bg-success h3 p1">Thursday</th>
                         </tr>
                         <tr>
                             <th scope="col"><i class="fa-regular fa-clock"></i></th>
@@ -39,7 +39,7 @@
                         <tr>
                             <th scope="row">18:30</td>
                             <td></td>
-                            <td>Zhendria <br>“interactief boekvoorstel Actieve Hoop”</td>
+                            <td>Zhendria <br>“interactive book proposal Active Hope”</td>
                             <td></td>
                         </tr>
                         <tr>
@@ -51,8 +51,8 @@
                         <tr>
                             <th scope="row">20:00</td>
                             <td></td>
-                            <td>Honingbijen als sleutelfiguur in de ecologische kringloop?</td>
-                            <td>Zhendria<br>Qi Gong met de kids</td>
+                            <td>Honey bees as key figures in the ecological cycle?</td>
+                            <td>Zhendria<br>Qi Gong with the kids</td>
                         </tr>
                         <tr>
                             <th scope="row">20:30</td>
@@ -85,7 +85,7 @@
                 <table class="table table-striped table-bordered table-sm">
                     <thead>
                         <tr>
-                            <th scope="row" colspan="4" class="table-dark bg-warning h3">Friday</th>
+                            <th scope="row" colspan="4" class="table-dark bg-warning h3 p1">Friday</th>
                         </tr>
                         <tr>
                             <th scope="col"><i class="fa-regular fa-clock"></i></td>
@@ -114,7 +114,7 @@
                 <table class="table table-striped table-bordered table-sm">
                     <thead>
                         <tr>
-                            <th scope="row" colspan="4" class="table-dark bg-danger h3 text-center">Saturday</th>
+                            <th scope="row" colspan="4" class="table-dark bg-danger h3 p1">Saturday</th>
                         </tr>
                         <tr>
                             <th scope="col"><i class="fa-regular fa-clock"></i></th>
@@ -183,6 +183,5 @@
 </body>
 <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/_page_parts/load_last.php'); ?>
-</script>
 
 </html>
