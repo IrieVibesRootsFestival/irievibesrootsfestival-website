@@ -41,7 +41,7 @@
                         <a class="nav-link" href="/fr/"><i class="fas fa-home"></i><span class="d-lg-none">&nbsp;Home</span><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item dropdown" role="menu">
-                        <a class="nav-link dropdown-toggle" href="#"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival</a>
+                        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festival</a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="/fr/location/"><i class="fas fa-location-arrow"></i>&nbsp;Emplacement</a></li>
                             <li><a class="dropdown-item" href="/fr/festival/rules/"><i class="fas fa-hand-point-right"></i>&nbsp;Règles</a></li>
@@ -60,7 +60,7 @@
                             <div class="dropdown-divider"></div>
                             <li><a class="dropdown-item" href="/fr/lineup/"><i class="fas fa-record-vinyl"></i>&nbsp;Line-Up</a></li>
                             <li><a class="dropdown-item" href="/fr/lineup/posters/"><i class="fas fa-scroll"></i>&nbsp;Posters</a></li>
-                            <li><a class="dropdown-item" href="/fr/lineup/livestream/"><i class="fas fa-video"></i>&nbsp;Livestream</a></li>
+                            <!-- <li><a class="dropdown-item" href="/fr/lineup/livestream/"><i class="fas fa-video"></i>&nbsp;Livestream</a></li> -->
                         </ul>
                     </li>
                     <li class="nav-item">

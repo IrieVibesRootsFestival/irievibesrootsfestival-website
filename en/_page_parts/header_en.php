@@ -60,7 +60,7 @@
                             <div class="dropdown-divider"></div>
                             <li><a class="dropdown-item" href="/en/lineup/"><i class="fas fa-record-vinyl"></i>&nbsp;Line-Up</a></li>
                             <li><a class="dropdown-item" href="/en/lineup/posters/"><i class="fas fa-scroll"></i>&nbsp;Posters</a></li>
-                            <li><a class="dropdown-item" href="/en/lineup/livestream/"><i class="fas fa-video"></i>&nbsp;Livestream</a></li>
+                            <!-- <li><a class="dropdown-item" href="/en/lineup/livestream/"><i class="fas fa-video"></i>&nbsp;Livestream</a></li> -->
                         </ul>
                     </li>
                     <li class="nav-item">

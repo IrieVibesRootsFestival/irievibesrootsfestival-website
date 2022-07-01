@@ -60,7 +60,7 @@
                             <div class="dropdown-divider"></div>
                             <li><a class="dropdown-item" href="/nl/lineup/"><i class="fas fa-record-vinyl"></i>&nbsp;Line-Up</a></li>
                             <li><a class="dropdown-item" href="/nl/lineup/posters/"><i class="fas fa-scroll"></i>&nbsp;Affiches</a></li>
-                            <li><a class="dropdown-item" href="/nl/lineup/livestream/"><i class="fas fa-video"></i>&nbsp;Livestream</a></li>
+                            <!-- <li><a class="dropdown-item" href="/nl/lineup/livestream/"><i class="fas fa-video"></i>&nbsp;Livestream</a></li> -->
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -73,7 +73,7 @@
                         <a class="nav-link" href="/nl/festival/kortemark-conge/">Kortemark Congé</a>
                     </li>
                     <li class="nav-item dropdown" role="menu">
-                        <a class="nav-link dropdown-toggle" href="#"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects</a>
+                        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fab fa-envira"></i>&nbsp;Projects</a>
                         <ul class="dropdown-menu">
                             <div class="m-2 h3 text-white">Op het festival</div>
                             <li><a class="dropdown-item" href="/nl/info/eco/upcycling/"><i class="fas fa-recycle"></i>&nbsp;Upcycling</a></li>
