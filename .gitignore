@@ -8,3 +8,4 @@ workspace.code-workspace
 /alpha
 /.vscode/tasks.json
 /.github/
+.github/workflows/staging.yml
