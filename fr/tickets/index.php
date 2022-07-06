@@ -2,7 +2,7 @@
 <html lang="fr">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Tickets - Irie Vibes</title>
         <meta property="og:title" content="Achetez vos Billets"/>
         <meta property="og:description" content="Achetez vos billets de Irie Vibes en prévente avant qu'il ne soit trop tard! C'est l'endroit où tout commence. Irie Vibes vous invite à l'édition de Back to The Roots au cœur de l'été 2021 à Kortemark." /> 
@@ -42,8 +42,8 @@
             </div>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_fr.php');?>     
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/fr/_page_parts/footer_fr.php');?>     
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
-    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/load_last.php');?>
 </html>

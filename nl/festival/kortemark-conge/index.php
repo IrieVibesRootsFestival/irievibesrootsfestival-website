@@ -3,7 +3,7 @@
 
 <head>
     <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/page_parts/head_common.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/_page_parts/head_common.php'); ?>
     <title>Kortemark Congé - Irie Vibes</title>
     <meta property="og:title" content="Kortemark Congé" />
     <meta property="og:description" content="Donderdag Gratis Inkom! Korting voor Kortemarknaren op Vrij/Zat. Kom jij ook? - Kortemark Congé promoot culturele ontwikkeling in Kortemark door te partneren met locale en nationale initiatieven - Sustainable Development Goals - Noord-Zuid" />
@@ -76,8 +76,7 @@
                     </div>
                 </div>
             </div><!-- END Trim The Footprint -->
-            <div class="col-12">
-                <!-- World Markets -->
+            <div class="col-12"><!-- World Markets -->
                 <h3 class="text-danger"><b>Wereldmarkt: “inspire the world”</b></h3>
                 <p>
                     <i>Kortemark is niet wereldvreemd</i>
@@ -91,8 +90,7 @@
                     In samenwerking met Noord-Zuid Kortemark en Weedo Tanzania<br />
                     Vind Weedo Tanzania terug op <a href="https://www.facebook.com/weedo.womenempowering/">Facebook!</a>
                 </p>
-                <div class="row">
-                    <!-- Begin pictures -->
+                <div class="row"><!-- Begin pictures -->
                     <div class="col-6 col-md-4 col-xl-3 pb-1">
                         <picture>
                             <source srcset="/src/img/eco/sdg/intro/color-circle.webp" type="image/webp">
@@ -122,9 +120,8 @@
                         </picture>
                     </div>
                 </div><!-- END Pictures -->
-            </div><!-- END World Markets -->
-            <div class="col-12">
-                <!-- Little Lion -->
+            </div><!-- END World Markets --> 
+            <div class="col-12"><!-- Little Lion -->
                 <h3 class="text-dark"><b>Little Lion: “children see magic because they look for it”</b></h3>
                 <ul>
                     <li>Recycle art</li>
@@ -138,17 +135,9 @@
         </div>
     </div>
     <!-- Include Footer -->
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/footer_nl.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/nl/_page_parts/footer_nl.php'); ?>
 </body>
 <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/load_last.php'); ?>
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2"></script>
-<!-- Initialize Tooltips-->
-<script>
-    $(function() {
-        $('[data-toggle="popover"]').popover()
-    })
-</script>
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/_page_parts/load_last.php'); ?>
 
 </html>

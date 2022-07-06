@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="fr">
    <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Shops | Food & Gear - Irie Vibes</title>
         <meta property="og:title" content="Food & Gear"/>
         <meta property="og:description" content="Interested in a snack; looking for a sourenir? Find out what the shops have to offer." /> 
@@ -124,10 +124,10 @@
             </div>
         </div>
        <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_nl.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
-    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/load_last.php');?>
     <script>
     $(document).ready(function() {
         // get current URL path and assign 'active' class

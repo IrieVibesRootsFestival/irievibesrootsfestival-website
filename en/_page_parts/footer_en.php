@@ -34,20 +34,20 @@
                 </div>
                 <div id="footer_main_nav" class="col-12 col-md-6">
                     <div class="row">
-                        <div id="footer_main_nav_1"class="col-6">
+                        <div id="footer_main_nav_1" class="col-6">
                             <h4>— <i class="bi bi-info-circle-fill"></i> Info —</h4>
                             <ul class="pages">
-                                <li><a href="/en/info/faq/">FAQ</a></li>
-                                <li><a href="/en/info/about/">About us</a></li>
-                                <li><a href="/en/info/crew/">Team Crew</a></li>
-                                <li><a href="/en/info/partners/">Partners & Coops</a></li>
-                                <li><a href="/en/contact/">Contact info</a></li>
+                                <!-- <li><a href="/en/info/faq/">FAQ</a></li> -->
+                                <li><a href="/en/info/crew/">Crew</a></li>
+                                <!-- <li><a href="/en/info/about/">About us</a></li> -->
+                                <li><a href="/en/info/partners/">Partners</a></li>
+                                <!-- <li><a href="/src/static/content/newsletter/">Newsletter Archive</a></li> -->
                             </ul>
                         </div>
                         <div id="footer_main_nav_2" class="col-6">
                             <h4>— <i class="bi bi-hand-index"></i> Links —</h4>
                             <ul class="list">
-                                <li><a href="/src/static/content/newsletter/">Newsletter Archive</a></li>
+                                <li><a href="/en/contact/">Contact us</a></li>
                                 <li><a href="/en/info/trooper/"><img alt="" src="https://www.trooper.be/favicon.png" style="margin-top:-6px; margin-right:2px;">Use our Trooper</a></li>
                             </ul>
                         </div>
@@ -88,8 +88,6 @@
                     <div id="footer_social-button" class="text-center">
                         <a href="https://www.facebook.com/IrieVibesRootsFesitval"><i class="bi bi-facebook"></i></a>
                         <a href="https://www.instagram.com/irievibesroots/"><i class="bi bi-instagram"></i></a>
-                        <a href="/src/static/snapchat/"><i class="bi bi-snapchat"></i></a>
-                        <a href="/src/static/spotify/"><i class="bi bi-spotify"></i></a>
                         <a href="https://www.youtube.com/channel/UCCWpbW7WkOyS0ycQdkqRhww"><i class="bi bi-youtube"></i></a>
                     </div>
                 </div>

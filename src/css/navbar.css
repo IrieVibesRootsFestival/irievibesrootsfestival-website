@@ -75,10 +75,17 @@
   color: white;
   font-family: var(--bs-font-monospace);
   font-style: normal;
-  padding: 0.35rem;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+#pageheader .navbar .dropdown-item{
+  padding: 0.35rem; 
+}
+
+#pageheader .navbar .nav-item ul.dropdown-menu {
+  background: transparent;
+  padding: 0.5rem;
 }
 
 #pageheader .navbar .dropdown-item.active,
@@ -93,9 +100,7 @@
   color: rgba(255, 255, 255, 0.85);
 }
 
-#pageheader .navbar .nav-item ul.dropdown-menu {
-  background: transparent;
-}
+
 /*
 #pageheader .navbar .nav-item ul.dropdown-menu {
     z-index: 0;
@@ -112,6 +117,7 @@
   min-width: 0;
   padding: 10px;
 }
+
 #pageheader .navbar #lang-select-menu .dropdown-item {
   padding: 0;
 }

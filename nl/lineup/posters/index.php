@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Posters - Irie Vibes</title>
         <meta property="og:title" content="De geschiedenis van onze affiches"/>
         <meta property="og:description" content="De geschiedenis van onze advertentieposters maakt deel uit van wat Irie Vibes zo divers maakt. Ontdek hier hoe onze eerdere posters eruit zagen." />
@@ -98,8 +98,8 @@
             </div>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_nl.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
-    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/load_last.php');?>
 </html>

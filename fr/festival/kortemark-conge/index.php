@@ -3,7 +3,7 @@
 
 <head>
     <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/page_parts/head_common.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/_page_parts/head_common.php'); ?>
     <title>Kortemark Congé - Irie Vibes</title>
     <meta property="og:title" content="Kortemark Congé" />
     <meta property="og:description" content="Tous ce que tu veux savoir sur Kortemark Congé" />
@@ -21,8 +21,7 @@
                 <a href="https://www.facebook.com/events/2326818524093825/">Kortemark Congé 2022 - Facebook Events</a>
                 <p>vzw Greenforward vous souhaite la bienvenue à notre soirée festival GRATUITE “Kortemark Congé”</p>
             </div>
-            <div class="col-12">
-                <!-- Lion's Den -->
+            <div class="col-12"><!-- Lion's Den --> 
                 <h3 class="text-success"><b>Lion's Den: “a touch of reggae, a lot of vibes”</b></h3>
                 <p>
                     Le chaleur, l'hospitalité, les rythmes et vibes
@@ -48,8 +47,7 @@
                     </div>
                 </div>
             </div><!-- END Lion's Den -->
-            <div class="col-12">
-                <!-- Trim The Footprint -->
+            <div class="col-12"><!-- Trim The Footprint --> 
                 <h3 class="text-warning"><b>Trim The Footprint: “because there is no planet B”</b></h3>
                 <ul>
                     <li>ateliers et conférences</li>
@@ -73,9 +71,8 @@
                         </picture>
                     </div>
                 </div>
-            </div><!-- END Trim The Footprint -->
-            <div class="col-12">
-                <!-- World Markets -->
+            </div><!-- END Trim The Footprint --> 
+            <div class="col-12"><!-- World Markets --> 
                 <h3 class="text-danger"><b>Marché Mondial: “inspire the world”</b></h3>
                 <p>
                     <i>Kortemark n'est pas d'une autre monde</i>
@@ -86,11 +83,10 @@
                     <li>Objectifs de Développement (SDGs)</li>
                 </ul>
                 <p>
-                    En coop avec Noord-Zuid Kortemark et Weedo Tanzania<br />
+                    En coop avec Noord-Zuid Kortemark et Weedo Tanzania<br/>
                     Trouvez Weedo Tanzania en <a href="https://www.facebook.com/weedo.womenempowering/">Facebook!</a>
                 </p>
-                <div class="row">
-                    <!-- Begin pictures -->
+                <div class="row"><!-- Begin pictures -->                    
                     <div class="col-6 col-md-4 col-xl-3 pb-1">
                         <picture>
                             <source srcset="/src/img/eco/sdg/intro/color-circle.webp" type="image/webp">
@@ -119,10 +115,9 @@
                             <img alt="" class="img-fluid rounded" src="/src/img/eco/sdg/intro/world-in-hands.jpg" />
                         </picture>
                     </div>
-                </div><!-- END Pictures -->
-            </div><!-- END World Markets -->
-            <div class="col-12">
-                <!-- Little Lion -->
+                </div><!-- END Pictures -->               
+            </div><!-- END World Markets --> 
+            <div class="col-12"><!-- Little Lion --> 
                 <h3 class="text-dark"><b>Little Lion: “children see magic because they look for it”</b></h3>
                 <ul>
                     <li>Recycle art</li>
@@ -136,17 +131,9 @@
         </div>
     </div>
     <!-- Include Footer -->
-    <?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/footer_fr.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/fr/_page_parts/footer_fr.php'); ?>
 </body>
 <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/src/static/pages/load_last.php'); ?>
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2"></script>
-<!-- Initialize Tooltips-->
-<script>
-    $(function() {
-        $('[data-toggle="popover"]').popover()
-    })
-</script>
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/_page_parts/load_last.php'); ?>
 
 </html>
