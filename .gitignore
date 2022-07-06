@@ -7,5 +7,4 @@ workspace.code-workspace
 /2022
 /alpha
 /.vscode/tasks.json
-/.github/
-.github/workflows/staging.yml
+.github/workflows/*
