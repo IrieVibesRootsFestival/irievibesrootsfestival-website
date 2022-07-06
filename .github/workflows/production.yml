@@ -1,11 +1,11 @@
 on: 
   push:
     branches:
-    - Staging
-name: 🚀 Deploy Staging on push
+    - Production
+name: 🚀 Deploy Production on push
 jobs:
   web-deploy:
-    name: 🎉 Deploy Staging (testing)
+    name: 🎉 Deploy Production (REAL SITE)
     runs-on: ubuntu-latest
     steps:
     - name: 🚚 Get latest code
@@ -15,7 +15,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
         server: ftp.irievibes.be
-        server-dir: /domains/irievibes.be/public_html/staging/
+        server-dir: /domains/irievibes.be/public_html/
         username: web@irievibes.be
         password: ${{ secrets.ftp_password }}
         exclude: |
