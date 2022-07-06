@@ -22,26 +22,8 @@ RewriteCond %{HTTP_HOST} ^(live)\.irievibes\.be
 RewriteRule ^(.*)$ http://www.irievibes.be/nl/lineup/livestream/ [L]
 
 # Redirect newsletters folder to the Mailchimp archive page
-RewriteCond %{HTTP_HOST} ^irievibes\.be\src\static\content\newsletter\ [NC]
+RewriteCond %{HTTP_HOST} ^(newsletter)\.irievibes\.be
 RewriteRule ^(.*)$ https://us8.campaign-archive.com/home/?u=d99c4a0da87cf14cbb7acb09c&id=ec0420bb34 [L,R]
-
-Redirect 301 /src/static/spotify/ https://open.spotify.com/playlist/2Wgmu4URI3nwnRRCGTi5dq
-
-Redirect 301 /en/info/trim_the_footprint/ /en/info/trim-the-footprint/
-Redirect 301 /nl/info/trim_the_footprint/ /nl/info/trim-the-footprint/
-Redirect 301 /fr/info/trim_the_footprint/ /fr/info/trim-the-footprint/
-
-RedirectMatch 301 /en/info/trim-the-footprint/(.*) /en/info/eco/trim-the-footprint/
-RedirectMatch 301 /nl/info/trim-the-footprint/(.*) /nl/info/eco/trim-the-footprint/
-RedirectMatch 301 /fr/info/trim-the-footprint/(.*) /fr/info/eco/trim-the-footprint/
-
-RedirectMatch 301 /en/festival/kortemark_conge/ /en/festival/kortemark-conge/
-RedirectMatch 301 /nl/festival/kortemark_conge/ /nl/festival/kortemark-conge/
-RedirectMatch 301 /fr/festival/kortemark_conge/ /fr/festival/kortemark-conge/
-
-RedirectMatch 301 /src/img/hardwood-horizontal.jpg /src/img/background/wood1_.jpg
-
-RedirectMatch 302 /nieuwsbrief https://us8.campaign-archive.com/home/?u=d99c4a0da87cf14cbb7acb09c&id=ec0420bb34
 
 <FilesMatch "\.(png|webp|jpg|woff2|svg|js|)$">
 Header set Cache-Control "public, max-age=7200"

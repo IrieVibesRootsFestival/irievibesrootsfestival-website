@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Food Waste Facts - Irie Vibes</title>
         <meta property="og:title" content="Food Waste Facts"/>
         <meta property="og:description" content="Voedselverspilling is een internationaal probleem. Irie Vibes, Esperanzah en La Condition Publique hebben een interactieve cursus gecreëerd om te leren over vaak verspilde voedselproducten en hoe ze opnieuw kunnen worden gebruikt." />
@@ -15,8 +15,8 @@
             </object>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_nl.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
-    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/load_last.php');?>
 </html>

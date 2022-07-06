@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="nl">
     <head>
         <!-- Import meta tags, OpenGraphs, stylesheets and common includes -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/page_parts/head_common.php');?>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/head_common.php');?>
         <title>Vrijwilligers - Irie Vibes</title>
         <meta property="og:title" content="Word vrijwilliger bij Irie Vibes."/>
         <meta property="og:description" content="Wil jij ons helpen om onze roots op te zoeken? Kom ons helpen op Irie Vibes Roots Festival, tijdens de zomer van 2019 in Kortemark." />
@@ -82,8 +82,8 @@
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZuujqpESwd2S5GaTzQMrUGbbRid12J8vzN5njCGKnf7KgjA/viewform"><small>Klik hier om het formulier in een nieuw venster te openen</small></a>
         </div>
         <!-- Include Footer -->
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/footer_nl.php');?>        
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/footer_nl.php');?>        
     </body>
     <!--Loading bootstrap and jQuery scripts at the end of the page to prevent slowdowns-->
-    <?php include($_SERVER['DOCUMENT_ROOT'].'/src/static/pages/load_last.php');?>
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/_page_parts/load_last.php');?>
 </html>
