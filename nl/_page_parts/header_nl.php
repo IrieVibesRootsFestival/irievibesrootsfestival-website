@@ -53,15 +53,8 @@
                             <li><a class="dropdown-item" href="/nl/festival/safety/"><i class="fas fa-shield-alt"></i>&nbsp;Veiligheid</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown" role="menu">
-                        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-calendar2-week"></i>&nbsp;Programma</a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="/nl/lineup/summary/"><i class="fas fa-search"></i>&nbsp;Summary</a></li>
-                            <div class="dropdown-divider"></div>
-                            <li><a class="dropdown-item" href="/nl/lineup/"><i class="fas fa-record-vinyl"></i>&nbsp;Line-Up</a></li>
-                            <li><a class="dropdown-item" href="/nl/lineup/posters/"><i class="fas fa-scroll"></i>&nbsp;Affiches</a></li>
-                            <!-- <li><a class="dropdown-item" href="/nl/lineup/livestream/"><i class="fas fa-video"></i>&nbsp;Livestream</a></li> -->
-                        </ul>
+                    <li class="nav-item">
+                        <a class="nav-link text-danger" href="/nl/lineup/summary/"><i class="fas fa-record-vinyl"></i>&nbsp;Line-up</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-danger" href="https://tickets.irievibes.be"><i class="fas fa-ticket"></i>&nbsp;Tickets</a>
