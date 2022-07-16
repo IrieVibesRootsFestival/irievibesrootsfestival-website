@@ -27,14 +27,14 @@
     <!--NAVIGATION-->
     <nav id="pageheader-navbar" class="navbar navbar-expand-lg">
         <div class="container">
-            <!-- This allows the Navbar to become smaller on a smaller mobile device. -->
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-                <i class="bi bi-list"></i>
-            </button>
             <!-- This is the Navbar's "Content" -->
             <a class="navbar-brand" href="/en/">
                 <img alt="Navigation Brand" src="/src/img/irie-heart-simple.svg" height="auto">
             </a>
+            <!-- This allows the Navbar to become smaller on a smaller mobile device. -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="bi bi-list"></i>
+            </button>
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto d-lg-flex align-items-lg-center px-2 px-lg-0">
                     <li class="nav-item">
