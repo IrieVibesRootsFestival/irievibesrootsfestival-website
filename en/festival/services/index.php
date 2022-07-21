@@ -27,7 +27,7 @@
                             <div class="p-2 text-box rounded text-center">
                                 <i class="fas fa-toilet h1"></i>
                                 <h3>Toilets</h3>                                
-                                <p>€1 to pee all weekend! Don't forget to buy this at first notice of entering the festival.</p>
+                                <p>It costs <span class="text-danger">€2</span> to pee all weekend! Don't forget to buy this at first notice of entering the festival.</p>
                             </div>
                         </div>
                     </div>

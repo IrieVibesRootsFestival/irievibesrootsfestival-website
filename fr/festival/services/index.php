@@ -26,7 +26,7 @@
                             <div class="p-2 text-box rounded text-center">
                                 <i class="fas fa-toilet h1"></i>   
                                 <h3>Les toilettes</h3>                                
-                                <p>€1 pour utiliser les toilettes tout le week-end! N’oubliez pas de l’acheter à l’entrée.</p>
+                                <p>ça coute <span class="text-danger">€2</span> pour utiliser les toilettes tout le week-end! N’oubliez pas de l’acheter à l’entrée.</p>
                             </div>
                         </div>
                     </div>
