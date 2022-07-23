@@ -10,11 +10,11 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/nl/_page_parts/header_nl.php');?>
         <div class="content container">
             <br/>
-            <div id="accomodation" class="container">
+            <div id="camping" class="container">
                 <h1 class="page-header">Camping - Parking</h1>
                 <div class="container">
                     <div class="row">
-                        <div id="accomodation-nav" class="col-12 col-lg-3 order-lg-2 ">
+                        <div id="camping_nav" class="col-12 col-lg-3 order-lg-2 ">
                             <div class="text-box-2 rounded p-2 sticky-top mt-1">
                                 <div class="text-box rounded p-2">
                                     <!-- Anchor Navigation -->
@@ -74,7 +74,7 @@
                                     </p>
                                 </div>
                                 <div id="agreements" class="col-12 anchor">
-                                    <h3 class="text-irie"><b>Agreements</b></h3>
+                                    <h3 class="text-irie"><b>Afspraken</b></h3>
                                     <p class="mb-0"><b>We vragen van jou om:</b></p>
                                     <ul> 
                                         <li>geen schade toe te brengen aan de natuur of omgeving</li>
@@ -93,7 +93,7 @@
                                 </div>
                                 <div id="facilities" class="col-12 col-md-6">
                                     <h3 class="text-irie"><b>Faciliteiten</b></h3>
-                                    <p>De toiletten en douches kunnen gebruikt worden op de camping. Het water in de kraan kan worden gebruikt, maar het is <u>niet drinkbaar</u>.
+                                    <p>De toiletten en douches kunnen gebruikt worden op de camping. Het water in de kraan kan worden gebruikt, en <u>is drinkbaar</u>.
                                     </p>
                                     De douches zijn open op:
                                     <ul>
