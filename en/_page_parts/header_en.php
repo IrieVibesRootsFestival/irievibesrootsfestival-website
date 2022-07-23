@@ -57,7 +57,7 @@
                         <a class="nav-link" href="/en/lineup/summary/"><i class="fas fa-record-vinyl"></i>&nbsp;Line-up</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-danger" href="https://tickets.irievibes.be"><i class="fas fa-ticket"></i>&nbsp;Tickets</a>
+                        <a class="nav-link text-danger" href="/en/tickets/"><i class="fas fa-ticket"></i>&nbsp;Tickets</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/en/kids/">Little Lion</a>
