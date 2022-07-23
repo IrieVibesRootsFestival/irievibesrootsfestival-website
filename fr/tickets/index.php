@@ -23,10 +23,10 @@
                 <!-- Pricing -->
                 <h1>Prix</h1>
                 <p>
-                    Le tarif à la porte est valable pour tous les billets achetés à l'entrée du festival.<br />
-                    Les équipements sont des bracelets accessoires pour divers services dont vous pourriez avoir besoin.
+                    Le tarif à l'entrée est valable pour tous les billets achetés à l'entrée du festival.<br />
+                    En outre, il y a des bracelets accessoires pour divers services dont vous pourriez avoir besoin: camping, toilettes, ...
                 </p>
-                <p><small>Tous les prix sont par personne. Les enfants jusqu'à 12 ans ont l'entrée gratuite. Pour plus d'informations, envoyez-nous un message:<a href="mailto:info@irievibes.be">info@irievibes.be</a></small></p>
+                <p><small>Tous les prix sont par personne. Les enfants jusqu'à 14 ans ont l'entrée gratuite. Pour plus d'amples d'informations, envoyez-nous un message:<a href="mailto:info@irievibes.be">info@irievibes.be</a></small></p>
                 <div id="pricing_categories" class="row">
                     <!-- Pricing: categories -->
                     <div id="pricing_categories_festival" class="col-12 col-md-6">
@@ -53,9 +53,9 @@
             <div id="discounts" class="col-12 col-md-6">
                 <!-- Discounts -->
                 <h1>Réductions</h1>
-                <p>Êtes-vous un résident de Kortemark? Obtenez vos billets à 10 € par jour après vérification avec votre eID. N'oubliez pas d'apporter ceci avec vous !</p>
+                <p>Êtes-vous un résident de Kortemark? Obtenez vos billets à 10 € par jour après vérification avec votre eID. N'oubliez pas emmmener votre eID!</p>
                 <p>Entrée gratuite avec votre carte <b>"Vrijetijdspas"</b> ou votre carte <b>Culture Kortemark</b></p>
-                <p>Pour plus d'informations, envoye-nous un message: <a href="mailto:info@irievibes.be">info@irievibes.be</a></p>
+                <p>Pour plus d'informations, envoyez-nous un message: <a href="mailto:info@irievibes.be">info@irievibes.be</a></p>
                 <div id="discounts_pictures" class="row">
                     <!-- Discounts: pictures -->
                     <div class="col-6">

@@ -25,7 +25,7 @@
                     Aan-de-deur prijzen zijn geldig voor alle tickets die aan de ingang van het festival worden aangekocht.<br />
                     Voorzieningen zijn bijkomende toegangen voor verscheidene voorzieningen die je zou nodig hebben. 
                 </p>
-                <p><small>Alle prijzen zijn per persoon. Kinderen onder 12 jaar krijgen gratis toegang. Voor meer info, stuur ons een bericht: <a href="mailto:info@irievibes.be">info@irievibes.be</a></small></p>
+                <p><small>Alle prijzen zijn per persoon. Kinderen tot en met 14 jaar krijgen gratis toegang. Voor meer info, stuur ons een bericht: <a href="mailto:info@irievibes.be">info@irievibes.be</a></small></p>
                 <div id="pricing_categories" class="row"><!-- Pricing: categories -->
                     <div id="pricing_categories_festival" class="col-12 col-md-6">
                         <h2>Festival</h2>

@@ -26,7 +26,7 @@
                     At the door pricing is valid for all tickets bought at the entrance of the festival.<br />
                     Ammenities are accessory bracelets for various services you might want to make use of.
                 </p>
-                <p><small>All prices are per person. Children up to 12 years old have free entry. For more info: <a href="mailto:info@irievibes.be">info@irievibes.be</a></small></p>
+                <p><small>All prices are per person. Children up to 14 years old have free entry. For more info: <a href="mailto:info@irievibes.be">info@irievibes.be</a></small></p>
                 <div id="pricing_categories" class="row">
                     <!-- Pricing: categories -->
                     <div id="pricing_categories_festival" class="col-12 col-md-6">
