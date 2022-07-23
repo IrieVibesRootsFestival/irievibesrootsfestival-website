@@ -27,14 +27,14 @@
     <!--NAVIGATION-->
     <nav id="pageheader-navbar" class="navbar navbar-expand-lg">
         <div class="container">
-            <!-- This allows the Navbar to become smaller on a smaller mobile device. -->
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-                <i class="bi bi-list"></i>
-            </button>
             <!-- This is the Navbar's "Content" -->
             <a class="navbar-brand" href="/en/">
                 <img alt="Navigation Brand" src="/src/img/irie-heart-simple.svg" height="auto">
             </a>
+            <!-- This allows the Navbar to become smaller on a smaller mobile device. -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="bi bi-list"></i>
+            </button>
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto d-lg-flex align-items-lg-center px-2 px-lg-0">
                     <li class="nav-item">
@@ -53,15 +53,8 @@
                             <li><a class="dropdown-item" href="/en/festival/safety/"><i class="fas fa-shield-alt"></i>&nbsp;Safety</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi bi-calendar2-week"></i>&nbsp;Program</a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="/en/lineup/summary/"><i class="fas fa-search"></i>&nbsp;Quick view</a></li>
-                            <div class="dropdown-divider"></div>
-                            <li><a class="dropdown-item" href="/en/lineup/"><i class="fas fa-record-vinyl"></i>&nbsp;Line-Up</a></li>
-                            <li><a class="dropdown-item" href="/en/lineup/posters/"><i class="fas fa-scroll"></i>&nbsp;Posters</a></li>
-                            <!-- <li><a class="dropdown-item" href="/en/lineup/livestream/"><i class="fas fa-video"></i>&nbsp;Livestream</a></li> -->
-                        </ul>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/en/lineup/summary/"><i class="fas fa-record-vinyl"></i>&nbsp;Line-up</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-danger" href="https://tickets.irievibes.be"><i class="fas fa-ticket"></i>&nbsp;Tickets</a>
