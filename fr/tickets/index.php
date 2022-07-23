@@ -43,10 +43,10 @@
                             <li><b>Camping:</b> €10 <small>orange</small></li>
                             <li><b>Toilettes:</b> €2 <small>jaune</small></li>
                         </ul>
-                        <p>
-                            Les billets de camping incluent l'accès aux douches et aux toilettes sur place.<br />
-                            L'accès aux toilettes <small>("pipibandje")</small> est valable pour tout le week-end.
-                        </p>
+                    </div>
+                    <div id="pricing_categories_comments" class="col-12">
+                        <p>Les billets de camping incluent l'accès aux douches et aux toilettes sur place.</p>
+                        <p>L'accès aux toilettes <small>("pipibandje")</small> est valable pour tout le week-end.</p>
                     </div>
                 </div><!-- END Pricing: categories -->
             </div><!-- END Pricing -->

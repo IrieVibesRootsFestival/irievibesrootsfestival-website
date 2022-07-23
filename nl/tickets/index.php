@@ -41,8 +41,10 @@
                             <li><b>Camping:</b> €10 <small>oranje</small></li>
                             <li><b>Toiletten:</b> €2 <small>geel</small></li>
                         </ul>
-                        <p>Camping tickets geven toegang tot de douches en toiletten op locatie.<br/>
-                        Toilet toegang <small>("pipibandje")</small> is geldig voor het hele weekend.</p>
+                    </div>
+                    <div id="pricing_categories_comments" class="col-12">
+                        <p>Camping tickets geven toegang tot de douches en toiletten op locatie.</p>
+                        <p>Toilet toegang <small>("pipibandje")</small> is geldig voor het hele weekend.</p>
                     </div>
                 </div><!-- END Pricing: categories -->
             </div><!-- END Pricing -->

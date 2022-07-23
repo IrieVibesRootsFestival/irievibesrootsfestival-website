@@ -43,10 +43,10 @@
                             <li><b>Camping:</b> €10 <small>orange</small></li>
                             <li><b>Toilets:</b> €2 <small>yellow</small></li>
                         </ul>
-                        <p>
-                            Camping tickets include access to the showers and toilets on-site.<br />
-                            Toilet access <small>("pipibandje")</small> is valid for the entire weekend.
-                        </p>
+                    </div>
+                    <div id="pricing_categories_comments" class="col-12">
+                        <p>Camping tickets include access to the showers and toilets on-site.</p>
+                        <p>Toilet access <small>("pipibandje")</small> is valid for the entire weekend.</p>
                     </div>
                 </div><!-- END Pricing: categories -->
             </div><!-- END Pricing -->
